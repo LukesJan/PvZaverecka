@@ -1,0 +1,382 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+135,Serie A,Italy,2022,881780,2022-08-13T16:30:00+00:00,UTC,1660408200,Match Finished,FT,90,Regular Season - 1,489,AC Milan,494,Udinese,4,2,HOME,907,Stadio Giuseppe Meazza,L. Marinelli
+135,Serie A,Italy,2022,881781,2022-08-13T16:30:00+00:00,UTC,1660408200,Match Finished,FT,90,Regular Season - 1,498,Sampdoria,499,Atalanta,0,2,AWAY,905,Stadio Comunale Luigi Ferraris,F. Dionisi
+135,Serie A,Italy,2022,881782,2022-08-13T18:45:00+00:00,UTC,1660416300,Match Finished,FT,90,Regular Season - 1,867,Lecce,505,Inter,1,2,AWAY,911,Stadio Comunale Via del Mare,A. Prontera
+135,Serie A,Italy,2022,881783,2022-08-13T18:45:00+00:00,UTC,1660416300,Match Finished,FT,90,Regular Season - 1,1579,Monza,503,Torino,1,2,AWAY,12086,U-Power Stadium,M. Mariani
+135,Serie A,Italy,2022,881785,2022-08-14T16:30:00+00:00,UTC,1660494600,Match Finished,FT,90,Regular Season - 1,487,Lazio,500,Bologna,2,1,HOME,910,Stadio Olimpico,L. Massimi
+135,Serie A,Italy,2022,881784,2022-08-14T16:30:00+00:00,UTC,1660494600,Match Finished,FT,90,Regular Season - 1,502,Fiorentina,520,Cremonese,3,2,HOME,902,Stadio Artemio Franchi,J. Sacchi
+135,Serie A,Italy,2022,881786,2022-08-14T18:45:00+00:00,UTC,1660502700,Match Finished,FT,90,Regular Season - 1,514,Salernitana,497,AS Roma,0,1,AWAY,933,Stadio Arechi,S. Sozza
+135,Serie A,Italy,2022,881787,2022-08-14T18:45:00+00:00,UTC,1660502700,Match Finished,FT,90,Regular Season - 1,515,Spezia,511,Empoli,1,0,HOME,939,Stadio Alberto Picco,D. Chiffi
+135,Serie A,Italy,2022,881788,2022-08-15T16:30:00+00:00,UTC,1660581000,Match Finished,FT,90,Regular Season - 1,504,Hellas Verona,492,Napoli,2,5,AWAY,890,Stadio Marc'Antonio Bentegodi,M. Fabbri
+135,Serie A,Italy,2022,881789,2022-08-15T18:45:00+00:00,UTC,1660589100,Match Finished,FT,90,Regular Season - 1,496,Juventus,488,Sassuolo,3,0,HOME,909,Allianz Stadium,A. Rapuano
+135,Serie A,Italy,2022,881791,2022-08-20T16:30:00+00:00,UTC,1661013000,Match Finished,FT,90,Regular Season - 2,494,Udinese,514,Salernitana,0,0,DRAW,928,Dacia Arena,G. Aureliano
+135,Serie A,Italy,2022,881790,2022-08-20T16:30:00+00:00,UTC,1661013000,Match Finished,FT,90,Regular Season - 2,503,Torino,487,Lazio,0,0,DRAW,943,Stadio Olimpico Grande Torino,M. Piccinini
+135,Serie A,Italy,2022,881793,2022-08-20T18:45:00+00:00,UTC,1661021100,Match Finished,FT,90,Regular Season - 2,488,Sassuolo,867,Lecce,1,0,HOME,935,MAPEI Stadium - Città del Tricolore,A. Colombo
+135,Serie A,Italy,2022,881792,2022-08-20T18:45:00+00:00,UTC,1661021100,Match Finished,FT,90,Regular Season - 2,505,Inter,515,Spezia,3,0,HOME,907,Stadio Giuseppe Meazza,D. Ghersini
+135,Serie A,Italy,2022,881795,2022-08-21T16:30:00+00:00,UTC,1661099400,Match Finished,FT,90,Regular Season - 2,492,Napoli,1579,Monza,4,0,HOME,11904,Stadio Diego Armando Maradona,F. Fourneau
+135,Serie A,Italy,2022,881794,2022-08-21T16:30:00+00:00,UTC,1661099400,Match Finished,FT,90,Regular Season - 2,511,Empoli,502,Fiorentina,0,0,DRAW,896,Stadio Carlo Castellani,M. Marchetti
+135,Serie A,Italy,2022,881796,2022-08-21T18:45:00+00:00,UTC,1661107500,Match Finished,FT,90,Regular Season - 2,499,Atalanta,489,AC Milan,1,1,DRAW,879,Gewiss Stadium,F. Maresca
+135,Serie A,Italy,2022,881797,2022-08-21T18:45:00+00:00,UTC,1661107500,Match Finished,FT,90,Regular Season - 2,500,Bologna,504,Hellas Verona,1,1,DRAW,881,Stadio Renato Dall'Ara,M. Marcenaro
+135,Serie A,Italy,2022,881798,2022-08-22T16:30:00+00:00,UTC,1661185800,Match Finished,FT,90,Regular Season - 2,497,AS Roma,520,Cremonese,1,0,HOME,910,Stadio Olimpico,L. Massimi
+135,Serie A,Italy,2022,881799,2022-08-22T18:45:00+00:00,UTC,1661193900,Match Finished,FT,90,Regular Season - 2,498,Sampdoria,496,Juventus,0,0,DRAW,905,Stadio Comunale Luigi Ferraris,R. Abisso
+135,Serie A,Italy,2022,881800,2022-08-26T16:30:00+00:00,UTC,1661531400,Match Finished,FT,90,Regular Season - 3,1579,Monza,494,Udinese,1,2,AWAY,12086,U-Power Stadium,M. Di Bello
+135,Serie A,Italy,2022,881801,2022-08-26T18:45:00+00:00,UTC,1661539500,Match Finished,FT,90,Regular Season - 3,487,Lazio,505,Inter,3,1,HOME,910,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2022,881803,2022-08-27T16:30:00+00:00,UTC,1661617800,Match Finished,FT,90,Regular Season - 3,496,Juventus,497,AS Roma,1,1,DRAW,909,Allianz Stadium,M. Irrati
+135,Serie A,Italy,2022,881802,2022-08-27T16:30:00+00:00,UTC,1661617800,Match Finished,FT,90,Regular Season - 3,520,Cremonese,503,Torino,1,2,AWAY,894,Stadio Giovanni Zini,P. Valeri
+135,Serie A,Italy,2022,881804,2022-08-27T18:45:00+00:00,UTC,1661625900,Match Finished,FT,90,Regular Season - 3,489,AC Milan,500,Bologna,2,0,HOME,907,Stadio Giuseppe Meazza,G. Manganiello
+135,Serie A,Italy,2022,881805,2022-08-27T18:45:00+00:00,UTC,1661625900,Match Finished,FT,90,Regular Season - 3,515,Spezia,488,Sassuolo,2,2,DRAW,939,Stadio Alberto Picco,F. Cosso
+135,Serie A,Italy,2022,881806,2022-08-28T16:30:00+00:00,UTC,1661704200,Match Finished,FT,90,Regular Season - 3,504,Hellas Verona,499,Atalanta,0,1,AWAY,890,Stadio Marc'Antonio Bentegodi,A. Prontera
+135,Serie A,Italy,2022,881807,2022-08-28T16:30:00+00:00,UTC,1661704200,Match Finished,FT,90,Regular Season - 3,514,Salernitana,498,Sampdoria,4,0,HOME,933,Stadio Arechi,D. Massa
+135,Serie A,Italy,2022,881808,2022-08-28T18:45:00+00:00,UTC,1661712300,Match Finished,FT,90,Regular Season - 3,502,Fiorentina,492,Napoli,0,0,DRAW,902,Stadio Artemio Franchi,L. Marinelli
+135,Serie A,Italy,2022,881809,2022-08-28T18:45:00+00:00,UTC,1661712300,Match Finished,FT,90,Regular Season - 3,867,Lecce,511,Empoli,1,1,DRAW,911,Stadio Comunale Via del Mare,A. Santoro
+135,Serie A,Italy,2022,881810,2022-08-30T16:30:00+00:00,UTC,1661877000,Match Finished,FT,90,Regular Season - 4,488,Sassuolo,489,AC Milan,0,0,DRAW,935,MAPEI Stadium - Città del Tricolore,G. Ayroldi
+135,Serie A,Italy,2022,881812,2022-08-30T18:45:00+00:00,UTC,1661885100,Match Finished,FT,90,Regular Season - 4,497,AS Roma,1579,Monza,3,0,HOME,910,Stadio Olimpico,M. Piccinini
+135,Serie A,Italy,2022,881811,2022-08-30T18:45:00+00:00,UTC,1661885100,Match Finished,FT,90,Regular Season - 4,505,Inter,520,Cremonese,3,1,HOME,907,Stadio Giuseppe Meazza,F. Fourneau
+135,Serie A,Italy,2022,881815,2022-08-31T16:30:00+00:00,UTC,1661963400,Match Finished,FT,90,Regular Season - 4,494,Udinese,502,Fiorentina,1,0,HOME,928,Dacia Arena,M. Mariani
+135,Serie A,Italy,2022,881814,2022-08-31T16:30:00+00:00,UTC,1661963400,Match Finished,FT,90,Regular Season - 4,498,Sampdoria,487,Lazio,1,1,DRAW,905,Stadio Comunale Luigi Ferraris,G. Aureliano
+135,Serie A,Italy,2022,881813,2022-08-31T16:30:00+00:00,UTC,1661963400,Match Finished,FT,90,Regular Season - 4,511,Empoli,504,Hellas Verona,1,1,DRAW,896,Stadio Carlo Castellani,M. Serra
+135,Serie A,Italy,2022,881817,2022-08-31T18:45:00+00:00,UTC,1661971500,Match Finished,FT,90,Regular Season - 4,492,Napoli,867,Lecce,1,1,DRAW,11904,Stadio Diego Armando Maradona,M. Marcenaro
+135,Serie A,Italy,2022,881816,2022-08-31T18:45:00+00:00,UTC,1661971500,Match Finished,FT,90,Regular Season - 4,496,Juventus,515,Spezia,2,0,HOME,909,Allianz Stadium,A. Colombo
+135,Serie A,Italy,2022,881818,2022-09-01T18:45:00+00:00,UTC,1662057900,Match Finished,FT,90,Regular Season - 4,499,Atalanta,503,Torino,3,1,HOME,879,Gewiss Stadium,M. Di Bello
+135,Serie A,Italy,2022,881819,2022-09-01T18:45:00+00:00,UTC,1662057900,Match Finished,FT,90,Regular Season - 4,500,Bologna,514,Salernitana,1,1,DRAW,881,Stadio Renato Dall'Ara,D. Ghersini
+135,Serie A,Italy,2022,881820,2022-09-03T13:00:00+00:00,UTC,1662210000,Match Finished,FT,90,Regular Season - 5,502,Fiorentina,496,Juventus,1,1,DRAW,902,Stadio Artemio Franchi,D. Doveri
+135,Serie A,Italy,2022,881821,2022-09-03T16:00:00+00:00,UTC,1662220800,Match Finished,FT,90,Regular Season - 5,489,AC Milan,505,Inter,3,2,HOME,907,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2022,881822,2022-09-03T18:45:00+00:00,UTC,1662230700,Match Finished,FT,90,Regular Season - 5,487,Lazio,492,Napoli,1,2,AWAY,910,Stadio Olimpico,S. Sozza
+135,Serie A,Italy,2022,881823,2022-09-04T10:30:00+00:00,UTC,1662287400,Match Finished,FT,90,Regular Season - 5,520,Cremonese,488,Sassuolo,0,0,DRAW,894,Stadio Giovanni Zini,L. Pairetto
+135,Serie A,Italy,2022,881824,2022-09-04T13:00:00+00:00,UTC,1662296400,Match Finished,FT,90,Regular Season - 5,515,Spezia,500,Bologna,2,2,DRAW,939,Stadio Alberto Picco,A. Giua
+135,Serie A,Italy,2022,881825,2022-09-04T16:00:00+00:00,UTC,1662307200,Match Finished,FT,90,Regular Season - 5,504,Hellas Verona,498,Sampdoria,2,1,HOME,890,Stadio Marc'Antonio Bentegodi,P. Valeri
+135,Serie A,Italy,2022,881826,2022-09-04T18:45:00+00:00,UTC,1662317100,Match Finished,FT,90,Regular Season - 5,494,Udinese,497,AS Roma,4,0,HOME,928,Dacia Arena,F. Maresca
+135,Serie A,Italy,2022,881828,2022-09-05T16:30:00+00:00,UTC,1662395400,Match Finished,FT,90,Regular Season - 5,514,Salernitana,511,Empoli,2,2,DRAW,933,Stadio Arechi,R. Abisso
+135,Serie A,Italy,2022,881827,2022-09-05T16:30:00+00:00,UTC,1662395400,Match Finished,FT,90,Regular Season - 5,1579,Monza,499,Atalanta,0,2,AWAY,12086,U-Power Stadium,J. Sacchi
+135,Serie A,Italy,2022,881829,2022-09-05T18:45:00+00:00,UTC,1662403500,Match Finished,FT,90,Regular Season - 5,503,Torino,867,Lecce,1,0,HOME,943,Stadio Olimpico Grande Torino,M. Volpi
+135,Serie A,Italy,2022,881837,2022-09-10T13:00:00+00:00,UTC,1662814800,Match Finished,FT,90,Regular Season - 6,492,Napoli,515,Spezia,1,0,HOME,11904,Stadio Diego Armando Maradona,A. Santoro
+135,Serie A,Italy,2022,881833,2022-09-10T16:00:00+00:00,UTC,1662825600,Match Finished,FT,90,Regular Season - 6,505,Inter,503,Torino,1,0,HOME,907,Stadio Giuseppe Meazza,G. Ayroldi
+135,Serie A,Italy,2022,881838,2022-09-10T18:45:00+00:00,UTC,1662835500,Match Finished,FT,90,Regular Season - 6,498,Sampdoria,489,AC Milan,1,2,AWAY,905,Stadio Comunale Luigi Ferraris,M. Fabbri
+135,Serie A,Italy,2022,881830,2022-09-11T10:30:00+00:00,UTC,1662892200,Match Finished,FT,90,Regular Season - 6,499,Atalanta,520,Cremonese,1,1,DRAW,879,Gewiss Stadium,A. Colombo
+135,Serie A,Italy,2022,881839,2022-09-11T13:00:00+00:00,UTC,1662901200,Match Finished,FT,90,Regular Season - 6,488,Sassuolo,494,Udinese,1,3,AWAY,935,MAPEI Stadium - Città del Tricolore,G. Camplone
+135,Serie A,Italy,2022,881831,2022-09-11T13:00:00+00:00,UTC,1662901200,Match Finished,FT,90,Regular Season - 6,500,Bologna,502,Fiorentina,2,1,HOME,881,Stadio Renato Dall'Ara,D. Orsato
+135,Serie A,Italy,2022,881836,2022-09-11T13:00:00+00:00,UTC,1662901200,Match Finished,FT,90,Regular Season - 6,867,Lecce,1579,Monza,1,1,DRAW,911,Stadio Comunale Via del Mare,L. Pairetto
+135,Serie A,Italy,2022,881835,2022-09-11T16:00:00+00:00,UTC,1662912000,Match Finished,FT,90,Regular Season - 6,487,Lazio,504,Hellas Verona,2,0,HOME,910,Stadio Olimpico,M. Irrati
+135,Serie A,Italy,2022,881834,2022-09-11T18:45:00+00:00,UTC,1662921900,Match Finished,FT,90,Regular Season - 6,496,Juventus,514,Salernitana,2,2,DRAW,909,Allianz Stadium,M. Marcenaro
+135,Serie A,Italy,2022,881832,2022-09-12T18:45:00+00:00,UTC,1663008300,Match Finished,FT,90,Regular Season - 6,511,Empoli,497,AS Roma,1,2,AWAY,896,Stadio Carlo Castellani,L. Marinelli
+135,Serie A,Italy,2022,881846,2022-09-16T18:45:00+00:00,UTC,1663353900,Match Finished,FT,90,Regular Season - 7,514,Salernitana,867,Lecce,1,2,AWAY,933,Stadio Arechi,D. Doveri
+135,Serie A,Italy,2022,881840,2022-09-17T13:00:00+00:00,UTC,1663419600,Match Finished,FT,90,Regular Season - 7,500,Bologna,511,Empoli,0,1,AWAY,881,Stadio Renato Dall'Ara,M. Volpi
+135,Serie A,Italy,2022,881847,2022-09-17T16:00:00+00:00,UTC,1663430400,Match Finished,FT,90,Regular Season - 7,515,Spezia,498,Sampdoria,2,1,HOME,939,Stadio Alberto Picco,S. Sozza
+135,Serie A,Italy,2022,881848,2022-09-17T18:45:00+00:00,UTC,1663440300,Match Finished,FT,90,Regular Season - 7,503,Torino,488,Sassuolo,0,1,AWAY,943,Stadio Olimpico Grande Torino,N. Baroni
+135,Serie A,Italy,2022,881849,2022-09-18T10:30:00+00:00,UTC,1663497000,Match Finished,FT,90,Regular Season - 7,494,Udinese,505,Inter,3,1,HOME,928,Dacia Arena,P. Valeri
+135,Serie A,Italy,2022,881842,2022-09-18T13:00:00+00:00,UTC,1663506000,Match Finished,FT,90,Regular Season - 7,502,Fiorentina,504,Hellas Verona,2,0,HOME,902,Stadio Artemio Franchi,A. Rapuano
+135,Serie A,Italy,2022,881841,2022-09-18T13:00:00+00:00,UTC,1663506000,Match Finished,FT,90,Regular Season - 7,520,Cremonese,487,Lazio,0,4,AWAY,894,Stadio Giovanni Zini,D. Orsato
+135,Serie A,Italy,2022,881844,2022-09-18T13:00:00+00:00,UTC,1663506000,Match Finished,FT,90,Regular Season - 7,1579,Monza,496,Juventus,1,0,HOME,12086,U-Power Stadium,F. Maresca
+135,Serie A,Italy,2022,881845,2022-09-18T16:00:00+00:00,UTC,1663516800,Match Finished,FT,90,Regular Season - 7,497,AS Roma,499,Atalanta,0,1,AWAY,910,Stadio Olimpico,D. Chiffi
+135,Serie A,Italy,2022,881843,2022-09-18T18:45:00+00:00,UTC,1663526700,Match Finished,FT,90,Regular Season - 7,489,AC Milan,492,Napoli,1,2,AWAY,907,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2022,881857,2022-10-01T13:00:00+00:00,UTC,1664629200,Match Finished,FT,90,Regular Season - 8,492,Napoli,503,Torino,3,1,HOME,11904,Stadio Diego Armando Maradona,L. Massimi
+135,Serie A,Italy,2022,881853,2022-10-01T16:00:00+00:00,UTC,1664640000,Match Finished,FT,90,Regular Season - 8,505,Inter,497,AS Roma,1,2,AWAY,907,Stadio Giuseppe Meazza,D. Massa
+135,Serie A,Italy,2022,881851,2022-10-01T18:45:00+00:00,UTC,1664649900,Match Finished,FT,90,Regular Season - 8,511,Empoli,489,AC Milan,1,3,AWAY,896,Stadio Carlo Castellani,G. Aureliano
+135,Serie A,Italy,2022,881855,2022-10-02T10:30:00+00:00,UTC,1664706600,Match Finished,FT,90,Regular Season - 8,487,Lazio,515,Spezia,4,0,HOME,910,Stadio Olimpico,J. Sacchi
+135,Serie A,Italy,2022,881859,2022-10-02T13:00:00+00:00,UTC,1664715600,Match Finished,FT,90,Regular Season - 8,488,Sassuolo,514,Salernitana,5,0,HOME,935,MAPEI Stadium - Città del Tricolore,M. Ferrieri Caputi
+135,Serie A,Italy,2022,881858,2022-10-02T13:00:00+00:00,UTC,1664715600,Match Finished,FT,90,Regular Season - 8,498,Sampdoria,1579,Monza,0,3,AWAY,905,Stadio Comunale Luigi Ferraris,G. Ayroldi
+135,Serie A,Italy,2022,881856,2022-10-02T13:00:00+00:00,UTC,1664715600,Match Finished,FT,90,Regular Season - 8,867,Lecce,520,Cremonese,1,1,DRAW,911,Stadio Comunale Via del Mare,L. Marinelli
+135,Serie A,Italy,2022,881850,2022-10-02T16:00:00+00:00,UTC,1664726400,Match Finished,FT,90,Regular Season - 8,499,Atalanta,502,Fiorentina,1,0,HOME,879,Gewiss Stadium,M. Irrati
+135,Serie A,Italy,2022,881854,2022-10-02T18:45:00+00:00,UTC,1664736300,Match Finished,FT,90,Regular Season - 8,496,Juventus,500,Bologna,3,0,HOME,909,Allianz Stadium,R. Abisso
+135,Serie A,Italy,2022,881852,2022-10-03T18:45:00+00:00,UTC,1664822700,Match Finished,FT,90,Regular Season - 8,504,Hellas Verona,494,Udinese,1,2,AWAY,890,Stadio Marc'Antonio Bentegodi,D. Minelli
+135,Serie A,Italy,2022,881867,2022-10-08T13:00:00+00:00,UTC,1665234000,Match Finished,FT,90,Regular Season - 9,488,Sassuolo,505,Inter,1,2,AWAY,935,MAPEI Stadium - Città del Tricolore,S. Sozza
+135,Serie A,Italy,2022,881863,2022-10-08T16:00:00+00:00,UTC,1665244800,Match Finished,FT,90,Regular Season - 9,489,AC Milan,496,Juventus,2,0,HOME,907,Stadio Giuseppe Meazza,D. Orsato
+135,Serie A,Italy,2022,881860,2022-10-08T18:45:00+00:00,UTC,1665254700,Match Finished,FT,90,Regular Season - 9,500,Bologna,498,Sampdoria,1,1,DRAW,881,Stadio Renato Dall'Ara,M. Piccinini
+135,Serie A,Italy,2022,881868,2022-10-09T10:30:00+00:00,UTC,1665311400,Match Finished,FT,90,Regular Season - 9,503,Torino,511,Empoli,1,1,DRAW,943,Stadio Olimpico Grande Torino,F. Fourneau
+135,Serie A,Italy,2022,881869,2022-10-09T13:00:00+00:00,UTC,1665320400,Match Finished,FT,90,Regular Season - 9,494,Udinese,499,Atalanta,2,2,DRAW,928,Dacia Arena,D. Doveri
+135,Serie A,Italy,2022,881866,2022-10-09T13:00:00+00:00,UTC,1665320400,Match Finished,FT,90,Regular Season - 9,514,Salernitana,504,Hellas Verona,2,1,HOME,933,Stadio Arechi,D. Ghersini
+135,Serie A,Italy,2022,881864,2022-10-09T13:00:00+00:00,UTC,1665320400,Match Finished,FT,90,Regular Season - 9,1579,Monza,515,Spezia,2,0,HOME,12086,U-Power Stadium,D. Perenzoni
+135,Serie A,Italy,2022,881861,2022-10-09T16:00:00+00:00,UTC,1665331200,Match Finished,FT,90,Regular Season - 9,520,Cremonese,492,Napoli,1,4,AWAY,894,Stadio Giovanni Zini,R. Abisso
+135,Serie A,Italy,2022,881865,2022-10-09T18:45:00+00:00,UTC,1665341100,Match Finished,FT,90,Regular Season - 9,497,AS Roma,867,Lecce,2,1,HOME,910,Stadio Olimpico,A. Prontera
+135,Serie A,Italy,2022,881862,2022-10-10T18:45:00+00:00,UTC,1665427500,Match Finished,FT,90,Regular Season - 9,502,Fiorentina,487,Lazio,0,4,AWAY,902,Stadio Artemio Franchi,F. Maresca
+135,Serie A,Italy,2022,881871,2022-10-15T13:00:00+00:00,UTC,1665838800,Match Finished,FT,90,Regular Season - 10,511,Empoli,1579,Monza,1,0,HOME,896,Stadio Carlo Castellani,A. Rapuano
+135,Serie A,Italy,2022,881879,2022-10-15T16:00:00+00:00,UTC,1665849600,Match Finished,FT,90,Regular Season - 10,503,Torino,496,Juventus,0,1,AWAY,943,Stadio Olimpico Grande Torino,M. Mariani
+135,Serie A,Italy,2022,881870,2022-10-15T18:45:00+00:00,UTC,1665859500,Match Finished,FT,90,Regular Season - 10,499,Atalanta,488,Sassuolo,2,1,HOME,879,Gewiss Stadium,M. Marcenaro
+135,Serie A,Italy,2022,881873,2022-10-16T10:30:00+00:00,UTC,1665916200,Match Finished,FT,90,Regular Season - 10,505,Inter,514,Salernitana,2,0,HOME,907,Stadio Giuseppe Meazza,J. Sacchi
+135,Serie A,Italy,2022,881874,2022-10-16T13:00:00+00:00,UTC,1665925200,Match Finished,FT,90,Regular Season - 10,487,Lazio,494,Udinese,0,0,DRAW,910,Stadio Olimpico,A. Colombo
+135,Serie A,Italy,2022,881878,2022-10-16T13:00:00+00:00,UTC,1665925200,Match Finished,FT,90,Regular Season - 10,515,Spezia,520,Cremonese,2,2,DRAW,939,Stadio Alberto Picco,G. Manganiello
+135,Serie A,Italy,2022,881876,2022-10-16T16:00:00+00:00,UTC,1665936000,Match Finished,FT,90,Regular Season - 10,492,Napoli,500,Bologna,3,2,HOME,11904,Stadio Diego Armando Maradona,F. Cosso
+135,Serie A,Italy,2022,881872,2022-10-16T18:45:00+00:00,UTC,1665945900,Match Finished,FT,90,Regular Season - 10,504,Hellas Verona,489,AC Milan,1,2,AWAY,890,Stadio Marc'Antonio Bentegodi,D. Massa
+135,Serie A,Italy,2022,881877,2022-10-17T16:30:00+00:00,UTC,1666024200,Match Finished,FT,90,Regular Season - 10,498,Sampdoria,497,AS Roma,0,1,AWAY,905,Stadio Comunale Luigi Ferraris,M. Di Bello
+135,Serie A,Italy,2022,881875,2022-10-17T18:45:00+00:00,UTC,1666032300,Match Finished,FT,90,Regular Season - 10,867,Lecce,502,Fiorentina,1,1,DRAW,911,Stadio Comunale Via del Mare,L. Massimi
+135,Serie A,Italy,2022,881884,2022-10-21T18:45:00+00:00,UTC,1666377900,Match Finished,FT,90,Regular Season - 11,496,Juventus,511,Empoli,4,0,HOME,909,Allianz Stadium,M. Fabbri
+135,Serie A,Italy,2022,881887,2022-10-22T13:00:00+00:00,UTC,1666443600,Match Finished,FT,90,Regular Season - 11,514,Salernitana,515,Spezia,1,0,HOME,933,Stadio Arechi,D. Chiffi
+135,Serie A,Italy,2022,881885,2022-10-22T16:00:00+00:00,UTC,1666454400,Match Finished,FT,90,Regular Season - 11,489,AC Milan,1579,Monza,4,1,HOME,907,Stadio Giuseppe Meazza,L. Marinelli
+135,Serie A,Italy,2022,881883,2022-10-22T18:45:00+00:00,UTC,1666464300,Match Finished,FT,90,Regular Season - 11,502,Fiorentina,505,Inter,3,4,AWAY,902,Stadio Artemio Franchi,P. Valeri
+135,Serie A,Italy,2022,881889,2022-10-23T10:30:00+00:00,UTC,1666521000,Match Finished,FT,90,Regular Season - 11,494,Udinese,503,Torino,1,2,AWAY,928,Dacia Arena,M. Marchetti
+135,Serie A,Italy,2022,881881,2022-10-23T13:00:00+00:00,UTC,1666530000,Match Finished,FT,90,Regular Season - 11,500,Bologna,867,Lecce,2,0,HOME,881,Stadio Renato Dall'Ara,S. Sozza
+135,Serie A,Italy,2022,881880,2022-10-23T16:00:00+00:00,UTC,1666540800,Match Finished,FT,90,Regular Season - 11,499,Atalanta,487,Lazio,0,2,AWAY,879,Gewiss Stadium,R. Abisso
+135,Serie A,Italy,2022,881886,2022-10-23T18:45:00+00:00,UTC,1666550700,Match Finished,FT,90,Regular Season - 11,497,AS Roma,492,Napoli,0,1,AWAY,910,Stadio Olimpico,M. Irrati
+135,Serie A,Italy,2022,881882,2022-10-24T16:30:00+00:00,UTC,1666629000,Match Finished,FT,90,Regular Season - 11,520,Cremonese,498,Sampdoria,0,1,AWAY,894,Stadio Giovanni Zini,F. Maresca
+135,Serie A,Italy,2022,881888,2022-10-24T18:45:00+00:00,UTC,1666637100,Match Finished,FT,90,Regular Season - 11,488,Sassuolo,504,Hellas Verona,2,1,HOME,935,MAPEI Stadium - Città del Tricolore,A. Santoro
+135,Serie A,Italy,2022,881894,2022-10-29T13:00:00+00:00,UTC,1667048400,Match Finished,FT,90,Regular Season - 12,492,Napoli,488,Sassuolo,4,0,HOME,11904,Stadio Diego Armando Maradona,A. Rapuano
+135,Serie A,Italy,2022,881898,2022-10-29T16:00:00+00:00,UTC,1667059200,Match Finished,FT,90,Regular Season - 12,867,Lecce,496,Juventus,0,1,AWAY,911,Stadio Comunale Via del Mare,D. Chiffi
+135,Serie A,Italy,2022,881892,2022-10-29T18:45:00+00:00,UTC,1667069100,Match Finished,FT,90,Regular Season - 12,505,Inter,498,Sampdoria,3,0,HOME,907,Stadio Giuseppe Meazza,L. Massimi
+135,Serie A,Italy,2022,881895,2022-10-30T11:30:00+00:00,UTC,1667129400,Match Finished,FT,90,Regular Season - 12,511,Empoli,499,Atalanta,0,2,AWAY,896,Stadio Carlo Castellani,G. Ayroldi
+135,Serie A,Italy,2022,881897,2022-10-30T14:00:00+00:00,UTC,1667138400,Match Finished,FT,90,Regular Season - 12,515,Spezia,502,Fiorentina,1,2,AWAY,939,Stadio Alberto Picco,D. Massa
+135,Serie A,Italy,2022,881890,2022-10-30T14:00:00+00:00,UTC,1667138400,Match Finished,FT,90,Regular Season - 12,520,Cremonese,494,Udinese,0,0,DRAW,894,Stadio Giovanni Zini,M. Irrati
+135,Serie A,Italy,2022,881893,2022-10-30T17:00:00+00:00,UTC,1667149200,Match Finished,FT,90,Regular Season - 12,487,Lazio,514,Salernitana,1,3,AWAY,910,Stadio Olimpico,G. Manganiello
+135,Serie A,Italy,2022,881899,2022-10-30T19:45:00+00:00,UTC,1667159100,Match Finished,FT,90,Regular Season - 12,503,Torino,489,AC Milan,2,1,HOME,943,Stadio Olimpico Grande Torino,R. Abisso
+135,Serie A,Italy,2022,881891,2022-10-31T17:30:00+00:00,UTC,1667237400,Match Finished,FT,90,Regular Season - 12,504,Hellas Verona,497,AS Roma,1,3,AWAY,890,Stadio Marc'Antonio Bentegodi,J. Sacchi
+135,Serie A,Italy,2022,881896,2022-10-31T19:45:00+00:00,UTC,1667245500,Match Finished,FT,90,Regular Season - 12,1579,Monza,500,Bologna,1,2,AWAY,12086,U-Power Stadium,L. Pairetto
+135,Serie A,Italy,2022,881909,2022-11-04T19:45:00+00:00,UTC,1667591100,Match Finished,FT,90,Regular Season - 13,494,Udinese,867,Lecce,1,1,DRAW,928,Dacia Arena,F. Fourneau
+135,Serie A,Italy,2022,881902,2022-11-05T14:00:00+00:00,UTC,1667656800,Match Finished,FT,90,Regular Season - 13,511,Empoli,488,Sassuolo,1,0,HOME,896,Stadio Carlo Castellani,E. Feliciani
+135,Serie A,Italy,2022,881904,2022-11-05T14:00:00+00:00,UTC,1667656800,Match Finished,FT,90,Regular Season - 13,514,Salernitana,520,Cremonese,2,2,DRAW,933,Stadio Arechi,M. Marchetti
+135,Serie A,Italy,2022,881900,2022-11-05T17:00:00+00:00,UTC,1667667600,Match Finished,FT,90,Regular Season - 13,499,Atalanta,492,Napoli,1,2,AWAY,879,Gewiss Stadium,M. Mariani
+135,Serie A,Italy,2022,881903,2022-11-05T19:45:00+00:00,UTC,1667677500,Match Finished,FT,90,Regular Season - 13,489,AC Milan,515,Spezia,2,1,HOME,907,Stadio Giuseppe Meazza,M. Fabbri
+135,Serie A,Italy,2022,881901,2022-11-06T11:30:00+00:00,UTC,1667734200,Match Finished,FT,90,Regular Season - 13,500,Bologna,503,Torino,2,1,HOME,881,Stadio Renato Dall'Ara,A. Giua
+135,Serie A,Italy,2022,881905,2022-11-06T14:00:00+00:00,UTC,1667743200,Match Finished,FT,90,Regular Season - 13,498,Sampdoria,502,Fiorentina,0,2,AWAY,905,Stadio Comunale Luigi Ferraris,L. Marinelli
+135,Serie A,Italy,2022,881906,2022-11-06T14:00:00+00:00,UTC,1667743200,Match Finished,FT,90,Regular Season - 13,1579,Monza,504,Hellas Verona,2,0,HOME,12086,U-Power Stadium,F. Cosso
+135,Serie A,Italy,2022,881908,2022-11-06T17:00:00+00:00,UTC,1667754000,Match Finished,FT,90,Regular Season - 13,497,AS Roma,487,Lazio,0,1,AWAY,910,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2022,881907,2022-11-06T19:45:00+00:00,UTC,1667763900,Match Finished,FT,90,Regular Season - 13,496,Juventus,505,Inter,2,0,HOME,909,Allianz Stadium,D. Doveri
+135,Serie A,Italy,2022,881916,2022-11-08T17:30:00+00:00,UTC,1667928600,Match Finished,FT,90,Regular Season - 14,492,Napoli,511,Empoli,2,0,HOME,11904,Stadio Diego Armando Maradona,L. Pairetto
+135,Serie A,Italy,2022,881918,2022-11-08T17:30:00+00:00,UTC,1667928600,Match Finished,FT,90,Regular Season - 14,515,Spezia,494,Udinese,1,1,DRAW,939,Stadio Alberto Picco,M. Piccinini
+135,Serie A,Italy,2022,881910,2022-11-08T19:45:00+00:00,UTC,1667936700,Match Finished,FT,90,Regular Season - 14,520,Cremonese,489,AC Milan,0,0,DRAW,894,Stadio Giovanni Zini,A. Rapuano
+135,Serie A,Italy,2022,881917,2022-11-09T17:30:00+00:00,UTC,1668015000,Match Finished,FT,90,Regular Season - 14,488,Sassuolo,497,AS Roma,1,1,DRAW,935,MAPEI Stadium - Città del Tricolore,G. Ayroldi
+135,Serie A,Italy,2022,881915,2022-11-09T17:30:00+00:00,UTC,1668015000,Match Finished,FT,90,Regular Season - 14,867,Lecce,499,Atalanta,2,1,HOME,911,Stadio Comunale Via del Mare,G. Aureliano
+135,Serie A,Italy,2022,881911,2022-11-09T19:45:00+00:00,UTC,1668023100,Match Finished,FT,90,Regular Season - 14,502,Fiorentina,514,Salernitana,2,1,HOME,902,Stadio Artemio Franchi,F. La Penna
+135,Serie A,Italy,2022,881919,2022-11-09T19:45:00+00:00,UTC,1668023100,Match Finished,FT,90,Regular Season - 14,503,Torino,498,Sampdoria,2,0,HOME,943,Stadio Olimpico Grande Torino,D. Massa
+135,Serie A,Italy,2022,881913,2022-11-09T19:45:00+00:00,UTC,1668023100,Match Finished,FT,90,Regular Season - 14,505,Inter,500,Bologna,6,1,HOME,907,Stadio Giuseppe Meazza,A. Colombo
+135,Serie A,Italy,2022,881912,2022-11-10T17:30:00+00:00,UTC,1668101400,Match Finished,FT,90,Regular Season - 14,504,Hellas Verona,496,Juventus,0,1,AWAY,890,Stadio Marc'Antonio Bentegodi,M. Di Bello
+135,Serie A,Italy,2022,881914,2022-11-10T19:45:00+00:00,UTC,1668109500,Match Finished,FT,90,Regular Season - 14,487,Lazio,1579,Monza,1,0,HOME,910,Stadio Olimpico,A. Santoro
+135,Serie A,Italy,2022,881922,2022-11-11T19:45:00+00:00,UTC,1668195900,Match Finished,FT,90,Regular Season - 15,511,Empoli,520,Cremonese,2,0,HOME,896,Stadio Carlo Castellani,F. Dionisi
+135,Serie A,Italy,2022,881927,2022-11-12T14:00:00+00:00,UTC,1668261600,Match Finished,FT,90,Regular Season - 15,492,Napoli,494,Udinese,3,2,HOME,11904,Stadio Diego Armando Maradona,G. Ayroldi
+135,Serie A,Italy,2022,881929,2022-11-12T17:00:00+00:00,UTC,1668272400,Match Finished,FT,90,Regular Season - 15,498,Sampdoria,867,Lecce,0,2,AWAY,905,Stadio Comunale Luigi Ferraris,D. Doveri
+135,Serie A,Italy,2022,881921,2022-11-12T19:45:00+00:00,UTC,1668282300,Match Finished,FT,90,Regular Season - 15,500,Bologna,488,Sassuolo,3,0,HOME,881,Stadio Renato Dall'Ara,I. Pezzuto
+135,Serie A,Italy,2022,881920,2022-11-13T11:30:00+00:00,UTC,1668339000,Match Finished,FT,90,Regular Season - 15,499,Atalanta,505,Inter,2,3,AWAY,879,Gewiss Stadium,D. Chiffi
+135,Serie A,Italy,2022,881928,2022-11-13T14:00:00+00:00,UTC,1668348000,Match Finished,FT,90,Regular Season - 15,497,AS Roma,503,Torino,1,1,DRAW,910,Stadio Olimpico,A. Rapuano
+135,Serie A,Italy,2022,881923,2022-11-13T14:00:00+00:00,UTC,1668348000,Match Finished,FT,90,Regular Season - 15,504,Hellas Verona,515,Spezia,1,2,AWAY,890,Stadio Marc'Antonio Bentegodi,F. Maresca
+135,Serie A,Italy,2022,881926,2022-11-13T14:00:00+00:00,UTC,1668348000,Match Finished,FT,90,Regular Season - 15,1579,Monza,514,Salernitana,3,0,HOME,12086,U-Power Stadium,A. Giua
+135,Serie A,Italy,2022,881925,2022-11-13T17:00:00+00:00,UTC,1668358800,Match Finished,FT,90,Regular Season - 15,489,AC Milan,502,Fiorentina,2,1,HOME,907,Stadio Giuseppe Meazza,S. Sozza
+135,Serie A,Italy,2022,881924,2022-11-13T19:45:00+00:00,UTC,1668368700,Match Finished,FT,90,Regular Season - 15,496,Juventus,487,Lazio,3,0,HOME,909,Allianz Stadium,D. Massa
+135,Serie A,Italy,2022,881939,2023-01-04T11:30:00+00:00,UTC,1672831800,Match Finished,FT,90,Regular Season - 16,488,Sassuolo,498,Sampdoria,1,2,AWAY,935,MAPEI Stadium - Città del Tricolore,F. Maresca
+135,Serie A,Italy,2022,881938,2023-01-04T11:30:00+00:00,UTC,1672831800,Match Finished,FT,90,Regular Season - 16,514,Salernitana,489,AC Milan,1,2,AWAY,933,Stadio Arechi,F. Fourneau
+135,Serie A,Italy,2022,881936,2023-01-04T13:30:00+00:00,UTC,1672839000,Match Finished,FT,90,Regular Season - 16,503,Torino,504,Hellas Verona,1,1,DRAW,943,Stadio Olimpico Grande Torino,F. Dionisi
+135,Serie A,Italy,2022,881933,2023-01-04T13:30:00+00:00,UTC,1672839000,Match Finished,FT,90,Regular Season - 16,515,Spezia,499,Atalanta,2,2,DRAW,939,Stadio Alberto Picco,A. Giua
+135,Serie A,Italy,2022,881934,2023-01-04T15:30:00+00:00,UTC,1672846200,Match Finished,FT,90,Regular Season - 16,497,AS Roma,500,Bologna,1,0,HOME,910,Stadio Olimpico,A. Santoro
+135,Serie A,Italy,2022,881937,2023-01-04T15:30:00+00:00,UTC,1672846200,Match Finished,FT,90,Regular Season - 16,867,Lecce,487,Lazio,2,1,HOME,911,Stadio Comunale Via del Mare,L. Marinelli
+135,Serie A,Italy,2022,881931,2023-01-04T17:30:00+00:00,UTC,1672853400,Match Finished,FT,90,Regular Season - 16,502,Fiorentina,1579,Monza,1,1,DRAW,902,Stadio Artemio Franchi,E. Feliciani
+135,Serie A,Italy,2022,881930,2023-01-04T17:30:00+00:00,UTC,1672853400,Match Finished,FT,90,Regular Season - 16,520,Cremonese,496,Juventus,0,1,AWAY,894,Stadio Giovanni Zini,G. Ayroldi
+135,Serie A,Italy,2022,881935,2023-01-04T19:45:00+00:00,UTC,1672861500,Match Finished,FT,90,Regular Season - 16,494,Udinese,511,Empoli,1,1,DRAW,928,Dacia Arena,M. Serra
+135,Serie A,Italy,2022,881932,2023-01-04T19:45:00+00:00,UTC,1672861500,Match Finished,FT,90,Regular Season - 16,505,Inter,492,Napoli,1,0,HOME,907,Stadio Giuseppe Meazza,S. Sozza
+135,Serie A,Italy,2022,881941,2023-01-07T14:00:00+00:00,UTC,1673100000,Match Finished,FT,90,Regular Season - 17,502,Fiorentina,488,Sassuolo,2,1,HOME,902,Stadio Artemio Franchi,G. Manganiello
+135,Serie A,Italy,2022,881943,2023-01-07T17:00:00+00:00,UTC,1673110800,Match Finished,FT,90,Regular Season - 17,496,Juventus,494,Udinese,1,0,HOME,909,Allianz Stadium,M. Marchetti
+135,Serie A,Italy,2022,881946,2023-01-07T19:45:00+00:00,UTC,1673120700,Match Finished,FT,90,Regular Season - 17,1579,Monza,505,Inter,2,2,DRAW,12086,U-Power Stadium,J. Sacchi
+135,Serie A,Italy,2022,881947,2023-01-08T11:30:00+00:00,UTC,1673177400,Match Finished,FT,90,Regular Season - 17,514,Salernitana,503,Torino,1,1,DRAW,933,Stadio Arechi,A. Colombo
+135,Serie A,Italy,2022,881944,2023-01-08T14:00:00+00:00,UTC,1673186400,Match Finished,FT,90,Regular Season - 17,487,Lazio,511,Empoli,2,2,DRAW,910,Stadio Olimpico,I. Pezzuto
+135,Serie A,Italy,2022,881949,2023-01-08T14:00:00+00:00,UTC,1673186400,Match Finished,FT,90,Regular Season - 17,515,Spezia,867,Lecce,0,0,DRAW,939,Stadio Alberto Picco,D. Chiffi
+135,Serie A,Italy,2022,881948,2023-01-08T17:00:00+00:00,UTC,1673197200,Match Finished,FT,90,Regular Season - 17,498,Sampdoria,492,Napoli,0,2,AWAY,905,Stadio Comunale Luigi Ferraris,R. Abisso
+135,Serie A,Italy,2022,881945,2023-01-08T19:45:00+00:00,UTC,1673207100,Match Finished,FT,90,Regular Season - 17,489,AC Milan,497,AS Roma,2,2,DRAW,907,Stadio Giuseppe Meazza,D. Massa
+135,Serie A,Italy,2022,881942,2023-01-09T17:30:00+00:00,UTC,1673285400,Match Finished,FT,90,Regular Season - 17,504,Hellas Verona,520,Cremonese,2,0,HOME,890,Stadio Marc'Antonio Bentegodi,M. Mariani
+135,Serie A,Italy,2022,881940,2023-01-09T19:45:00+00:00,UTC,1673293500,Match Finished,FT,90,Regular Season - 17,500,Bologna,499,Atalanta,1,2,AWAY,881,Stadio Renato Dall'Ara,M. Di Bello
+135,Serie A,Italy,2022,881955,2023-01-13T19:45:00+00:00,UTC,1673639100,Match Finished,FT,90,Regular Season - 18,492,Napoli,496,Juventus,5,1,HOME,11904,Stadio Diego Armando Maradona,D. Doveri
+135,Serie A,Italy,2022,881951,2023-01-14T14:00:00+00:00,UTC,1673704800,Match Finished,FT,90,Regular Season - 18,520,Cremonese,1579,Monza,2,3,AWAY,894,Stadio Giovanni Zini,D. Massa
+135,Serie A,Italy,2022,881954,2023-01-14T17:00:00+00:00,UTC,1673715600,Match Finished,FT,90,Regular Season - 18,867,Lecce,489,AC Milan,2,2,DRAW,911,Stadio Comunale Via del Mare,D. Orsato
+135,Serie A,Italy,2022,881953,2023-01-14T19:45:00+00:00,UTC,1673725500,Match Finished,FT,90,Regular Season - 18,505,Inter,504,Hellas Verona,1,0,HOME,907,Stadio Giuseppe Meazza,M. Fabbri
+135,Serie A,Italy,2022,881957,2023-01-15T11:30:00+00:00,UTC,1673782200,Match Finished,FT,90,Regular Season - 18,488,Sassuolo,487,Lazio,0,2,AWAY,935,MAPEI Stadium - Città del Tricolore,L. Pairetto
+135,Serie A,Italy,2022,881959,2023-01-15T14:00:00+00:00,UTC,1673791200,Match Finished,FT,90,Regular Season - 18,494,Udinese,500,Bologna,1,2,AWAY,928,Dacia Arena,M. Volpi
+135,Serie A,Italy,2022,881958,2023-01-15T14:00:00+00:00,UTC,1673791200,Match Finished,FT,90,Regular Season - 18,503,Torino,515,Spezia,0,1,AWAY,943,Stadio Olimpico Grande Torino,D. Ghersini
+135,Serie A,Italy,2022,881950,2023-01-15T17:00:00+00:00,UTC,1673802000,Match Finished,FT,90,Regular Season - 18,499,Atalanta,514,Salernitana,8,2,HOME,879,Gewiss Stadium,G. Aureliano
+135,Serie A,Italy,2022,881956,2023-01-15T19:45:00+00:00,UTC,1673811900,Match Finished,FT,90,Regular Season - 18,497,AS Roma,502,Fiorentina,2,0,HOME,910,Stadio Olimpico,A. Giua
+135,Serie A,Italy,2022,881952,2023-01-16T19:45:00+00:00,UTC,1673898300,Match Finished,FT,90,Regular Season - 18,511,Empoli,498,Sampdoria,1,0,HOME,896,Stadio Carlo Castellani,A. Santoro
+135,Serie A,Italy,2022,881962,2023-01-21T14:00:00+00:00,UTC,1674309600,Match Finished,FT,90,Regular Season - 19,504,Hellas Verona,867,Lecce,2,0,HOME,890,Stadio Marc'Antonio Bentegodi,F. La Penna
+135,Serie A,Italy,2022,881967,2023-01-21T17:00:00+00:00,UTC,1674320400,Match Finished,FT,90,Regular Season - 19,514,Salernitana,492,Napoli,0,2,AWAY,933,Stadio Arechi,D. Chiffi
+135,Serie A,Italy,2022,881961,2023-01-21T19:45:00+00:00,UTC,1674330300,Match Finished,FT,90,Regular Season - 19,502,Fiorentina,503,Torino,0,1,AWAY,902,Stadio Artemio Franchi,F. Dionisi
+135,Serie A,Italy,2022,881968,2023-01-22T11:30:00+00:00,UTC,1674387000,Match Finished,FT,90,Regular Season - 19,498,Sampdoria,494,Udinese,0,1,AWAY,905,Stadio Comunale Luigi Ferraris,M. Mariani
+135,Serie A,Italy,2022,881966,2023-01-22T14:00:00+00:00,UTC,1674396000,Match Finished,FT,90,Regular Season - 19,1579,Monza,488,Sassuolo,1,1,DRAW,12086,U-Power Stadium,A. Prontera
+135,Serie A,Italy,2022,881969,2023-01-22T17:00:00+00:00,UTC,1674406800,Match Finished,FT,90,Regular Season - 19,515,Spezia,497,AS Roma,0,2,AWAY,939,Stadio Alberto Picco,S. Sozza
+135,Serie A,Italy,2022,881964,2023-01-22T19:45:00+00:00,UTC,1674416700,Match Finished,FT,90,Regular Season - 19,496,Juventus,499,Atalanta,3,3,DRAW,909,Allianz Stadium,L. Marinelli
+135,Serie A,Italy,2022,881960,2023-01-23T17:30:00+00:00,UTC,1674495000,Match Finished,FT,90,Regular Season - 19,500,Bologna,520,Cremonese,1,1,DRAW,881,Stadio Renato Dall'Ara,M. Marchetti
+135,Serie A,Italy,2022,881963,2023-01-23T19:45:00+00:00,UTC,1674503100,Match Finished,FT,90,Regular Season - 19,505,Inter,511,Empoli,0,1,AWAY,907,Stadio Giuseppe Meazza,A. Rapuano
+135,Serie A,Italy,2022,881965,2023-01-24T19:45:00+00:00,UTC,1674589500,Match Finished,FT,90,Regular Season - 19,487,Lazio,489,AC Milan,4,0,HOME,910,Stadio Olimpico,M. Di Bello
+135,Serie A,Italy,2022,881971,2023-01-27T17:30:00+00:00,UTC,1674840600,Match Finished,FT,90,Regular Season - 20,500,Bologna,515,Spezia,2,0,HOME,881,Stadio Renato Dall'Ara,L. Massimi
+135,Serie A,Italy,2022,881975,2023-01-27T19:45:00+00:00,UTC,1674848700,Match Finished,FT,90,Regular Season - 20,867,Lecce,514,Salernitana,1,2,AWAY,911,Stadio Comunale Via del Mare,D. Massa
+135,Serie A,Italy,2022,881973,2023-01-28T14:00:00+00:00,UTC,1674914400,Match Finished,FT,90,Regular Season - 20,511,Empoli,503,Torino,2,2,DRAW,896,Stadio Carlo Castellani,M. Marcenaro
+135,Serie A,Italy,2022,881972,2023-01-28T17:00:00+00:00,UTC,1674925200,Match Finished,FT,90,Regular Season - 20,520,Cremonese,505,Inter,1,2,AWAY,894,Stadio Giovanni Zini,M. Mariani
+135,Serie A,Italy,2022,881970,2023-01-28T19:45:00+00:00,UTC,1674935100,Match Finished,FT,90,Regular Season - 20,499,Atalanta,498,Sampdoria,2,0,HOME,879,Gewiss Stadium,D. Doveri
+135,Serie A,Italy,2022,881976,2023-01-29T11:30:00+00:00,UTC,1674991800,Match Finished,FT,90,Regular Season - 20,489,AC Milan,488,Sassuolo,2,5,AWAY,907,Stadio Giuseppe Meazza,A. Giua
+135,Serie A,Italy,2022,881974,2023-01-29T14:00:00+00:00,UTC,1675000800,Match Finished,FT,90,Regular Season - 20,496,Juventus,1579,Monza,0,2,AWAY,909,Allianz Stadium,G. Aureliano
+135,Serie A,Italy,2022,881978,2023-01-29T17:00:00+00:00,UTC,1675011600,Match Finished,FT,90,Regular Season - 20,487,Lazio,502,Fiorentina,1,1,DRAW,910,Stadio Olimpico,A. Colombo
+135,Serie A,Italy,2022,881977,2023-01-29T19:45:00+00:00,UTC,1675021500,Match Finished,FT,90,Regular Season - 20,492,Napoli,497,AS Roma,2,1,HOME,11904,Stadio Diego Armando Maradona,D. Orsato
+135,Serie A,Italy,2022,881979,2023-01-30T19:45:00+00:00,UTC,1675107900,Match Finished,FT,90,Regular Season - 20,494,Udinese,504,Hellas Verona,1,1,DRAW,928,Dacia Arena,L. Pairetto
+135,Serie A,Italy,2022,881980,2023-02-04T14:00:00+00:00,UTC,1675519200,Match Finished,FT,90,Regular Season - 21,520,Cremonese,867,Lecce,0,2,AWAY,894,Stadio Giovanni Zini,D. Orsato
+135,Serie A,Italy,2022,881985,2023-02-04T17:00:00+00:00,UTC,1675530000,Match Finished,FT,90,Regular Season - 21,497,AS Roma,511,Empoli,2,0,HOME,910,Stadio Olimpico,F. Dionisi
+135,Serie A,Italy,2022,881987,2023-02-04T19:45:00+00:00,UTC,1675539900,Match Finished,FT,90,Regular Season - 21,488,Sassuolo,499,Atalanta,1,0,HOME,935,MAPEI Stadium - Città del Tricolore,M. Marcenaro
+135,Serie A,Italy,2022,881988,2023-02-05T11:30:00+00:00,UTC,1675596600,Match Finished,FT,90,Regular Season - 21,515,Spezia,492,Napoli,0,3,AWAY,939,Stadio Alberto Picco,M. Di Bello
+135,Serie A,Italy,2022,881989,2023-02-05T14:00:00+00:00,UTC,1675605600,Match Finished,FT,90,Regular Season - 21,503,Torino,494,Udinese,1,0,HOME,943,Stadio Olimpico Grande Torino,A. Prontera
+135,Serie A,Italy,2022,881981,2023-02-05T17:00:00+00:00,UTC,1675616400,Match Finished,FT,90,Regular Season - 21,502,Fiorentina,500,Bologna,1,2,AWAY,902,Stadio Artemio Franchi,L. Pairetto
+135,Serie A,Italy,2022,881983,2023-02-05T19:45:00+00:00,UTC,1675626300,Match Finished,FT,90,Regular Season - 21,505,Inter,489,AC Milan,1,0,HOME,907,Stadio Giuseppe Meazza,D. Massa
+135,Serie A,Italy,2022,881982,2023-02-06T17:30:00+00:00,UTC,1675704600,Match Finished,FT,90,Regular Season - 21,504,Hellas Verona,487,Lazio,1,1,DRAW,890,Stadio Marc'Antonio Bentegodi,G. Ayroldi
+135,Serie A,Italy,2022,881984,2023-02-06T19:45:00+00:00,UTC,1675712700,Match Finished,FT,90,Regular Season - 21,1579,Monza,498,Sampdoria,2,2,DRAW,12086,U-Power Stadium,D. Chiffi
+135,Serie A,Italy,2022,881986,2023-02-07T19:45:00+00:00,UTC,1675799100,Match Finished,FT,90,Regular Season - 21,514,Salernitana,496,Juventus,0,3,AWAY,933,Stadio Arechi,A. Rapuano
+135,Serie A,Italy,2022,881996,2023-02-10T19:45:00+00:00,UTC,1676058300,Match Finished,FT,90,Regular Season - 22,489,AC Milan,503,Torino,1,0,HOME,907,Stadio Giuseppe Meazza,G. Ayroldi
+135,Serie A,Italy,2022,881991,2023-02-11T14:00:00+00:00,UTC,1676124000,Match Finished,FT,90,Regular Season - 22,511,Empoli,515,Spezia,2,2,DRAW,896,Stadio Carlo Castellani,A. Giua
+135,Serie A,Italy,2022,881995,2023-02-11T17:00:00+00:00,UTC,1676134800,Match Finished,FT,90,Regular Season - 22,867,Lecce,497,AS Roma,1,1,DRAW,911,Stadio Comunale Via del Mare,G. Aureliano
+135,Serie A,Italy,2022,881994,2023-02-11T19:45:00+00:00,UTC,1676144700,Match Finished,FT,90,Regular Season - 22,487,Lazio,499,Atalanta,0,2,AWAY,910,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2022,881999,2023-02-12T11:30:00+00:00,UTC,1676201400,Match Finished,FT,90,Regular Season - 22,494,Udinese,488,Sassuolo,2,2,DRAW,928,Dacia Arena,I. Pezzuto
+135,Serie A,Italy,2022,881990,2023-02-12T14:00:00+00:00,UTC,1676210400,Match Finished,FT,90,Regular Season - 22,500,Bologna,1579,Monza,0,1,AWAY,881,Stadio Renato Dall'Ara,L. Zufferli
+135,Serie A,Italy,2022,881993,2023-02-12T17:00:00+00:00,UTC,1676221200,Match Finished,FT,90,Regular Season - 22,496,Juventus,502,Fiorentina,1,0,HOME,909,Allianz Stadium,M. Fabbri
+135,Serie A,Italy,2022,881997,2023-02-12T19:45:00+00:00,UTC,1676231100,Match Finished,FT,90,Regular Season - 22,492,Napoli,520,Cremonese,3,0,HOME,11904,Stadio Diego Armando Maradona,L. Massimi
+135,Serie A,Italy,2022,881992,2023-02-13T17:30:00+00:00,UTC,1676309400,Match Finished,FT,90,Regular Season - 22,504,Hellas Verona,514,Salernitana,1,0,HOME,890,Stadio Marc'Antonio Bentegodi,P. Valeri
+135,Serie A,Italy,2022,881998,2023-02-13T19:45:00+00:00,UTC,1676317500,Match Finished,FT,90,Regular Season - 22,498,Sampdoria,505,Inter,0,0,DRAW,905,Stadio Comunale Luigi Ferraris,F. Maresca
+135,Serie A,Italy,2022,882007,2023-02-17T19:45:00+00:00,UTC,1676663100,Match Finished,FT,90,Regular Season - 23,488,Sassuolo,492,Napoli,0,2,AWAY,935,MAPEI Stadium - Città del Tricolore,A. Colombo
+135,Serie A,Italy,2022,882006,2023-02-18T14:00:00+00:00,UTC,1676728800,Match Finished,FT,90,Regular Season - 23,498,Sampdoria,500,Bologna,1,2,AWAY,905,Stadio Comunale Luigi Ferraris,M. Irrati
+135,Serie A,Italy,2022,882003,2023-02-18T17:00:00+00:00,UTC,1676739600,Match Finished,FT,90,Regular Season - 23,1579,Monza,489,AC Milan,0,1,AWAY,12086,U-Power Stadium,A. Rapuano
+135,Serie A,Italy,2022,882002,2023-02-18T19:45:00+00:00,UTC,1676749500,Match Finished,FT,90,Regular Season - 23,505,Inter,494,Udinese,3,1,HOME,907,Stadio Giuseppe Meazza,F. Dionisi
+135,Serie A,Italy,2022,882000,2023-02-19T11:30:00+00:00,UTC,1676806200,Match Finished,FT,90,Regular Season - 23,499,Atalanta,867,Lecce,1,2,AWAY,879,Gewiss Stadium,M. Piccinini
+135,Serie A,Italy,2022,882001,2023-02-19T14:00:00+00:00,UTC,1676815200,Match Finished,FT,90,Regular Season - 23,502,Fiorentina,511,Empoli,1,1,DRAW,902,Stadio Artemio Franchi,A. Prontera
+135,Serie A,Italy,2022,882005,2023-02-19T14:00:00+00:00,UTC,1676815200,Match Finished,FT,90,Regular Season - 23,514,Salernitana,487,Lazio,0,2,AWAY,933,Stadio Arechi,R. Abisso
+135,Serie A,Italy,2022,882008,2023-02-19T17:00:00+00:00,UTC,1676826000,Match Finished,FT,90,Regular Season - 23,515,Spezia,496,Juventus,0,2,AWAY,939,Stadio Alberto Picco,F. La Penna
+135,Serie A,Italy,2022,882004,2023-02-19T19:45:00+00:00,UTC,1676835900,Match Finished,FT,90,Regular Season - 23,497,AS Roma,504,Hellas Verona,1,0,HOME,910,Stadio Olimpico,S. Sozza
+135,Serie A,Italy,2022,882009,2023-02-20T19:45:00+00:00,UTC,1676922300,Match Finished,FT,90,Regular Season - 23,503,Torino,520,Cremonese,2,2,DRAW,943,Stadio Olimpico Grande Torino,G. Camplone
+135,Serie A,Italy,2022,882012,2023-02-25T17:00:00+00:00,UTC,1677344400,Match Finished,FT,90,Regular Season - 24,511,Empoli,492,Napoli,0,2,AWAY,896,Stadio Carlo Castellani,G. Ayroldi
+135,Serie A,Italy,2022,882015,2023-02-25T19:45:00+00:00,UTC,1677354300,Match Finished,FT,90,Regular Season - 24,867,Lecce,488,Sassuolo,0,1,AWAY,911,Stadio Comunale Via del Mare,N. Baroni
+135,Serie A,Italy,2022,882010,2023-02-26T11:30:00+00:00,UTC,1677411000,Match Finished,FT,90,Regular Season - 24,500,Bologna,505,Inter,1,0,HOME,881,Stadio Renato Dall'Ara,D. Orsato
+135,Serie A,Italy,2022,882018,2023-02-26T14:00:00+00:00,UTC,1677420000,Match Finished,FT,90,Regular Season - 24,514,Salernitana,1579,Monza,3,0,HOME,933,Stadio Arechi,L. Marinelli
+135,Serie A,Italy,2022,882019,2023-02-26T17:00:00+00:00,UTC,1677430800,Match Finished,FT,90,Regular Season - 24,494,Udinese,515,Spezia,2,2,DRAW,928,Dacia Arena,M. Marchetti
+135,Serie A,Italy,2022,882016,2023-02-26T19:45:00+00:00,UTC,1677440700,Match Finished,FT,90,Regular Season - 24,489,AC Milan,499,Atalanta,2,0,HOME,907,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2022,882017,2023-02-27T17:30:00+00:00,UTC,1677519000,Match Finished,FT,90,Regular Season - 24,504,Hellas Verona,502,Fiorentina,0,3,AWAY,890,Stadio Marc'Antonio Bentegodi,F. La Penna
+135,Serie A,Italy,2022,882014,2023-02-27T19:45:00+00:00,UTC,1677527100,Match Finished,FT,90,Regular Season - 24,487,Lazio,498,Sampdoria,1,0,HOME,910,Stadio Olimpico,A. Colombo
+135,Serie A,Italy,2022,882011,2023-02-28T17:30:00+00:00,UTC,1677605400,Match Finished,FT,90,Regular Season - 24,520,Cremonese,497,AS Roma,2,1,HOME,894,Stadio Giovanni Zini,M. Piccinini
+135,Serie A,Italy,2022,882013,2023-02-28T19:45:00+00:00,UTC,1677613500,Match Finished,FT,90,Regular Season - 24,496,Juventus,503,Torino,4,2,HOME,909,Allianz Stadium,D. Chiffi
+135,Serie A,Italy,2022,882024,2023-03-03T19:45:00+00:00,UTC,1677872700,Match Finished,FT,90,Regular Season - 25,492,Napoli,487,Lazio,0,1,AWAY,11904,Stadio Diego Armando Maradona,L. Pairetto
+135,Serie A,Italy,2022,882023,2023-03-04T14:00:00+00:00,UTC,1677938400,Match Finished,FT,90,Regular Season - 25,1579,Monza,511,Empoli,2,1,HOME,12086,U-Power Stadium,E. Feliciani
+135,Serie A,Italy,2022,882020,2023-03-04T17:00:00+00:00,UTC,1677949200,Match Finished,FT,90,Regular Season - 25,499,Atalanta,494,Udinese,0,0,DRAW,879,Gewiss Stadium,D. Ghersini
+135,Serie A,Italy,2022,882021,2023-03-04T19:45:00+00:00,UTC,1677959100,Match Finished,FT,90,Regular Season - 25,502,Fiorentina,489,AC Milan,2,1,HOME,902,Stadio Artemio Franchi,M. Di Bello
+135,Serie A,Italy,2022,882028,2023-03-05T11:30:00+00:00,UTC,1678015800,Match Finished,FT,90,Regular Season - 25,515,Spezia,504,Hellas Verona,0,0,DRAW,939,Stadio Alberto Picco,D. Doveri
+135,Serie A,Italy,2022,882026,2023-03-05T14:00:00+00:00,UTC,1678024800,Match Finished,FT,90,Regular Season - 25,498,Sampdoria,514,Salernitana,0,0,DRAW,905,Stadio Comunale Luigi Ferraris,D. Massa
+135,Serie A,Italy,2022,882022,2023-03-05T17:00:00+00:00,UTC,1678035600,Match Finished,FT,90,Regular Season - 25,505,Inter,867,Lecce,2,0,HOME,907,Stadio Giuseppe Meazza,G. Manganiello
+135,Serie A,Italy,2022,882025,2023-03-05T19:45:00+00:00,UTC,1678045500,Match Finished,FT,90,Regular Season - 25,497,AS Roma,496,Juventus,1,0,HOME,910,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2022,882027,2023-03-06T17:30:00+00:00,UTC,1678123800,Match Finished,FT,90,Regular Season - 25,488,Sassuolo,520,Cremonese,3,2,HOME,935,MAPEI Stadium - Città del Tricolore,F. Fourneau
+135,Serie A,Italy,2022,882029,2023-03-06T19:45:00+00:00,UTC,1678131900,Match Finished,FT,90,Regular Season - 25,503,Torino,500,Bologna,1,0,HOME,943,Stadio Olimpico Grande Torino,A. Rapuano
+135,Serie A,Italy,2022,882039,2023-03-10T19:45:00+00:00,UTC,1678477500,Match Finished,FT,90,Regular Season - 26,515,Spezia,505,Inter,2,1,HOME,939,Stadio Alberto Picco,L. Marinelli
+135,Serie A,Italy,2022,882032,2023-03-11T14:00:00+00:00,UTC,1678543200,Match Finished,FT,90,Regular Season - 26,511,Empoli,494,Udinese,0,1,AWAY,896,Stadio Carlo Castellani,F. Cosso
+135,Serie A,Italy,2022,882038,2023-03-11T17:00:00+00:00,UTC,1678554000,Match Finished,FT,90,Regular Season - 26,492,Napoli,499,Atalanta,2,0,HOME,11904,Stadio Diego Armando Maradona,A. Colombo
+135,Serie A,Italy,2022,882030,2023-03-11T19:45:00+00:00,UTC,1678563900,Match Finished,FT,90,Regular Season - 26,500,Bologna,487,Lazio,0,0,DRAW,881,Stadio Renato Dall'Ara,F. Maresca
+135,Serie A,Italy,2022,882035,2023-03-12T11:30:00+00:00,UTC,1678620600,Match Finished,FT,90,Regular Season - 26,867,Lecce,503,Torino,0,2,AWAY,911,Stadio Comunale Via del Mare,J. Sacchi
+135,Serie A,Italy,2022,882033,2023-03-12T14:00:00+00:00,UTC,1678629600,Match Finished,FT,90,Regular Season - 26,504,Hellas Verona,1579,Monza,1,1,DRAW,890,Stadio Marc'Antonio Bentegodi,M. Piccinini
+135,Serie A,Italy,2022,882031,2023-03-12T14:00:00+00:00,UTC,1678629600,Match Finished,FT,90,Regular Season - 26,520,Cremonese,502,Fiorentina,0,2,AWAY,894,Stadio Giovanni Zini,M. Marcenaro
+135,Serie A,Italy,2022,882037,2023-03-12T17:00:00+00:00,UTC,1678640400,Match Finished,FT,90,Regular Season - 26,497,AS Roma,488,Sassuolo,3,4,AWAY,910,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2022,882034,2023-03-12T19:45:00+00:00,UTC,1678650300,Match Finished,FT,90,Regular Season - 26,496,Juventus,498,Sampdoria,4,2,HOME,909,Allianz Stadium,A. Prontera
+135,Serie A,Italy,2022,882036,2023-03-13T19:45:00+00:00,UTC,1678736700,Match Finished,FT,90,Regular Season - 26,489,AC Milan,514,Salernitana,1,1,DRAW,907,Stadio Giuseppe Meazza,F. La Penna
+135,Serie A,Italy,2022,882044,2023-03-17T17:30:00+00:00,UTC,1679074200,Match Finished,FT,90,Regular Season - 27,488,Sassuolo,515,Spezia,1,0,HOME,935,MAPEI Stadium - Città del Tricolore,D. Ghersini
+135,Serie A,Italy,2022,882040,2023-03-17T19:45:00+00:00,UTC,1679082300,Match Finished,FT,90,Regular Season - 27,499,Atalanta,511,Empoli,2,1,HOME,879,Gewiss Stadium,F. Dionisi
+135,Serie A,Italy,2022,882046,2023-03-18T14:00:00+00:00,UTC,1679148000,Match Finished,FT,90,Regular Season - 27,1579,Monza,520,Cremonese,1,1,DRAW,12086,U-Power Stadium,A. Giua
+135,Serie A,Italy,2022,882045,2023-03-18T17:00:00+00:00,UTC,1679158800,Match Finished,FT,90,Regular Season - 27,514,Salernitana,500,Bologna,2,2,DRAW,933,Stadio Arechi,L. Pairetto
+135,Serie A,Italy,2022,882048,2023-03-18T19:45:00+00:00,UTC,1679168700,Match Finished,FT,90,Regular Season - 27,494,Udinese,489,AC Milan,3,1,HOME,928,Dacia Arena,D. Doveri
+135,Serie A,Italy,2022,882047,2023-03-19T11:30:00+00:00,UTC,1679225400,Match Finished,FT,90,Regular Season - 27,498,Sampdoria,504,Hellas Verona,3,1,HOME,905,Stadio Comunale Luigi Ferraris,M. Mariani
+135,Serie A,Italy,2022,882041,2023-03-19T14:00:00+00:00,UTC,1679234400,Match Finished,FT,90,Regular Season - 27,502,Fiorentina,867,Lecce,1,0,HOME,902,Stadio Artemio Franchi,R. Abisso
+135,Serie A,Italy,2022,882049,2023-03-19T14:00:00+00:00,UTC,1679234400,Match Finished,FT,90,Regular Season - 27,503,Torino,492,Napoli,0,4,AWAY,943,Stadio Olimpico Grande Torino,M. Marchetti
+135,Serie A,Italy,2022,882043,2023-03-19T17:00:00+00:00,UTC,1679245200,Match Finished,FT,90,Regular Season - 27,487,Lazio,497,AS Roma,1,0,HOME,910,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2022,882042,2023-03-19T19:45:00+00:00,UTC,1679255100,Match Finished,FT,90,Regular Season - 27,505,Inter,496,Juventus,0,1,AWAY,907,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2022,882054,2023-04-01T13:00:00+00:00,UTC,1680354000,Match Finished,FT,90,Regular Season - 28,520,Cremonese,499,Atalanta,1,3,AWAY,894,Stadio Giovanni Zini,L. Marinelli
+135,Serie A,Italy,2022,882055,2023-04-01T16:00:00+00:00,UTC,1680364800,Match Finished,FT,90,Regular Season - 28,505,Inter,502,Fiorentina,0,1,AWAY,907,Stadio Giuseppe Meazza,F. Maresca
+135,Serie A,Italy,2022,882056,2023-04-01T18:45:00+00:00,UTC,1680374700,Match Finished,FT,90,Regular Season - 28,496,Juventus,504,Hellas Verona,1,0,HOME,909,Allianz Stadium,M. Marchetti
+135,Serie A,Italy,2022,882050,2023-04-02T10:30:00+00:00,UTC,1680431400,Match Finished,FT,90,Regular Season - 28,500,Bologna,494,Udinese,3,0,HOME,881,Stadio Renato Dall'Ara,M. Ferrieri Caputi
+135,Serie A,Italy,2022,882059,2023-04-02T13:00:00+00:00,UTC,1680440400,Match Finished,FT,90,Regular Season - 28,515,Spezia,514,Salernitana,1,1,DRAW,939,Stadio Alberto Picco,D. Orsato
+135,Serie A,Italy,2022,882057,2023-04-02T13:00:00+00:00,UTC,1680440400,Match Finished,FT,90,Regular Season - 28,1579,Monza,487,Lazio,0,2,AWAY,12086,U-Power Stadium,M. Marcenaro
+135,Serie A,Italy,2022,882052,2023-04-02T16:00:00+00:00,UTC,1680451200,Match Finished,FT,90,Regular Season - 28,497,AS Roma,498,Sampdoria,3,0,HOME,910,Stadio Olimpico,M. Irrati
+135,Serie A,Italy,2022,882058,2023-04-02T18:45:00+00:00,UTC,1680461100,Match Finished,FT,90,Regular Season - 28,492,Napoli,489,AC Milan,0,4,AWAY,11904,Stadio Diego Armando Maradona,A. Rapuano
+135,Serie A,Italy,2022,882051,2023-04-03T16:30:00+00:00,UTC,1680539400,Match Finished,FT,90,Regular Season - 28,511,Empoli,867,Lecce,1,0,HOME,896,Stadio Carlo Castellani,M. Fabbri
+135,Serie A,Italy,2022,882053,2023-04-03T18:45:00+00:00,UTC,1680547500,Match Finished,FT,90,Regular Season - 28,488,Sassuolo,503,Torino,1,1,DRAW,935,MAPEI Stadium - Città del Tricolore,I. Pezzuto
+135,Serie A,Italy,2022,882066,2023-04-07T15:00:00+00:00,UTC,1680879600,Match Finished,FT,90,Regular Season - 29,514,Salernitana,505,Inter,1,1,DRAW,933,Stadio Arechi,M. Fabbri
+135,Serie A,Italy,2022,882063,2023-04-07T17:00:00+00:00,UTC,1680886800,Match Finished,FT,90,Regular Season - 29,867,Lecce,492,Napoli,1,2,AWAY,911,Stadio Comunale Via del Mare,G. Manganiello
+135,Serie A,Italy,2022,882065,2023-04-07T19:00:00+00:00,UTC,1680894000,Match Finished,FT,90,Regular Season - 29,489,AC Milan,511,Empoli,0,0,DRAW,907,Stadio Giuseppe Meazza,M. Marcenaro
+135,Serie A,Italy,2022,882068,2023-04-08T10:30:00+00:00,UTC,1680949800,Match Finished,FT,90,Regular Season - 29,494,Udinese,1579,Monza,2,2,DRAW,928,Dacia Arena,L. Massimi
+135,Serie A,Italy,2022,882061,2023-04-08T12:30:00+00:00,UTC,1680957000,Match Finished,FT,90,Regular Season - 29,502,Fiorentina,515,Spezia,1,1,DRAW,902,Stadio Artemio Franchi,F. Dionisi
+135,Serie A,Italy,2022,882064,2023-04-08T14:30:00+00:00,UTC,1680964200,Match Finished,FT,90,Regular Season - 29,498,Sampdoria,520,Cremonese,2,3,AWAY,905,Stadio Comunale Luigi Ferraris,D. Doveri
+135,Serie A,Italy,2022,882060,2023-04-08T14:30:00+00:00,UTC,1680964200,Match Finished,FT,90,Regular Season - 29,499,Atalanta,500,Bologna,0,2,AWAY,879,Gewiss Stadium,D. Orsato
+135,Serie A,Italy,2022,882069,2023-04-08T16:30:00+00:00,UTC,1680971400,Match Finished,FT,90,Regular Season - 29,503,Torino,497,AS Roma,0,1,AWAY,943,Stadio Olimpico Grande Torino,A. Colombo
+135,Serie A,Italy,2022,882062,2023-04-08T16:30:00+00:00,UTC,1680971400,Match Finished,FT,90,Regular Season - 29,504,Hellas Verona,488,Sassuolo,2,1,HOME,890,Stadio Marc'Antonio Bentegodi,F. Fourneau
+135,Serie A,Italy,2022,882067,2023-04-08T18:45:00+00:00,UTC,1680979500,Match Finished,FT,90,Regular Season - 29,487,Lazio,496,Juventus,2,1,HOME,910,Stadio Olimpico,M. Di Bello
+135,Serie A,Italy,2022,882071,2023-04-14T16:30:00+00:00,UTC,1681489800,Match Finished,FT,90,Regular Season - 30,520,Cremonese,511,Empoli,1,0,HOME,894,Stadio Giovanni Zini,L. Zufferli
+135,Serie A,Italy,2022,882078,2023-04-14T18:45:00+00:00,UTC,1681497900,Match Finished,FT,90,Regular Season - 30,515,Spezia,487,Lazio,0,3,AWAY,939,Stadio Alberto Picco,M. Irrati
+135,Serie A,Italy,2022,882070,2023-04-15T13:00:00+00:00,UTC,1681563600,Match Finished,FT,90,Regular Season - 30,500,Bologna,489,AC Milan,1,1,DRAW,881,Stadio Renato Dall'Ara,D. Massa
+135,Serie A,Italy,2022,882076,2023-04-15T16:00:00+00:00,UTC,1681574400,Match Finished,FT,90,Regular Season - 30,492,Napoli,504,Hellas Verona,0,0,DRAW,11904,Stadio Diego Armando Maradona,F. La Penna
+135,Serie A,Italy,2022,882072,2023-04-15T18:45:00+00:00,UTC,1681584300,Match Finished,FT,90,Regular Season - 30,505,Inter,1579,Monza,0,1,AWAY,907,Stadio Giuseppe Meazza,L. Pairetto
+135,Serie A,Italy,2022,882073,2023-04-16T10:30:00+00:00,UTC,1681641000,Match Finished,FT,90,Regular Season - 30,867,Lecce,498,Sampdoria,1,1,DRAW,911,Stadio Comunale Via del Mare,M. Mariani
+135,Serie A,Italy,2022,882079,2023-04-16T13:00:00+00:00,UTC,1681650000,Match Finished,FT,90,Regular Season - 30,503,Torino,514,Salernitana,1,1,DRAW,943,Stadio Olimpico Grande Torino,G. Aureliano
+135,Serie A,Italy,2022,882077,2023-04-16T16:00:00+00:00,UTC,1681660800,Match Finished,FT,90,Regular Season - 30,488,Sassuolo,496,Juventus,1,0,HOME,935,MAPEI Stadium - Città del Tricolore,A. Rapuano
+135,Serie A,Italy,2022,882074,2023-04-16T18:45:00+00:00,UTC,1681670700,Match Finished,FT,90,Regular Season - 30,497,AS Roma,494,Udinese,3,0,HOME,910,Stadio Olimpico,A. Giua
+135,Serie A,Italy,2022,882075,2023-04-17T18:45:00+00:00,UTC,1681757100,Match Finished,FT,90,Regular Season - 30,502,Fiorentina,499,Atalanta,1,1,DRAW,902,Stadio Artemio Franchi,M. Guida
+135,Serie A,Italy,2022,882086,2023-04-21T18:45:00+00:00,UTC,1682102700,Match Finished,FT,90,Regular Season - 31,504,Hellas Verona,500,Bologna,2,1,HOME,890,Stadio Marc'Antonio Bentegodi,M. Mariani
+135,Serie A,Italy,2022,882084,2023-04-22T13:00:00+00:00,UTC,1682168400,Match Finished,FT,90,Regular Season - 31,514,Salernitana,488,Sassuolo,3,0,HOME,933,Stadio Arechi,G. Camplone
+135,Serie A,Italy,2022,882083,2023-04-22T16:00:00+00:00,UTC,1682179200,Match Finished,FT,90,Regular Season - 31,487,Lazio,503,Torino,0,1,AWAY,910,Stadio Olimpico,D. Ghersini
+135,Serie A,Italy,2022,882085,2023-04-22T18:45:00+00:00,UTC,1682189100,Match Finished,FT,90,Regular Season - 31,498,Sampdoria,515,Spezia,1,1,DRAW,905,Stadio Comunale Luigi Ferraris,F. Maresca
+135,Serie A,Italy,2022,882081,2023-04-23T10:30:00+00:00,UTC,1682245800,Match Finished,FT,90,Regular Season - 31,511,Empoli,505,Inter,0,3,AWAY,896,Stadio Carlo Castellani,L. Marinelli
+135,Serie A,Italy,2022,882087,2023-04-23T13:00:00+00:00,UTC,1682254800,Match Finished,FT,90,Regular Season - 31,494,Udinese,520,Cremonese,3,0,HOME,928,Dacia Arena,F. Fourneau
+135,Serie A,Italy,2022,882088,2023-04-23T13:00:00+00:00,UTC,1682254800,Match Finished,FT,90,Regular Season - 31,1579,Monza,502,Fiorentina,3,2,HOME,12086,U-Power Stadium,J. Sacchi
+135,Serie A,Italy,2022,882089,2023-04-23T16:00:00+00:00,UTC,1682265600,Match Finished,FT,90,Regular Season - 31,489,AC Milan,867,Lecce,2,0,HOME,907,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2022,882082,2023-04-23T18:45:00+00:00,UTC,1682275500,Match Finished,FT,90,Regular Season - 31,496,Juventus,492,Napoli,0,1,AWAY,909,Allianz Stadium,M. Fabbri
+135,Serie A,Italy,2022,882080,2023-04-24T18:45:00+00:00,UTC,1682361900,Match Finished,FT,90,Regular Season - 31,499,Atalanta,497,AS Roma,3,1,HOME,879,Gewiss Stadium,M. Irrati
+135,Serie A,Italy,2022,882094,2023-04-28T16:30:00+00:00,UTC,1682699400,Match Finished,FT,90,Regular Season - 32,867,Lecce,494,Udinese,1,0,HOME,911,Stadio Comunale Via del Mare,M. Marchetti
+135,Serie A,Italy,2022,882099,2023-04-28T18:45:00+00:00,UTC,1682707500,Match Finished,FT,90,Regular Season - 32,515,Spezia,1579,Monza,0,2,AWAY,939,Stadio Alberto Picco,A. Rapuano
+135,Serie A,Italy,2022,882098,2023-04-29T16:00:00+00:00,UTC,1682784000,Match Finished,FT,90,Regular Season - 32,497,AS Roma,489,AC Milan,1,1,DRAW,910,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2022,882096,2023-04-29T18:45:00+00:00,UTC,1682793900,Match Finished,FT,90,Regular Season - 32,503,Torino,499,Atalanta,1,2,AWAY,943,Stadio Olimpico Grande Torino,J. Sacchi
+135,Serie A,Italy,2022,882093,2023-04-30T10:30:00+00:00,UTC,1682850600,Match Finished,FT,90,Regular Season - 32,505,Inter,487,Lazio,3,1,HOME,907,Stadio Giuseppe Meazza,M. Guida
+135,Serie A,Italy,2022,882097,2023-04-30T13:00:00+00:00,UTC,1682859600,Match Finished,FT,90,Regular Season - 32,488,Sassuolo,511,Empoli,2,1,HOME,935,MAPEI Stadium - Città del Tricolore,F. Dionisi
+135,Serie A,Italy,2022,882095,2023-04-30T13:00:00+00:00,UTC,1682859600,Match Finished,FT,90,Regular Season - 32,492,Napoli,514,Salernitana,1,1,DRAW,11904,Stadio Diego Armando Maradona,M. Marcenaro
+135,Serie A,Italy,2022,882091,2023-04-30T13:00:00+00:00,UTC,1682859600,Match Finished,FT,90,Regular Season - 32,520,Cremonese,504,Hellas Verona,1,1,DRAW,894,Stadio Giovanni Zini,D. Doveri
+135,Serie A,Italy,2022,882092,2023-04-30T16:00:00+00:00,UTC,1682870400,Match Finished,FT,90,Regular Season - 32,502,Fiorentina,498,Sampdoria,5,0,HOME,902,Stadio Artemio Franchi,A. Giua
+135,Serie A,Italy,2022,882090,2023-04-30T18:45:00+00:00,UTC,1682880300,Match Finished,FT,90,Regular Season - 32,500,Bologna,496,Juventus,1,1,DRAW,881,Stadio Renato Dall'Ara,S. Sozza
+135,Serie A,Italy,2022,882102,2023-05-03T16:00:00+00:00,UTC,1683129600,Match Finished,FT,90,Regular Season - 33,496,Juventus,867,Lecce,2,1,HOME,909,Allianz Stadium,F. Fourneau
+135,Serie A,Italy,2022,882105,2023-05-03T16:00:00+00:00,UTC,1683129600,Match Finished,FT,90,Regular Season - 33,498,Sampdoria,503,Torino,0,2,AWAY,905,Stadio Comunale Luigi Ferraris,G. Camplone
+135,Serie A,Italy,2022,882100,2023-05-03T16:00:00+00:00,UTC,1683129600,Match Finished,FT,90,Regular Season - 33,499,Atalanta,515,Spezia,3,2,HOME,879,Gewiss Stadium,L. Marinelli
+135,Serie A,Italy,2022,882108,2023-05-03T16:00:00+00:00,UTC,1683129600,Match Finished,FT,90,Regular Season - 33,514,Salernitana,502,Fiorentina,3,3,DRAW,933,Stadio Arechi,I. Pezzuto
+135,Serie A,Italy,2022,882103,2023-05-03T19:00:00+00:00,UTC,1683140400,Match Finished,FT,90,Regular Season - 33,487,Lazio,488,Sassuolo,2,0,HOME,910,Stadio Olimpico,M. Irrati
+135,Serie A,Italy,2022,882107,2023-05-03T19:00:00+00:00,UTC,1683140400,Match Finished,FT,90,Regular Season - 33,489,AC Milan,520,Cremonese,1,1,DRAW,907,Stadio Giuseppe Meazza,L. Pairetto
+135,Serie A,Italy,2022,882101,2023-05-03T19:00:00+00:00,UTC,1683140400,Match Finished,FT,90,Regular Season - 33,504,Hellas Verona,505,Inter,0,6,AWAY,890,Stadio Marc'Antonio Bentegodi,D. Orsato
+135,Serie A,Italy,2022,882104,2023-05-03T19:00:00+00:00,UTC,1683140400,Match Finished,FT,90,Regular Season - 33,1579,Monza,497,AS Roma,1,1,DRAW,12086,U-Power Stadium,D. Chiffi
+135,Serie A,Italy,2022,882109,2023-05-04T18:45:00+00:00,UTC,1683225900,Match Finished,FT,90,Regular Season - 33,494,Udinese,492,Napoli,1,1,DRAW,928,Dacia Arena,R. Abisso
+135,Serie A,Italy,2022,882106,2023-05-04T18:45:00+00:00,UTC,1683225900,Match Finished,FT,90,Regular Season - 33,511,Empoli,500,Bologna,3,1,HOME,896,Stadio Carlo Castellani,F. La Penna
+135,Serie A,Italy,2022,882117,2023-05-06T13:00:00+00:00,UTC,1683378000,Match Finished,FT,90,Regular Season - 34,489,AC Milan,487,Lazio,2,0,HOME,907,Stadio Giuseppe Meazza,A. Rapuano
+135,Serie A,Italy,2022,882116,2023-05-06T16:00:00+00:00,UTC,1683388800,Match Finished,FT,90,Regular Season - 34,497,AS Roma,505,Inter,0,2,AWAY,910,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2022,882111,2023-05-06T18:45:00+00:00,UTC,1683398700,Match Finished,FT,90,Regular Season - 34,520,Cremonese,515,Spezia,2,0,HOME,894,Stadio Giovanni Zini,M. Guida
+135,Serie A,Italy,2022,882110,2023-05-07T10:30:00+00:00,UTC,1683455400,Match Finished,FT,90,Regular Season - 34,499,Atalanta,496,Juventus,0,2,AWAY,879,Gewiss Stadium,D. Doveri
+135,Serie A,Italy,2022,882118,2023-05-07T13:00:00+00:00,UTC,1683464400,Match Finished,FT,90,Regular Season - 34,503,Torino,1579,Monza,1,1,DRAW,943,Stadio Olimpico Grande Torino,L. Zufferli
+135,Serie A,Italy,2022,882114,2023-05-07T16:00:00+00:00,UTC,1683475200,Match Finished,FT,90,Regular Season - 34,492,Napoli,502,Fiorentina,1,0,HOME,11904,Stadio Diego Armando Maradona,M. Marchetti
+135,Serie A,Italy,2022,882115,2023-05-07T18:45:00+00:00,UTC,1683485100,Match Finished,FT,90,Regular Season - 34,867,Lecce,504,Hellas Verona,0,1,AWAY,911,Stadio Comunale Via del Mare,D. Massa
+135,Serie A,Italy,2022,882119,2023-05-08T16:30:00+00:00,UTC,1683563400,Match Finished,FT,90,Regular Season - 34,494,Udinese,498,Sampdoria,2,0,HOME,928,Dacia Arena,N. Baroni
+135,Serie A,Italy,2022,882112,2023-05-08T16:30:00+00:00,UTC,1683563400,Match Finished,FT,90,Regular Season - 34,511,Empoli,514,Salernitana,2,1,HOME,896,Stadio Carlo Castellani,M. Volpi
+135,Serie A,Italy,2022,882113,2023-05-08T18:45:00+00:00,UTC,1683571500,Match Finished,FT,90,Regular Season - 34,488,Sassuolo,500,Bologna,1,1,DRAW,935,MAPEI Stadium - Città del Tricolore,M. Ferrieri Caputi
+135,Serie A,Italy,2022,882124,2023-05-12T18:45:00+00:00,UTC,1683917100,Match Finished,FT,90,Regular Season - 35,487,Lazio,867,Lecce,2,2,DRAW,910,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2022,882126,2023-05-13T13:00:00+00:00,UTC,1683982800,Match Finished,FT,90,Regular Season - 35,514,Salernitana,499,Atalanta,1,0,HOME,933,Stadio Arechi,M. Piccinini
+135,Serie A,Italy,2022,882129,2023-05-13T16:00:00+00:00,UTC,1683993600,Match Finished,FT,90,Regular Season - 35,515,Spezia,489,AC Milan,2,0,HOME,939,Stadio Alberto Picco,D. Doveri
+135,Serie A,Italy,2022,882123,2023-05-13T18:45:00+00:00,UTC,1684003500,Match Finished,FT,90,Regular Season - 35,505,Inter,488,Sassuolo,4,2,HOME,907,Stadio Giuseppe Meazza,M. Marcenaro
+135,Serie A,Italy,2022,882122,2023-05-14T10:30:00+00:00,UTC,1684060200,Match Finished,FT,90,Regular Season - 35,504,Hellas Verona,503,Torino,0,1,AWAY,890,Stadio Marc'Antonio Bentegodi,M. Di Bello
+135,Serie A,Italy,2022,882121,2023-05-14T13:00:00+00:00,UTC,1684069200,Match Finished,FT,90,Regular Season - 35,502,Fiorentina,494,Udinese,2,0,HOME,902,Stadio Artemio Franchi,D. Paterna
+135,Serie A,Italy,2022,882125,2023-05-14T13:00:00+00:00,UTC,1684069200,Match Finished,FT,90,Regular Season - 35,1579,Monza,492,Napoli,2,0,HOME,12086,U-Power Stadium,F. Cosso
+135,Serie A,Italy,2022,882120,2023-05-14T16:00:00+00:00,UTC,1684080000,Match Finished,FT,90,Regular Season - 35,500,Bologna,497,AS Roma,0,0,DRAW,881,Stadio Renato Dall'Ara,D. Orsato
+135,Serie A,Italy,2022,882127,2023-05-14T18:45:00+00:00,UTC,1684089900,Match Finished,FT,90,Regular Season - 35,496,Juventus,520,Cremonese,2,0,HOME,909,Allianz Stadium,D. Chiffi
+135,Serie A,Italy,2022,882128,2023-05-15T18:45:00+00:00,UTC,1684176300,Match Finished,FT,90,Regular Season - 35,498,Sampdoria,511,Empoli,1,1,DRAW,905,Stadio Comunale Luigi Ferraris,E. Feliciani
+135,Serie A,Italy,2022,882139,2023-05-19T18:45:00+00:00,UTC,1684521900,Match Finished,FT,90,Regular Season - 36,488,Sassuolo,1579,Monza,1,2,AWAY,935,MAPEI Stadium - Città del Tricolore,A. Santoro
+135,Serie A,Italy,2022,882135,2023-05-20T13:00:00+00:00,UTC,1684587600,Match Finished,FT,90,Regular Season - 36,520,Cremonese,500,Bologna,1,5,AWAY,894,Stadio Giovanni Zini,P. Valeri
+135,Serie A,Italy,2022,882130,2023-05-20T16:00:00+00:00,UTC,1684598400,Match Finished,FT,90,Regular Season - 36,499,Atalanta,504,Hellas Verona,3,1,HOME,879,Gewiss Stadium,S. Sozza
+135,Serie A,Italy,2022,882133,2023-05-20T18:45:00+00:00,UTC,1684608300,Match Finished,FT,90,Regular Season - 36,489,AC Milan,498,Sampdoria,5,1,HOME,907,Stadio Giuseppe Meazza,F. Fourneau
+135,Serie A,Italy,2022,882132,2023-05-21T10:30:00+00:00,UTC,1684665000,Match Finished,FT,90,Regular Season - 36,867,Lecce,515,Spezia,0,0,DRAW,911,Stadio Comunale Via del Mare,M. Mariani
+135,Serie A,Italy,2022,882136,2023-05-21T13:00:00+00:00,UTC,1684674000,Match Finished,FT,90,Regular Season - 36,503,Torino,502,Fiorentina,1,1,DRAW,943,Stadio Olimpico Grande Torino,L. Massimi
+135,Serie A,Italy,2022,882137,2023-05-21T16:00:00+00:00,UTC,1684684800,Match Finished,FT,90,Regular Season - 36,492,Napoli,505,Inter,3,1,HOME,11904,Stadio Diego Armando Maradona,L. Marinelli
+135,Serie A,Italy,2022,882138,2023-05-21T18:45:00+00:00,UTC,1684694700,Match Finished,FT,90,Regular Season - 36,494,Udinese,487,Lazio,0,1,AWAY,928,Dacia Arena,L. Pairetto
+135,Serie A,Italy,2022,882134,2023-05-22T16:30:00+00:00,UTC,1684773000,Match Finished,FT,90,Regular Season - 36,497,AS Roma,514,Salernitana,2,2,DRAW,910,Stadio Olimpico,A. Colombo
+135,Serie A,Italy,2022,882131,2023-05-22T18:45:00+00:00,UTC,1684781100,Match Finished,FT,90,Regular Season - 36,511,Empoli,496,Juventus,4,1,HOME,896,Stadio Carlo Castellani,G. Ayroldi
+135,Serie A,Italy,2022,882144,2023-05-26T18:45:00+00:00,UTC,1685126700,Match Finished,FT,90,Regular Season - 37,498,Sampdoria,488,Sassuolo,2,2,DRAW,905,Stadio Comunale Luigi Ferraris,F. Meraviglia
+135,Serie A,Italy,2022,882143,2023-05-27T13:00:00+00:00,UTC,1685192400,Match Finished,FT,90,Regular Season - 37,514,Salernitana,494,Udinese,3,2,HOME,933,Stadio Arechi,N. Baroni
+135,Serie A,Italy,2022,882145,2023-05-27T13:00:00+00:00,UTC,1685192400,Match Finished,FT,90,Regular Season - 37,515,Spezia,503,Torino,0,4,AWAY,939,Stadio Alberto Picco,M. Guida
+135,Serie A,Italy,2022,882141,2023-05-27T16:00:00+00:00,UTC,1685203200,Match Finished,FT,90,Regular Season - 37,502,Fiorentina,497,AS Roma,2,1,HOME,902,Stadio Artemio Franchi,G. Ayroldi
+135,Serie A,Italy,2022,882146,2023-05-27T18:45:00+00:00,UTC,1685213100,Match Finished,FT,90,Regular Season - 37,505,Inter,499,Atalanta,3,2,HOME,907,Stadio Giuseppe Meazza,D. Orsato
+135,Serie A,Italy,2022,882148,2023-05-28T10:30:00+00:00,UTC,1685269800,Match Finished,FT,90,Regular Season - 37,504,Hellas Verona,511,Empoli,1,1,DRAW,890,Stadio Marc'Antonio Bentegodi,D. Chiffi
+135,Serie A,Italy,2022,882140,2023-05-28T13:00:00+00:00,UTC,1685278800,Match Finished,FT,90,Regular Season - 37,500,Bologna,492,Napoli,2,2,DRAW,881,Stadio Renato Dall'Ara,M. Marcenaro
+135,Serie A,Italy,2022,882149,2023-05-28T13:00:00+00:00,UTC,1685278800,Match Finished,FT,90,Regular Season - 37,1579,Monza,867,Lecce,0,1,AWAY,12086,U-Power Stadium,D. Doveri
+135,Serie A,Italy,2022,882147,2023-05-28T16:00:00+00:00,UTC,1685289600,Match Finished,FT,90,Regular Season - 37,487,Lazio,520,Cremonese,3,2,HOME,910,Stadio Olimpico,A. Giua
+135,Serie A,Italy,2022,882142,2023-05-28T18:45:00+00:00,UTC,1685299500,Match Finished,FT,90,Regular Season - 37,496,Juventus,489,AC Milan,0,1,AWAY,909,Allianz Stadium,M. Mariani
+135,Serie A,Italy,2022,882156,2023-06-02T18:30:00+00:00,UTC,1685730600,Match Finished,FT,90,Regular Season - 38,488,Sassuolo,502,Fiorentina,1,3,AWAY,935,MAPEI Stadium - Città del Tricolore,M. Marchetti
+135,Serie A,Italy,2022,882158,2023-06-03T16:30:00+00:00,UTC,1685809800,Match Finished,FT,90,Regular Season - 38,503,Torino,505,Inter,0,1,AWAY,943,Stadio Olimpico Grande Torino,M. Fabbri
+135,Serie A,Italy,2022,882152,2023-06-03T19:00:00+00:00,UTC,1685818800,Match Finished,FT,90,Regular Season - 38,511,Empoli,487,Lazio,0,2,AWAY,896,Stadio Carlo Castellani,L. Massimi
+135,Serie A,Italy,2022,882151,2023-06-03T19:00:00+00:00,UTC,1685818800,Match Finished,FT,90,Regular Season - 38,520,Cremonese,514,Salernitana,2,0,HOME,894,Stadio Giovanni Zini,D. Perenzoni
+135,Serie A,Italy,2022,882153,2023-06-04T16:30:00+00:00,UTC,1685896200,Match Finished,FT,90,Regular Season - 38,492,Napoli,498,Sampdoria,2,0,HOME,11904,Stadio Diego Armando Maradona,E. Feliciani
+135,Serie A,Italy,2022,882157,2023-06-04T19:00:00+00:00,UTC,1685905200,Match Finished,FT,90,Regular Season - 38,489,AC Milan,504,Hellas Verona,3,1,HOME,907,Stadio Giuseppe Meazza,P. Valeri
+135,Serie A,Italy,2022,882159,2023-06-04T19:00:00+00:00,UTC,1685905200,Match Finished,FT,90,Regular Season - 38,494,Udinese,496,Juventus,0,1,AWAY,928,Dacia Arena,M. Guida
+135,Serie A,Italy,2022,882154,2023-06-04T19:00:00+00:00,UTC,1685905200,Match Finished,FT,90,Regular Season - 38,497,AS Roma,515,Spezia,2,1,HOME,910,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2022,882150,2023-06-04T19:00:00+00:00,UTC,1685905200,Match Finished,FT,90,Regular Season - 38,499,Atalanta,1579,Monza,5,2,HOME,879,Gewiss Stadium,M. Di Bello
+135,Serie A,Italy,2022,882155,2023-06-04T19:00:00+00:00,UTC,1685905200,Match Finished,FT,90,Regular Season - 38,867,Lecce,500,Bologna,2,3,AWAY,911,Stadio Comunale Via del Mare,M. Piccinini
+135,Serie A,Italy,2022,1030674,2023-06-11T18:45:00+00:00,UTC,1686509100,Match Finished,FT,90,Relegation Decider,515,Spezia,504,Hellas Verona,1,3,AWAY,935,MAPEI Stadium - Città del Tricolore,D. Orsato

@@ -1,0 +1,309 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+78,Bundesliga,Germany,2022,871164,2022-08-05T18:30:00+00:00,UTC,1659724200,Match Finished,FT,90,Regular Season - 1,169,Eintracht Frankfurt,157,Bayern Munich,1,6,AWAY,10491,Deutsche Bank Park,D. Aytekin
+78,Bundesliga,Germany,2022,871169,2022-08-06T13:30:00+00:00,UTC,1659792600,Match Finished,FT,90,Regular Season - 1,161,VfL Wolfsburg,162,Werder Bremen,2,2,DRAW,752,VOLKSWAGEN ARENA,S. Stegemann
+78,Bundesliga,Germany,2022,871168,2022-08-06T13:30:00+00:00,UTC,1659792600,Match Finished,FT,90,Regular Season - 1,163,Borussia Monchengladbach,167,1899 Hoffenheim,3,1,HOME,703,Stadion im BORUSSIA-PARK,D. Siebert
+78,Bundesliga,Germany,2022,871171,2022-08-06T13:30:00+00:00,UTC,1659792600,Match Finished,FT,90,Regular Season - 1,170,FC Augsburg,160,SC Freiburg,0,4,AWAY,698,WWK Arena,B. Dankert
+78,Bundesliga,Germany,2022,871170,2022-08-06T13:30:00+00:00,UTC,1659792600,Match Finished,FT,90,Regular Season - 1,176,Vfl Bochum,164,FSV Mainz 05,1,2,AWAY,751,Vonovia Ruhrstadion,F. Zwayer
+78,Bundesliga,Germany,2022,871166,2022-08-06T13:30:00+00:00,UTC,1659792600,Match Finished,FT,90,Regular Season - 1,182,Union Berlin,159,Hertha Berlin,3,1,HOME,748,Stadion An der Alten Försterei,M. Fritz
+78,Bundesliga,Germany,2022,871165,2022-08-06T16:30:00+00:00,UTC,1659803400,Match Finished,FT,90,Regular Season - 1,165,Borussia Dortmund,168,Bayer Leverkusen,1,0,HOME,19381,SIGNAL IDUNA PARK,F. Brych
+78,Bundesliga,Germany,2022,871172,2022-08-07T13:30:00+00:00,UTC,1659879000,Match Finished,FT,90,Regular Season - 1,172,VfB Stuttgart,173,RB Leipzig,1,1,DRAW,750,Mercedes-Benz-Arena,T. Stieler
+78,Bundesliga,Germany,2022,871167,2022-08-07T15:30:00+00:00,UTC,1659886200,Match Finished,FT,90,Regular Season - 1,192,1. FC Köln,174,FC Schalke 04,3,1,HOME,731,RheinEnergieStadion,R. Schröder
+78,Bundesliga,Germany,2022,871176,2022-08-12T18:30:00+00:00,UTC,1660329000,Match Finished,FT,90,Regular Season - 2,160,SC Freiburg,165,Borussia Dortmund,1,3,AWAY,12717,Europa-Park Stadion,T. Welz
+78,Bundesliga,Germany,2022,871179,2022-08-13T13:30:00+00:00,UTC,1660397400,Match Finished,FT,90,Regular Season - 2,159,Hertha Berlin,169,Eintracht Frankfurt,1,1,DRAW,694,Olympiastadion Berlin,F. Willenborg
+78,Bundesliga,Germany,2022,871181,2022-08-13T13:30:00+00:00,UTC,1660397400,Match Finished,FT,90,Regular Season - 2,162,Werder Bremen,172,VfB Stuttgart,2,2,DRAW,755,wohninvest WESERSTADION,R. Hartmann
+78,Bundesliga,Germany,2022,871178,2022-08-13T13:30:00+00:00,UTC,1660397400,Match Finished,FT,90,Regular Season - 2,167,1899 Hoffenheim,176,Vfl Bochum,3,2,HOME,724,PreZero Arena,P. Ittrich
+78,Bundesliga,Germany,2022,871174,2022-08-13T13:30:00+00:00,UTC,1660397400,Match Finished,FT,90,Regular Season - 2,168,Bayer Leverkusen,170,FC Augsburg,1,2,AWAY,699,BayArena,B. Cortus
+78,Bundesliga,Germany,2022,871175,2022-08-13T13:30:00+00:00,UTC,1660397400,Match Finished,FT,90,Regular Season - 2,173,RB Leipzig,192,1. FC Köln,2,2,DRAW,738,Red Bull Arena,B. Brand
+78,Bundesliga,Germany,2022,871180,2022-08-13T16:30:00+00:00,UTC,1660408200,Match Finished,FT,90,Regular Season - 2,174,FC Schalke 04,163,Borussia Monchengladbach,2,2,DRAW,741,VELTINS-Arena,S. Jablonski
+78,Bundesliga,Germany,2022,871177,2022-08-14T13:30:00+00:00,UTC,1660483800,Match Finished,FT,90,Regular Season - 2,164,FSV Mainz 05,182,Union Berlin,0,0,DRAW,11899,MEWA ARENA,D. Schlager
+78,Bundesliga,Germany,2022,871173,2022-08-14T15:30:00+00:00,UTC,1660491000,Match Finished,FT,90,Regular Season - 2,157,Bayern Munich,161,VfL Wolfsburg,2,0,HOME,700,Allianz Arena,H. Osmers
+78,Bundesliga,Germany,2022,871185,2022-08-19T18:30:00+00:00,UTC,1660933800,Match Finished,FT,90,Regular Season - 3,163,Borussia Monchengladbach,159,Hertha Berlin,1,0,HOME,703,Stadion im BORUSSIA-PARK,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871187,2022-08-20T13:30:00+00:00,UTC,1661002200,Match Finished,FT,90,Regular Season - 3,161,VfL Wolfsburg,174,FC Schalke 04,0,0,DRAW,752,VOLKSWAGEN ARENA,F. Zwayer
+78,Bundesliga,Germany,2022,871182,2022-08-20T13:30:00+00:00,UTC,1661002200,Match Finished,FT,90,Regular Season - 3,165,Borussia Dortmund,162,Werder Bremen,2,3,AWAY,19381,SIGNAL IDUNA PARK,F. Badstübner
+78,Bundesliga,Germany,2022,871183,2022-08-20T13:30:00+00:00,UTC,1661002200,Match Finished,FT,90,Regular Season - 3,168,Bayer Leverkusen,167,1899 Hoffenheim,0,3,AWAY,699,BayArena,T. Reichel
+78,Bundesliga,Germany,2022,871189,2022-08-20T13:30:00+00:00,UTC,1661002200,Match Finished,FT,90,Regular Season - 3,170,FC Augsburg,164,FSV Mainz 05,1,2,AWAY,698,WWK Arena,S. Stegemann
+78,Bundesliga,Germany,2022,871190,2022-08-20T13:30:00+00:00,UTC,1661002200,Match Finished,FT,90,Regular Season - 3,172,VfB Stuttgart,160,SC Freiburg,0,1,AWAY,750,Mercedes-Benz-Arena,F. Brych
+78,Bundesliga,Germany,2022,871184,2022-08-20T16:30:00+00:00,UTC,1661013000,Match Finished,FT,90,Regular Season - 3,182,Union Berlin,173,RB Leipzig,2,1,HOME,748,Stadion An der Alten Försterei,D. Aytekin
+78,Bundesliga,Germany,2022,871186,2022-08-21T13:30:00+00:00,UTC,1661088600,Match Finished,FT,90,Regular Season - 3,169,Eintracht Frankfurt,192,1. FC Köln,1,1,DRAW,10491,Deutsche Bank Park,M. Petersen
+78,Bundesliga,Germany,2022,871188,2022-08-21T15:30:00+00:00,UTC,1661095800,Match Finished,FT,90,Regular Season - 3,176,Vfl Bochum,157,Bayern Munich,0,7,AWAY,751,Vonovia Ruhrstadion,D. Siebert
+78,Bundesliga,Germany,2022,871193,2022-08-26T18:30:00+00:00,UTC,1661538600,Match Finished,FT,90,Regular Season - 4,160,SC Freiburg,176,Vfl Bochum,1,0,HOME,12717,Europa-Park Stadion,M. Fritz
+78,Bundesliga,Germany,2022,871197,2022-08-27T13:30:00+00:00,UTC,1661607000,Match Finished,FT,90,Regular Season - 4,159,Hertha Berlin,165,Borussia Dortmund,0,1,AWAY,694,Olympiastadion Berlin,T. Stieler
+78,Bundesliga,Germany,2022,871195,2022-08-27T13:30:00+00:00,UTC,1661607000,Match Finished,FT,90,Regular Season - 4,164,FSV Mainz 05,168,Bayer Leverkusen,0,3,AWAY,11899,MEWA ARENA,C. Dingert
+78,Bundesliga,Germany,2022,871196,2022-08-27T13:30:00+00:00,UTC,1661607000,Match Finished,FT,90,Regular Season - 4,167,1899 Hoffenheim,170,FC Augsburg,1,0,HOME,724,PreZero Arena,T. Welz
+78,Bundesliga,Germany,2022,871192,2022-08-27T13:30:00+00:00,UTC,1661607000,Match Finished,FT,90,Regular Season - 4,173,RB Leipzig,161,VfL Wolfsburg,2,0,HOME,738,Red Bull Arena,B. Dankert
+78,Bundesliga,Germany,2022,871198,2022-08-27T13:30:00+00:00,UTC,1661607000,Match Finished,FT,90,Regular Season - 4,174,FC Schalke 04,182,Union Berlin,1,6,AWAY,741,VELTINS-Arena,R. Hartmann
+78,Bundesliga,Germany,2022,871191,2022-08-27T16:30:00+00:00,UTC,1661617800,Match Finished,FT,90,Regular Season - 4,157,Bayern Munich,163,Borussia Monchengladbach,1,1,DRAW,700,Allianz Arena,D. Schlager
+78,Bundesliga,Germany,2022,871194,2022-08-28T13:30:00+00:00,UTC,1661693400,Match Finished,FT,90,Regular Season - 4,192,1. FC Köln,172,VfB Stuttgart,0,0,DRAW,731,RheinEnergieStadion,H. Osmers
+78,Bundesliga,Germany,2022,871199,2022-08-28T15:30:00+00:00,UTC,1661700600,Match Finished,FT,90,Regular Season - 4,162,Werder Bremen,169,Eintracht Frankfurt,3,4,AWAY,755,wohninvest WESERSTADION,P. Ittrich
+78,Bundesliga,Germany,2022,871200,2022-09-02T18:30:00+00:00,UTC,1662143400,Match Finished,FT,90,Regular Season - 5,165,Borussia Dortmund,167,1899 Hoffenheim,1,0,HOME,19381,SIGNAL IDUNA PARK,D. Siebert
+78,Bundesliga,Germany,2022,871205,2022-09-03T13:30:00+00:00,UTC,1662211800,Match Finished,FT,90,Regular Season - 5,161,VfL Wolfsburg,192,1. FC Köln,2,4,AWAY,752,VOLKSWAGEN ARENA,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871201,2022-09-03T13:30:00+00:00,UTC,1662211800,Match Finished,FT,90,Regular Season - 5,168,Bayer Leverkusen,160,SC Freiburg,2,3,AWAY,699,BayArena,S. Stegemann
+78,Bundesliga,Germany,2022,871208,2022-09-03T13:30:00+00:00,UTC,1662211800,Match Finished,FT,90,Regular Season - 5,172,VfB Stuttgart,174,FC Schalke 04,1,1,DRAW,750,Mercedes-Benz-Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871206,2022-09-03T13:30:00+00:00,UTC,1662211800,Match Finished,FT,90,Regular Season - 5,176,Vfl Bochum,162,Werder Bremen,0,2,AWAY,751,Vonovia Ruhrstadion,R. Schröder
+78,Bundesliga,Germany,2022,871202,2022-09-03T13:30:00+00:00,UTC,1662211800,Match Finished,FT,90,Regular Season - 5,182,Union Berlin,157,Bayern Munich,1,1,DRAW,748,Stadion An der Alten Försterei,F. Willenborg
+78,Bundesliga,Germany,2022,871204,2022-09-03T16:30:00+00:00,UTC,1662222600,Match Finished,FT,90,Regular Season - 5,169,Eintracht Frankfurt,173,RB Leipzig,4,0,HOME,10491,Deutsche Bank Park,F. Brych
+78,Bundesliga,Germany,2022,871207,2022-09-04T13:30:00+00:00,UTC,1662298200,Match Finished,FT,90,Regular Season - 5,170,FC Augsburg,159,Hertha Berlin,0,2,AWAY,698,WWK Arena,H. Osmers
+78,Bundesliga,Germany,2022,871203,2022-09-04T15:30:00+00:00,UTC,1662305400,Match Finished,FT,90,Regular Season - 5,163,Borussia Monchengladbach,164,FSV Mainz 05,0,1,AWAY,703,Stadion im BORUSSIA-PARK,D. Aytekin
+78,Bundesliga,Germany,2022,871217,2022-09-09T18:30:00+00:00,UTC,1662748200,Match Finished,FT,90,Regular Season - 6,162,Werder Bremen,170,FC Augsburg,0,1,AWAY,755,wohninvest WESERSTADION,M. Petersen
+78,Bundesliga,Germany,2022,871209,2022-09-10T13:30:00+00:00,UTC,1662816600,Match Finished,FT,90,Regular Season - 6,157,Bayern Munich,172,VfB Stuttgart,2,2,DRAW,700,Allianz Arena,C. Dingert
+78,Bundesliga,Germany,2022,871215,2022-09-10T13:30:00+00:00,UTC,1662816600,Match Finished,FT,90,Regular Season - 6,159,Hertha Berlin,168,Bayer Leverkusen,2,2,DRAW,694,Olympiastadion Berlin,B. Brand
+78,Bundesliga,Germany,2022,871213,2022-09-10T13:30:00+00:00,UTC,1662816600,Match Finished,FT,90,Regular Season - 6,167,1899 Hoffenheim,164,FSV Mainz 05,4,1,HOME,724,PreZero Arena,D. Schlager
+78,Bundesliga,Germany,2022,871214,2022-09-10T13:30:00+00:00,UTC,1662816600,Match Finished,FT,90,Regular Season - 6,169,Eintracht Frankfurt,161,VfL Wolfsburg,0,1,AWAY,10491,Deutsche Bank Park,T. Reichel
+78,Bundesliga,Germany,2022,871210,2022-09-10T13:30:00+00:00,UTC,1662816600,Match Finished,FT,90,Regular Season - 6,173,RB Leipzig,165,Borussia Dortmund,3,0,HOME,738,Red Bull Arena,S. Jablonski
+78,Bundesliga,Germany,2022,871216,2022-09-10T16:30:00+00:00,UTC,1662827400,Match Finished,FT,90,Regular Season - 6,174,FC Schalke 04,176,Vfl Bochum,3,1,HOME,741,VELTINS-Arena,F. Zwayer
+78,Bundesliga,Germany,2022,871212,2022-09-11T13:30:00+00:00,UTC,1662903000,Match Finished,FT,90,Regular Season - 6,192,1. FC Köln,182,Union Berlin,0,1,AWAY,731,RheinEnergieStadion,B. Cortus
+78,Bundesliga,Germany,2022,871211,2022-09-11T15:30:00+00:00,UTC,1662910200,Match Finished,FT,90,Regular Season - 6,160,SC Freiburg,163,Borussia Monchengladbach,0,0,DRAW,12717,Europa-Park Stadion,T. Stieler
+78,Bundesliga,Germany,2022,871222,2022-09-16T18:30:00+00:00,UTC,1663353000,Match Finished,FT,90,Regular Season - 7,164,FSV Mainz 05,159,Hertha Berlin,1,1,DRAW,11899,MEWA ARENA,F. Willenborg
+78,Bundesliga,Germany,2022,871226,2022-09-17T13:30:00+00:00,UTC,1663421400,Match Finished,FT,90,Regular Season - 7,165,Borussia Dortmund,174,FC Schalke 04,1,0,HOME,19381,SIGNAL IDUNA PARK,F. Brych
+78,Bundesliga,Germany,2022,871220,2022-09-17T13:30:00+00:00,UTC,1663421400,Match Finished,FT,90,Regular Season - 7,168,Bayer Leverkusen,162,Werder Bremen,1,1,DRAW,699,BayArena,T. Welz
+78,Bundesliga,Germany,2022,871218,2022-09-17T13:30:00+00:00,UTC,1663421400,Match Finished,FT,90,Regular Season - 7,170,FC Augsburg,157,Bayern Munich,1,0,HOME,698,WWK Arena,M. Fritz
+78,Bundesliga,Germany,2022,871225,2022-09-17T13:30:00+00:00,UTC,1663421400,Match Finished,FT,90,Regular Season - 7,172,VfB Stuttgart,169,Eintracht Frankfurt,1,3,AWAY,750,Mercedes-Benz-Arena,D. Siebert
+78,Bundesliga,Germany,2022,871219,2022-09-17T16:30:00+00:00,UTC,1663432200,Match Finished,FT,90,Regular Season - 7,163,Borussia Monchengladbach,173,RB Leipzig,3,0,HOME,703,Stadion im BORUSSIA-PARK,P. Ittrich
+78,Bundesliga,Germany,2022,871221,2022-09-18T13:30:00+00:00,UTC,1663507800,Match Finished,FT,90,Regular Season - 7,182,Union Berlin,161,VfL Wolfsburg,2,0,HOME,748,Stadion An der Alten Försterei,R. Schröder
+78,Bundesliga,Germany,2022,871223,2022-09-18T15:30:00+00:00,UTC,1663515000,Match Finished,FT,90,Regular Season - 7,176,Vfl Bochum,192,1. FC Köln,1,1,DRAW,751,Vonovia Ruhrstadion,B. Dankert
+78,Bundesliga,Germany,2022,871224,2022-09-18T17:30:00+00:00,UTC,1663522200,Match Finished,FT,90,Regular Season - 7,167,1899 Hoffenheim,160,SC Freiburg,0,0,DRAW,724,PreZero Arena,D. Aytekin
+78,Bundesliga,Germany,2022,871227,2022-09-30T18:30:00+00:00,UTC,1664562600,Match Finished,FT,90,Regular Season - 8,157,Bayern Munich,168,Bayer Leverkusen,4,0,HOME,700,Allianz Arena,T. Stieler
+78,Bundesliga,Germany,2022,871229,2022-10-01T13:30:00+00:00,UTC,1664631000,Match Finished,FT,90,Regular Season - 8,160,SC Freiburg,164,FSV Mainz 05,2,1,HOME,12717,Europa-Park Stadion,S. Jablonski
+78,Bundesliga,Germany,2022,871232,2022-10-01T13:30:00+00:00,UTC,1664631000,Match Finished,FT,90,Regular Season - 8,161,VfL Wolfsburg,172,VfB Stuttgart,3,2,HOME,752,VOLKSWAGEN ARENA,F. Zwayer
+78,Bundesliga,Germany,2022,871231,2022-10-01T13:30:00+00:00,UTC,1664631000,Match Finished,FT,90,Regular Season - 8,169,Eintracht Frankfurt,182,Union Berlin,2,0,HOME,10491,Deutsche Bank Park,S. Stegemann
+78,Bundesliga,Germany,2022,871228,2022-10-01T13:30:00+00:00,UTC,1664631000,Match Finished,FT,90,Regular Season - 8,173,RB Leipzig,176,Vfl Bochum,4,0,HOME,738,Red Bull Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871230,2022-10-01T13:30:00+00:00,UTC,1664631000,Match Finished,FT,90,Regular Season - 8,192,1. FC Köln,165,Borussia Dortmund,3,2,HOME,731,RheinEnergieStadion,H. Osmers
+78,Bundesliga,Germany,2022,871235,2022-10-01T16:30:00+00:00,UTC,1664641800,Match Finished,FT,90,Regular Season - 8,162,Werder Bremen,163,Borussia Monchengladbach,5,1,HOME,755,wohninvest WESERSTADION,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871233,2022-10-02T13:30:00+00:00,UTC,1664717400,Match Finished,FT,90,Regular Season - 8,159,Hertha Berlin,167,1899 Hoffenheim,1,1,DRAW,694,Olympiastadion Berlin,C. Dingert
+78,Bundesliga,Germany,2022,871234,2022-10-02T15:30:00+00:00,UTC,1664724600,Match Finished,FT,90,Regular Season - 8,174,FC Schalke 04,170,FC Augsburg,2,3,AWAY,741,VELTINS-Arena,D. Schlager
+78,Bundesliga,Germany,2022,871239,2022-10-07T18:30:00+00:00,UTC,1665167400,Match Finished,FT,90,Regular Season - 9,167,1899 Hoffenheim,162,Werder Bremen,1,2,AWAY,724,PreZero Arena,B. Cortus
+78,Bundesliga,Germany,2022,871238,2022-10-08T13:30:00+00:00,UTC,1665235800,Match Finished,FT,90,Regular Season - 9,164,FSV Mainz 05,173,RB Leipzig,1,1,DRAW,11899,MEWA ARENA,F. Brych
+78,Bundesliga,Germany,2022,871237,2022-10-08T13:30:00+00:00,UTC,1665235800,Match Finished,FT,90,Regular Season - 9,168,Bayer Leverkusen,174,FC Schalke 04,4,0,HOME,699,BayArena,T. Reichel
+78,Bundesliga,Germany,2022,871242,2022-10-08T13:30:00+00:00,UTC,1665235800,Match Finished,FT,90,Regular Season - 9,170,FC Augsburg,161,VfL Wolfsburg,1,1,DRAW,698,WWK Arena,D. Siebert
+78,Bundesliga,Germany,2022,871241,2022-10-08T13:30:00+00:00,UTC,1665235800,Match Finished,FT,90,Regular Season - 9,176,Vfl Bochum,169,Eintracht Frankfurt,3,0,HOME,751,Vonovia Ruhrstadion,M. Petersen
+78,Bundesliga,Germany,2022,871236,2022-10-08T16:30:00+00:00,UTC,1665246600,Match Finished,FT,90,Regular Season - 9,165,Borussia Dortmund,157,Bayern Munich,2,2,DRAW,19381,SIGNAL IDUNA PARK,D. Aytekin
+78,Bundesliga,Germany,2022,871240,2022-10-09T13:30:00+00:00,UTC,1665322200,Match Finished,FT,90,Regular Season - 9,163,Borussia Monchengladbach,192,1. FC Köln,5,2,HOME,703,Stadion im BORUSSIA-PARK,S. Jablonski
+78,Bundesliga,Germany,2022,871244,2022-10-09T15:30:00+00:00,UTC,1665329400,Match Finished,FT,90,Regular Season - 9,159,Hertha Berlin,160,SC Freiburg,2,2,DRAW,694,Olympiastadion Berlin,R. Schröder
+78,Bundesliga,Germany,2022,871243,2022-10-09T17:30:00+00:00,UTC,1665336600,Match Finished,FT,90,Regular Season - 9,172,VfB Stuttgart,182,Union Berlin,0,1,AWAY,750,Mercedes-Benz-Arena,B. Dankert
+78,Bundesliga,Germany,2022,871252,2022-10-14T18:30:00+00:00,UTC,1665772200,Match Finished,FT,90,Regular Season - 10,174,FC Schalke 04,167,1899 Hoffenheim,0,3,AWAY,741,VELTINS-Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871250,2022-10-15T13:30:00+00:00,UTC,1665840600,Match Finished,FT,90,Regular Season - 10,161,VfL Wolfsburg,163,Borussia Monchengladbach,2,2,DRAW,752,VOLKSWAGEN ARENA,B. Cortus
+78,Bundesliga,Germany,2022,871253,2022-10-15T13:30:00+00:00,UTC,1665840600,Match Finished,FT,90,Regular Season - 10,162,Werder Bremen,164,FSV Mainz 05,0,2,AWAY,755,wohninvest WESERSTADION,R. Hartmann
+78,Bundesliga,Germany,2022,871249,2022-10-15T13:30:00+00:00,UTC,1665840600,Match Finished,FT,90,Regular Season - 10,169,Eintracht Frankfurt,168,Bayer Leverkusen,5,1,HOME,10491,Deutsche Bank Park,F. Willenborg
+78,Bundesliga,Germany,2022,871251,2022-10-15T13:30:00+00:00,UTC,1665840600,Match Finished,FT,90,Regular Season - 10,172,VfB Stuttgart,176,Vfl Bochum,4,1,HOME,750,Mercedes-Benz-Arena,C. Dingert
+78,Bundesliga,Germany,2022,871246,2022-10-15T16:30:00+00:00,UTC,1665851400,Match Finished,FT,90,Regular Season - 10,173,RB Leipzig,159,Hertha Berlin,3,2,HOME,738,Red Bull Arena,H. Osmers
+78,Bundesliga,Germany,2022,871248,2022-10-16T13:30:00+00:00,UTC,1665927000,Match Finished,FT,90,Regular Season - 10,192,1. FC Köln,170,FC Augsburg,3,2,HOME,731,RheinEnergieStadion,F. Zwayer
+78,Bundesliga,Germany,2022,871247,2022-10-16T15:30:00+00:00,UTC,1665934200,Match Finished,FT,90,Regular Season - 10,182,Union Berlin,165,Borussia Dortmund,2,0,HOME,748,Stadion An der Alten Försterei,T. Stieler
+78,Bundesliga,Germany,2022,871245,2022-10-16T17:30:00+00:00,UTC,1665941400,Match Finished,FT,90,Regular Season - 10,157,Bayern Munich,160,SC Freiburg,5,0,HOME,700,Allianz Arena,S. Stegemann
+78,Bundesliga,Germany,2022,871257,2022-10-21T18:30:00+00:00,UTC,1666377000,Match Finished,FT,90,Regular Season - 11,164,FSV Mainz 05,192,1. FC Köln,5,0,HOME,11899,MEWA ARENA,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871256,2022-10-22T13:30:00+00:00,UTC,1666445400,Match Finished,FT,90,Regular Season - 11,160,SC Freiburg,162,Werder Bremen,2,0,HOME,12717,Europa-Park Stadion,B. Dankert
+78,Bundesliga,Germany,2022,871254,2022-10-22T13:30:00+00:00,UTC,1666445400,Match Finished,FT,90,Regular Season - 11,165,Borussia Dortmund,172,VfB Stuttgart,5,0,HOME,19381,SIGNAL IDUNA PARK,D. Schlager
+78,Bundesliga,Germany,2022,871258,2022-10-22T13:30:00+00:00,UTC,1666445400,Match Finished,FT,90,Regular Season - 11,167,1899 Hoffenheim,157,Bayern Munich,0,2,AWAY,724,PreZero Arena,S. Jablonski
+78,Bundesliga,Germany,2022,871255,2022-10-22T13:30:00+00:00,UTC,1666445400,Match Finished,FT,90,Regular Season - 11,168,Bayer Leverkusen,161,VfL Wolfsburg,2,2,DRAW,699,BayArena,F. Brych
+78,Bundesliga,Germany,2022,871261,2022-10-22T13:30:00+00:00,UTC,1666445400,Match Finished,FT,90,Regular Season - 11,170,FC Augsburg,173,RB Leipzig,3,3,DRAW,698,WWK Arena,R. Schröder
+78,Bundesliga,Germany,2022,871259,2022-10-22T16:30:00+00:00,UTC,1666456200,Match Finished,FT,90,Regular Season - 11,163,Borussia Monchengladbach,169,Eintracht Frankfurt,1,3,AWAY,703,Stadion im BORUSSIA-PARK,D. Siebert
+78,Bundesliga,Germany,2022,871260,2022-10-23T13:30:00+00:00,UTC,1666531800,Match Finished,FT,90,Regular Season - 11,176,Vfl Bochum,182,Union Berlin,2,1,HOME,751,Vonovia Ruhrstadion,D. Aytekin
+78,Bundesliga,Germany,2022,871262,2022-10-23T15:30:00+00:00,UTC,1666539000,Match Finished,FT,90,Regular Season - 11,159,Hertha Berlin,174,FC Schalke 04,2,1,HOME,694,Olympiastadion Berlin,M. Petersen
+78,Bundesliga,Germany,2022,871271,2022-10-28T18:30:00+00:00,UTC,1666981800,Match Finished,FT,90,Regular Season - 12,162,Werder Bremen,159,Hertha Berlin,1,0,HOME,755,wohninvest WESERSTADION,T. Reichel
+78,Bundesliga,Germany,2022,871263,2022-10-29T13:30:00+00:00,UTC,1667050200,Match Finished,FT,90,Regular Season - 12,157,Bayern Munich,164,FSV Mainz 05,6,2,HOME,700,Allianz Arena,B. Cortus
+78,Bundesliga,Germany,2022,871268,2022-10-29T13:30:00+00:00,UTC,1667050200,Match Finished,FT,90,Regular Season - 12,161,VfL Wolfsburg,176,Vfl Bochum,4,0,HOME,752,VOLKSWAGEN ARENA,R. Hartmann
+78,Bundesliga,Germany,2022,871269,2022-10-29T13:30:00+00:00,UTC,1667050200,Match Finished,FT,90,Regular Season - 12,172,VfB Stuttgart,170,FC Augsburg,2,1,HOME,750,Mercedes-Benz-Arena,T. Stieler
+78,Bundesliga,Germany,2022,871264,2022-10-29T13:30:00+00:00,UTC,1667050200,Match Finished,FT,90,Regular Season - 12,173,RB Leipzig,168,Bayer Leverkusen,2,0,HOME,738,Red Bull Arena,S. Jablonski
+78,Bundesliga,Germany,2022,871267,2022-10-29T16:30:00+00:00,UTC,1667061000,Match Finished,FT,90,Regular Season - 12,169,Eintracht Frankfurt,165,Borussia Dortmund,1,2,AWAY,10491,Deutsche Bank Park,S. Stegemann
+78,Bundesliga,Germany,2022,871265,2022-10-30T14:30:00+00:00,UTC,1667140200,Match Finished,FT,90,Regular Season - 12,182,Union Berlin,163,Borussia Monchengladbach,2,1,HOME,748,Stadion An der Alten Försterei,H. Osmers
+78,Bundesliga,Germany,2022,871270,2022-10-30T16:30:00+00:00,UTC,1667147400,Match Finished,FT,90,Regular Season - 12,174,FC Schalke 04,160,SC Freiburg,0,2,AWAY,741,VELTINS-Arena,C. Dingert
+78,Bundesliga,Germany,2022,871266,2022-10-30T18:30:00+00:00,UTC,1667154600,Match Finished,FT,90,Regular Season - 12,192,1. FC Köln,167,1899 Hoffenheim,1,1,DRAW,731,RheinEnergieStadion,F. Willenborg
+78,Bundesliga,Germany,2022,871277,2022-11-04T19:30:00+00:00,UTC,1667590200,Match Finished,FT,90,Regular Season - 13,163,Borussia Monchengladbach,172,VfB Stuttgart,3,1,HOME,703,Stadion im BORUSSIA-PARK,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871279,2022-11-05T14:30:00+00:00,UTC,1667658600,Match Finished,FT,90,Regular Season - 13,159,Hertha Berlin,157,Bayern Munich,2,3,AWAY,694,Olympiastadion Berlin,B. Dankert
+78,Bundesliga,Germany,2022,871275,2022-11-05T14:30:00+00:00,UTC,1667658600,Match Finished,FT,90,Regular Season - 13,164,FSV Mainz 05,161,VfL Wolfsburg,0,3,AWAY,11899,MEWA ARENA,D. Siebert
+78,Bundesliga,Germany,2022,871272,2022-11-05T14:30:00+00:00,UTC,1667658600,Match Finished,FT,90,Regular Season - 13,165,Borussia Dortmund,176,Vfl Bochum,3,0,HOME,19381,SIGNAL IDUNA PARK,T. Stieler
+78,Bundesliga,Germany,2022,871276,2022-11-05T14:30:00+00:00,UTC,1667658600,Match Finished,FT,90,Regular Season - 13,167,1899 Hoffenheim,173,RB Leipzig,1,3,AWAY,724,PreZero Arena,M. Petersen
+78,Bundesliga,Germany,2022,871278,2022-11-05T14:30:00+00:00,UTC,1667658600,Match Finished,FT,90,Regular Season - 13,170,FC Augsburg,169,Eintracht Frankfurt,1,2,AWAY,698,WWK Arena,D. Aytekin
+78,Bundesliga,Germany,2022,871280,2022-11-05T17:30:00+00:00,UTC,1667669400,Match Finished,FT,90,Regular Season - 13,162,Werder Bremen,174,FC Schalke 04,2,1,HOME,755,wohninvest WESERSTADION,F. Brych
+78,Bundesliga,Germany,2022,871273,2022-11-06T14:30:00+00:00,UTC,1667745000,Match Finished,FT,90,Regular Season - 13,168,Bayer Leverkusen,182,Union Berlin,5,0,HOME,699,BayArena,R. Schröder
+78,Bundesliga,Germany,2022,871274,2022-11-06T16:30:00+00:00,UTC,1667752200,Match Finished,FT,90,Regular Season - 13,160,SC Freiburg,192,1. FC Köln,2,0,HOME,12717,Europa-Park Stadion,F. Badstübner
+78,Bundesliga,Germany,2022,871286,2022-11-08T17:30:00+00:00,UTC,1667928600,Match Finished,FT,90,Regular Season - 14,161,VfL Wolfsburg,165,Borussia Dortmund,2,0,HOME,752,VOLKSWAGEN ARENA,C. Dingert
+78,Bundesliga,Germany,2022,871281,2022-11-08T19:30:00+00:00,UTC,1667935800,Match Finished,FT,90,Regular Season - 14,157,Bayern Munich,162,Werder Bremen,6,1,HOME,700,Allianz Arena,R. Hartmann
+78,Bundesliga,Germany,2022,871288,2022-11-08T19:30:00+00:00,UTC,1667935800,Match Finished,FT,90,Regular Season - 14,172,VfB Stuttgart,159,Hertha Berlin,2,1,HOME,750,Mercedes-Benz-Arena,F. Willenborg
+78,Bundesliga,Germany,2022,871287,2022-11-08T19:30:00+00:00,UTC,1667935800,Match Finished,FT,90,Regular Season - 14,176,Vfl Bochum,163,Borussia Monchengladbach,2,1,HOME,751,Vonovia Ruhrstadion,D. Schlager
+78,Bundesliga,Germany,2022,871284,2022-11-09T17:30:00+00:00,UTC,1668015000,Match Finished,FT,90,Regular Season - 14,192,1. FC Köln,168,Bayer Leverkusen,1,2,AWAY,731,RheinEnergieStadion,T. Stieler
+78,Bundesliga,Germany,2022,871285,2022-11-09T19:30:00+00:00,UTC,1668022200,Match Finished,FT,90,Regular Season - 14,169,Eintracht Frankfurt,167,1899 Hoffenheim,4,2,HOME,10491,Deutsche Bank Park,F. Zwayer
+78,Bundesliga,Germany,2022,871282,2022-11-09T19:30:00+00:00,UTC,1668022200,Match Finished,FT,90,Regular Season - 14,173,RB Leipzig,160,SC Freiburg,3,1,HOME,738,Red Bull Arena,H. Osmers
+78,Bundesliga,Germany,2022,871289,2022-11-09T19:30:00+00:00,UTC,1668022200,Match Finished,FT,90,Regular Season - 14,174,FC Schalke 04,164,FSV Mainz 05,1,0,HOME,741,VELTINS-Arena,T. Reichel
+78,Bundesliga,Germany,2022,871283,2022-11-09T19:30:00+00:00,UTC,1668022200,Match Finished,FT,90,Regular Season - 14,182,Union Berlin,170,FC Augsburg,2,2,DRAW,748,Stadion An der Alten Försterei,S. Stegemann
+78,Bundesliga,Germany,2022,871294,2022-11-11T19:30:00+00:00,UTC,1668195000,Match Finished,FT,90,Regular Season - 15,163,Borussia Monchengladbach,165,Borussia Dortmund,4,2,HOME,703,Stadion im BORUSSIA-PARK,S. Jablonski
+78,Bundesliga,Germany,2022,871296,2022-11-12T14:30:00+00:00,UTC,1668263400,Match Finished,FT,90,Regular Season - 15,159,Hertha Berlin,192,1. FC Köln,2,0,HOME,694,Olympiastadion Berlin,C. Dingert
+78,Bundesliga,Germany,2022,871298,2022-11-12T14:30:00+00:00,UTC,1668263400,Match Finished,FT,90,Regular Season - 15,162,Werder Bremen,173,RB Leipzig,1,2,AWAY,755,wohninvest WESERSTADION,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871293,2022-11-12T14:30:00+00:00,UTC,1668263400,Match Finished,FT,90,Regular Season - 15,167,1899 Hoffenheim,161,VfL Wolfsburg,1,2,AWAY,724,PreZero Arena,D. Schlager
+78,Bundesliga,Germany,2022,871290,2022-11-12T14:30:00+00:00,UTC,1668263400,Match Finished,FT,90,Regular Season - 15,168,Bayer Leverkusen,172,VfB Stuttgart,2,0,HOME,699,BayArena,F. Badstübner
+78,Bundesliga,Germany,2022,871295,2022-11-12T14:30:00+00:00,UTC,1668263400,Match Finished,FT,90,Regular Season - 15,170,FC Augsburg,176,Vfl Bochum,0,1,AWAY,698,WWK Arena,F. Brych
+78,Bundesliga,Germany,2022,871297,2022-11-12T17:30:00+00:00,UTC,1668274200,Match Finished,FT,90,Regular Season - 15,174,FC Schalke 04,157,Bayern Munich,0,2,AWAY,741,VELTINS-Arena,F. Zwayer
+78,Bundesliga,Germany,2022,871292,2022-11-13T14:30:00+00:00,UTC,1668349800,Match Finished,FT,90,Regular Season - 15,164,FSV Mainz 05,169,Eintracht Frankfurt,1,1,DRAW,11899,MEWA ARENA,R. Schröder
+78,Bundesliga,Germany,2022,871291,2022-11-13T16:30:00+00:00,UTC,1668357000,Match Finished,FT,90,Regular Season - 15,160,SC Freiburg,182,Union Berlin,4,1,HOME,12717,Europa-Park Stadion,D. Aytekin
+78,Bundesliga,Germany,2022,871300,2023-01-20T19:30:00+00:00,UTC,1674243000,Match Finished,FT,90,Regular Season - 16,173,RB Leipzig,157,Bayern Munich,1,1,DRAW,738,Red Bull Arena,D. Siebert
+78,Bundesliga,Germany,2022,871305,2023-01-21T14:30:00+00:00,UTC,1674311400,Match Finished,FT,90,Regular Season - 16,161,VfL Wolfsburg,160,SC Freiburg,6,0,HOME,752,VOLKSWAGEN ARENA,F. Zwayer
+78,Bundesliga,Germany,2022,871304,2023-01-21T14:30:00+00:00,UTC,1674311400,Match Finished,FT,90,Regular Season - 16,169,Eintracht Frankfurt,174,FC Schalke 04,3,0,HOME,10491,Deutsche Bank Park,M. Fritz
+78,Bundesliga,Germany,2022,871307,2023-01-21T14:30:00+00:00,UTC,1674311400,Match Finished,FT,90,Regular Season - 16,172,VfB Stuttgart,164,FSV Mainz 05,1,1,DRAW,750,Mercedes-Benz-Arena,F. Brych
+78,Bundesliga,Germany,2022,871306,2023-01-21T14:30:00+00:00,UTC,1674311400,Match Finished,FT,90,Regular Season - 16,176,Vfl Bochum,159,Hertha Berlin,3,1,HOME,751,Vonovia Ruhrstadion,M. Petersen
+78,Bundesliga,Germany,2022,871301,2023-01-21T14:30:00+00:00,UTC,1674311400,Match Finished,FT,90,Regular Season - 16,182,Union Berlin,167,1899 Hoffenheim,3,1,HOME,748,Stadion An der Alten Försterei,R. Hartmann
+78,Bundesliga,Germany,2022,871302,2023-01-21T17:30:00+00:00,UTC,1674322200,Match Finished,FT,90,Regular Season - 16,192,1. FC Köln,162,Werder Bremen,7,1,HOME,731,RheinEnergieStadion,R. Schröder
+78,Bundesliga,Germany,2022,871299,2023-01-22T14:30:00+00:00,UTC,1674397800,Match Finished,FT,90,Regular Season - 16,165,Borussia Dortmund,170,FC Augsburg,4,3,HOME,19381,SIGNAL IDUNA PARK,F. Willenborg
+78,Bundesliga,Germany,2022,871303,2023-01-22T16:30:00+00:00,UTC,1674405000,Match Finished,FT,90,Regular Season - 16,163,Borussia Monchengladbach,168,Bayer Leverkusen,2,3,AWAY,703,Stadion im BORUSSIA-PARK,H. Osmers
+78,Bundesliga,Germany,2022,871315,2023-01-24T17:30:00+00:00,UTC,1674581400,Match Finished,FT,90,Regular Season - 17,174,FC Schalke 04,173,RB Leipzig,1,6,AWAY,741,VELTINS-Arena,B. Cortus
+78,Bundesliga,Germany,2022,871308,2023-01-24T19:30:00+00:00,UTC,1674588600,Match Finished,FT,90,Regular Season - 17,157,Bayern Munich,192,1. FC Köln,1,1,DRAW,700,Allianz Arena,T. Stieler
+78,Bundesliga,Germany,2022,871314,2023-01-24T19:30:00+00:00,UTC,1674588600,Match Finished,FT,90,Regular Season - 17,159,Hertha Berlin,161,VfL Wolfsburg,0,5,AWAY,694,Olympiastadion Berlin,T. Reichel
+78,Bundesliga,Germany,2022,871312,2023-01-24T19:30:00+00:00,UTC,1674588600,Match Finished,FT,90,Regular Season - 17,167,1899 Hoffenheim,172,VfB Stuttgart,2,2,DRAW,724,PreZero Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871311,2023-01-25T17:30:00+00:00,UTC,1674667800,Match Finished,FT,90,Regular Season - 17,164,FSV Mainz 05,165,Borussia Dortmund,1,2,AWAY,11899,MEWA ARENA,S. Stegemann
+78,Bundesliga,Germany,2022,871310,2023-01-25T19:30:00+00:00,UTC,1674675000,Match Finished,FT,90,Regular Season - 17,160,SC Freiburg,169,Eintracht Frankfurt,1,1,DRAW,12717,Europa-Park Stadion,D. Aytekin
+78,Bundesliga,Germany,2022,871316,2023-01-25T19:30:00+00:00,UTC,1674675000,Match Finished,FT,90,Regular Season - 17,162,Werder Bremen,182,Union Berlin,1,2,AWAY,755,wohninvest WESERSTADION,B. Dankert
+78,Bundesliga,Germany,2022,871309,2023-01-25T19:30:00+00:00,UTC,1674675000,Match Finished,FT,90,Regular Season - 17,168,Bayer Leverkusen,176,Vfl Bochum,2,0,HOME,699,BayArena,T. Gerach
+78,Bundesliga,Germany,2022,871313,2023-01-25T19:30:00+00:00,UTC,1674675000,Match Finished,FT,90,Regular Season - 17,170,FC Augsburg,163,Borussia Monchengladbach,1,0,HOME,698,WWK Arena,D. Schlager
+78,Bundesliga,Germany,2022,871319,2023-01-27T19:30:00+00:00,UTC,1674847800,Match Finished,FT,90,Regular Season - 18,173,RB Leipzig,172,VfB Stuttgart,2,1,HOME,738,Red Bull Arena,F. Zwayer
+78,Bundesliga,Germany,2022,871323,2023-01-28T14:30:00+00:00,UTC,1674916200,Match Finished,FT,90,Regular Season - 18,159,Hertha Berlin,182,Union Berlin,0,2,AWAY,694,Olympiastadion Berlin,F. Brych
+78,Bundesliga,Germany,2022,871320,2023-01-28T14:30:00+00:00,UTC,1674916200,Match Finished,FT,90,Regular Season - 18,160,SC Freiburg,170,FC Augsburg,3,1,HOME,12717,Europa-Park Stadion,C. Dingert
+78,Bundesliga,Germany,2022,871325,2023-01-28T14:30:00+00:00,UTC,1674916200,Match Finished,FT,90,Regular Season - 18,162,Werder Bremen,161,VfL Wolfsburg,2,1,HOME,755,wohninvest WESERSTADION,D. Siebert
+78,Bundesliga,Germany,2022,871321,2023-01-28T14:30:00+00:00,UTC,1674916200,Match Finished,FT,90,Regular Season - 18,164,FSV Mainz 05,176,Vfl Bochum,5,2,HOME,11899,MEWA ARENA,P. Ittrich
+78,Bundesliga,Germany,2022,871322,2023-01-28T14:30:00+00:00,UTC,1674916200,Match Finished,FT,90,Regular Season - 18,167,1899 Hoffenheim,163,Borussia Monchengladbach,1,4,AWAY,724,PreZero Arena,B. Brand
+78,Bundesliga,Germany,2022,871317,2023-01-28T17:30:00+00:00,UTC,1674927000,Match Finished,FT,90,Regular Season - 18,157,Bayern Munich,169,Eintracht Frankfurt,1,1,DRAW,700,Allianz Arena,S. Jablonski
+78,Bundesliga,Germany,2022,871324,2023-01-29T14:30:00+00:00,UTC,1675002600,Match Finished,FT,90,Regular Season - 18,174,FC Schalke 04,192,1. FC Köln,0,0,DRAW,741,VELTINS-Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871318,2023-01-29T16:30:00+00:00,UTC,1675009800,Match Finished,FT,90,Regular Season - 18,168,Bayer Leverkusen,165,Borussia Dortmund,0,2,AWAY,699,BayArena,T. Welz
+78,Bundesliga,Germany,2022,871333,2023-02-03T19:30:00+00:00,UTC,1675452600,Match Finished,FT,90,Regular Season - 19,170,FC Augsburg,168,Bayer Leverkusen,1,0,HOME,698,WWK Arena,M. Fritz
+78,Bundesliga,Germany,2022,871326,2023-02-04T14:30:00+00:00,UTC,1675521000,Match Finished,FT,90,Regular Season - 19,165,Borussia Dortmund,160,SC Freiburg,5,1,HOME,19381,SIGNAL IDUNA PARK,R. Schröder
+78,Bundesliga,Germany,2022,871330,2023-02-04T14:30:00+00:00,UTC,1675521000,Match Finished,FT,90,Regular Season - 19,169,Eintracht Frankfurt,159,Hertha Berlin,3,0,HOME,10491,Deutsche Bank Park,R. Hartmann
+78,Bundesliga,Germany,2022,871332,2023-02-04T14:30:00+00:00,UTC,1675521000,Match Finished,FT,90,Regular Season - 19,176,Vfl Bochum,167,1899 Hoffenheim,5,2,HOME,751,Vonovia Ruhrstadion,B. Dankert
+78,Bundesliga,Germany,2022,871327,2023-02-04T14:30:00+00:00,UTC,1675521000,Match Finished,FT,90,Regular Season - 19,182,Union Berlin,164,FSV Mainz 05,2,1,HOME,748,Stadion An der Alten Försterei,F. Badstübner
+78,Bundesliga,Germany,2022,871328,2023-02-04T14:30:00+00:00,UTC,1675521000,Match Finished,FT,90,Regular Season - 19,192,1. FC Köln,173,RB Leipzig,0,0,DRAW,731,RheinEnergieStadion,M. Petersen
+78,Bundesliga,Germany,2022,871329,2023-02-04T17:30:00+00:00,UTC,1675531800,Match Finished,FT,90,Regular Season - 19,163,Borussia Monchengladbach,174,FC Schalke 04,0,0,DRAW,703,Stadion im BORUSSIA-PARK,D. Aytekin
+78,Bundesliga,Germany,2022,871334,2023-02-05T14:30:00+00:00,UTC,1675607400,Match Finished,FT,90,Regular Season - 19,172,VfB Stuttgart,162,Werder Bremen,0,2,AWAY,750,Mercedes-Benz-Arena,F. Willenborg
+78,Bundesliga,Germany,2022,871331,2023-02-05T16:30:00+00:00,UTC,1675614600,Match Finished,FT,90,Regular Season - 19,161,VfL Wolfsburg,157,Bayern Munich,2,4,AWAY,752,VOLKSWAGEN ARENA,H. Osmers
+78,Bundesliga,Germany,2022,871342,2023-02-10T19:30:00+00:00,UTC,1676057400,Match Finished,FT,90,Regular Season - 20,174,FC Schalke 04,161,VfL Wolfsburg,0,0,DRAW,741,VELTINS-Arena,B. Brand
+78,Bundesliga,Germany,2022,871335,2023-02-11T14:30:00+00:00,UTC,1676125800,Match Finished,FT,90,Regular Season - 20,157,Bayern Munich,176,Vfl Bochum,3,0,HOME,700,Allianz Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871337,2023-02-11T14:30:00+00:00,UTC,1676125800,Match Finished,FT,90,Regular Season - 20,160,SC Freiburg,172,VfB Stuttgart,2,1,HOME,12717,Europa-Park Stadion,S. Stegemann
+78,Bundesliga,Germany,2022,871343,2023-02-11T14:30:00+00:00,UTC,1676125800,Match Finished,FT,90,Regular Season - 20,162,Werder Bremen,165,Borussia Dortmund,0,2,AWAY,755,wohninvest WESERSTADION,F. Brych
+78,Bundesliga,Germany,2022,871339,2023-02-11T14:30:00+00:00,UTC,1676125800,Match Finished,FT,90,Regular Season - 20,164,FSV Mainz 05,170,FC Augsburg,3,1,HOME,11899,MEWA ARENA,S. Jablonski
+78,Bundesliga,Germany,2022,871340,2023-02-11T14:30:00+00:00,UTC,1676125800,Match Finished,FT,90,Regular Season - 20,167,1899 Hoffenheim,168,Bayer Leverkusen,1,3,AWAY,724,PreZero Arena,T. Stieler
+78,Bundesliga,Germany,2022,871336,2023-02-11T17:30:00+00:00,UTC,1676136600,Match Finished,FT,90,Regular Season - 20,173,RB Leipzig,182,Union Berlin,1,2,AWAY,738,Red Bull Arena,D. Schlager
+78,Bundesliga,Germany,2022,871341,2023-02-12T14:30:00+00:00,UTC,1676212200,Match Finished,FT,90,Regular Season - 20,159,Hertha Berlin,163,Borussia Monchengladbach,4,1,HOME,694,Olympiastadion Berlin,C. Dingert
+78,Bundesliga,Germany,2022,871338,2023-02-12T16:30:00+00:00,UTC,1676219400,Match Finished,FT,90,Regular Season - 20,192,1. FC Köln,169,Eintracht Frankfurt,3,0,HOME,731,RheinEnergieStadion,D. Siebert
+78,Bundesliga,Germany,2022,871351,2023-02-17T19:30:00+00:00,UTC,1676662200,Match Finished,FT,90,Regular Season - 21,170,FC Augsburg,167,1899 Hoffenheim,1,0,HOME,698,WWK Arena,P. Ittrich
+78,Bundesliga,Germany,2022,871349,2023-02-18T14:30:00+00:00,UTC,1676730600,Match Finished,FT,90,Regular Season - 21,161,VfL Wolfsburg,173,RB Leipzig,0,3,AWAY,752,VOLKSWAGEN ARENA,D. Aytekin
+78,Bundesliga,Germany,2022,871347,2023-02-18T14:30:00+00:00,UTC,1676730600,Match Finished,FT,90,Regular Season - 21,163,Borussia Monchengladbach,157,Bayern Munich,3,2,HOME,703,Stadion im BORUSSIA-PARK,T. Welz
+78,Bundesliga,Germany,2022,871352,2023-02-18T14:30:00+00:00,UTC,1676730600,Match Finished,FT,90,Regular Season - 21,172,VfB Stuttgart,192,1. FC Köln,3,0,HOME,750,Mercedes-Benz-Arena,B. Cortus
+78,Bundesliga,Germany,2022,871350,2023-02-18T14:30:00+00:00,UTC,1676730600,Match Finished,FT,90,Regular Season - 21,176,Vfl Bochum,160,SC Freiburg,0,2,AWAY,751,Vonovia Ruhrstadion,F. Zwayer
+78,Bundesliga,Germany,2022,871348,2023-02-18T17:30:00+00:00,UTC,1676741400,Match Finished,FT,90,Regular Season - 21,169,Eintracht Frankfurt,162,Werder Bremen,2,0,HOME,10491,Deutsche Bank Park,B. Dankert
+78,Bundesliga,Germany,2022,871346,2023-02-19T14:30:00+00:00,UTC,1676817000,Match Finished,FT,90,Regular Season - 21,182,Union Berlin,174,FC Schalke 04,0,0,DRAW,748,Stadion An der Alten Försterei,T. Reichel
+78,Bundesliga,Germany,2022,871344,2023-02-19T16:30:00+00:00,UTC,1676824200,Match Finished,FT,90,Regular Season - 21,165,Borussia Dortmund,159,Hertha Berlin,4,1,HOME,19381,SIGNAL IDUNA PARK,H. Osmers
+78,Bundesliga,Germany,2022,871345,2023-02-19T18:30:00+00:00,UTC,1676831400,Match Finished,FT,90,Regular Season - 21,168,Bayer Leverkusen,164,FSV Mainz 05,2,3,AWAY,699,BayArena,R. Schröder
+78,Bundesliga,Germany,2022,871357,2023-02-24T19:30:00+00:00,UTC,1677267000,Match Finished,FT,90,Regular Season - 22,164,FSV Mainz 05,163,Borussia Monchengladbach,4,0,HOME,11899,MEWA ARENA,R. Hartmann
+78,Bundesliga,Germany,2022,871359,2023-02-25T14:30:00+00:00,UTC,1677335400,Match Finished,FT,90,Regular Season - 22,159,Hertha Berlin,170,FC Augsburg,2,0,HOME,694,Olympiastadion Berlin,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871361,2023-02-25T14:30:00+00:00,UTC,1677335400,Match Finished,FT,90,Regular Season - 22,162,Werder Bremen,176,Vfl Bochum,3,0,HOME,755,wohninvest WESERSTADION,F. Badstübner
+78,Bundesliga,Germany,2022,871358,2023-02-25T14:30:00+00:00,UTC,1677335400,Match Finished,FT,90,Regular Season - 22,167,1899 Hoffenheim,165,Borussia Dortmund,0,1,AWAY,724,PreZero Arena,M. Petersen
+78,Bundesliga,Germany,2022,871354,2023-02-25T14:30:00+00:00,UTC,1677335400,Match Finished,FT,90,Regular Season - 22,173,RB Leipzig,169,Eintracht Frankfurt,2,1,HOME,738,Red Bull Arena,F. Brych
+78,Bundesliga,Germany,2022,871356,2023-02-25T14:30:00+00:00,UTC,1677335400,Match Finished,FT,90,Regular Season - 22,192,1. FC Köln,161,VfL Wolfsburg,0,2,AWAY,731,RheinEnergieStadion,F. Willenborg
+78,Bundesliga,Germany,2022,871360,2023-02-25T17:30:00+00:00,UTC,1677346200,Match Finished,FT,90,Regular Season - 22,174,FC Schalke 04,172,VfB Stuttgart,2,1,HOME,741,VELTINS-Arena,D. Aytekin
+78,Bundesliga,Germany,2022,871355,2023-02-26T14:30:00+00:00,UTC,1677421800,Match Finished,FT,90,Regular Season - 22,160,SC Freiburg,168,Bayer Leverkusen,1,1,DRAW,12717,Europa-Park Stadion,D. Siebert
+78,Bundesliga,Germany,2022,871353,2023-02-26T16:30:00+00:00,UTC,1677429000,Match Finished,FT,90,Regular Season - 22,157,Bayern Munich,182,Union Berlin,3,0,HOME,700,Allianz Arena,M. Fritz
+78,Bundesliga,Germany,2022,871362,2023-03-03T19:30:00+00:00,UTC,1677871800,Match Finished,FT,90,Regular Season - 23,165,Borussia Dortmund,173,RB Leipzig,2,1,HOME,19381,SIGNAL IDUNA PARK,S. Jablonski
+78,Bundesliga,Germany,2022,871366,2023-03-04T14:30:00+00:00,UTC,1677940200,Match Finished,FT,90,Regular Season - 23,163,Borussia Monchengladbach,160,SC Freiburg,0,0,DRAW,703,Stadion im BORUSSIA-PARK,B. Brand
+78,Bundesliga,Germany,2022,871365,2023-03-04T14:30:00+00:00,UTC,1677940200,Match Finished,FT,90,Regular Season - 23,164,FSV Mainz 05,167,1899 Hoffenheim,1,0,HOME,11899,MEWA ARENA,S. Stegemann
+78,Bundesliga,Germany,2022,871369,2023-03-04T14:30:00+00:00,UTC,1677940200,Match Finished,FT,90,Regular Season - 23,170,FC Augsburg,162,Werder Bremen,2,1,HOME,698,WWK Arena,F. Zwayer
+78,Bundesliga,Germany,2022,871368,2023-03-04T14:30:00+00:00,UTC,1677940200,Match Finished,FT,90,Regular Season - 23,176,Vfl Bochum,174,FC Schalke 04,0,2,AWAY,751,Vonovia Ruhrstadion,F. Brych
+78,Bundesliga,Germany,2022,871364,2023-03-04T14:30:00+00:00,UTC,1677940200,Match Finished,FT,90,Regular Season - 23,182,Union Berlin,192,1. FC Köln,0,0,DRAW,748,Stadion An der Alten Försterei,T. Stieler
+78,Bundesliga,Germany,2022,871370,2023-03-04T17:30:00+00:00,UTC,1677951000,Match Finished,FT,90,Regular Season - 23,172,VfB Stuttgart,157,Bayern Munich,1,2,AWAY,750,Mercedes-Benz-Arena,C. Dingert
+78,Bundesliga,Germany,2022,871363,2023-03-05T14:30:00+00:00,UTC,1678026600,Match Finished,FT,90,Regular Season - 23,168,Bayer Leverkusen,159,Hertha Berlin,4,1,HOME,699,BayArena,P. Ittrich
+78,Bundesliga,Germany,2022,871367,2023-03-05T16:30:00+00:00,UTC,1678033800,Match Finished,FT,90,Regular Season - 23,161,VfL Wolfsburg,169,Eintracht Frankfurt,2,2,DRAW,752,VOLKSWAGEN ARENA,D. Schlager
+78,Bundesliga,Germany,2022,871374,2023-03-10T19:30:00+00:00,UTC,1678476600,Match Finished,FT,90,Regular Season - 24,192,1. FC Köln,176,Vfl Bochum,0,2,AWAY,731,RheinEnergieStadion,T. Welz
+78,Bundesliga,Germany,2022,871371,2023-03-11T14:30:00+00:00,UTC,1678545000,Match Finished,FT,90,Regular Season - 24,157,Bayern Munich,170,FC Augsburg,5,3,HOME,700,Allianz Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871377,2023-03-11T14:30:00+00:00,UTC,1678545000,Match Finished,FT,90,Regular Season - 24,159,Hertha Berlin,164,FSV Mainz 05,1,1,DRAW,694,Olympiastadion Berlin,B. Cortus
+78,Bundesliga,Germany,2022,871375,2023-03-11T14:30:00+00:00,UTC,1678545000,Match Finished,FT,90,Regular Season - 24,169,Eintracht Frankfurt,172,VfB Stuttgart,1,1,DRAW,10491,Deutsche Bank Park,R. Hartmann
+78,Bundesliga,Germany,2022,871372,2023-03-11T14:30:00+00:00,UTC,1678545000,Match Finished,FT,90,Regular Season - 24,173,RB Leipzig,163,Borussia Monchengladbach,3,0,HOME,738,Red Bull Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871378,2023-03-11T17:30:00+00:00,UTC,1678555800,Match Finished,FT,90,Regular Season - 24,174,FC Schalke 04,165,Borussia Dortmund,2,2,DRAW,741,VELTINS-Arena,M. Fritz
+78,Bundesliga,Germany,2022,871373,2023-03-12T14:30:00+00:00,UTC,1678631400,Match Finished,FT,90,Regular Season - 24,160,SC Freiburg,167,1899 Hoffenheim,2,1,HOME,12717,Europa-Park Stadion,H. Osmers
+78,Bundesliga,Germany,2022,871379,2023-03-12T16:30:00+00:00,UTC,1678638600,Match Finished,FT,90,Regular Season - 24,162,Werder Bremen,168,Bayer Leverkusen,2,3,AWAY,755,wohninvest WESERSTADION,D. Aytekin
+78,Bundesliga,Germany,2022,871376,2023-03-12T18:30:00+00:00,UTC,1678645800,Match Finished,FT,90,Regular Season - 24,161,VfL Wolfsburg,182,Union Berlin,1,1,DRAW,752,VOLKSWAGEN ARENA,R. Schröder
+78,Bundesliga,Germany,2022,871385,2023-03-17T19:30:00+00:00,UTC,1679081400,Match Finished,FT,90,Regular Season - 25,163,Borussia Monchengladbach,162,Werder Bremen,2,2,DRAW,703,Stadion im BORUSSIA-PARK,T. Reichel
+78,Bundesliga,Germany,2022,871384,2023-03-18T14:30:00+00:00,UTC,1679149800,Match Finished,FT,90,Regular Season - 25,167,1899 Hoffenheim,159,Hertha Berlin,3,1,HOME,724,PreZero Arena,F. Willenborg
+78,Bundesliga,Germany,2022,871387,2023-03-18T14:30:00+00:00,UTC,1679149800,Match Finished,FT,90,Regular Season - 25,170,FC Augsburg,174,FC Schalke 04,1,1,DRAW,698,WWK Arena,D. Schlager
+78,Bundesliga,Germany,2022,871388,2023-03-18T14:30:00+00:00,UTC,1679149800,Match Finished,FT,90,Regular Season - 25,172,VfB Stuttgart,161,VfL Wolfsburg,0,1,AWAY,750,Mercedes-Benz-Arena,F. Brych
+78,Bundesliga,Germany,2022,871386,2023-03-18T14:30:00+00:00,UTC,1679149800,Match Finished,FT,90,Regular Season - 25,176,Vfl Bochum,173,RB Leipzig,1,0,HOME,751,Vonovia Ruhrstadion,S. Stegemann
+78,Bundesliga,Germany,2022,871380,2023-03-18T17:30:00+00:00,UTC,1679160600,Match Finished,FT,90,Regular Season - 25,165,Borussia Dortmund,192,1. FC Köln,6,1,HOME,19381,SIGNAL IDUNA PARK,D. Siebert
+78,Bundesliga,Germany,2022,871382,2023-03-19T14:30:00+00:00,UTC,1679236200,Match Finished,FT,90,Regular Season - 25,182,Union Berlin,169,Eintracht Frankfurt,2,0,HOME,748,Stadion An der Alten Försterei,C. Dingert
+78,Bundesliga,Germany,2022,871381,2023-03-19T16:30:00+00:00,UTC,1679243400,Match Finished,FT,90,Regular Season - 25,168,Bayer Leverkusen,157,Bayern Munich,2,1,HOME,699,BayArena,T. Stieler
+78,Bundesliga,Germany,2022,871383,2023-03-19T18:30:00+00:00,UTC,1679250600,Match Finished,FT,90,Regular Season - 25,164,FSV Mainz 05,160,SC Freiburg,1,1,DRAW,11899,MEWA ARENA,B. Dankert
+78,Bundesliga,Germany,2022,871394,2023-03-31T18:30:00+00:00,UTC,1680287400,Match Finished,FT,90,Regular Season - 26,169,Eintracht Frankfurt,176,Vfl Bochum,1,1,DRAW,10491,Deutsche Bank Park,H. Osmers
+78,Bundesliga,Germany,2022,871392,2023-04-01T13:30:00+00:00,UTC,1680355800,Match Finished,FT,90,Regular Season - 26,160,SC Freiburg,159,Hertha Berlin,1,1,DRAW,12717,Europa-Park Stadion,S. Jablonski
+78,Bundesliga,Germany,2022,871395,2023-04-01T13:30:00+00:00,UTC,1680355800,Match Finished,FT,90,Regular Season - 26,161,VfL Wolfsburg,170,FC Augsburg,2,2,DRAW,752,VOLKSWAGEN ARENA,M. Petersen
+78,Bundesliga,Germany,2022,871390,2023-04-01T13:30:00+00:00,UTC,1680355800,Match Finished,FT,90,Regular Season - 26,173,RB Leipzig,164,FSV Mainz 05,0,3,AWAY,738,Red Bull Arena,C. Dingert
+78,Bundesliga,Germany,2022,871396,2023-04-01T13:30:00+00:00,UTC,1680355800,Match Finished,FT,90,Regular Season - 26,174,FC Schalke 04,168,Bayer Leverkusen,0,3,AWAY,741,VELTINS-Arena,D. Aytekin
+78,Bundesliga,Germany,2022,871391,2023-04-01T13:30:00+00:00,UTC,1680355800,Match Finished,FT,90,Regular Season - 26,182,Union Berlin,172,VfB Stuttgart,3,0,HOME,748,Stadion An der Alten Försterei,F. Badstübner
+78,Bundesliga,Germany,2022,871389,2023-04-01T16:30:00+00:00,UTC,1680366600,Match Finished,FT,90,Regular Season - 26,157,Bayern Munich,165,Borussia Dortmund,4,2,HOME,700,Allianz Arena,M. Fritz
+78,Bundesliga,Germany,2022,871393,2023-04-02T13:30:00+00:00,UTC,1680442200,Match Finished,FT,90,Regular Season - 26,192,1. FC Köln,163,Borussia Monchengladbach,0,0,DRAW,731,RheinEnergieStadion,F. Zwayer
+78,Bundesliga,Germany,2022,871397,2023-04-02T15:30:00+00:00,UTC,1680449400,Match Finished,FT,90,Regular Season - 26,162,Werder Bremen,167,1899 Hoffenheim,1,2,AWAY,755,wohninvest WESERSTADION,S. Stegemann
+78,Bundesliga,Germany,2022,871400,2023-04-08T13:30:00+00:00,UTC,1680960600,Match Finished,FT,90,Regular Season - 27,160,SC Freiburg,157,Bayern Munich,0,1,AWAY,12717,Europa-Park Stadion,D. Siebert
+78,Bundesliga,Germany,2022,871401,2023-04-08T13:30:00+00:00,UTC,1680960600,Match Finished,FT,90,Regular Season - 27,164,FSV Mainz 05,162,Werder Bremen,2,2,DRAW,11899,MEWA ARENA,B. Brand
+78,Bundesliga,Germany,2022,871398,2023-04-08T13:30:00+00:00,UTC,1680960600,Match Finished,FT,90,Regular Season - 27,165,Borussia Dortmund,182,Union Berlin,2,1,HOME,19381,SIGNAL IDUNA PARK,D. Schlager
+78,Bundesliga,Germany,2022,871399,2023-04-08T13:30:00+00:00,UTC,1680960600,Match Finished,FT,90,Regular Season - 27,168,Bayer Leverkusen,169,Eintracht Frankfurt,3,1,HOME,699,BayArena,R. Hartmann
+78,Bundesliga,Germany,2022,871405,2023-04-08T13:30:00+00:00,UTC,1680960600,Match Finished,FT,90,Regular Season - 27,170,FC Augsburg,192,1. FC Köln,1,3,AWAY,698,WWK Arena,R. Schröder
+78,Bundesliga,Germany,2022,871406,2023-04-08T16:30:00+00:00,UTC,1680971400,Match Finished,FT,90,Regular Season - 27,159,Hertha Berlin,173,RB Leipzig,0,1,AWAY,694,Olympiastadion Berlin,D. Aytekin
+78,Bundesliga,Germany,2022,871403,2023-04-09T13:30:00+00:00,UTC,1681047000,Match Finished,FT,90,Regular Season - 27,163,Borussia Monchengladbach,161,VfL Wolfsburg,2,0,HOME,703,Stadion im BORUSSIA-PARK,T. Gerach
+78,Bundesliga,Germany,2022,871404,2023-04-09T15:30:00+00:00,UTC,1681054200,Match Finished,FT,90,Regular Season - 27,176,Vfl Bochum,172,VfB Stuttgart,2,3,AWAY,751,Vonovia Ruhrstadion,F. Willenborg
+78,Bundesliga,Germany,2022,871402,2023-04-09T17:30:00+00:00,UTC,1681061400,Match Finished,FT,90,Regular Season - 27,167,1899 Hoffenheim,174,FC Schalke 04,2,0,HOME,724,PreZero Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871414,2023-04-14T18:30:00+00:00,UTC,1681497000,Match Finished,FT,90,Regular Season - 28,174,FC Schalke 04,159,Hertha Berlin,5,2,HOME,741,VELTINS-Arena,F. Brych
+78,Bundesliga,Germany,2022,871407,2023-04-15T13:30:00+00:00,UTC,1681565400,Match Finished,FT,90,Regular Season - 28,157,Bayern Munich,167,1899 Hoffenheim,1,1,DRAW,700,Allianz Arena,B. Dankert
+78,Bundesliga,Germany,2022,871413,2023-04-15T13:30:00+00:00,UTC,1681565400,Match Finished,FT,90,Regular Season - 28,172,VfB Stuttgart,165,Borussia Dortmund,3,3,DRAW,750,Mercedes-Benz-Arena,H. Osmers
+78,Bundesliga,Germany,2022,871408,2023-04-15T13:30:00+00:00,UTC,1681565400,Match Finished,FT,90,Regular Season - 28,173,RB Leipzig,170,FC Augsburg,3,2,HOME,738,Red Bull Arena,M. Fritz
+78,Bundesliga,Germany,2022,871410,2023-04-15T13:30:00+00:00,UTC,1681565400,Match Finished,FT,90,Regular Season - 28,192,1. FC Köln,164,FSV Mainz 05,1,1,DRAW,731,RheinEnergieStadion,B. Cortus
+78,Bundesliga,Germany,2022,871411,2023-04-15T16:30:00+00:00,UTC,1681576200,Match Finished,FT,90,Regular Season - 28,169,Eintracht Frankfurt,163,Borussia Monchengladbach,1,1,DRAW,10491,Deutsche Bank Park,S. Jablonski
+78,Bundesliga,Germany,2022,871415,2023-04-16T13:30:00+00:00,UTC,1681651800,Match Finished,FT,90,Regular Season - 28,162,Werder Bremen,160,SC Freiburg,1,2,AWAY,755,wohninvest WESERSTADION,F. Badstübner
+78,Bundesliga,Germany,2022,871409,2023-04-16T15:30:00+00:00,UTC,1681659000,Match Finished,FT,90,Regular Season - 28,182,Union Berlin,176,Vfl Bochum,1,1,DRAW,748,Stadion An der Alten Försterei,T. Stieler
+78,Bundesliga,Germany,2022,871412,2023-04-16T17:30:00+00:00,UTC,1681666200,Match Finished,FT,90,Regular Season - 28,161,VfL Wolfsburg,168,Bayer Leverkusen,0,0,DRAW,752,VOLKSWAGEN ARENA,S. Stegemann
+78,Bundesliga,Germany,2022,871423,2023-04-21T18:30:00+00:00,UTC,1682101800,Match Finished,FT,90,Regular Season - 29,170,FC Augsburg,172,VfB Stuttgart,1,1,DRAW,698,WWK Arena,C. Dingert
+78,Bundesliga,Germany,2022,871424,2023-04-22T13:30:00+00:00,UTC,1682170200,Match Finished,FT,90,Regular Season - 29,159,Hertha Berlin,162,Werder Bremen,2,4,AWAY,694,Olympiastadion Berlin,R. Schröder
+78,Bundesliga,Germany,2022,871419,2023-04-22T13:30:00+00:00,UTC,1682170200,Match Finished,FT,90,Regular Season - 29,164,FSV Mainz 05,157,Bayern Munich,3,1,HOME,11899,MEWA ARENA,F. Zwayer
+78,Bundesliga,Germany,2022,871420,2023-04-22T13:30:00+00:00,UTC,1682170200,Match Finished,FT,90,Regular Season - 29,167,1899 Hoffenheim,192,1. FC Köln,1,3,AWAY,724,PreZero Arena,R. Braun
+78,Bundesliga,Germany,2022,871422,2023-04-22T13:30:00+00:00,UTC,1682170200,Match Finished,FT,90,Regular Season - 29,176,Vfl Bochum,161,VfL Wolfsburg,1,5,AWAY,751,Vonovia Ruhrstadion,F. Brych
+78,Bundesliga,Germany,2022,871416,2023-04-22T16:30:00+00:00,UTC,1682181000,Match Finished,FT,90,Regular Season - 29,165,Borussia Dortmund,169,Eintracht Frankfurt,4,0,HOME,19381,SIGNAL IDUNA PARK,D. Aytekin
+78,Bundesliga,Germany,2022,871418,2023-04-23T13:30:00+00:00,UTC,1682256600,Match Finished,FT,90,Regular Season - 29,160,SC Freiburg,174,FC Schalke 04,4,0,HOME,12717,Europa-Park Stadion,R. Hartmann
+78,Bundesliga,Germany,2022,871417,2023-04-23T15:30:00+00:00,UTC,1682263800,Match Finished,FT,90,Regular Season - 29,168,Bayer Leverkusen,173,RB Leipzig,2,0,HOME,699,BayArena,D. Schlager
+78,Bundesliga,Germany,2022,871421,2023-04-23T17:30:00+00:00,UTC,1682271000,Match Finished,FT,90,Regular Season - 29,163,Borussia Monchengladbach,182,Union Berlin,0,1,AWAY,703,Stadion im BORUSSIA-PARK,M. Petersen
+78,Bundesliga,Germany,2022,871431,2023-04-28T18:30:00+00:00,UTC,1682706600,Match Finished,FT,90,Regular Season - 30,176,Vfl Bochum,165,Borussia Dortmund,1,1,DRAW,751,Vonovia Ruhrstadion,S. Stegemann
+78,Bundesliga,Germany,2022,871429,2023-04-29T13:30:00+00:00,UTC,1682775000,Match Finished,FT,90,Regular Season - 30,169,Eintracht Frankfurt,170,FC Augsburg,1,1,DRAW,10491,Deutsche Bank Park,F. Willenborg
+78,Bundesliga,Germany,2022,871432,2023-04-29T13:30:00+00:00,UTC,1682775000,Match Finished,FT,90,Regular Season - 30,172,VfB Stuttgart,163,Borussia Monchengladbach,2,1,HOME,750,Mercedes-Benz-Arena,T. Welz
+78,Bundesliga,Germany,2022,871426,2023-04-29T13:30:00+00:00,UTC,1682775000,Match Finished,FT,90,Regular Season - 30,173,RB Leipzig,167,1899 Hoffenheim,1,0,HOME,738,Red Bull Arena,T. Stieler
+78,Bundesliga,Germany,2022,871427,2023-04-29T13:30:00+00:00,UTC,1682775000,Match Finished,FT,90,Regular Season - 30,182,Union Berlin,168,Bayer Leverkusen,0,0,DRAW,748,Stadion An der Alten Försterei,M. Fritz
+78,Bundesliga,Germany,2022,871428,2023-04-29T13:30:00+00:00,UTC,1682775000,Match Finished,FT,90,Regular Season - 30,192,1. FC Köln,160,SC Freiburg,0,1,AWAY,731,RheinEnergieStadion,T. Reichel
+78,Bundesliga,Germany,2022,871433,2023-04-29T16:30:00+00:00,UTC,1682785800,Match Finished,FT,90,Regular Season - 30,174,FC Schalke 04,162,Werder Bremen,2,1,HOME,741,VELTINS-Arena,B. Dankert
+78,Bundesliga,Germany,2022,871425,2023-04-30T13:30:00+00:00,UTC,1682861400,Match Finished,FT,90,Regular Season - 30,157,Bayern Munich,159,Hertha Berlin,2,0,HOME,700,Allianz Arena,P. Ittrich
+78,Bundesliga,Germany,2022,871430,2023-04-30T15:30:00+00:00,UTC,1682868600,Match Finished,FT,90,Regular Season - 30,161,VfL Wolfsburg,164,FSV Mainz 05,3,0,HOME,752,VOLKSWAGEN ARENA,D. Siebert
+78,Bundesliga,Germany,2022,871437,2023-05-05T18:30:00+00:00,UTC,1683311400,Match Finished,FT,90,Regular Season - 31,164,FSV Mainz 05,174,FC Schalke 04,2,3,AWAY,11899,MEWA ARENA,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871435,2023-05-05T18:30:00+00:00,UTC,1683311400,Match Finished,FT,90,Regular Season - 31,168,Bayer Leverkusen,192,1. FC Köln,1,2,AWAY,699,BayArena,F. Zwayer
+78,Bundesliga,Germany,2022,871441,2023-05-06T13:30:00+00:00,UTC,1683379800,Match Finished,FT,90,Regular Season - 31,159,Hertha Berlin,172,VfB Stuttgart,2,1,HOME,694,Olympiastadion Berlin,D. Aytekin
+78,Bundesliga,Germany,2022,871436,2023-05-06T13:30:00+00:00,UTC,1683379800,Match Finished,FT,90,Regular Season - 31,160,SC Freiburg,173,RB Leipzig,0,1,AWAY,12717,Europa-Park Stadion,T. Welz
+78,Bundesliga,Germany,2022,871439,2023-05-06T13:30:00+00:00,UTC,1683379800,Match Finished,FT,90,Regular Season - 31,163,Borussia Monchengladbach,176,Vfl Bochum,2,0,HOME,703,Stadion im BORUSSIA-PARK,R. Schröder
+78,Bundesliga,Germany,2022,871438,2023-05-06T13:30:00+00:00,UTC,1683379800,Match Finished,FT,90,Regular Season - 31,167,1899 Hoffenheim,169,Eintracht Frankfurt,3,1,HOME,724,PreZero Arena,H. Osmers
+78,Bundesliga,Germany,2022,871440,2023-05-06T13:30:00+00:00,UTC,1683379800,Match Finished,FT,90,Regular Season - 31,170,FC Augsburg,182,Union Berlin,1,0,HOME,698,WWK Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871442,2023-05-06T16:30:00+00:00,UTC,1683390600,Match Finished,FT,90,Regular Season - 31,162,Werder Bremen,157,Bayern Munich,1,2,AWAY,755,wohninvest WESERSTADION,C. Dingert
+78,Bundesliga,Germany,2022,871434,2023-05-07T15:30:00+00:00,UTC,1683473400,Match Finished,FT,90,Regular Season - 31,165,Borussia Dortmund,161,VfL Wolfsburg,6,0,HOME,19381,SIGNAL IDUNA PARK,M. Fritz
+78,Bundesliga,Germany,2022,871447,2023-05-12T18:30:00+00:00,UTC,1683916200,Match Finished,FT,90,Regular Season - 32,192,1. FC Köln,159,Hertha Berlin,5,2,HOME,731,RheinEnergieStadion,S. Jablonski
+78,Bundesliga,Germany,2022,871443,2023-05-13T13:30:00+00:00,UTC,1683984600,Match Finished,FT,90,Regular Season - 32,157,Bayern Munich,174,FC Schalke 04,6,0,HOME,700,Allianz Arena,R. Schröder
+78,Bundesliga,Germany,2022,871449,2023-05-13T13:30:00+00:00,UTC,1683984600,Match Finished,FT,90,Regular Season - 32,161,VfL Wolfsburg,167,1899 Hoffenheim,2,1,HOME,752,VOLKSWAGEN ARENA,T. Stieler
+78,Bundesliga,Germany,2022,871448,2023-05-13T13:30:00+00:00,UTC,1683984600,Match Finished,FT,90,Regular Season - 32,169,Eintracht Frankfurt,164,FSV Mainz 05,3,0,HOME,10491,Deutsche Bank Park,F. Brych
+78,Bundesliga,Germany,2022,871450,2023-05-13T13:30:00+00:00,UTC,1683984600,Match Finished,FT,90,Regular Season - 32,176,Vfl Bochum,170,FC Augsburg,3,2,HOME,751,Vonovia Ruhrstadion,P. Ittrich
+78,Bundesliga,Germany,2022,871446,2023-05-13T13:30:00+00:00,UTC,1683984600,Match Finished,FT,90,Regular Season - 32,182,Union Berlin,160,SC Freiburg,4,2,HOME,748,Stadion An der Alten Försterei,M. Fritz
+78,Bundesliga,Germany,2022,871444,2023-05-13T16:30:00+00:00,UTC,1683995400,Match Finished,FT,90,Regular Season - 32,165,Borussia Dortmund,163,Borussia Monchengladbach,5,2,HOME,19381,SIGNAL IDUNA PARK,D. Schlager
+78,Bundesliga,Germany,2022,871451,2023-05-14T13:30:00+00:00,UTC,1684071000,Match Finished,FT,90,Regular Season - 32,172,VfB Stuttgart,168,Bayer Leverkusen,1,1,DRAW,750,Mercedes-Benz-Arena,F. Willenborg
+78,Bundesliga,Germany,2022,871445,2023-05-14T15:30:00+00:00,UTC,1684078200,Match Finished,FT,90,Regular Season - 32,173,RB Leipzig,162,Werder Bremen,2,1,HOME,738,Red Bull Arena,F. Badstübner
+78,Bundesliga,Germany,2022,871454,2023-05-19T18:30:00+00:00,UTC,1684521000,Match Finished,FT,90,Regular Season - 33,160,SC Freiburg,161,VfL Wolfsburg,2,0,HOME,12717,Europa-Park Stadion,B. Dankert
+78,Bundesliga,Germany,2022,871458,2023-05-20T13:30:00+00:00,UTC,1684589400,Match Finished,FT,90,Regular Season - 33,159,Hertha Berlin,176,Vfl Bochum,1,1,DRAW,694,Olympiastadion Berlin,F. Brych
+78,Bundesliga,Germany,2022,871460,2023-05-20T13:30:00+00:00,UTC,1684589400,Match Finished,FT,90,Regular Season - 33,162,Werder Bremen,192,1. FC Köln,1,1,DRAW,755,wohninvest WESERSTADION,R. Hartmann
+78,Bundesliga,Germany,2022,871456,2023-05-20T13:30:00+00:00,UTC,1684589400,Match Finished,FT,90,Regular Season - 33,167,1899 Hoffenheim,182,Union Berlin,4,2,HOME,724,PreZero Arena,C. Dingert
+78,Bundesliga,Germany,2022,871459,2023-05-20T13:30:00+00:00,UTC,1684589400,Match Finished,FT,90,Regular Season - 33,174,FC Schalke 04,169,Eintracht Frankfurt,2,2,DRAW,741,VELTINS-Arena,D. Schlager
+78,Bundesliga,Germany,2022,871452,2023-05-20T16:30:00+00:00,UTC,1684600200,Match Finished,FT,90,Regular Season - 33,157,Bayern Munich,173,RB Leipzig,1,3,AWAY,700,Allianz Arena,D. Aytekin
+78,Bundesliga,Germany,2022,871455,2023-05-21T13:30:00+00:00,UTC,1684675800,Match Finished,FT,90,Regular Season - 33,164,FSV Mainz 05,172,VfB Stuttgart,1,4,AWAY,11899,MEWA ARENA,S. Jablonski
+78,Bundesliga,Germany,2022,871457,2023-05-21T15:30:00+00:00,UTC,1684683000,Match Finished,FT,90,Regular Season - 33,170,FC Augsburg,165,Borussia Dortmund,0,3,AWAY,698,WWK Arena,T. Welz
+78,Bundesliga,Germany,2022,871453,2023-05-21T17:30:00+00:00,UTC,1684690200,Match Finished,FT,90,Regular Season - 33,168,Bayer Leverkusen,163,Borussia Monchengladbach,2,2,DRAW,699,BayArena,D. Siebert
+78,Bundesliga,Germany,2022,871467,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,161,VfL Wolfsburg,159,Hertha Berlin,1,2,AWAY,752,VOLKSWAGEN ARENA,B. Cortus
+78,Bundesliga,Germany,2022,871465,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,163,Borussia Monchengladbach,170,FC Augsburg,2,0,HOME,703,Stadion im BORUSSIA-PARK,M. Jöllenbeck
+78,Bundesliga,Germany,2022,871461,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,165,Borussia Dortmund,164,FSV Mainz 05,2,2,DRAW,19381,SIGNAL IDUNA PARK,M. Fritz
+78,Bundesliga,Germany,2022,871466,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,169,Eintracht Frankfurt,160,SC Freiburg,2,1,HOME,10491,Deutsche Bank Park,D. Aytekin
+78,Bundesliga,Germany,2022,871469,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,172,VfB Stuttgart,167,1899 Hoffenheim,1,1,DRAW,750,Mercedes-Benz-Arena,R. Schröder
+78,Bundesliga,Germany,2022,871462,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,173,RB Leipzig,174,FC Schalke 04,4,2,HOME,738,Red Bull Arena,H. Osmers
+78,Bundesliga,Germany,2022,871468,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,176,Vfl Bochum,168,Bayer Leverkusen,3,0,HOME,751,Vonovia Ruhrstadion,T. Welz
+78,Bundesliga,Germany,2022,871463,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,182,Union Berlin,162,Werder Bremen,1,0,HOME,748,Stadion An der Alten Försterei,P. Ittrich
+78,Bundesliga,Germany,2022,871464,2023-05-27T13:30:00+00:00,UTC,1685194200,Match Finished,FT,90,Regular Season - 34,192,1. FC Köln,157,Bayern Munich,1,2,AWAY,731,RheinEnergieStadion,S. Jablonski
+78,Bundesliga,Germany,2022,1029007,2023-06-01T18:45:00+00:00,UTC,1685645100,Match Finished,FT,90,Relegation Round,172,VfB Stuttgart,175,Hamburger SV,3,0,HOME,750,Mercedes-Benz-Arena,T. Welz
+78,Bundesliga,Germany,2022,1029008,2023-06-05T18:45:00+00:00,UTC,1685990700,Match Finished,FT,90,Relegation Round,175,Hamburger SV,172,VfB Stuttgart,1,3,AWAY,720,Volksparkstadion,B. Dankert

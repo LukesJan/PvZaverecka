@@ -1,0 +1,381 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+39,Premier League,England,2020,592143,2020-09-12T11:30:00+00:00,UTC,1599910200,Match Finished,FT,90,Regular Season - 1,36,Fulham,42,Arsenal,0,3,AWAY,535,Craven Cottage,C. Kavanagh
+39,Premier League,England,2020,592142,2020-09-12T14:00:00+00:00,UTC,1599919200,Match Finished,FT,90,Regular Season - 1,52,Crystal Palace,41,Southampton,1,0,HOME,525,Selhurst Park,J. Moss
+39,Premier League,England,2020,592144,2020-09-12T16:30:00+00:00,UTC,1599928200,Match Finished,FT,90,Regular Season - 1,40,Liverpool,63,Leeds,4,3,HOME,550,Anfield,M. Oliver
+39,Premier League,England,2020,592148,2020-09-12T19:00:00+00:00,UTC,1599937200,Match Finished,FT,90,Regular Season - 1,48,West Ham,34,Newcastle,0,2,AWAY,598,London Stadium,S. Attwell
+39,Premier League,England,2020,592147,2020-09-13T13:00:00+00:00,UTC,1600002000,Match Finished,FT,90,Regular Season - 1,60,West Brom,46,Leicester,0,3,AWAY,597,The Hawthorns,A. Taylor
+39,Premier League,England,2020,592146,2020-09-13T15:30:00+00:00,UTC,1600011000,Match Finished,FT,90,Regular Season - 1,47,Tottenham,45,Everton,0,1,AWAY,593,Tottenham Hotspur Stadium,M. Atkinson
+39,Premier League,England,2020,592150,2020-09-14T17:00:00+00:00,UTC,1600102800,Match Finished,FT,90,Regular Season - 1,62,Sheffield Utd,39,Wolves,0,2,AWAY,581,Bramall Lane,M. Dean
+39,Premier League,England,2020,592149,2020-09-14T19:15:00+00:00,UTC,1600110900,Match Finished,FT,90,Regular Season - 1,51,Brighton,49,Chelsea,1,3,AWAY,508,The American Express Community Stadium,C. Pawson
+39,Premier League,England,2020,592154,2020-09-19T11:30:00+00:00,UTC,1600515000,Match Finished,FT,90,Regular Season - 2,45,Everton,60,West Brom,5,2,HOME,8560,Goodison Park,M. Dean
+39,Premier League,England,2020,592155,2020-09-19T14:00:00+00:00,UTC,1600524000,Match Finished,FT,90,Regular Season - 2,63,Leeds,36,Fulham,4,3,HOME,546,Elland Road,A. Taylor
+39,Premier League,England,2020,592157,2020-09-19T16:30:00+00:00,UTC,1600533000,Match Finished,FT,90,Regular Season - 2,33,Manchester United,52,Crystal Palace,1,3,AWAY,556,Old Trafford,M. Atkinson
+39,Premier League,England,2020,592151,2020-09-19T19:00:00+00:00,UTC,1600542000,Match Finished,FT,90,Regular Season - 2,42,Arsenal,48,West Ham,2,1,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2020,592159,2020-09-20T11:00:00+00:00,UTC,1600599600,Match Finished,FT,90,Regular Season - 2,41,Southampton,47,Tottenham,2,5,AWAY,585,St. Mary's Stadium,D. Coote
+39,Premier League,England,2020,592158,2020-09-20T13:00:00+00:00,UTC,1600606800,Match Finished,FT,90,Regular Season - 2,34,Newcastle,51,Brighton,0,3,AWAY,562,St. James' Park,K. Friend
+39,Premier League,England,2020,592153,2020-09-20T15:30:00+00:00,UTC,1600615800,Match Finished,FT,90,Regular Season - 2,49,Chelsea,40,Liverpool,0,2,AWAY,519,Stamford Bridge,P. Tierney
+39,Premier League,England,2020,592156,2020-09-20T18:00:00+00:00,UTC,1600624800,Match Finished,FT,90,Regular Season - 2,46,Leicester,44,Burnley,4,2,HOME,547,King Power Stadium,L. Mason
+39,Premier League,England,2020,592152,2020-09-21T17:00:00+00:00,UTC,1600707600,Match Finished,FT,90,Regular Season - 2,66,Aston Villa,62,Sheffield Utd,1,0,HOME,495,Villa Park,G. Scott
+39,Premier League,England,2020,592160,2020-09-21T19:15:00+00:00,UTC,1600715700,Match Finished,FT,90,Regular Season - 2,39,Wolves,50,Manchester City,1,3,AWAY,600,Molineux Stadium,A. Marriner
+39,Premier League,England,2020,592161,2020-09-26T11:30:00+00:00,UTC,1601119800,Match Finished,FT,90,Regular Season - 3,51,Brighton,33,Manchester United,2,3,AWAY,508,The American Express Community Stadium,C. Kavanagh
+39,Premier League,England,2020,592163,2020-09-26T14:00:00+00:00,UTC,1601128800,Match Finished,FT,90,Regular Season - 3,52,Crystal Palace,45,Everton,1,2,AWAY,525,Selhurst Park,K. Friend
+39,Premier League,England,2020,592169,2020-09-26T16:30:00+00:00,UTC,1601137800,Match Finished,FT,90,Regular Season - 3,60,West Brom,49,Chelsea,3,3,DRAW,597,The Hawthorns,J. Moss
+39,Premier League,England,2020,592162,2020-09-26T19:00:00+00:00,UTC,1601146800,Match Finished,FT,90,Regular Season - 3,44,Burnley,41,Southampton,0,1,AWAY,512,Turf Moor,A. Marriner
+39,Premier League,England,2020,592167,2020-09-27T11:00:00+00:00,UTC,1601204400,Match Finished,FT,90,Regular Season - 3,62,Sheffield Utd,63,Leeds,0,1,AWAY,581,Bramall Lane,P. Tierney
+39,Premier League,England,2020,592168,2020-09-27T13:00:00+00:00,UTC,1601211600,Match Finished,FT,90,Regular Season - 3,47,Tottenham,34,Newcastle,1,1,DRAW,593,Tottenham Hotspur Stadium,P. Bankes
+39,Premier League,England,2020,592166,2020-09-27T15:30:00+00:00,UTC,1601220600,Match Finished,FT,90,Regular Season - 3,50,Manchester City,46,Leicester,2,5,AWAY,555,Etihad Stadium,M. Oliver
+39,Premier League,England,2020,592170,2020-09-27T18:00:00+00:00,UTC,1601229600,Match Finished,FT,90,Regular Season - 3,48,West Ham,39,Wolves,4,0,HOME,598,London Stadium,M. Atkinson
+39,Premier League,England,2020,592164,2020-09-28T16:45:00+00:00,UTC,1601311500,Match Finished,FT,90,Regular Season - 3,36,Fulham,66,Aston Villa,0,3,AWAY,535,Craven Cottage,S. Attwell
+39,Premier League,England,2020,592165,2020-09-28T19:00:00+00:00,UTC,1601319600,Match Finished,FT,90,Regular Season - 3,40,Liverpool,42,Arsenal,3,1,HOME,550,Anfield,C. Pawson
+39,Premier League,England,2020,592173,2020-10-03T11:30:00+00:00,UTC,1601724600,Match Finished,FT,90,Regular Season - 4,49,Chelsea,52,Crystal Palace,4,0,HOME,519,Stamford Bridge,M. Oliver
+39,Premier League,England,2020,592174,2020-10-03T14:00:00+00:00,UTC,1601733600,Match Finished,FT,90,Regular Season - 4,45,Everton,51,Brighton,4,2,HOME,8560,Goodison Park,S. Hooper
+39,Premier League,England,2020,592175,2020-10-03T16:30:00+00:00,UTC,1601742600,Match Finished,FT,90,Regular Season - 4,63,Leeds,50,Manchester City,1,1,DRAW,546,Elland Road,M. Dean
+39,Premier League,England,2020,592178,2020-10-03T19:00:00+00:00,UTC,1601751600,Match Finished,FT,90,Regular Season - 4,34,Newcastle,44,Burnley,3,1,HOME,562,St. James' Park,D. Coote
+39,Premier League,England,2020,592179,2020-10-04T11:00:00+00:00,UTC,1601809200,Match Finished,FT,90,Regular Season - 4,41,Southampton,60,West Brom,2,0,HOME,585,St. Mary's Stadium,C. Kavanagh
+39,Premier League,England,2020,592176,2020-10-04T11:00:00+00:00,UTC,1601809200,Match Finished,FT,90,Regular Season - 4,46,Leicester,48,West Ham,0,3,AWAY,547,King Power Stadium,A. Madley
+39,Premier League,England,2020,592180,2020-10-04T13:00:00+00:00,UTC,1601816400,Match Finished,FT,90,Regular Season - 4,39,Wolves,36,Fulham,1,0,HOME,600,Molineux Stadium,D. England
+39,Premier League,England,2020,592171,2020-10-04T13:00:00+00:00,UTC,1601816400,Match Finished,FT,90,Regular Season - 4,42,Arsenal,62,Sheffield Utd,2,1,HOME,494,Emirates Stadium,L. Mason
+39,Premier League,England,2020,592177,2020-10-04T15:30:00+00:00,UTC,1601825400,Match Finished,FT,90,Regular Season - 4,33,Manchester United,47,Tottenham,1,6,AWAY,556,Old Trafford,A. Taylor
+39,Premier League,England,2020,592172,2020-10-04T18:15:00+00:00,UTC,1601835300,Match Finished,FT,90,Regular Season - 4,66,Aston Villa,40,Liverpool,7,2,HOME,495,Villa Park,M. Atkinson
+39,Premier League,England,2020,592183,2020-10-17T11:30:00+00:00,UTC,1602934200,Match Finished,FT,90,Regular Season - 5,45,Everton,40,Liverpool,2,2,DRAW,8560,Goodison Park,M. Oliver
+39,Premier League,England,2020,592181,2020-10-17T14:00:00+00:00,UTC,1602943200,Match Finished,FT,90,Regular Season - 5,49,Chelsea,41,Southampton,3,3,DRAW,519,Stamford Bridge,P. Bankes
+39,Premier League,England,2020,592186,2020-10-17T16:30:00+00:00,UTC,1602952200,Match Finished,FT,90,Regular Season - 5,50,Manchester City,42,Arsenal,1,0,HOME,555,Etihad Stadium,C. Kavanagh
+39,Premier League,England,2020,592187,2020-10-17T19:00:00+00:00,UTC,1602961200,Match Finished,FT,90,Regular Season - 5,34,Newcastle,33,Manchester United,1,4,AWAY,562,St. James' Park,C. Pawson
+39,Premier League,England,2020,592188,2020-10-18T11:00:00+00:00,UTC,1603018800,Match Finished,FT,90,Regular Season - 5,62,Sheffield Utd,36,Fulham,1,1,DRAW,581,Bramall Lane,A. Marriner
+39,Premier League,England,2020,592182,2020-10-18T13:00:00+00:00,UTC,1603026000,Match Finished,FT,90,Regular Season - 5,52,Crystal Palace,51,Brighton,1,1,DRAW,525,Selhurst Park,S. Attwell
+39,Premier League,England,2020,592189,2020-10-18T15:30:00+00:00,UTC,1603035000,Match Finished,FT,90,Regular Season - 5,47,Tottenham,48,West Ham,3,3,DRAW,593,Tottenham Hotspur Stadium,P. Tierney
+39,Premier League,England,2020,592185,2020-10-18T18:15:00+00:00,UTC,1603044900,Match Finished,FT,90,Regular Season - 5,46,Leicester,66,Aston Villa,0,1,AWAY,547,King Power Stadium,J. Moss
+39,Premier League,England,2020,592190,2020-10-19T16:30:00+00:00,UTC,1603125000,Match Finished,FT,90,Regular Season - 5,60,West Brom,44,Burnley,0,0,DRAW,597,The Hawthorns,A. Taylor
+39,Premier League,England,2020,592184,2020-10-19T19:00:00+00:00,UTC,1603134000,Match Finished,FT,90,Regular Season - 5,63,Leeds,39,Wolves,0,1,AWAY,546,Elland Road,D. Coote
+39,Premier League,England,2020,592192,2020-10-23T19:00:00+00:00,UTC,1603479600,Match Finished,FT,90,Regular Season - 6,66,Aston Villa,63,Leeds,0,3,AWAY,495,Villa Park,P. Tierney
+39,Premier League,England,2020,592199,2020-10-24T11:30:00+00:00,UTC,1603539000,Match Finished,FT,90,Regular Season - 6,48,West Ham,50,Manchester City,1,1,DRAW,598,London Stadium,A. Taylor
+39,Premier League,England,2020,592195,2020-10-24T14:00:00+00:00,UTC,1603548000,Match Finished,FT,90,Regular Season - 6,36,Fulham,52,Crystal Palace,1,2,AWAY,535,Craven Cottage,G. Scott
+39,Premier League,England,2020,592197,2020-10-24T16:30:00+00:00,UTC,1603557000,Match Finished,FT,90,Regular Season - 6,33,Manchester United,49,Chelsea,0,0,DRAW,556,Old Trafford,M. Atkinson
+39,Premier League,England,2020,592196,2020-10-24T19:00:00+00:00,UTC,1603566000,Match Finished,FT,90,Regular Season - 6,40,Liverpool,62,Sheffield Utd,2,1,HOME,550,Anfield,M. Dean
+39,Premier League,England,2020,592198,2020-10-25T14:00:00+00:00,UTC,1603634400,Match Finished,FT,90,Regular Season - 6,41,Southampton,45,Everton,2,0,HOME,585,St. Mary's Stadium,K. Friend
+39,Premier League,England,2020,592200,2020-10-25T16:30:00+00:00,UTC,1603643400,Match Finished,FT,90,Regular Season - 6,39,Wolves,34,Newcastle,1,1,DRAW,600,Molineux Stadium,L. Mason
+39,Premier League,England,2020,592191,2020-10-25T19:15:00+00:00,UTC,1603653300,Match Finished,FT,90,Regular Season - 6,42,Arsenal,46,Leicester,0,1,AWAY,494,Emirates Stadium,C. Pawson
+39,Premier League,England,2020,592193,2020-10-26T17:30:00+00:00,UTC,1603733400,Match Finished,FT,90,Regular Season - 6,51,Brighton,60,West Brom,1,1,DRAW,508,The American Express Community Stadium,J. Moss
+39,Premier League,England,2020,592194,2020-10-26T20:00:00+00:00,UTC,1603742400,Match Finished,FT,90,Regular Season - 6,44,Burnley,47,Tottenham,0,1,AWAY,512,Turf Moor,M. Oliver
+39,Premier League,England,2020,592210,2020-10-30T20:00:00+00:00,UTC,1604088000,Match Finished,FT,90,Regular Season - 7,39,Wolves,52,Crystal Palace,2,0,HOME,600,Molineux Stadium,M. Atkinson
+39,Premier League,England,2020,592208,2020-10-31T12:30:00+00:00,UTC,1604147400,Match Finished,FT,90,Regular Season - 7,62,Sheffield Utd,50,Manchester City,0,1,AWAY,581,Bramall Lane,M. Oliver
+39,Premier League,England,2020,592202,2020-10-31T15:00:00+00:00,UTC,1604156400,Match Finished,FT,90,Regular Season - 7,44,Burnley,49,Chelsea,0,3,AWAY,512,Turf Moor,D. Coote
+39,Premier League,England,2020,592205,2020-10-31T17:30:00+00:00,UTC,1604165400,Match Finished,FT,90,Regular Season - 7,40,Liverpool,48,West Ham,2,1,HOME,550,Anfield,K. Friend
+39,Premier League,England,2020,592201,2020-11-01T12:00:00+00:00,UTC,1604232000,Match Finished,FT,90,Regular Season - 7,66,Aston Villa,41,Southampton,3,4,AWAY,495,Villa Park,D. England
+39,Premier League,England,2020,592207,2020-11-01T14:00:00+00:00,UTC,1604239200,Match Finished,FT,90,Regular Season - 7,34,Newcastle,45,Everton,2,1,HOME,562,St. James' Park,S. Attwell
+39,Premier League,England,2020,592206,2020-11-01T16:30:00+00:00,UTC,1604248200,Match Finished,FT,90,Regular Season - 7,33,Manchester United,42,Arsenal,0,1,AWAY,556,Old Trafford,M. Dean
+39,Premier League,England,2020,592209,2020-11-01T19:15:00+00:00,UTC,1604258100,Match Finished,FT,90,Regular Season - 7,47,Tottenham,51,Brighton,2,1,HOME,593,Tottenham Hotspur Stadium,G. Scott
+39,Premier League,England,2020,592203,2020-11-02T17:30:00+00:00,UTC,1604338200,Match Finished,FT,90,Regular Season - 7,36,Fulham,60,West Brom,2,0,HOME,535,Craven Cottage,S. Hooper
+39,Premier League,England,2020,592204,2020-11-02T20:00:00+00:00,UTC,1604347200,Match Finished,FT,90,Regular Season - 7,63,Leeds,46,Leicester,1,4,AWAY,546,Elland Road,A. Marriner
+39,Premier League,England,2020,592212,2020-11-06T17:30:00+00:00,UTC,1604683800,Match Finished,FT,90,Regular Season - 8,51,Brighton,44,Burnley,0,0,DRAW,508,The American Express Community Stadium,M. Dean
+39,Premier League,England,2020,592218,2020-11-06T20:00:00+00:00,UTC,1604692800,Match Finished,FT,90,Regular Season - 8,41,Southampton,34,Newcastle,2,0,HOME,585,St. Mary's Stadium,P. Bankes
+39,Premier League,England,2020,592215,2020-11-07T12:30:00+00:00,UTC,1604752200,Match Finished,FT,90,Regular Season - 8,45,Everton,33,Manchester United,1,3,AWAY,8560,Goodison Park,P. Tierney
+39,Premier League,England,2020,592214,2020-11-07T15:00:00+00:00,UTC,1604761200,Match Finished,FT,90,Regular Season - 8,52,Crystal Palace,63,Leeds,4,1,HOME,525,Selhurst Park,C. Kavanagh
+39,Premier League,England,2020,592213,2020-11-07T17:30:00+00:00,UTC,1604770200,Match Finished,FT,90,Regular Season - 8,49,Chelsea,62,Sheffield Utd,4,1,HOME,519,Stamford Bridge,J. Moss
+39,Premier League,England,2020,592220,2020-11-07T20:00:00+00:00,UTC,1604779200,Match Finished,FT,90,Regular Season - 8,48,West Ham,36,Fulham,1,0,HOME,598,London Stadium,R. Jones
+39,Premier League,England,2020,592219,2020-11-08T12:00:00+00:00,UTC,1604836800,Match Finished,FT,90,Regular Season - 8,60,West Brom,47,Tottenham,0,1,AWAY,597,The Hawthorns,A. Madley
+39,Premier League,England,2020,592216,2020-11-08T14:00:00+00:00,UTC,1604844000,Match Finished,FT,90,Regular Season - 8,46,Leicester,39,Wolves,1,0,HOME,547,King Power Stadium,A. Taylor
+39,Premier League,England,2020,592217,2020-11-08T16:30:00+00:00,UTC,1604853000,Match Finished,FT,90,Regular Season - 8,50,Manchester City,40,Liverpool,1,1,DRAW,555,Etihad Stadium,C. Pawson
+39,Premier League,England,2020,592211,2020-11-08T19:15:00+00:00,UTC,1604862900,Match Finished,FT,90,Regular Season - 8,42,Arsenal,66,Aston Villa,0,3,AWAY,494,Emirates Stadium,M. Atkinson
+39,Premier League,England,2020,592227,2020-11-21T12:30:00+00:00,UTC,1605961800,Match Finished,FT,90,Regular Season - 9,34,Newcastle,49,Chelsea,0,2,AWAY,562,St. James' Park,C. Pawson
+39,Premier League,England,2020,592221,2020-11-21T15:00:00+00:00,UTC,1605970800,Match Finished,FT,90,Regular Season - 9,66,Aston Villa,51,Brighton,1,2,AWAY,495,Villa Park,M. Oliver
+39,Premier League,England,2020,592229,2020-11-21T17:30:00+00:00,UTC,1605979800,Match Finished,FT,90,Regular Season - 9,47,Tottenham,50,Manchester City,2,0,HOME,593,Tottenham Hotspur Stadium,M. Dean
+39,Premier League,England,2020,592226,2020-11-21T20:00:00+00:00,UTC,1605988800,Match Finished,FT,90,Regular Season - 9,33,Manchester United,60,West Brom,1,0,HOME,556,Old Trafford,D. Coote
+39,Premier League,England,2020,592223,2020-11-22T12:00:00+00:00,UTC,1606046400,Match Finished,FT,90,Regular Season - 9,36,Fulham,45,Everton,2,3,AWAY,535,Craven Cottage,A. Madley
+39,Premier League,England,2020,592228,2020-11-22T14:00:00+00:00,UTC,1606053600,Match Finished,FT,90,Regular Season - 9,62,Sheffield Utd,48,West Ham,0,1,AWAY,581,Bramall Lane,M. Atkinson
+39,Premier League,England,2020,592224,2020-11-22T16:30:00+00:00,UTC,1606062600,Match Finished,FT,90,Regular Season - 9,63,Leeds,42,Arsenal,0,0,DRAW,546,Elland Road,A. Taylor
+39,Premier League,England,2020,592225,2020-11-22T19:15:00+00:00,UTC,1606072500,Match Finished,FT,90,Regular Season - 9,40,Liverpool,46,Leicester,3,0,HOME,550,Anfield,C. Kavanagh
+39,Premier League,England,2020,592222,2020-11-23T17:30:00+00:00,UTC,1606152600,Match Finished,FT,90,Regular Season - 9,44,Burnley,52,Crystal Palace,1,0,HOME,512,Turf Moor,K. Friend
+39,Premier League,England,2020,592230,2020-11-23T20:00:00+00:00,UTC,1606161600,Match Finished,FT,90,Regular Season - 9,39,Wolves,41,Southampton,1,1,DRAW,600,Molineux Stadium,A. Marriner
+39,Premier League,England,2020,592234,2020-11-27T20:00:00+00:00,UTC,1606507200,Match Finished,FT,90,Regular Season - 10,52,Crystal Palace,34,Newcastle,0,2,AWAY,525,Selhurst Park,G. Scott
+39,Premier League,England,2020,592232,2020-11-28T12:30:00+00:00,UTC,1606566600,Match Finished,FT,90,Regular Season - 10,51,Brighton,40,Liverpool,1,1,DRAW,508,The American Express Community Stadium,S. Attwell
+39,Premier League,England,2020,592237,2020-11-28T15:00:00+00:00,UTC,1606575600,Match Finished,FT,90,Regular Season - 10,50,Manchester City,44,Burnley,5,0,HOME,555,Etihad Stadium,L. Mason
+39,Premier League,England,2020,592235,2020-11-28T17:30:00+00:00,UTC,1606584600,Match Finished,FT,90,Regular Season - 10,45,Everton,63,Leeds,0,1,AWAY,8560,Goodison Park,C. Kavanagh
+39,Premier League,England,2020,592239,2020-11-28T20:00:00+00:00,UTC,1606593600,Match Finished,FT,90,Regular Season - 10,60,West Brom,62,Sheffield Utd,1,0,HOME,597,The Hawthorns,M. Dean
+39,Premier League,England,2020,592238,2020-11-29T14:00:00+00:00,UTC,1606658400,Match Finished,FT,90,Regular Season - 10,41,Southampton,33,Manchester United,2,3,AWAY,585,St. Mary's Stadium,J. Moss
+39,Premier League,England,2020,592233,2020-11-29T16:30:00+00:00,UTC,1606667400,Match Finished,FT,90,Regular Season - 10,49,Chelsea,47,Tottenham,0,0,DRAW,519,Stamford Bridge,P. Tierney
+39,Premier League,England,2020,592231,2020-11-29T19:15:00+00:00,UTC,1606677300,Match Finished,FT,90,Regular Season - 10,42,Arsenal,39,Wolves,1,2,AWAY,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2020,592236,2020-11-30T17:30:00+00:00,UTC,1606757400,Match Finished,FT,90,Regular Season - 10,46,Leicester,36,Fulham,1,2,AWAY,547,King Power Stadium,S. Hooper
+39,Premier League,England,2020,592240,2020-11-30T20:00:00+00:00,UTC,1606766400,Match Finished,FT,90,Regular Season - 10,48,West Ham,66,Aston Villa,2,1,HOME,598,London Stadium,P. Bankes
+39,Premier League,England,2020,592243,2020-12-05T12:30:00+00:00,UTC,1607171400,Match Finished,FT,90,Regular Season - 11,44,Burnley,45,Everton,1,1,DRAW,512,Turf Moor,A. Taylor
+39,Premier League,England,2020,592246,2020-12-05T15:00:00+00:00,UTC,1607180400,Match Finished,FT,90,Regular Season - 11,50,Manchester City,36,Fulham,2,0,HOME,555,Etihad Stadium,J. Moss
+39,Premier League,England,2020,592250,2020-12-05T17:30:00+00:00,UTC,1607189400,Match Finished,FT,90,Regular Season - 11,48,West Ham,33,Manchester United,1,3,AWAY,598,London Stadium,A. Marriner
+39,Premier League,England,2020,592244,2020-12-05T20:00:00+00:00,UTC,1607198400,Match Finished,FT,90,Regular Season - 11,49,Chelsea,63,Leeds,3,1,HOME,519,Stamford Bridge,K. Friend
+39,Premier League,England,2020,592249,2020-12-06T12:00:00+00:00,UTC,1607256000,Match Finished,FT,90,Regular Season - 11,60,West Brom,52,Crystal Palace,1,5,AWAY,597,The Hawthorns,P. Tierney
+39,Premier League,England,2020,592247,2020-12-06T14:15:00+00:00,UTC,1607264100,Match Finished,FT,90,Regular Season - 11,62,Sheffield Utd,46,Leicester,1,2,AWAY,581,Bramall Lane,S. Attwell
+39,Premier League,England,2020,592248,2020-12-06T16:30:00+00:00,UTC,1607272200,Match Finished,FT,90,Regular Season - 11,47,Tottenham,42,Arsenal,2,0,HOME,593,Tottenham Hotspur Stadium,M. Atkinson
+39,Premier League,England,2020,592245,2020-12-06T19:15:00+00:00,UTC,1607282100,Match Finished,FT,90,Regular Season - 11,40,Liverpool,39,Wolves,4,0,HOME,550,Anfield,C. Pawson
+39,Premier League,England,2020,592242,2020-12-07T20:00:00+00:00,UTC,1607371200,Match Finished,FT,90,Regular Season - 11,51,Brighton,41,Southampton,1,2,AWAY,508,The American Express Community Stadium,D. Coote
+39,Premier League,England,2020,592255,2020-12-11T20:00:00+00:00,UTC,1607716800,Match Finished,FT,90,Regular Season - 12,63,Leeds,48,West Ham,1,2,AWAY,546,Elland Road,M. Oliver
+39,Premier League,England,2020,592260,2020-12-12T12:30:00+00:00,UTC,1607776200,Match Finished,FT,90,Regular Season - 12,39,Wolves,66,Aston Villa,0,1,AWAY,600,Molineux Stadium,M. Dean
+39,Premier League,England,2020,592258,2020-12-12T15:00:00+00:00,UTC,1607785200,Match Finished,FT,90,Regular Season - 12,34,Newcastle,60,West Brom,2,1,HOME,562,St. James' Park,D. England
+39,Premier League,England,2020,592257,2020-12-12T17:30:00+00:00,UTC,1607794200,Match Finished,FT,90,Regular Season - 12,33,Manchester United,50,Manchester City,0,0,DRAW,556,Old Trafford,C. Kavanagh
+39,Premier League,England,2020,592253,2020-12-12T20:00:00+00:00,UTC,1607803200,Match Finished,FT,90,Regular Season - 12,45,Everton,49,Chelsea,1,0,HOME,8560,Goodison Park,J. Moss
+39,Premier League,England,2020,592259,2020-12-13T12:00:00+00:00,UTC,1607860800,Match Finished,FT,90,Regular Season - 12,41,Southampton,62,Sheffield Utd,3,0,HOME,585,St. Mary's Stadium,A. Madley
+39,Premier League,England,2020,592252,2020-12-13T14:15:00+00:00,UTC,1607868900,Match Finished,FT,90,Regular Season - 12,52,Crystal Palace,47,Tottenham,1,1,DRAW,525,Selhurst Park,K. Friend
+39,Premier League,England,2020,592254,2020-12-13T16:30:00+00:00,UTC,1607877000,Match Finished,FT,90,Regular Season - 12,36,Fulham,40,Liverpool,1,1,DRAW,535,Craven Cottage,A. Marriner
+39,Premier League,England,2020,592251,2020-12-13T19:15:00+00:00,UTC,1607886900,Match Finished,FT,90,Regular Season - 12,42,Arsenal,44,Burnley,0,1,AWAY,494,Emirates Stadium,G. Scott
+39,Premier League,England,2020,592256,2020-12-13T19:15:00+00:00,UTC,1607886900,Match Finished,FT,90,Regular Season - 12,46,Leicester,51,Brighton,3,0,HOME,547,King Power Stadium,M. Atkinson
+39,Premier League,England,2020,592268,2020-12-15T18:00:00+00:00,UTC,1608055200,Match Finished,FT,90,Regular Season - 13,39,Wolves,49,Chelsea,2,1,HOME,600,Molineux Stadium,S. Attwell
+39,Premier League,England,2020,592270,2020-12-15T20:00:00+00:00,UTC,1608062400,Match Finished,FT,90,Regular Season - 13,50,Manchester City,60,West Brom,1,1,DRAW,555,Etihad Stadium,P. Bankes
+39,Premier League,England,2020,592261,2020-12-16T18:00:00+00:00,UTC,1608141600,Match Finished,FT,90,Regular Season - 13,42,Arsenal,41,Southampton,1,1,DRAW,494,Emirates Stadium,P. Tierney
+39,Premier League,England,2020,592265,2020-12-16T18:00:00+00:00,UTC,1608141600,Match Finished,FT,90,Regular Season - 13,46,Leicester,45,Everton,0,2,AWAY,547,King Power Stadium,L. Mason
+39,Premier League,England,2020,592264,2020-12-16T18:00:00+00:00,UTC,1608141600,Match Finished,FT,90,Regular Season - 13,63,Leeds,34,Newcastle,5,2,HOME,546,Elland Road,S. Hooper
+39,Premier League,England,2020,592263,2020-12-16T20:00:00+00:00,UTC,1608148800,Match Finished,FT,90,Regular Season - 13,36,Fulham,51,Brighton,0,0,DRAW,535,Craven Cottage,R. Jones
+39,Premier League,England,2020,592269,2020-12-16T20:00:00+00:00,UTC,1608148800,Match Finished,FT,90,Regular Season - 13,40,Liverpool,47,Tottenham,2,1,HOME,550,Anfield,A. Taylor
+39,Premier League,England,2020,592267,2020-12-16T20:00:00+00:00,UTC,1608148800,Match Finished,FT,90,Regular Season - 13,48,West Ham,52,Crystal Palace,1,1,DRAW,598,London Stadium,D. Coote
+39,Premier League,England,2020,592262,2020-12-17T18:00:00+00:00,UTC,1608228000,Match Finished,FT,90,Regular Season - 13,66,Aston Villa,44,Burnley,0,0,DRAW,495,Villa Park,C. Pawson
+39,Premier League,England,2020,592266,2020-12-17T20:00:00+00:00,UTC,1608235200,Match Finished,FT,90,Regular Season - 13,62,Sheffield Utd,33,Manchester United,2,3,AWAY,581,Bramall Lane,M. Oliver
+39,Premier League,England,2020,592274,2020-12-19T12:30:00+00:00,UTC,1608381000,Match Finished,FT,90,Regular Season - 14,52,Crystal Palace,40,Liverpool,0,7,AWAY,525,Selhurst Park,J. Moss
+39,Premier League,England,2020,592278,2020-12-19T15:00:00+00:00,UTC,1608390000,Match Finished,FT,90,Regular Season - 14,41,Southampton,50,Manchester City,0,1,AWAY,585,St. Mary's Stadium,M. Dean
+39,Premier League,England,2020,592275,2020-12-19T17:30:00+00:00,UTC,1608399000,Match Finished,FT,90,Regular Season - 14,45,Everton,42,Arsenal,2,1,HOME,8560,Goodison Park,A. Marriner
+39,Premier League,England,2020,592277,2020-12-19T20:00:00+00:00,UTC,1608408000,Match Finished,FT,90,Regular Season - 14,34,Newcastle,36,Fulham,1,1,DRAW,562,St. James' Park,G. Scott
+39,Premier League,England,2020,592271,2020-12-20T12:00:00+00:00,UTC,1608465600,Match Finished,FT,90,Regular Season - 14,51,Brighton,62,Sheffield Utd,1,1,DRAW,508,The American Express Community Stadium,P. Bankes
+39,Premier League,England,2020,592279,2020-12-20T14:15:00+00:00,UTC,1608473700,Match Finished,FT,90,Regular Season - 14,47,Tottenham,46,Leicester,0,2,AWAY,593,Tottenham Hotspur Stadium,C. Pawson
+39,Premier League,England,2020,592276,2020-12-20T16:30:00+00:00,UTC,1608481800,Match Finished,FT,90,Regular Season - 14,33,Manchester United,63,Leeds,6,2,HOME,556,Old Trafford,A. Taylor
+39,Premier League,England,2020,592280,2020-12-20T19:15:00+00:00,UTC,1608491700,Match Finished,FT,90,Regular Season - 14,60,West Brom,66,Aston Villa,0,3,AWAY,597,The Hawthorns,M. Atkinson
+39,Premier League,England,2020,592272,2020-12-21T17:30:00+00:00,UTC,1608571800,Match Finished,FT,90,Regular Season - 14,44,Burnley,39,Wolves,2,1,HOME,512,Turf Moor,L. Mason
+39,Premier League,England,2020,592273,2020-12-21T20:00:00+00:00,UTC,1608580800,Match Finished,FT,90,Regular Season - 14,49,Chelsea,48,West Ham,3,0,HOME,519,Stamford Bridge,C. Kavanagh
+39,Premier League,England,2020,592285,2020-12-26T12:30:00+00:00,UTC,1608985800,Match Finished,FT,90,Regular Season - 15,46,Leicester,33,Manchester United,2,2,DRAW,547,King Power Stadium,M. Dean
+39,Premier League,England,2020,592283,2020-12-26T15:00:00+00:00,UTC,1608994800,Match Finished,FT,90,Regular Season - 15,36,Fulham,41,Southampton,0,0,DRAW,535,Craven Cottage,D. England
+39,Premier League,England,2020,592282,2020-12-26T15:00:00+00:00,UTC,1608994800,Match Finished,FT,90,Regular Season - 15,66,Aston Villa,52,Crystal Palace,3,0,HOME,495,Villa Park,A. Taylor
+39,Premier League,England,2020,592281,2020-12-26T17:30:00+00:00,UTC,1609003800,Match Finished,FT,90,Regular Season - 15,42,Arsenal,49,Chelsea,3,1,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2020,592287,2020-12-26T20:00:00+00:00,UTC,1609012800,Match Finished,FT,90,Regular Season - 15,50,Manchester City,34,Newcastle,2,0,HOME,555,Etihad Stadium,A. Marriner
+39,Premier League,England,2020,592288,2020-12-26T20:00:00+00:00,UTC,1609012800,Match Finished,FT,90,Regular Season - 15,62,Sheffield Utd,45,Everton,0,1,AWAY,581,Bramall Lane,D. Coote
+39,Premier League,England,2020,592284,2020-12-27T12:00:00+00:00,UTC,1609070400,Match Finished,FT,90,Regular Season - 15,63,Leeds,44,Burnley,1,0,HOME,546,Elland Road,R. Jones
+39,Premier League,England,2020,592289,2020-12-27T14:15:00+00:00,UTC,1609078500,Match Finished,FT,90,Regular Season - 15,48,West Ham,51,Brighton,2,2,DRAW,598,London Stadium,S. Hooper
+39,Premier League,England,2020,592286,2020-12-27T16:30:00+00:00,UTC,1609086600,Match Finished,FT,90,Regular Season - 15,40,Liverpool,60,West Brom,1,1,DRAW,550,Anfield,K. Friend
+39,Premier League,England,2020,592290,2020-12-27T19:15:00+00:00,UTC,1609096500,Match Finished,FT,90,Regular Season - 15,39,Wolves,47,Tottenham,1,1,DRAW,600,Molineux Stadium,P. Tierney
+39,Premier League,England,2020,592294,2020-12-28T15:00:00+00:00,UTC,1609167600,Match Finished,FT,90,Regular Season - 16,52,Crystal Palace,46,Leicester,1,1,DRAW,525,Selhurst Park,G. Scott
+39,Premier League,England,2020,592293,2020-12-28T17:30:00+00:00,UTC,1609176600,Match Finished,FT,90,Regular Season - 16,49,Chelsea,66,Aston Villa,1,1,DRAW,519,Stamford Bridge,S. Attwell
+39,Premier League,England,2020,592298,2020-12-29T18:00:00+00:00,UTC,1609264800,Match Finished,FT,90,Regular Season - 16,41,Southampton,48,West Ham,0,0,DRAW,585,St. Mary's Stadium,A. Madley
+39,Premier League,England,2020,592292,2020-12-29T18:00:00+00:00,UTC,1609264800,Match Finished,FT,90,Regular Season - 16,44,Burnley,62,Sheffield Utd,1,0,HOME,512,Turf Moor,C. Kavanagh
+39,Premier League,England,2020,592291,2020-12-29T18:00:00+00:00,UTC,1609264800,Match Finished,FT,90,Regular Season - 16,51,Brighton,42,Arsenal,0,1,AWAY,508,The American Express Community Stadium,M. Atkinson
+39,Premier League,England,2020,592300,2020-12-29T18:00:00+00:00,UTC,1609264800,Match Finished,FT,90,Regular Season - 16,60,West Brom,63,Leeds,0,5,AWAY,597,The Hawthorns,L. Mason
+39,Premier League,England,2020,592296,2020-12-29T20:00:00+00:00,UTC,1609272000,Match Finished,FT,90,Regular Season - 16,33,Manchester United,39,Wolves,1,0,HOME,556,Old Trafford,J. Moss
+39,Premier League,England,2020,592297,2020-12-30T20:00:00+00:00,UTC,1609358400,Match Finished,FT,90,Regular Season - 16,34,Newcastle,40,Liverpool,0,0,DRAW,562,St. James' Park,P. Tierney
+39,Premier League,England,2020,592305,2021-01-01T17:30:00+00:00,UTC,1609522200,Match Finished,FT,90,Regular Season - 17,45,Everton,48,West Ham,0,1,AWAY,8560,Goodison Park,K. Friend
+39,Premier League,England,2020,592306,2021-01-01T20:00:00+00:00,UTC,1609531200,Match Finished,FT,90,Regular Season - 17,33,Manchester United,66,Aston Villa,2,1,HOME,556,Old Trafford,M. Oliver
+39,Premier League,England,2020,592309,2021-01-02T12:30:00+00:00,UTC,1609590600,Match Finished,FT,90,Regular Season - 17,47,Tottenham,63,Leeds,3,0,HOME,593,Tottenham Hotspur Stadium,D. Coote
+39,Premier League,England,2020,592304,2021-01-02T15:00:00+00:00,UTC,1609599600,Match Finished,FT,90,Regular Season - 17,52,Crystal Palace,62,Sheffield Utd,2,0,HOME,525,Selhurst Park,S. Attwell
+39,Premier League,England,2020,592301,2021-01-02T17:30:00+00:00,UTC,1609608600,Match Finished,FT,90,Regular Season - 17,51,Brighton,39,Wolves,3,3,DRAW,508,The American Express Community Stadium,A. Madley
+39,Premier League,England,2020,592310,2021-01-02T20:00:00+00:00,UTC,1609617600,Match Finished,FT,90,Regular Season - 17,60,West Brom,42,Arsenal,0,4,AWAY,597,The Hawthorns,M. Atkinson
+39,Premier League,England,2020,592307,2021-01-03T14:15:00+00:00,UTC,1609683300,Match Finished,FT,90,Regular Season - 17,34,Newcastle,46,Leicester,1,2,AWAY,562,St. James' Park,R. Jones
+39,Premier League,England,2020,592303,2021-01-03T16:30:00+00:00,UTC,1609691400,Match Finished,FT,90,Regular Season - 17,49,Chelsea,50,Manchester City,1,3,AWAY,519,Stamford Bridge,A. Taylor
+39,Premier League,England,2020,592308,2021-01-04T20:00:00+00:00,UTC,1609790400,Match Finished,FT,90,Regular Season - 17,41,Southampton,40,Liverpool,1,0,HOME,585,St. Mary's Stadium,A. Marriner
+39,Premier League,England,2020,592316,2021-01-12T18:00:00+00:00,UTC,1610474400,Match Finished,FT,90,Regular Season - 18,62,Sheffield Utd,34,Newcastle,1,0,HOME,581,Bramall Lane,A. Madley
+39,Premier League,England,2020,592318,2021-01-12T20:15:00+00:00,UTC,1610482500,Match Finished,FT,90,Regular Season - 18,39,Wolves,45,Everton,1,2,AWAY,600,Molineux Stadium,M. Atkinson
+39,Premier League,England,2020,592141,2021-01-12T20:15:00+00:00,UTC,1610482500,Match Finished,FT,90,Regular Season - 1,44,Burnley,33,Manchester United,0,1,AWAY,512,Turf Moor,K. Friend
+39,Premier League,England,2020,592320,2021-01-13T18:00:00+00:00,UTC,1610560800,Match Finished,FT,90,Regular Season - 18,50,Manchester City,51,Brighton,1,0,HOME,555,Etihad Stadium,D. England
+39,Premier League,England,2020,592299,2021-01-13T20:15:00+00:00,UTC,1610568900,Match Finished,FT,90,Regular Season - 16,47,Tottenham,36,Fulham,1,1,DRAW,593,Tottenham Hotspur Stadium,P. Tierney
+39,Premier League,England,2020,592311,2021-01-14T20:00:00+00:00,UTC,1610654400,Match Finished,FT,90,Regular Season - 18,42,Arsenal,52,Crystal Palace,0,0,DRAW,494,Emirates Stadium,A. Marriner
+39,Premier League,England,2020,592330,2021-01-16T12:30:00+00:00,UTC,1610800200,Match Finished,FT,90,Regular Season - 19,39,Wolves,60,West Brom,2,3,AWAY,600,Molineux Stadium,M. Oliver
+39,Premier League,England,2020,592329,2021-01-16T15:00:00+00:00,UTC,1610809200,Match Finished,FT,90,Regular Season - 19,48,West Ham,44,Burnley,1,0,HOME,598,London Stadium,C. Kavanagh
+39,Premier League,England,2020,592324,2021-01-16T15:00:00+00:00,UTC,1610809200,Match Finished,FT,90,Regular Season - 19,63,Leeds,51,Brighton,0,1,AWAY,546,Elland Road,K. Friend
+39,Premier League,England,2020,592323,2021-01-16T17:30:00+00:00,UTC,1610818200,Match Finished,FT,90,Regular Season - 19,36,Fulham,49,Chelsea,0,1,AWAY,535,Craven Cottage,P. Bankes
+39,Premier League,England,2020,592325,2021-01-16T20:00:00+00:00,UTC,1610827200,Match Finished,FT,90,Regular Season - 19,46,Leicester,41,Southampton,2,0,HOME,547,King Power Stadium,S. Attwell
+39,Premier League,England,2020,592328,2021-01-17T14:00:00+00:00,UTC,1610892000,Match Finished,FT,90,Regular Season - 19,62,Sheffield Utd,47,Tottenham,1,3,AWAY,581,Bramall Lane,A. Marriner
+39,Premier League,England,2020,592326,2021-01-17T16:30:00+00:00,UTC,1610901000,Match Finished,FT,90,Regular Season - 19,40,Liverpool,33,Manchester United,0,0,DRAW,550,Anfield,P. Tierney
+39,Premier League,England,2020,592327,2021-01-17T19:15:00+00:00,UTC,1610910900,Match Finished,FT,90,Regular Season - 19,50,Manchester City,52,Crystal Palace,4,0,HOME,555,Etihad Stadium,L. Mason
+39,Premier League,England,2020,592321,2021-01-18T20:00:00+00:00,UTC,1611000000,Match Finished,FT,90,Regular Season - 19,42,Arsenal,34,Newcastle,3,0,HOME,494,Emirates Stadium,D. Coote
+39,Premier League,England,2020,592317,2021-01-19T18:00:00+00:00,UTC,1611079200,Match Finished,FT,90,Regular Season - 18,48,West Ham,60,West Brom,2,1,HOME,598,London Stadium,G. Scott
+39,Premier League,England,2020,592315,2021-01-19T20:15:00+00:00,UTC,1611087300,Match Finished,FT,90,Regular Season - 18,46,Leicester,49,Chelsea,2,0,HOME,547,King Power Stadium,C. Pawson
+39,Premier League,England,2020,592145,2021-01-20T18:00:00+00:00,UTC,1611165600,Match Finished,FT,90,Regular Season - 1,50,Manchester City,66,Aston Villa,2,0,HOME,555,Etihad Stadium,J. Moss
+39,Premier League,England,2020,592313,2021-01-20T20:15:00+00:00,UTC,1611173700,Match Finished,FT,90,Regular Season - 18,36,Fulham,33,Manchester United,1,2,AWAY,535,Craven Cottage,M. Atkinson
+39,Premier League,England,2020,592319,2021-01-21T20:00:00+00:00,UTC,1611259200,Match Finished,FT,90,Regular Season - 18,40,Liverpool,44,Burnley,0,1,AWAY,550,Anfield,M. Dean
+39,Premier League,England,2020,592241,2021-01-23T20:00:00+00:00,UTC,1611432000,Match Finished,FT,90,Regular Season - 11,66,Aston Villa,34,Newcastle,2,0,HOME,495,Villa Park,S. Hooper
+39,Premier League,England,2020,592337,2021-01-26T18:00:00+00:00,UTC,1611684000,Match Finished,FT,90,Regular Season - 20,34,Newcastle,63,Leeds,1,2,AWAY,562,St. James' Park,A. Taylor
+39,Premier League,England,2020,592340,2021-01-26T18:00:00+00:00,UTC,1611684000,Match Finished,FT,90,Regular Season - 20,52,Crystal Palace,48,West Ham,2,3,AWAY,525,Selhurst Park,S. Attwell
+39,Premier League,England,2020,592338,2021-01-26T20:15:00+00:00,UTC,1611692100,Match Finished,FT,90,Regular Season - 20,41,Southampton,42,Arsenal,1,3,AWAY,585,St. Mary's Stadium,K. Friend
+39,Premier League,England,2020,592335,2021-01-26T20:15:00+00:00,UTC,1611692100,Match Finished,FT,90,Regular Season - 20,60,West Brom,50,Manchester City,0,5,AWAY,597,The Hawthorns,C. Kavanagh
+39,Premier League,England,2020,592332,2021-01-27T18:00:00+00:00,UTC,1611770400,Match Finished,FT,90,Regular Season - 20,44,Burnley,66,Aston Villa,3,2,HOME,512,Turf Moor,P. Tierney
+39,Premier League,England,2020,592336,2021-01-27T18:00:00+00:00,UTC,1611770400,Match Finished,FT,90,Regular Season - 20,49,Chelsea,39,Wolves,0,0,DRAW,519,Stamford Bridge,A. Madley
+39,Premier League,England,2020,592331,2021-01-27T19:30:00+00:00,UTC,1611775800,Match Finished,FT,90,Regular Season - 20,51,Brighton,36,Fulham,0,0,DRAW,508,The American Express Community Stadium,C. Pawson
+39,Premier League,England,2020,592334,2021-01-27T20:15:00+00:00,UTC,1611778500,Match Finished,FT,90,Regular Season - 20,33,Manchester United,62,Sheffield Utd,1,2,AWAY,556,Old Trafford,P. Bankes
+39,Premier League,England,2020,592333,2021-01-27T20:15:00+00:00,UTC,1611778500,Match Finished,FT,90,Regular Season - 20,45,Everton,46,Leicester,1,1,DRAW,8560,Goodison Park,M. Dean
+39,Premier League,England,2020,592339,2021-01-28T20:00:00+00:00,UTC,1611864000,Match Finished,FT,90,Regular Season - 20,47,Tottenham,40,Liverpool,1,3,AWAY,593,Tottenham Hotspur Stadium,M. Atkinson
+39,Premier League,England,2020,592345,2021-01-30T12:30:00+00:00,UTC,1612009800,Match Finished,FT,90,Regular Season - 21,45,Everton,34,Newcastle,0,2,AWAY,8560,Goodison Park,S. Attwell
+39,Premier League,England,2020,592347,2021-01-30T15:00:00+00:00,UTC,1612018800,Match Finished,FT,90,Regular Season - 21,50,Manchester City,62,Sheffield Utd,1,0,HOME,555,Etihad Stadium,D. Coote
+39,Premier League,England,2020,592344,2021-01-30T15:00:00+00:00,UTC,1612018800,Match Finished,FT,90,Regular Season - 21,52,Crystal Palace,39,Wolves,1,0,HOME,525,Selhurst Park,S. Hooper
+39,Premier League,England,2020,592349,2021-01-30T15:00:00+00:00,UTC,1612018800,Match Finished,FT,90,Regular Season - 21,60,West Brom,36,Fulham,2,2,DRAW,597,The Hawthorns,A. Taylor
+39,Premier League,England,2020,592341,2021-01-30T17:30:00+00:00,UTC,1612027800,Match Finished,FT,90,Regular Season - 21,42,Arsenal,33,Manchester United,0,0,DRAW,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2020,592348,2021-01-30T20:00:00+00:00,UTC,1612036800,Match Finished,FT,90,Regular Season - 21,41,Southampton,66,Aston Villa,0,1,AWAY,585,St. Mary's Stadium,L. Mason
+39,Premier League,England,2020,592343,2021-01-31T12:00:00+00:00,UTC,1612094400,Match Finished,FT,90,Regular Season - 21,49,Chelsea,44,Burnley,2,0,HOME,519,Stamford Bridge,G. Scott
+39,Premier League,England,2020,592346,2021-01-31T14:00:00+00:00,UTC,1612101600,Match Finished,FT,90,Regular Season - 21,46,Leicester,63,Leeds,1,3,AWAY,547,King Power Stadium,C. Kavanagh
+39,Premier League,England,2020,592350,2021-01-31T16:30:00+00:00,UTC,1612110600,Match Finished,FT,90,Regular Season - 21,48,West Ham,40,Liverpool,1,3,AWAY,598,London Stadium,J. Moss
+39,Premier League,England,2020,592342,2021-01-31T19:15:00+00:00,UTC,1612120500,Match Finished,FT,90,Regular Season - 21,51,Brighton,47,Tottenham,1,0,HOME,508,The American Express Community Stadium,P. Bankes
+39,Premier League,England,2020,592356,2021-02-02T18:00:00+00:00,UTC,1612288800,Match Finished,FT,90,Regular Season - 22,39,Wolves,42,Arsenal,2,1,HOME,600,Molineux Stadium,C. Pawson
+39,Premier League,England,2020,592355,2021-02-02T18:00:00+00:00,UTC,1612288800,Match Finished,FT,90,Regular Season - 22,62,Sheffield Utd,60,West Brom,2,1,HOME,581,Bramall Lane,P. Tierney
+39,Premier League,England,2020,592357,2021-02-02T20:15:00+00:00,UTC,1612296900,Match Finished,FT,90,Regular Season - 22,33,Manchester United,41,Southampton,9,0,HOME,556,Old Trafford,M. Dean
+39,Premier League,England,2020,592358,2021-02-02T20:15:00+00:00,UTC,1612296900,Match Finished,FT,90,Regular Season - 22,34,Newcastle,52,Crystal Palace,1,2,AWAY,562,St. James' Park,D. England
+39,Premier League,England,2020,592353,2021-02-03T18:00:00+00:00,UTC,1612375200,Match Finished,FT,90,Regular Season - 22,36,Fulham,46,Leicester,0,2,AWAY,535,Craven Cottage,R. Jones
+39,Premier League,England,2020,592352,2021-02-03T18:00:00+00:00,UTC,1612375200,Match Finished,FT,90,Regular Season - 22,44,Burnley,50,Manchester City,0,2,AWAY,512,Turf Moor,M. Atkinson
+39,Premier League,England,2020,592354,2021-02-03T19:30:00+00:00,UTC,1612380600,Match Finished,FT,90,Regular Season - 22,63,Leeds,45,Everton,1,2,AWAY,546,Elland Road,M. Oliver
+39,Premier League,England,2020,592360,2021-02-03T20:15:00+00:00,UTC,1612383300,Match Finished,FT,90,Regular Season - 22,40,Liverpool,51,Brighton,0,1,AWAY,550,Anfield,K. Friend
+39,Premier League,England,2020,592351,2021-02-03T20:15:00+00:00,UTC,1612383300,Match Finished,FT,90,Regular Season - 22,66,Aston Villa,48,West Ham,1,3,AWAY,495,Villa Park,A. Madley
+39,Premier League,England,2020,592359,2021-02-04T20:00:00+00:00,UTC,1612468800,Match Finished,FT,90,Regular Season - 22,47,Tottenham,49,Chelsea,0,1,AWAY,593,Tottenham Hotspur Stadium,A. Marriner
+39,Premier League,England,2020,592361,2021-02-06T12:30:00+00:00,UTC,1612614600,Match Finished,FT,90,Regular Season - 23,66,Aston Villa,42,Arsenal,1,0,HOME,495,Villa Park,C. Kavanagh
+39,Premier League,England,2020,592367,2021-02-06T15:00:00+00:00,UTC,1612623600,Match Finished,FT,90,Regular Season - 23,34,Newcastle,41,Southampton,3,2,HOME,562,St. James' Park,C. Pawson
+39,Premier League,England,2020,592362,2021-02-06T15:00:00+00:00,UTC,1612623600,Match Finished,FT,90,Regular Season - 23,44,Burnley,51,Brighton,1,1,DRAW,512,Turf Moor,A. Taylor
+39,Premier League,England,2020,592363,2021-02-06T17:30:00+00:00,UTC,1612632600,Match Finished,FT,90,Regular Season - 23,36,Fulham,48,West Ham,0,0,DRAW,535,Craven Cottage,M. Dean
+39,Premier League,England,2020,592366,2021-02-06T20:00:00+00:00,UTC,1612641600,Match Finished,FT,90,Regular Season - 23,33,Manchester United,45,Everton,3,3,DRAW,556,Old Trafford,J. Moss
+39,Premier League,England,2020,592369,2021-02-07T12:00:00+00:00,UTC,1612699200,Match Finished,FT,90,Regular Season - 23,47,Tottenham,60,West Brom,2,0,HOME,593,Tottenham Hotspur Stadium,S. Attwell
+39,Premier League,England,2020,592370,2021-02-07T14:00:00+00:00,UTC,1612706400,Match Finished,FT,90,Regular Season - 23,39,Wolves,46,Leicester,0,0,DRAW,600,Molineux Stadium,M. Atkinson
+39,Premier League,England,2020,592365,2021-02-07T16:30:00+00:00,UTC,1612715400,Match Finished,FT,90,Regular Season - 23,40,Liverpool,50,Manchester City,1,4,AWAY,550,Anfield,M. Oliver
+39,Premier League,England,2020,592368,2021-02-07T19:15:00+00:00,UTC,1612725300,Match Finished,FT,90,Regular Season - 23,62,Sheffield Utd,49,Chelsea,1,2,AWAY,581,Bramall Lane,K. Friend
+39,Premier League,England,2020,592364,2021-02-08T20:00:00+00:00,UTC,1612814400,Match Finished,FT,90,Regular Season - 23,63,Leeds,52,Crystal Palace,2,0,HOME,546,Elland Road,A. Marriner
+39,Premier League,England,2020,592731,2021-02-13T12:30:00+00:00,UTC,1613219400,Match Finished,FT,90,Regular Season - 24,46,Leicester,40,Liverpool,3,1,HOME,547,King Power Stadium,A. Taylor
+39,Premier League,England,2020,592729,2021-02-13T15:00:00+00:00,UTC,1613228400,Match Finished,FT,90,Regular Season - 24,52,Crystal Palace,44,Burnley,0,3,AWAY,525,Selhurst Park,M. Oliver
+39,Premier League,England,2020,592732,2021-02-13T17:30:00+00:00,UTC,1613237400,Match Finished,FT,90,Regular Season - 24,50,Manchester City,47,Tottenham,3,0,HOME,555,Etihad Stadium,P. Tierney
+39,Premier League,England,2020,592727,2021-02-13T20:00:00+00:00,UTC,1613246400,Match Finished,FT,90,Regular Season - 24,51,Brighton,66,Aston Villa,0,0,DRAW,508,The American Express Community Stadium,D. England
+39,Premier League,England,2020,592733,2021-02-14T12:00:00+00:00,UTC,1613304000,Match Finished,FT,90,Regular Season - 24,41,Southampton,39,Wolves,1,2,AWAY,585,St. Mary's Stadium,G. Scott
+39,Premier League,England,2020,592734,2021-02-14T14:00:00+00:00,UTC,1613311200,Match Finished,FT,90,Regular Season - 24,60,West Brom,33,Manchester United,1,1,DRAW,597,The Hawthorns,C. Pawson
+39,Premier League,England,2020,592726,2021-02-14T16:30:00+00:00,UTC,1613320200,Match Finished,FT,90,Regular Season - 24,42,Arsenal,63,Leeds,4,2,HOME,494,Emirates Stadium,S. Attwell
+39,Premier League,England,2020,592730,2021-02-14T19:00:00+00:00,UTC,1613329200,Match Finished,FT,90,Regular Season - 24,45,Everton,36,Fulham,0,2,AWAY,8560,Goodison Park,A. Madley
+39,Premier League,England,2020,592735,2021-02-15T18:00:00+00:00,UTC,1613412000,Match Finished,FT,90,Regular Season - 24,48,West Ham,62,Sheffield Utd,3,0,HOME,598,London Stadium,S. Hooper
+39,Premier League,England,2020,592728,2021-02-15T20:00:00+00:00,UTC,1613419200,Match Finished,FT,90,Regular Season - 24,49,Chelsea,34,Newcastle,2,0,HOME,519,Stamford Bridge,P. Bankes
+39,Premier League,England,2020,592302,2021-02-17T18:00:00+00:00,UTC,1613584800,Match Finished,FT,90,Regular Season - 17,44,Burnley,36,Fulham,1,1,DRAW,512,Turf Moor,J. Moss
+39,Premier League,England,2020,592295,2021-02-17T20:15:00+00:00,UTC,1613592900,Match Finished,FT,90,Regular Season - 16,45,Everton,50,Manchester City,1,3,AWAY,8560,Goodison Park,A. Marriner
+39,Premier League,England,2020,592745,2021-02-19T20:00:00+00:00,UTC,1613764800,Match Finished,FT,90,Regular Season - 25,39,Wolves,63,Leeds,1,0,HOME,600,Molineux Stadium,D. Coote
+39,Premier League,England,2020,592743,2021-02-20T12:30:00+00:00,UTC,1613824200,Match Finished,FT,90,Regular Season - 25,41,Southampton,49,Chelsea,1,1,DRAW,585,St. Mary's Stadium,A. Taylor
+39,Premier League,England,2020,592739,2021-02-20T15:00:00+00:00,UTC,1613833200,Match Finished,FT,90,Regular Season - 25,44,Burnley,60,West Brom,0,0,DRAW,512,Turf Moor,M. Dean
+39,Premier League,England,2020,592741,2021-02-20T17:30:00+00:00,UTC,1613842200,Match Finished,FT,90,Regular Season - 25,40,Liverpool,45,Everton,0,2,AWAY,550,Anfield,C. Kavanagh
+39,Premier League,England,2020,592740,2021-02-20T20:00:00+00:00,UTC,1613851200,Match Finished,FT,90,Regular Season - 25,36,Fulham,62,Sheffield Utd,1,0,HOME,535,Craven Cottage,M. Atkinson
+39,Premier League,England,2020,592744,2021-02-21T12:00:00+00:00,UTC,1613908800,Match Finished,FT,90,Regular Season - 25,48,West Ham,47,Tottenham,2,1,HOME,598,London Stadium,C. Pawson
+39,Premier League,England,2020,592737,2021-02-21T14:05:00+00:00,UTC,1613916300,Match Finished,FT,90,Regular Season - 25,66,Aston Villa,46,Leicester,1,2,AWAY,495,Villa Park,M. Oliver
+39,Premier League,England,2020,592736,2021-02-21T16:30:00+00:00,UTC,1613925000,Match Finished,FT,90,Regular Season - 25,42,Arsenal,50,Manchester City,0,1,AWAY,494,Emirates Stadium,J. Moss
+39,Premier League,England,2020,592742,2021-02-21T19:00:00+00:00,UTC,1613934000,Match Finished,FT,90,Regular Season - 25,33,Manchester United,34,Newcastle,3,1,HOME,556,Old Trafford,P. Tierney
+39,Premier League,England,2020,592738,2021-02-22T20:00:00+00:00,UTC,1614024000,Match Finished,FT,90,Regular Season - 25,51,Brighton,52,Crystal Palace,1,2,AWAY,508,The American Express Community Stadium,K. Friend
+39,Premier League,England,2020,592314,2021-02-23T18:00:00+00:00,UTC,1614103200,Match Finished,FT,90,Regular Season - 18,63,Leeds,41,Southampton,3,0,HOME,546,Elland Road,A. Marriner
+39,Premier League,England,2020,592751,2021-02-27T12:30:00+00:00,UTC,1614429000,Match Finished,FT,90,Regular Season - 26,50,Manchester City,48,West Ham,2,1,HOME,555,Etihad Stadium,M. Oliver
+39,Premier League,England,2020,592755,2021-02-27T15:00:00+00:00,UTC,1614438000,Match Finished,FT,90,Regular Season - 26,60,West Brom,51,Brighton,1,0,HOME,597,The Hawthorns,L. Mason
+39,Premier League,England,2020,592749,2021-02-27T17:30:00+00:00,UTC,1614447000,Match Finished,FT,90,Regular Season - 26,63,Leeds,66,Aston Villa,0,1,AWAY,546,Elland Road,P. Bankes
+39,Premier League,England,2020,592752,2021-02-27T20:00:00+00:00,UTC,1614456000,Match Finished,FT,90,Regular Season - 26,34,Newcastle,39,Wolves,1,1,DRAW,562,St. James' Park,M. Dean
+39,Premier League,England,2020,592750,2021-02-28T12:00:00+00:00,UTC,1614513600,Match Finished,FT,90,Regular Season - 26,46,Leicester,42,Arsenal,1,3,AWAY,547,King Power Stadium,P. Tierney
+39,Premier League,England,2020,592747,2021-02-28T12:00:00+00:00,UTC,1614513600,Match Finished,FT,90,Regular Season - 26,52,Crystal Palace,36,Fulham,0,0,DRAW,525,Selhurst Park,A. Taylor
+39,Premier League,England,2020,592754,2021-02-28T14:00:00+00:00,UTC,1614520800,Match Finished,FT,90,Regular Season - 26,47,Tottenham,44,Burnley,4,0,HOME,593,Tottenham Hotspur Stadium,K. Friend
+39,Premier League,England,2020,592746,2021-02-28T16:30:00+00:00,UTC,1614529800,Match Finished,FT,90,Regular Season - 26,49,Chelsea,33,Manchester United,0,0,DRAW,519,Stamford Bridge,S. Attwell
+39,Premier League,England,2020,592753,2021-02-28T19:15:00+00:00,UTC,1614539700,Match Finished,FT,90,Regular Season - 26,62,Sheffield Utd,40,Liverpool,0,2,AWAY,581,Bramall Lane,J. Moss
+39,Premier League,England,2020,592748,2021-03-01T20:00:00+00:00,UTC,1614628800,Match Finished,FT,90,Regular Season - 26,45,Everton,41,Southampton,1,0,HOME,8560,Goodison Park,M. Atkinson
+39,Premier League,England,2020,592781,2021-03-02T20:00:00+00:00,UTC,1614715200,Match Finished,FT,90,Regular Season - 29,50,Manchester City,39,Wolves,4,1,HOME,555,Etihad Stadium,C. Kavanagh
+39,Premier League,England,2020,592777,2021-03-03T18:00:00+00:00,UTC,1614794400,Match Finished,FT,90,Regular Season - 29,44,Burnley,46,Leicester,1,1,DRAW,512,Turf Moor,A. Madley
+39,Premier League,England,2020,592782,2021-03-03T18:00:00+00:00,UTC,1614794400,Match Finished,FT,90,Regular Season - 29,62,Sheffield Utd,66,Aston Villa,1,0,HOME,581,Bramall Lane,R. Jones
+39,Premier League,England,2020,592778,2021-03-03T20:15:00+00:00,UTC,1614802500,Match Finished,FT,90,Regular Season - 29,52,Crystal Palace,33,Manchester United,0,0,DRAW,525,Selhurst Park,A. Marriner
+39,Premier League,England,2020,592818,2021-03-04T18:00:00+00:00,UTC,1614880800,Match Finished,FT,90,Regular Season - 33,36,Fulham,47,Tottenham,0,1,AWAY,535,Craven Cottage,D. Coote
+39,Premier League,England,2020,592784,2021-03-04T18:00:00+00:00,UTC,1614880800,Match Finished,FT,90,Regular Season - 29,60,West Brom,45,Everton,0,1,AWAY,597,The Hawthorns,D. England
+39,Premier League,England,2020,592780,2021-03-04T20:15:00+00:00,UTC,1614888900,Match Finished,FT,90,Regular Season - 29,40,Liverpool,49,Chelsea,0,1,AWAY,550,Anfield,M. Atkinson
+39,Premier League,England,2020,592758,2021-03-06T12:30:00+00:00,UTC,1615033800,Match Finished,FT,90,Regular Season - 27,44,Burnley,42,Arsenal,1,1,DRAW,512,Turf Moor,A. Marriner
+39,Premier League,England,2020,592762,2021-03-06T15:00:00+00:00,UTC,1615042800,Match Finished,FT,90,Regular Season - 27,62,Sheffield Utd,41,Southampton,0,2,AWAY,581,Bramall Lane,P. Tierney
+39,Premier League,England,2020,592756,2021-03-06T17:30:00+00:00,UTC,1615051800,Match Finished,FT,90,Regular Season - 27,66,Aston Villa,39,Wolves,0,0,DRAW,495,Villa Park,A. Madley
+39,Premier League,England,2020,592757,2021-03-06T20:00:00+00:00,UTC,1615060800,Match Finished,FT,90,Regular Season - 27,51,Brighton,46,Leicester,1,2,AWAY,508,The American Express Community Stadium,M. Oliver
+39,Premier League,England,2020,592764,2021-03-07T12:00:00+00:00,UTC,1615118400,Match Finished,FT,90,Regular Season - 27,60,West Brom,34,Newcastle,0,0,DRAW,597,The Hawthorns,M. Atkinson
+39,Premier League,England,2020,592760,2021-03-07T14:00:00+00:00,UTC,1615125600,Match Finished,FT,90,Regular Season - 27,40,Liverpool,36,Fulham,0,1,AWAY,550,Anfield,K. Friend
+39,Premier League,England,2020,592761,2021-03-07T16:30:00+00:00,UTC,1615134600,Match Finished,FT,90,Regular Season - 27,50,Manchester City,33,Manchester United,0,2,AWAY,555,Etihad Stadium,A. Taylor
+39,Premier League,England,2020,592763,2021-03-07T19:15:00+00:00,UTC,1615144500,Match Finished,FT,90,Regular Season - 27,47,Tottenham,52,Crystal Palace,4,1,HOME,593,Tottenham Hotspur Stadium,S. Attwell
+39,Premier League,England,2020,592759,2021-03-08T18:00:00+00:00,UTC,1615226400,Match Finished,FT,90,Regular Season - 27,49,Chelsea,45,Everton,2,0,HOME,519,Stamford Bridge,D. Coote
+39,Premier League,England,2020,592765,2021-03-08T20:00:00+00:00,UTC,1615233600,Match Finished,FT,90,Regular Season - 27,48,West Ham,63,Leeds,2,0,HOME,598,London Stadium,M. Dean
+39,Premier League,England,2020,592822,2021-03-10T18:00:00+00:00,UTC,1615399200,Match Finished,FT,90,Regular Season - 33,50,Manchester City,41,Southampton,5,2,HOME,555,Etihad Stadium,J. Moss
+39,Premier League,England,2020,592773,2021-03-12T20:00:00+00:00,UTC,1615579200,Match Finished,FT,90,Regular Season - 28,34,Newcastle,66,Aston Villa,1,1,DRAW,562,St. James' Park,P. Tierney
+39,Premier League,England,2020,592770,2021-03-13T12:30:00+00:00,UTC,1615638600,Match Finished,FT,90,Regular Season - 28,63,Leeds,49,Chelsea,0,0,DRAW,546,Elland Road,K. Friend
+39,Premier League,England,2020,592767,2021-03-13T15:00:00+00:00,UTC,1615647600,Match Finished,FT,90,Regular Season - 28,52,Crystal Palace,60,West Brom,1,0,HOME,525,Selhurst Park,S. Hooper
+39,Premier League,England,2020,592768,2021-03-13T17:30:00+00:00,UTC,1615656600,Match Finished,FT,90,Regular Season - 28,45,Everton,44,Burnley,1,2,AWAY,8560,Goodison Park,J. Moss
+39,Premier League,England,2020,592769,2021-03-13T20:00:00+00:00,UTC,1615665600,Match Finished,FT,90,Regular Season - 28,36,Fulham,50,Manchester City,0,3,AWAY,535,Craven Cottage,A. Marriner
+39,Premier League,England,2020,592774,2021-03-14T12:00:00+00:00,UTC,1615723200,Match Finished,FT,90,Regular Season - 28,41,Southampton,51,Brighton,1,2,AWAY,585,St. Mary's Stadium,S. Attwell
+39,Premier League,England,2020,592771,2021-03-14T14:00:00+00:00,UTC,1615730400,Match Finished,FT,90,Regular Season - 28,46,Leicester,62,Sheffield Utd,5,0,HOME,547,King Power Stadium,P. Bankes
+39,Premier League,England,2020,592766,2021-03-14T16:30:00+00:00,UTC,1615739400,Match Finished,FT,90,Regular Season - 28,42,Arsenal,47,Tottenham,2,1,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2020,592772,2021-03-14T19:15:00+00:00,UTC,1615749300,Match Finished,FT,90,Regular Season - 28,33,Manchester United,48,West Ham,1,0,HOME,556,Old Trafford,M. Atkinson
+39,Premier League,England,2020,592775,2021-03-15T20:00:00+00:00,UTC,1615838400,Match Finished,FT,90,Regular Season - 28,39,Wolves,40,Liverpool,0,1,AWAY,600,Molineux Stadium,C. Pawson
+39,Premier League,England,2020,592779,2021-03-19T20:00:00+00:00,UTC,1616184000,Match Finished,FT,90,Regular Season - 29,36,Fulham,63,Leeds,1,2,AWAY,535,Craven Cottage,D. Coote
+39,Premier League,England,2020,592776,2021-03-20T20:00:00+00:00,UTC,1616270400,Match Finished,FT,90,Regular Season - 29,51,Brighton,34,Newcastle,3,0,HOME,508,The American Express Community Stadium,A. Taylor
+39,Premier League,England,2020,592785,2021-03-21T15:00:00+00:00,UTC,1616338800,Match Finished,FT,90,Regular Season - 29,48,West Ham,42,Arsenal,3,3,DRAW,598,London Stadium,J. Moss
+39,Premier League,England,2020,592312,2021-03-21T19:30:00+00:00,UTC,1616355000,Match Finished,FT,90,Regular Season - 18,66,Aston Villa,47,Tottenham,0,2,AWAY,495,Villa Park,M. Dean
+39,Premier League,England,2020,592788,2021-04-03T11:30:00+00:00,UTC,1617449400,Match Finished,FT,90,Regular Season - 30,49,Chelsea,60,West Brom,2,5,AWAY,519,Stamford Bridge,D. Coote
+39,Premier League,England,2020,592790,2021-04-03T14:00:00+00:00,UTC,1617458400,Match Finished,FT,90,Regular Season - 30,63,Leeds,62,Sheffield Utd,2,1,HOME,546,Elland Road,G. Scott
+39,Premier League,England,2020,592791,2021-04-03T16:30:00+00:00,UTC,1617467400,Match Finished,FT,90,Regular Season - 30,46,Leicester,50,Manchester City,0,2,AWAY,547,King Power Stadium,A. Taylor
+39,Premier League,England,2020,592786,2021-04-03T19:00:00+00:00,UTC,1617476400,Match Finished,FT,90,Regular Season - 30,42,Arsenal,40,Liverpool,0,3,AWAY,494,Emirates Stadium,S. Attwell
+39,Premier League,England,2020,592794,2021-04-04T11:00:00+00:00,UTC,1617534000,Match Finished,FT,90,Regular Season - 30,41,Southampton,44,Burnley,3,2,HOME,585,St. Mary's Stadium,A. Marriner
+39,Premier League,England,2020,592793,2021-04-04T13:05:00+00:00,UTC,1617541500,Match Finished,FT,90,Regular Season - 30,34,Newcastle,47,Tottenham,2,2,DRAW,562,St. James' Park,C. Pawson
+39,Premier League,England,2020,592787,2021-04-04T15:30:00+00:00,UTC,1617550200,Match Finished,FT,90,Regular Season - 30,66,Aston Villa,36,Fulham,3,1,HOME,495,Villa Park,A. Madley
+39,Premier League,England,2020,592792,2021-04-04T18:30:00+00:00,UTC,1617561000,Match Finished,FT,90,Regular Season - 30,33,Manchester United,51,Brighton,2,1,HOME,556,Old Trafford,M. Dean
+39,Premier League,England,2020,592789,2021-04-05T17:00:00+00:00,UTC,1617642000,Match Finished,FT,90,Regular Season - 30,45,Everton,52,Crystal Palace,1,1,DRAW,8560,Goodison Park,K. Friend
+39,Premier League,England,2020,592795,2021-04-05T19:15:00+00:00,UTC,1617650100,Match Finished,FT,90,Regular Season - 30,39,Wolves,48,West Ham,2,3,AWAY,600,Molineux Stadium,M. Oliver
+39,Premier League,England,2020,592799,2021-04-09T19:00:00+00:00,UTC,1617994800,Match Finished,FT,90,Regular Season - 31,36,Fulham,39,Wolves,0,1,AWAY,535,Craven Cottage,J. Moss
+39,Premier League,England,2020,592801,2021-04-10T11:30:00+00:00,UTC,1618054200,Match Finished,FT,90,Regular Season - 31,50,Manchester City,63,Leeds,1,2,AWAY,555,Etihad Stadium,A. Marriner
+39,Premier League,England,2020,592800,2021-04-10T14:00:00+00:00,UTC,1618063200,Match Finished,FT,90,Regular Season - 31,40,Liverpool,66,Aston Villa,2,1,HOME,550,Anfield,P. Tierney
+39,Premier League,England,2020,592798,2021-04-10T16:30:00+00:00,UTC,1618072200,Match Finished,FT,90,Regular Season - 31,52,Crystal Palace,49,Chelsea,1,4,AWAY,525,Selhurst Park,M. Oliver
+39,Premier League,England,2020,592797,2021-04-11T11:00:00+00:00,UTC,1618138800,Match Finished,FT,90,Regular Season - 31,44,Burnley,34,Newcastle,1,2,AWAY,512,Turf Moor,A. Taylor
+39,Premier League,England,2020,592805,2021-04-11T13:05:00+00:00,UTC,1618146300,Match Finished,FT,90,Regular Season - 31,48,West Ham,46,Leicester,3,2,HOME,598,London Stadium,M. Dean
+39,Premier League,England,2020,592803,2021-04-11T15:30:00+00:00,UTC,1618155000,Match Finished,FT,90,Regular Season - 31,47,Tottenham,33,Manchester United,1,3,AWAY,593,Tottenham Hotspur Stadium,C. Kavanagh
+39,Premier League,England,2020,592802,2021-04-11T18:00:00+00:00,UTC,1618164000,Match Finished,FT,90,Regular Season - 31,62,Sheffield Utd,42,Arsenal,0,3,AWAY,581,Bramall Lane,P. Bankes
+39,Premier League,England,2020,592804,2021-04-12T17:00:00+00:00,UTC,1618246800,Match Finished,FT,90,Regular Season - 31,60,West Brom,41,Southampton,3,0,HOME,597,The Hawthorns,S. Hooper
+39,Premier League,England,2020,592796,2021-04-12T19:15:00+00:00,UTC,1618254900,Match Finished,FT,90,Regular Season - 31,51,Brighton,45,Everton,0,0,DRAW,508,The American Express Community Stadium,D. England
+39,Premier League,England,2020,592809,2021-04-16T19:00:00+00:00,UTC,1618599600,Match Finished,FT,90,Regular Season - 32,45,Everton,47,Tottenham,2,2,DRAW,8560,Goodison Park,M. Oliver
+39,Premier League,England,2020,592813,2021-04-17T11:30:00+00:00,UTC,1618659000,Match Finished,FT,90,Regular Season - 32,34,Newcastle,48,West Ham,3,2,HOME,562,St. James' Park,K. Friend
+39,Premier League,England,2020,592815,2021-04-17T19:15:00+00:00,UTC,1618686900,Match Finished,FT,90,Regular Season - 32,39,Wolves,62,Sheffield Utd,1,0,HOME,600,Molineux Stadium,R. Jones
+39,Premier League,England,2020,592806,2021-04-18T12:30:00+00:00,UTC,1618749000,Match Finished,FT,90,Regular Season - 32,42,Arsenal,36,Fulham,1,1,DRAW,494,Emirates Stadium,C. Pawson
+39,Premier League,England,2020,592812,2021-04-18T15:00:00+00:00,UTC,1618758000,Match Finished,FT,90,Regular Season - 32,33,Manchester United,44,Burnley,3,1,HOME,556,Old Trafford,J. Moss
+39,Premier League,England,2020,592810,2021-04-19T19:00:00+00:00,UTC,1618858800,Match Finished,FT,90,Regular Season - 32,63,Leeds,40,Liverpool,1,1,DRAW,546,Elland Road,A. Taylor
+39,Premier League,England,2020,592808,2021-04-20T19:15:00+00:00,UTC,1618946100,Match Finished,FT,90,Regular Season - 32,49,Chelsea,51,Brighton,0,0,DRAW,519,Stamford Bridge,S. Attwell
+39,Premier League,England,2020,592783,2021-04-21T17:00:00+00:00,UTC,1619024400,Match Finished,FT,90,Regular Season - 29,47,Tottenham,41,Southampton,2,1,HOME,593,Tottenham Hotspur Stadium,D. Coote
+39,Premier League,England,2020,592807,2021-04-21T19:15:00+00:00,UTC,1619032500,Match Finished,FT,90,Regular Season - 32,66,Aston Villa,50,Manchester City,1,2,AWAY,495,Villa Park,P. Bankes
+39,Premier League,England,2020,592811,2021-04-22T19:00:00+00:00,UTC,1619118000,Match Finished,FT,90,Regular Season - 32,46,Leicester,60,West Brom,3,0,HOME,547,King Power Stadium,A. Madley
+39,Premier League,England,2020,592816,2021-04-23T19:00:00+00:00,UTC,1619204400,Match Finished,FT,90,Regular Season - 33,42,Arsenal,45,Everton,0,1,AWAY,494,Emirates Stadium,J. Moss
+39,Premier League,England,2020,592821,2021-04-24T11:30:00+00:00,UTC,1619263800,Match Finished,FT,90,Regular Season - 33,40,Liverpool,34,Newcastle,1,1,DRAW,550,Anfield,A. Marriner
+39,Premier League,England,2020,592824,2021-04-24T16:30:00+00:00,UTC,1619281800,Match Finished,FT,90,Regular Season - 33,48,West Ham,49,Chelsea,0,1,AWAY,598,London Stadium,C. Kavanagh
+39,Premier League,England,2020,592823,2021-04-24T19:00:00+00:00,UTC,1619290800,Match Finished,FT,90,Regular Season - 33,62,Sheffield Utd,51,Brighton,1,0,HOME,581,Bramall Lane,K. Friend
+39,Premier League,England,2020,592825,2021-04-25T11:00:00+00:00,UTC,1619348400,Match Finished,FT,90,Regular Season - 33,39,Wolves,44,Burnley,0,4,AWAY,600,Molineux Stadium,D. England
+39,Premier League,England,2020,592819,2021-04-25T13:00:00+00:00,UTC,1619355600,Match Finished,FT,90,Regular Season - 33,63,Leeds,33,Manchester United,0,0,DRAW,546,Elland Road,C. Pawson
+39,Premier League,England,2020,592817,2021-04-25T18:00:00+00:00,UTC,1619373600,Match Finished,FT,90,Regular Season - 33,66,Aston Villa,60,West Brom,2,2,DRAW,495,Villa Park,S. Attwell
+39,Premier League,England,2020,592820,2021-04-26T19:00:00+00:00,UTC,1619463600,Match Finished,FT,90,Regular Season - 33,46,Leicester,52,Crystal Palace,2,1,HOME,547,King Power Stadium,G. Scott
+39,Premier League,England,2020,592833,2021-04-30T19:00:00+00:00,UTC,1619809200,Match Finished,FT,90,Regular Season - 34,41,Southampton,46,Leicester,1,1,DRAW,585,St. Mary's Stadium,R. Jones
+39,Premier League,England,2020,592829,2021-05-01T11:30:00+00:00,UTC,1619868600,Match Finished,FT,90,Regular Season - 34,52,Crystal Palace,50,Manchester City,0,2,AWAY,525,Selhurst Park,D. Coote
+39,Premier League,England,2020,592826,2021-05-01T14:00:00+00:00,UTC,1619877600,Match Finished,FT,90,Regular Season - 34,51,Brighton,63,Leeds,2,0,HOME,508,The American Express Community Stadium,C. Kavanagh
+39,Premier League,England,2020,592828,2021-05-01T16:30:00+00:00,UTC,1619886600,Match Finished,FT,90,Regular Season - 34,49,Chelsea,36,Fulham,2,0,HOME,519,Stamford Bridge,K. Friend
+39,Premier League,England,2020,592830,2021-05-01T19:00:00+00:00,UTC,1619895600,Match Finished,FT,90,Regular Season - 34,45,Everton,66,Aston Villa,1,2,AWAY,8560,Goodison Park,S. Hooper
+39,Premier League,England,2020,592832,2021-05-02T13:00:00+00:00,UTC,1619960400,Match Finished,FT,90,Regular Season - 34,34,Newcastle,42,Arsenal,0,2,AWAY,562,St. James' Park,M. Dean
+39,Premier League,England,2020,592834,2021-05-02T18:15:00+00:00,UTC,1619979300,Match Finished,FT,90,Regular Season - 34,47,Tottenham,62,Sheffield Utd,4,0,HOME,593,Tottenham Hotspur Stadium,A. Marriner
+39,Premier League,England,2020,592835,2021-05-03T17:00:00+00:00,UTC,1620061200,Match Finished,FT,90,Regular Season - 34,60,West Brom,39,Wolves,1,1,DRAW,597,The Hawthorns,P. Tierney
+39,Premier League,England,2020,592827,2021-05-03T19:15:00+00:00,UTC,1620069300,Match Finished,FT,90,Regular Season - 34,44,Burnley,48,West Ham,1,2,AWAY,512,Turf Moor,A. Taylor
+39,Premier League,England,2020,592840,2021-05-07T19:00:00+00:00,UTC,1620414000,Match Finished,FT,90,Regular Season - 35,46,Leicester,34,Newcastle,2,4,AWAY,547,King Power Stadium,D. England
+39,Premier League,England,2020,592839,2021-05-08T11:30:00+00:00,UTC,1620473400,Match Finished,FT,90,Regular Season - 35,63,Leeds,47,Tottenham,3,1,HOME,546,Elland Road,M. Oliver
+39,Premier League,England,2020,592843,2021-05-08T14:00:00+00:00,UTC,1620482400,Match Finished,FT,90,Regular Season - 35,62,Sheffield Utd,52,Crystal Palace,0,2,AWAY,581,Bramall Lane,S. Hooper
+39,Premier League,England,2020,592842,2021-05-08T16:30:00+00:00,UTC,1620491400,Match Finished,FT,90,Regular Season - 35,50,Manchester City,49,Chelsea,1,2,AWAY,555,Etihad Stadium,A. Taylor
+39,Premier League,England,2020,592841,2021-05-08T19:15:00+00:00,UTC,1620501300,Match Finished,FT,90,Regular Season - 35,40,Liverpool,41,Southampton,2,0,HOME,550,Anfield,K. Friend
+39,Premier League,England,2020,592845,2021-05-09T11:00:00+00:00,UTC,1620558000,Match Finished,FT,90,Regular Season - 35,39,Wolves,51,Brighton,2,1,HOME,600,Molineux Stadium,J. Moss
+39,Premier League,England,2020,592837,2021-05-09T13:05:00+00:00,UTC,1620565500,Match Finished,FT,90,Regular Season - 35,66,Aston Villa,33,Manchester United,1,3,AWAY,495,Villa Park,C. Kavanagh
+39,Premier League,England,2020,592844,2021-05-09T15:30:00+00:00,UTC,1620574200,Match Finished,FT,90,Regular Season - 35,48,West Ham,45,Everton,0,1,AWAY,598,London Stadium,S. Attwell
+39,Premier League,England,2020,592836,2021-05-09T18:00:00+00:00,UTC,1620583200,Match Finished,FT,90,Regular Season - 35,42,Arsenal,60,West Brom,3,1,HOME,494,Emirates Stadium,P. Bankes
+39,Premier League,England,2020,592838,2021-05-10T19:00:00+00:00,UTC,1620673200,Match Finished,FT,90,Regular Season - 35,36,Fulham,44,Burnley,0,2,AWAY,535,Craven Cottage,D. Coote
+39,Premier League,England,2020,592849,2021-05-11T17:00:00+00:00,UTC,1620752400,Match Finished,FT,90,Regular Season - 36,33,Manchester United,46,Leicester,1,2,AWAY,556,Old Trafford,C. Pawson
+39,Premier League,England,2020,592814,2021-05-11T19:15:00+00:00,UTC,1620760500,Match Finished,FT,90,Regular Season - 32,41,Southampton,52,Crystal Palace,3,1,HOME,585,St. Mary's Stadium,A. Madley
+39,Premier League,England,2020,592851,2021-05-12T19:15:00+00:00,UTC,1620846900,Match Finished,FT,90,Regular Season - 36,49,Chelsea,42,Arsenal,0,1,AWAY,519,Stamford Bridge,A. Marriner
+39,Premier League,England,2020,592322,2021-05-13T17:00:00+00:00,UTC,1620925200,Match Finished,FT,90,Regular Season - 19,66,Aston Villa,45,Everton,0,0,DRAW,495,Villa Park,M. Atkinson
+39,Premier League,England,2020,592831,2021-05-13T19:15:00+00:00,UTC,1620933300,Match Finished,FT,90,Regular Season - 34,33,Manchester United,40,Liverpool,2,4,AWAY,556,Old Trafford,A. Taylor
+39,Premier League,England,2020,592852,2021-05-14T19:00:00+00:00,UTC,1621018800,Match Finished,FT,90,Regular Season - 36,34,Newcastle,50,Manchester City,3,4,AWAY,562,St. James' Park,K. Friend
+39,Premier League,England,2020,592847,2021-05-15T11:30:00+00:00,UTC,1621078200,Match Finished,FT,90,Regular Season - 36,44,Burnley,63,Leeds,0,4,AWAY,512,Turf Moor,G. Scott
+39,Premier League,England,2020,592853,2021-05-15T14:00:00+00:00,UTC,1621087200,Match Finished,FT,90,Regular Season - 36,41,Southampton,36,Fulham,3,1,HOME,585,St. Mary's Stadium,C. Pawson
+39,Premier League,England,2020,592846,2021-05-15T19:00:00+00:00,UTC,1621105200,Match Finished,FT,90,Regular Season - 36,51,Brighton,48,West Ham,1,1,DRAW,508,The American Express Community Stadium,A. Marriner
+39,Premier League,England,2020,592855,2021-05-16T11:00:00+00:00,UTC,1621162800,Match Finished,FT,90,Regular Season - 36,52,Crystal Palace,66,Aston Villa,3,2,HOME,525,Selhurst Park,D. Coote
+39,Premier League,England,2020,592854,2021-05-16T13:05:00+00:00,UTC,1621170300,Match Finished,FT,90,Regular Season - 36,47,Tottenham,39,Wolves,2,0,HOME,593,Tottenham Hotspur Stadium,M. Atkinson
+39,Premier League,England,2020,592850,2021-05-16T15:30:00+00:00,UTC,1621179000,Match Finished,FT,90,Regular Season - 36,60,West Brom,40,Liverpool,1,2,AWAY,597,The Hawthorns,M. Dean
+39,Premier League,England,2020,592848,2021-05-16T18:00:00+00:00,UTC,1621188000,Match Finished,FT,90,Regular Season - 36,45,Everton,62,Sheffield Utd,0,1,AWAY,8560,Goodison Park,J. Moss
+39,Premier League,England,2020,592861,2021-05-18T17:00:00+00:00,UTC,1621357200,Match Finished,FT,90,Regular Season - 37,33,Manchester United,36,Fulham,1,1,DRAW,556,Old Trafford,L. Mason
+39,Premier League,England,2020,592863,2021-05-18T17:00:00+00:00,UTC,1621357200,Match Finished,FT,90,Regular Season - 37,41,Southampton,63,Leeds,0,2,AWAY,585,St. Mary's Stadium,P. Bankes
+39,Premier League,England,2020,592856,2021-05-18T18:00:00+00:00,UTC,1621360800,Match Finished,FT,90,Regular Season - 37,51,Brighton,50,Manchester City,3,2,HOME,508,The American Express Community Stadium,S. Attwell
+39,Premier League,England,2020,592858,2021-05-18T19:15:00+00:00,UTC,1621365300,Match Finished,FT,90,Regular Season - 37,49,Chelsea,46,Leicester,2,1,HOME,519,Stamford Bridge,M. Dean
+39,Premier League,England,2020,592862,2021-05-19T17:00:00+00:00,UTC,1621443600,Match Finished,FT,90,Regular Season - 37,34,Newcastle,62,Sheffield Utd,1,0,HOME,562,St. James' Park,R. Jones
+39,Premier League,England,2020,592860,2021-05-19T17:00:00+00:00,UTC,1621443600,Match Finished,FT,90,Regular Season - 37,45,Everton,39,Wolves,1,0,HOME,8560,Goodison Park,A. Madley
+39,Premier League,England,2020,592864,2021-05-19T17:00:00+00:00,UTC,1621443600,Match Finished,FT,90,Regular Season - 37,47,Tottenham,66,Aston Villa,1,2,AWAY,593,Tottenham Hotspur Stadium,C. Pawson
+39,Premier League,England,2020,592859,2021-05-19T18:00:00+00:00,UTC,1621447200,Match Finished,FT,90,Regular Season - 37,52,Crystal Palace,42,Arsenal,1,3,AWAY,525,Selhurst Park,A. Taylor
+39,Premier League,England,2020,592857,2021-05-19T19:15:00+00:00,UTC,1621451700,Match Finished,FT,90,Regular Season - 37,44,Burnley,40,Liverpool,0,3,AWAY,512,Turf Moor,C. Kavanagh
+39,Premier League,England,2020,592865,2021-05-19T19:15:00+00:00,UTC,1621451700,Match Finished,FT,90,Regular Season - 37,60,West Brom,48,West Ham,1,3,AWAY,597,The Hawthorns,M. Oliver
+39,Premier League,England,2020,592868,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,36,Fulham,34,Newcastle,0,2,AWAY,535,Craven Cottage,"Chris Kavanagh, England"
+39,Premier League,England,2020,592875,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,39,Wolves,33,Manchester United,1,2,AWAY,600,Molineux Stadium,"Mike Dean, England"
+39,Premier League,England,2020,592871,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,40,Liverpool,52,Crystal Palace,2,0,HOME,550,Anfield,"Andre Marriner, England"
+39,Premier League,England,2020,592866,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,42,Arsenal,51,Brighton,2,0,HOME,494,Emirates Stadium,"Jonathan Moss, England"
+39,Premier League,England,2020,592870,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,46,Leicester,47,Tottenham,2,4,AWAY,547,King Power Stadium,"Anthony Taylor, England"
+39,Premier League,England,2020,592874,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,48,West Ham,41,Southampton,3,0,HOME,598,London Stadium,"Martin Atkinson, England"
+39,Premier League,England,2020,592872,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,50,Manchester City,45,Everton,5,0,HOME,555,Etihad Stadium,"Michael Oliver, England"
+39,Premier League,England,2020,592873,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,62,Sheffield Utd,44,Burnley,1,0,HOME,581,Bramall Lane,"Kevin Friend, England"
+39,Premier League,England,2020,592869,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,63,Leeds,60,West Brom,3,1,HOME,546,Elland Road,"David Coote, England"
+39,Premier League,England,2020,592867,2021-05-23T15:00:00+00:00,UTC,1621782000,Match Finished,FT,90,Regular Season - 38,66,Aston Villa,49,Chelsea,2,1,HOME,495,Villa Park,"Stuart Attwell, England"

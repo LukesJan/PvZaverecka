@@ -1,0 +1,309 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+78,Bundesliga,Germany,2024,1223975,2024-08-23T18:30:00+00:00,UTC,1724437800,Match Finished,FT,90,Regular Season - 1,163,Borussia Mönchengladbach,168,Bayer Leverkusen,2,3,AWAY,20471.0,BORUSSIA-PARK,R. Schröder
+78,Bundesliga,Germany,2024,1223979,2024-08-24T13:30:00+00:00,UTC,1724506200,Match Finished,FT,90,Regular Season - 1,160,SC Freiburg,172,VfB Stuttgart,3,1,HOME,12717.0,Europa-Park Stadion,T. Welz
+78,Bundesliga,Germany,2024,1223982,2024-08-24T13:30:00+00:00,UTC,1724506200,Match Finished,FT,90,Regular Season - 1,164,FSV Mainz 05,182,Union Berlin,1,1,DRAW,11899.0,MEWA ARENA,H. Osmers
+78,Bundesliga,Germany,2024,1223978,2024-08-24T13:30:00+00:00,UTC,1724506200,Match Finished,FT,90,Regular Season - 1,167,1899 Hoffenheim,191,Holstein Kiel,3,2,HOME,724.0,PreZero Arena,T. Stieler
+78,Bundesliga,Germany,2024,1223980,2024-08-24T13:30:00+00:00,UTC,1724506200,Match Finished,FT,90,Regular Season - 1,170,FC Augsburg,162,Werder Bremen,2,2,DRAW,698.0,WWK Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1223976,2024-08-24T13:30:00+00:00,UTC,1724506200,Match Finished,FT,90,Regular Season - 1,173,RB Leipzig,176,VfL Bochum,1,0,HOME,738.0,Red Bull Arena,B. Brand
+78,Bundesliga,Germany,2024,1223977,2024-08-24T16:30:00+00:00,UTC,1724517000,Match Finished,FT,90,Regular Season - 1,165,Borussia Dortmund,169,Eintracht Frankfurt,2,0,HOME,19381.0,SIGNAL IDUNA PARK,F. Zwayer
+78,Bundesliga,Germany,2024,1223981,2024-08-25T13:30:00+00:00,UTC,1724592600,Match Finished,FT,90,Regular Season - 1,161,VfL Wolfsburg,157,Bayern München,2,3,AWAY,752.0,Volkswagen Arena,D. Siebert
+78,Bundesliga,Germany,2024,1223983,2024-08-25T15:30:00+00:00,UTC,1724599800,Match Finished,FT,90,Regular Season - 1,186,FC St. Pauli,180,1. FC Heidenheim,0,2,AWAY,745.0,Millerntor-Stadion,S. Jablonski
+78,Bundesliga,Germany,2024,1223990,2024-08-30T18:30:00+00:00,UTC,1725042600,Match Finished,FT,90,Regular Season - 2,182,Union Berlin,186,FC St. Pauli,1,0,HOME,748.0,Stadion An der Alten Försterei,B. Dankert
+78,Bundesliga,Germany,2024,1223989,2024-08-31T13:30:00+00:00,UTC,1725111000,Match Finished,FT,90,Regular Season - 2,162,Werder Bremen,165,Borussia Dortmund,0,0,DRAW,,Weserstadion,R. Hartmann
+78,Bundesliga,Germany,2024,1223987,2024-08-31T13:30:00+00:00,UTC,1725111000,Match Finished,FT,90,Regular Season - 2,169,Eintracht Frankfurt,167,1899 Hoffenheim,3,1,HOME,10491.0,Deutsche Bank Park,F. Badstübner
+78,Bundesliga,Germany,2024,1223985,2024-08-31T13:30:00+00:00,UTC,1725111000,Match Finished,FT,90,Regular Season - 2,172,VfB Stuttgart,164,FSV Mainz 05,3,3,DRAW,20473.0,MHPArena,T. Gerach
+78,Bundesliga,Germany,2024,1223991,2024-08-31T13:30:00+00:00,UTC,1725111000,Match Finished,FT,90,Regular Season - 2,176,VfL Bochum,163,Borussia Mönchengladbach,0,2,AWAY,751.0,Vonovia Ruhrstadion,S. Storks
+78,Bundesliga,Germany,2024,1223992,2024-08-31T13:30:00+00:00,UTC,1725111000,Match Finished,FT,90,Regular Season - 2,191,Holstein Kiel,161,VfL Wolfsburg,0,2,AWAY,725.0,Holstein-Stadion,F. Exner
+78,Bundesliga,Germany,2024,1223984,2024-08-31T16:30:00+00:00,UTC,1725121800,Match Finished,FT,90,Regular Season - 2,168,Bayer Leverkusen,173,RB Leipzig,2,3,AWAY,699.0,BayArena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1223988,2024-09-01T13:30:00+00:00,UTC,1725197400,Match Finished,FT,90,Regular Season - 2,180,1. FC Heidenheim,170,FC Augsburg,4,0,HOME,723.0,Voith-Arena,M. Petersen
+78,Bundesliga,Germany,2024,1223986,2024-09-01T15:30:00+00:00,UTC,1725204600,Match Finished,FT,90,Regular Season - 2,157,Bayern München,160,SC Freiburg,2,0,HOME,700.0,Allianz Arena,C. Dingert
+78,Bundesliga,Germany,2024,1223994,2024-09-13T18:30:00+00:00,UTC,1726252200,Match Finished,FT,90,Regular Season - 3,165,Borussia Dortmund,180,1. FC Heidenheim,4,2,HOME,19381.0,SIGNAL IDUNA PARK,R. Schröder
+78,Bundesliga,Germany,2024,1223996,2024-09-14T13:30:00+00:00,UTC,1726320600,Match Finished,FT,90,Regular Season - 3,160,SC Freiburg,176,VfL Bochum,2,1,HOME,12717.0,Europa-Park Stadion,D. Siebert
+78,Bundesliga,Germany,2024,1223998,2024-09-14T13:30:00+00:00,UTC,1726320600,Match Finished,FT,90,Regular Season - 3,161,VfL Wolfsburg,169,Eintracht Frankfurt,1,2,AWAY,752.0,Volkswagen Arena,H. Osmers
+78,Bundesliga,Germany,2024,1224000,2024-09-14T13:30:00+00:00,UTC,1726320600,Match Finished,FT,90,Regular Season - 3,163,Borussia Mönchengladbach,172,VfB Stuttgart,1,3,AWAY,20471.0,BORUSSIA-PARK,F. Brych
+78,Bundesliga,Germany,2024,1223995,2024-09-14T13:30:00+00:00,UTC,1726320600,Match Finished,FT,90,Regular Season - 3,167,1899 Hoffenheim,168,Bayer Leverkusen,1,4,AWAY,724.0,PreZero Arena,D. Schlager
+78,Bundesliga,Germany,2024,1223993,2024-09-14T13:30:00+00:00,UTC,1726320600,Match Finished,FT,90,Regular Season - 3,173,RB Leipzig,182,Union Berlin,0,0,DRAW,738.0,Red Bull Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224001,2024-09-14T16:30:00+00:00,UTC,1726331400,Match Finished,FT,90,Regular Season - 3,191,Holstein Kiel,157,Bayern München,1,6,AWAY,725.0,Holstein-Stadion,T. Reichel
+78,Bundesliga,Germany,2024,1223997,2024-09-15T13:30:00+00:00,UTC,1726407000,Match Finished,FT,90,Regular Season - 3,170,FC Augsburg,186,FC St. Pauli,3,1,HOME,698.0,WWK Arena,F. Zwayer
+78,Bundesliga,Germany,2024,1223999,2024-09-15T15:30:00+00:00,UTC,1726414200,Match Finished,FT,90,Regular Season - 3,164,FSV Mainz 05,162,Werder Bremen,1,2,AWAY,11899.0,MEWA ARENA,B. Brand
+78,Bundesliga,Germany,2024,1224007,2024-09-20T18:30:00+00:00,UTC,1726857000,Match Finished,FT,90,Regular Season - 4,170,FC Augsburg,164,FSV Mainz 05,2,3,AWAY,698.0,WWK Arena,S. Storks
+78,Bundesliga,Germany,2024,1224006,2024-09-21T13:30:00+00:00,UTC,1726925400,Match Finished,FT,90,Regular Season - 4,162,Werder Bremen,157,Bayern München,0,5,AWAY,,Weserstadion,B. Dankert
+78,Bundesliga,Germany,2024,1224009,2024-09-21T13:30:00+00:00,UTC,1726925400,Match Finished,FT,90,Regular Season - 4,176,VfL Bochum,191,Holstein Kiel,2,2,DRAW,751.0,Vonovia Ruhrstadion,M. Petersen
+78,Bundesliga,Germany,2024,1224005,2024-09-21T13:30:00+00:00,UTC,1726925400,Match Finished,FT,90,Regular Season - 4,180,1. FC Heidenheim,160,SC Freiburg,0,3,AWAY,723.0,Voith-Arena,B. Brand
+78,Bundesliga,Germany,2024,1224008,2024-09-21T13:30:00+00:00,UTC,1726925400,Match Finished,FT,90,Regular Season - 4,182,Union Berlin,167,1899 Hoffenheim,2,1,HOME,748.0,Stadion An der Alten Försterei,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224004,2024-09-21T16:30:00+00:00,UTC,1726936200,Match Finished,FT,90,Regular Season - 4,169,Eintracht Frankfurt,163,Borussia Mönchengladbach,2,0,HOME,10491.0,Deutsche Bank Park,T. Welz
+78,Bundesliga,Germany,2024,1224002,2024-09-22T13:30:00+00:00,UTC,1727011800,Match Finished,FT,90,Regular Season - 4,168,Bayer Leverkusen,161,VfL Wolfsburg,4,3,HOME,699.0,BayArena,S. Stegemann
+78,Bundesliga,Germany,2024,1224003,2024-09-22T15:30:00+00:00,UTC,1727019000,Match Finished,FT,90,Regular Season - 4,172,VfB Stuttgart,165,Borussia Dortmund,5,1,HOME,20473.0,MHPArena,F. Badstübner
+78,Bundesliga,Germany,2024,1224010,2024-09-22T17:30:00+00:00,UTC,1727026200,Match Finished,FT,90,Regular Season - 4,186,FC St. Pauli,173,RB Leipzig,0,0,DRAW,745.0,Millerntor-Stadion,R. Hartmann
+78,Bundesliga,Germany,2024,1224013,2024-09-27T18:30:00+00:00,UTC,1727461800,Match Finished,FT,90,Regular Season - 5,165,Borussia Dortmund,176,VfL Bochum,4,2,HOME,19381.0,SIGNAL IDUNA PARK,F. Brych
+78,Bundesliga,Germany,2024,1224015,2024-09-28T13:30:00+00:00,UTC,1727530200,Match Finished,FT,90,Regular Season - 5,160,SC Freiburg,186,FC St. Pauli,0,3,AWAY,12717.0,Europa-Park Stadion,T. Gerach
+78,Bundesliga,Germany,2024,1224016,2024-09-28T13:30:00+00:00,UTC,1727530200,Match Finished,FT,90,Regular Season - 5,161,VfL Wolfsburg,172,VfB Stuttgart,2,2,DRAW,752.0,Volkswagen Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224018,2024-09-28T13:30:00+00:00,UTC,1727530200,Match Finished,FT,90,Regular Season - 5,163,Borussia Mönchengladbach,182,Union Berlin,1,0,HOME,20471.0,BORUSSIA-PARK,D. Schlager
+78,Bundesliga,Germany,2024,1224017,2024-09-28T13:30:00+00:00,UTC,1727530200,Match Finished,FT,90,Regular Season - 5,164,FSV Mainz 05,180,1. FC Heidenheim,0,2,AWAY,11899.0,MEWA ARENA,F. Exner
+78,Bundesliga,Germany,2024,1224012,2024-09-28T13:30:00+00:00,UTC,1727530200,Match Finished,FT,90,Regular Season - 5,173,RB Leipzig,170,FC Augsburg,4,0,HOME,738.0,Red Bull Arena,D. Siebert
+78,Bundesliga,Germany,2024,1224011,2024-09-28T16:30:00+00:00,UTC,1727541000,Match Finished,FT,90,Regular Season - 5,157,Bayern München,168,Bayer Leverkusen,1,1,DRAW,700.0,Allianz Arena,F. Zwayer
+78,Bundesliga,Germany,2024,1224019,2024-09-29T13:30:00+00:00,UTC,1727616600,Match Finished,FT,90,Regular Season - 5,191,Holstein Kiel,169,Eintracht Frankfurt,2,4,AWAY,725.0,Holstein-Stadion,T. Stieler
+78,Bundesliga,Germany,2024,1224014,2024-09-29T15:30:00+00:00,UTC,1727623800,Match Finished,FT,90,Regular Season - 5,167,1899 Hoffenheim,162,Werder Bremen,3,4,AWAY,724.0,PreZero Arena,T. Reichel
+78,Bundesliga,Germany,2024,1224025,2024-10-04T18:30:00+00:00,UTC,1728066600,Match Finished,FT,90,Regular Season - 6,170,FC Augsburg,163,Borussia Mönchengladbach,2,1,HOME,698.0,WWK Arena,F. Badstübner
+78,Bundesliga,Germany,2024,1224024,2024-10-05T13:30:00+00:00,UTC,1728135000,Match Finished,FT,90,Regular Season - 6,162,Werder Bremen,160,SC Freiburg,0,1,AWAY,,Weserstadion,T. Welz
+78,Bundesliga,Germany,2024,1224020,2024-10-05T13:30:00+00:00,UTC,1728135000,Match Finished,FT,90,Regular Season - 6,168,Bayer Leverkusen,191,Holstein Kiel,2,2,DRAW,699.0,BayArena,R. Hartmann
+78,Bundesliga,Germany,2024,1224027,2024-10-05T13:30:00+00:00,UTC,1728135000,Match Finished,FT,90,Regular Season - 6,176,VfL Bochum,161,VfL Wolfsburg,1,3,AWAY,751.0,Vonovia Ruhrstadion,M. Burda
+78,Bundesliga,Germany,2024,1224026,2024-10-05T13:30:00+00:00,UTC,1728135000,Match Finished,FT,90,Regular Season - 6,182,Union Berlin,165,Borussia Dortmund,2,1,HOME,748.0,Stadion An der Alten Försterei,T. Reichel
+78,Bundesliga,Germany,2024,1224028,2024-10-05T16:30:00+00:00,UTC,1728145800,Match Finished,FT,90,Regular Season - 6,186,FC St. Pauli,164,FSV Mainz 05,0,3,AWAY,745.0,Millerntor-Stadion,C. Dingert
+78,Bundesliga,Germany,2024,1224023,2024-10-06T13:30:00+00:00,UTC,1728221400,Match Finished,FT,90,Regular Season - 6,180,1. FC Heidenheim,173,RB Leipzig,0,1,AWAY,723.0,Voith-Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224022,2024-10-06T15:30:00+00:00,UTC,1728228600,Match Finished,FT,90,Regular Season - 6,169,Eintracht Frankfurt,157,Bayern München,3,3,DRAW,10491.0,Deutsche Bank Park,B. Brand
+78,Bundesliga,Germany,2024,1224021,2024-10-06T17:30:00+00:00,UTC,1728235800,Match Finished,FT,90,Regular Season - 6,172,VfB Stuttgart,167,1899 Hoffenheim,1,1,DRAW,20473.0,MHPArena,H. Osmers
+78,Bundesliga,Germany,2024,1224031,2024-10-18T18:30:00+00:00,UTC,1729276200,Match Finished,FT,90,Regular Season - 7,165,Borussia Dortmund,186,FC St. Pauli,2,1,HOME,19381.0,SIGNAL IDUNA PARK,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224033,2024-10-19T13:30:00+00:00,UTC,1729344600,Match Finished,FT,90,Regular Season - 7,160,SC Freiburg,170,FC Augsburg,3,1,HOME,12717.0,Europa-Park Stadion,B. Dankert
+78,Bundesliga,Germany,2024,1224036,2024-10-19T13:30:00+00:00,UTC,1729344600,Match Finished,FT,90,Regular Season - 7,163,Borussia Mönchengladbach,180,1. FC Heidenheim,3,2,HOME,20471.0,BORUSSIA-PARK,D. Siebert
+78,Bundesliga,Germany,2024,1224035,2024-10-19T13:30:00+00:00,UTC,1729344600,Match Finished,FT,90,Regular Season - 7,164,FSV Mainz 05,173,RB Leipzig,0,2,AWAY,11899.0,MEWA ARENA,F. Zwayer
+78,Bundesliga,Germany,2024,1224032,2024-10-19T13:30:00+00:00,UTC,1729344600,Match Finished,FT,90,Regular Season - 7,167,1899 Hoffenheim,176,VfL Bochum,3,1,HOME,724.0,PreZero Arena,S. Storks
+78,Bundesliga,Germany,2024,1224029,2024-10-19T13:30:00+00:00,UTC,1729344600,Match Finished,FT,90,Regular Season - 7,168,Bayer Leverkusen,169,Eintracht Frankfurt,2,1,HOME,699.0,BayArena,F. Brych
+78,Bundesliga,Germany,2024,1224030,2024-10-19T16:30:00+00:00,UTC,1729355400,Match Finished,FT,90,Regular Season - 7,157,Bayern München,172,VfB Stuttgart,4,0,HOME,700.0,Allianz Arena,T. Stieler
+78,Bundesliga,Germany,2024,1224037,2024-10-20T13:30:00+00:00,UTC,1729431000,Match Finished,FT,90,Regular Season - 7,191,Holstein Kiel,182,Union Berlin,0,2,AWAY,725.0,Holstein-Stadion,T. Gerach
+78,Bundesliga,Germany,2024,1224034,2024-10-20T15:30:00+00:00,UTC,1729438200,Match Finished,FT,90,Regular Season - 7,161,VfL Wolfsburg,162,Werder Bremen,2,4,AWAY,752.0,Volkswagen Arena,D. Schlager
+78,Bundesliga,Germany,2024,1224043,2024-10-25T18:30:00+00:00,UTC,1729881000,Match Finished,FT,90,Regular Season - 8,164,FSV Mainz 05,163,Borussia Mönchengladbach,1,1,DRAW,11899.0,MEWA ARENA,M. Petersen
+78,Bundesliga,Germany,2024,1224042,2024-10-26T13:30:00+00:00,UTC,1729949400,Match Finished,FT,90,Regular Season - 8,170,FC Augsburg,165,Borussia Dortmund,2,1,HOME,698.0,WWK Arena,T. Welz
+78,Bundesliga,Germany,2024,1224038,2024-10-26T13:30:00+00:00,UTC,1729949400,Match Finished,FT,90,Regular Season - 8,172,VfB Stuttgart,191,Holstein Kiel,2,1,HOME,20473.0,MHPArena,R. Hartmann
+78,Bundesliga,Germany,2024,1224039,2024-10-26T13:30:00+00:00,UTC,1729949400,Match Finished,FT,90,Regular Season - 8,173,RB Leipzig,160,SC Freiburg,3,1,HOME,738.0,Red Bull Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224046,2024-10-26T13:30:00+00:00,UTC,1729949400,Match Finished,FT,90,Regular Season - 8,186,FC St. Pauli,161,VfL Wolfsburg,0,0,DRAW,745.0,Millerntor-Stadion,T. Reichel
+78,Bundesliga,Germany,2024,1224041,2024-10-26T16:30:00+00:00,UTC,1729960200,Match Finished,FT,90,Regular Season - 8,162,Werder Bremen,168,Bayer Leverkusen,2,2,DRAW,,Weserstadion,F. Badstübner
+78,Bundesliga,Germany,2024,1224045,2024-10-27T14:30:00+00:00,UTC,1730039400,Match Finished,FT,90,Regular Season - 8,176,VfL Bochum,157,Bayern München,0,5,AWAY,751.0,Vonovia Ruhrstadion,F. Exner
+78,Bundesliga,Germany,2024,1224044,2024-10-27T16:30:00+00:00,UTC,1730046600,Match Finished,FT,90,Regular Season - 8,182,Union Berlin,169,Eintracht Frankfurt,1,1,DRAW,748.0,Stadion An der Alten Försterei,H. Osmers
+78,Bundesliga,Germany,2024,1224040,2024-10-27T18:30:00+00:00,UTC,1730053800,Match Finished,FT,90,Regular Season - 8,180,1. FC Heidenheim,167,1899 Hoffenheim,0,0,DRAW,723.0,Voith-Arena,C. Dingert
+78,Bundesliga,Germany,2024,1224047,2024-11-01T19:30:00+00:00,UTC,1730489400,Match Finished,FT,90,Regular Season - 9,168,Bayer Leverkusen,172,VfB Stuttgart,0,0,DRAW,699.0,BayArena,D. Siebert
+78,Bundesliga,Germany,2024,1224048,2024-11-02T14:30:00+00:00,UTC,1730557800,Match Finished,FT,90,Regular Season - 9,157,Bayern München,182,Union Berlin,3,0,HOME,700.0,Allianz Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224053,2024-11-02T14:30:00+00:00,UTC,1730557800,Match Finished,FT,90,Regular Season - 9,161,VfL Wolfsburg,170,FC Augsburg,1,1,DRAW,752.0,Volkswagen Arena,F. Brych
+78,Bundesliga,Germany,2024,1224051,2024-11-02T14:30:00+00:00,UTC,1730557800,Match Finished,FT,90,Regular Season - 9,167,1899 Hoffenheim,186,FC St. Pauli,0,2,AWAY,724.0,PreZero Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224050,2024-11-02T14:30:00+00:00,UTC,1730557800,Match Finished,FT,90,Regular Season - 9,169,Eintracht Frankfurt,176,VfL Bochum,7,2,HOME,10491.0,Deutsche Bank Park,D. Schlager
+78,Bundesliga,Germany,2024,1224055,2024-11-02T14:30:00+00:00,UTC,1730557800,Match Finished,FT,90,Regular Season - 9,191,Holstein Kiel,180,1. FC Heidenheim,1,0,HOME,725.0,Holstein-Stadion,F. Willenborg
+78,Bundesliga,Germany,2024,1224049,2024-11-02T17:30:00+00:00,UTC,1730568600,Match Finished,FT,90,Regular Season - 9,165,Borussia Dortmund,173,RB Leipzig,2,1,HOME,19381.0,SIGNAL IDUNA PARK,T. Stieler
+78,Bundesliga,Germany,2024,1224052,2024-11-03T14:30:00+00:00,UTC,1730644200,Match Finished,FT,90,Regular Season - 9,160,SC Freiburg,164,FSV Mainz 05,0,0,DRAW,12717.0,Europa-Park Stadion,B. Brand
+78,Bundesliga,Germany,2024,1224054,2024-11-03T16:30:00+00:00,UTC,1730651400,Match Finished,FT,90,Regular Season - 9,163,Borussia Mönchengladbach,162,Werder Bremen,4,1,HOME,20471.0,BORUSSIA-PARK,B. Dankert
+78,Bundesliga,Germany,2024,1224062,2024-11-08T19:30:00+00:00,UTC,1731094200,Match Finished,FT,90,Regular Season - 10,182,Union Berlin,160,SC Freiburg,0,0,DRAW,748.0,Stadion An der Alten Försterei,T. Reichel
+78,Bundesliga,Germany,2024,1224059,2024-11-09T14:30:00+00:00,UTC,1731162600,Match Finished,FT,90,Regular Season - 10,162,Werder Bremen,191,Holstein Kiel,2,1,HOME,,Weserstadion,S. Storks
+78,Bundesliga,Germany,2024,1224061,2024-11-09T14:30:00+00:00,UTC,1731162600,Match Finished,FT,90,Regular Season - 10,164,FSV Mainz 05,165,Borussia Dortmund,3,1,HOME,11899.0,MEWA ARENA,F. Badstübner
+78,Bundesliga,Germany,2024,1224063,2024-11-09T14:30:00+00:00,UTC,1731162600,Match Finished,FT,90,Regular Season - 10,176,VfL Bochum,168,Bayer Leverkusen,1,1,DRAW,751.0,Vonovia Ruhrstadion,R. Hartmann
+78,Bundesliga,Germany,2024,1224064,2024-11-09T14:30:00+00:00,UTC,1731162600,Match Finished,FT,90,Regular Season - 10,186,FC St. Pauli,157,Bayern München,0,1,AWAY,745.0,Millerntor-Stadion,T. Gerach
+78,Bundesliga,Germany,2024,1224057,2024-11-09T17:30:00+00:00,UTC,1731173400,Match Finished,FT,90,Regular Season - 10,173,RB Leipzig,163,Borussia Mönchengladbach,0,0,DRAW,738.0,Red Bull Arena,C. Dingert
+78,Bundesliga,Germany,2024,1224060,2024-11-10T14:30:00+00:00,UTC,1731249000,Match Finished,FT,90,Regular Season - 10,170,FC Augsburg,167,1899 Hoffenheim,0,0,DRAW,698.0,WWK Arena,M. Petersen
+78,Bundesliga,Germany,2024,1224056,2024-11-10T16:30:00+00:00,UTC,1731256200,Match Finished,FT,90,Regular Season - 10,172,VfB Stuttgart,169,Eintracht Frankfurt,2,3,AWAY,20473.0,MHPArena,F. Zwayer
+78,Bundesliga,Germany,2024,1224058,2024-11-10T18:30:00+00:00,UTC,1731263400,Match Finished,FT,90,Regular Season - 10,180,1. FC Heidenheim,161,VfL Wolfsburg,1,3,AWAY,723.0,Voith-Arena,H. Osmers
+78,Bundesliga,Germany,2024,1224067,2024-11-22T19:30:00+00:00,UTC,1732303800,Match Finished,FT,90,Regular Season - 11,157,Bayern München,170,FC Augsburg,3,0,HOME,700.0,Allianz Arena,D. Schlager
+78,Bundesliga,Germany,2024,1224071,2024-11-23T14:30:00+00:00,UTC,1732372200,Match Finished,FT,90,Regular Season - 11,161,VfL Wolfsburg,182,Union Berlin,1,0,HOME,752.0,Volkswagen Arena,T. Stieler
+78,Bundesliga,Germany,2024,1224068,2024-11-23T14:30:00+00:00,UTC,1732372200,Match Finished,FT,90,Regular Season - 11,165,Borussia Dortmund,160,SC Freiburg,4,0,HOME,19381.0,SIGNAL IDUNA PARK,F. Brych
+78,Bundesliga,Germany,2024,1224070,2024-11-23T14:30:00+00:00,UTC,1732372200,Match Finished,FT,90,Regular Season - 11,167,1899 Hoffenheim,173,RB Leipzig,4,3,HOME,724.0,PreZero Arena,F. Willenborg
+78,Bundesliga,Germany,2024,1224065,2024-11-23T14:30:00+00:00,UTC,1732372200,Match Finished,FT,90,Regular Season - 11,168,Bayer Leverkusen,180,1. FC Heidenheim,5,2,HOME,699.0,BayArena,B. Dankert
+78,Bundesliga,Germany,2024,1224066,2024-11-23T14:30:00+00:00,UTC,1732372200,Match Finished,FT,90,Regular Season - 11,172,VfB Stuttgart,176,VfL Bochum,2,0,HOME,20473.0,MHPArena,B. Brand
+78,Bundesliga,Germany,2024,1224069,2024-11-23T17:30:00+00:00,UTC,1732383000,Match Finished,FT,90,Regular Season - 11,169,Eintracht Frankfurt,162,Werder Bremen,1,0,HOME,10491.0,Deutsche Bank Park,F. Badstübner
+78,Bundesliga,Germany,2024,1224073,2024-11-24T14:30:00+00:00,UTC,1732458600,Match Finished,FT,90,Regular Season - 11,191,Holstein Kiel,164,FSV Mainz 05,0,3,AWAY,725.0,Holstein-Stadion,S. Stegemann
+78,Bundesliga,Germany,2024,1224072,2024-11-24T16:30:00+00:00,UTC,1732465800,Match Finished,FT,90,Regular Season - 11,163,Borussia Mönchengladbach,186,FC St. Pauli,2,0,HOME,20471.0,BORUSSIA-PARK,R. Braun
+78,Bundesliga,Germany,2024,1224082,2024-11-29T19:30:00+00:00,UTC,1732908600,Match Finished,FT,90,Regular Season - 12,186,FC St. Pauli,191,Holstein Kiel,3,1,HOME,745.0,Millerntor-Stadion,F. Zwayer
+78,Bundesliga,Germany,2024,1224078,2024-11-30T14:30:00+00:00,UTC,1732977000,Match Finished,FT,90,Regular Season - 12,160,SC Freiburg,163,Borussia Mönchengladbach,3,1,HOME,12717.0,Europa-Park Stadion,R. Hartmann
+78,Bundesliga,Germany,2024,1224077,2024-11-30T14:30:00+00:00,UTC,1732977000,Match Finished,FT,90,Regular Season - 12,162,Werder Bremen,172,VfB Stuttgart,2,2,DRAW,,Weserstadion,H. Osmers
+78,Bundesliga,Germany,2024,1224079,2024-11-30T14:30:00+00:00,UTC,1732977000,Match Finished,FT,90,Regular Season - 12,170,FC Augsburg,176,VfL Bochum,1,0,HOME,698.0,WWK Arena,T. Reichel
+78,Bundesliga,Germany,2024,1224074,2024-11-30T14:30:00+00:00,UTC,1732977000,Match Finished,FT,90,Regular Season - 12,173,RB Leipzig,161,VfL Wolfsburg,1,5,AWAY,738.0,Red Bull Arena,M. Petersen
+78,Bundesliga,Germany,2024,1224081,2024-11-30T14:30:00+00:00,UTC,1732977000,Match Finished,FT,90,Regular Season - 12,182,Union Berlin,168,Bayer Leverkusen,1,2,AWAY,748.0,Stadion An der Alten Försterei,C. Dingert
+78,Bundesliga,Germany,2024,1224075,2024-11-30T17:30:00+00:00,UTC,1732987800,Match Finished,FT,90,Regular Season - 12,165,Borussia Dortmund,157,Bayern München,1,1,DRAW,19381.0,SIGNAL IDUNA PARK,S. Jablonski
+78,Bundesliga,Germany,2024,1224080,2024-12-01T14:30:00+00:00,UTC,1733063400,Match Finished,FT,90,Regular Season - 12,164,FSV Mainz 05,167,1899 Hoffenheim,2,0,HOME,11899.0,MEWA ARENA,D. Siebert
+78,Bundesliga,Germany,2024,1224076,2024-12-01T16:30:00+00:00,UTC,1733070600,Match Finished,FT,90,Regular Season - 12,180,1. FC Heidenheim,169,Eintracht Frankfurt,0,4,AWAY,723.0,Voith-Arena,F. Exner
+78,Bundesliga,Germany,2024,1224084,2024-12-06T19:30:00+00:00,UTC,1733513400,Match Finished,FT,90,Regular Season - 13,172,VfB Stuttgart,182,Union Berlin,3,2,HOME,20473.0,MHPArena,T. Welz
+78,Bundesliga,Germany,2024,1224085,2024-12-07T14:30:00+00:00,UTC,1733581800,Match Finished,FT,90,Regular Season - 13,157,Bayern München,180,1. FC Heidenheim,4,2,HOME,700.0,Allianz Arena,S. Storks
+78,Bundesliga,Germany,2024,1224083,2024-12-07T14:30:00+00:00,UTC,1733581800,Match Finished,FT,90,Regular Season - 13,168,Bayer Leverkusen,186,FC St. Pauli,2,1,HOME,699.0,BayArena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224086,2024-12-07T14:30:00+00:00,UTC,1733581800,Match Finished,FT,90,Regular Season - 13,169,Eintracht Frankfurt,170,FC Augsburg,2,2,DRAW,10491.0,Deutsche Bank Park,B. Dankert
+78,Bundesliga,Germany,2024,1224090,2024-12-07T14:30:00+00:00,UTC,1733581800,Match Finished,FT,90,Regular Season - 13,176,VfL Bochum,162,Werder Bremen,0,1,AWAY,751.0,Vonovia Ruhrstadion,F. Brych
+78,Bundesliga,Germany,2024,1224091,2024-12-07T14:30:00+00:00,UTC,1733581800,Match Finished,FT,90,Regular Season - 13,191,Holstein Kiel,173,RB Leipzig,0,2,AWAY,725.0,Holstein-Stadion,F. Badstübner
+78,Bundesliga,Germany,2024,1224089,2024-12-07T17:30:00+00:00,UTC,1733592600,Match Finished,FT,90,Regular Season - 13,163,Borussia Mönchengladbach,165,Borussia Dortmund,1,1,DRAW,20471.0,BORUSSIA-PARK,T. Stieler
+78,Bundesliga,Germany,2024,1224088,2024-12-08T14:30:00+00:00,UTC,1733668200,Match Finished,FT,90,Regular Season - 13,161,VfL Wolfsburg,164,FSV Mainz 05,4,3,HOME,752.0,Volkswagen Arena,T. Gerach
+78,Bundesliga,Germany,2024,1224087,2024-12-08T16:30:00+00:00,UTC,1733675400,Match Finished,FT,90,Regular Season - 13,167,1899 Hoffenheim,160,SC Freiburg,1,1,DRAW,724.0,PreZero Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224095,2024-12-13T19:30:00+00:00,UTC,1734118200,Match Finished,FT,90,Regular Season - 14,160,SC Freiburg,161,VfL Wolfsburg,3,2,HOME,12717.0,Europa-Park Stadion,S. Stegemann
+78,Bundesliga,Germany,2024,1224098,2024-12-14T14:30:00+00:00,UTC,1734186600,Match Finished,FT,90,Regular Season - 14,163,Borussia Mönchengladbach,191,Holstein Kiel,4,1,HOME,20471.0,BORUSSIA-PARK,D. Schlager
+78,Bundesliga,Germany,2024,1224097,2024-12-14T14:30:00+00:00,UTC,1734186600,Match Finished,FT,90,Regular Season - 14,164,FSV Mainz 05,157,Bayern München,2,1,HOME,11899.0,MEWA ARENA,F. Willenborg
+78,Bundesliga,Germany,2024,1224096,2024-12-14T14:30:00+00:00,UTC,1734186600,Match Finished,FT,90,Regular Season - 14,170,FC Augsburg,168,Bayer Leverkusen,0,2,AWAY,698.0,WWK Arena,F. Zwayer
+78,Bundesliga,Germany,2024,1224099,2024-12-14T14:30:00+00:00,UTC,1734186600,Match Finished,FT,90,Regular Season - 14,182,Union Berlin,176,VfL Bochum,1,1,DRAW,748.0,Stadion An der Alten Försterei,M. Petersen
+78,Bundesliga,Germany,2024,1224100,2024-12-14T17:30:00+00:00,UTC,1734197400,Match Finished,FT,90,Regular Season - 14,186,FC St. Pauli,162,Werder Bremen,0,2,AWAY,745.0,Millerntor-Stadion,R. Hartmann
+78,Bundesliga,Germany,2024,1224094,2024-12-15T14:30:00+00:00,UTC,1734273000,Match Finished,FT,90,Regular Season - 14,180,1. FC Heidenheim,172,VfB Stuttgart,1,3,AWAY,723.0,Voith-Arena,C. Dingert
+78,Bundesliga,Germany,2024,1224093,2024-12-15T16:30:00+00:00,UTC,1734280200,Match Finished,FT,90,Regular Season - 14,165,Borussia Dortmund,167,1899 Hoffenheim,1,1,DRAW,19381.0,SIGNAL IDUNA PARK,H. Osmers
+78,Bundesliga,Germany,2024,1224092,2024-12-15T18:30:00+00:00,UTC,1734287400,Match Finished,FT,90,Regular Season - 14,173,RB Leipzig,169,Eintracht Frankfurt,2,1,HOME,738.0,Red Bull Arena,B. Brand
+78,Bundesliga,Germany,2024,1224103,2024-12-20T19:30:00+00:00,UTC,1734723000,Match Finished,FT,90,Regular Season - 15,157,Bayern München,173,RB Leipzig,5,1,HOME,700.0,Allianz Arena,D. Siebert
+78,Bundesliga,Germany,2024,1224106,2024-12-21T14:30:00+00:00,UTC,1734791400,Match Finished,FT,90,Regular Season - 15,162,Werder Bremen,182,Union Berlin,4,1,HOME,,Weserstadion,F. Exner
+78,Bundesliga,Germany,2024,1224105,2024-12-21T14:30:00+00:00,UTC,1734791400,Match Finished,FT,90,Regular Season - 15,167,1899 Hoffenheim,163,Borussia Mönchengladbach,1,2,AWAY,724.0,PreZero Arena,B. Dankert
+78,Bundesliga,Germany,2024,1224104,2024-12-21T14:30:00+00:00,UTC,1734791400,Match Finished,FT,90,Regular Season - 15,169,Eintracht Frankfurt,164,FSV Mainz 05,1,3,AWAY,10491.0,Deutsche Bank Park,F. Badstübner
+78,Bundesliga,Germany,2024,1224102,2024-12-21T14:30:00+00:00,UTC,1734791400,Match Finished,FT,90,Regular Season - 15,172,VfB Stuttgart,186,FC St. Pauli,0,1,AWAY,20473.0,MHPArena,F. Brych
+78,Bundesliga,Germany,2024,1224109,2024-12-21T14:30:00+00:00,UTC,1734791400,Match Finished,FT,90,Regular Season - 15,191,Holstein Kiel,170,FC Augsburg,5,1,HOME,725.0,Holstein-Stadion,T. Welz
+78,Bundesliga,Germany,2024,1224101,2024-12-21T17:30:00+00:00,UTC,1734802200,Match Finished,FT,90,Regular Season - 15,168,Bayer Leverkusen,160,SC Freiburg,5,1,HOME,699.0,BayArena,T. Stieler
+78,Bundesliga,Germany,2024,1224108,2024-12-22T14:30:00+00:00,UTC,1734877800,Match Finished,FT,90,Regular Season - 15,176,VfL Bochum,180,1. FC Heidenheim,2,0,HOME,751.0,Vonovia Ruhrstadion,S. Jablonski
+78,Bundesliga,Germany,2024,1224107,2024-12-22T16:30:00+00:00,UTC,1734885000,Match Finished,FT,90,Regular Season - 15,161,VfL Wolfsburg,165,Borussia Dortmund,1,3,AWAY,752.0,Volkswagen Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224111,2025-01-10T19:45:00+00:00,UTC,1736538300,Match Finished,FT,90,Regular Season - 16,165,Borussia Dortmund,168,Bayer Leverkusen,2,3,AWAY,19381.0,SIGNAL IDUNA PARK,T. Stieler
+78,Bundesliga,Germany,2024,1224114,2025-01-11T14:30:00+00:00,UTC,1736605800,Match Finished,FT,90,Regular Season - 16,160,SC Freiburg,191,Holstein Kiel,3,2,HOME,12717.0,Europa-Park Stadion,S. Storks
+78,Bundesliga,Germany,2024,1224116,2025-01-11T14:30:00+00:00,UTC,1736605800,Match Finished,FT,90,Regular Season - 16,164,FSV Mainz 05,176,VfL Bochum,2,0,HOME,11899.0,MEWA ARENA,B. Brand
+78,Bundesliga,Germany,2024,1224112,2025-01-11T14:30:00+00:00,UTC,1736605800,Match Finished,FT,90,Regular Season - 16,167,1899 Hoffenheim,161,VfL Wolfsburg,0,1,AWAY,724.0,PreZero Arena,C. Dingert
+78,Bundesliga,Germany,2024,1224113,2025-01-11T14:30:00+00:00,UTC,1736605800,Match Finished,FT,90,Regular Season - 16,180,1. FC Heidenheim,182,Union Berlin,2,0,HOME,723.0,Voith-Arena,R. Hartmann
+78,Bundesliga,Germany,2024,1224118,2025-01-11T14:30:00+00:00,UTC,1736605800,Match Finished,FT,90,Regular Season - 16,186,FC St. Pauli,169,Eintracht Frankfurt,0,1,AWAY,745.0,Millerntor-Stadion,H. Osmers
+78,Bundesliga,Germany,2024,1224117,2025-01-11T17:30:00+00:00,UTC,1736616600,Match Finished,FT,90,Regular Season - 16,163,Borussia Mönchengladbach,157,Bayern München,0,1,AWAY,20471.0,BORUSSIA-PARK,F. Zwayer
+78,Bundesliga,Germany,2024,1224110,2025-01-12T14:30:00+00:00,UTC,1736692200,Match Finished,FT,90,Regular Season - 16,173,RB Leipzig,162,Werder Bremen,4,2,HOME,738.0,Red Bull Arena,T. Reichel
+78,Bundesliga,Germany,2024,1224115,2025-01-12T16:30:00+00:00,UTC,1736699400,Match Finished,FT,90,Regular Season - 16,170,FC Augsburg,172,VfB Stuttgart,0,1,AWAY,698.0,WWK Arena,D. Schlager
+78,Bundesliga,Germany,2024,1224127,2025-01-14T17:30:00+00:00,UTC,1736875800,Match Finished,FT,90,Regular Season - 17,191,Holstein Kiel,165,Borussia Dortmund,4,2,HOME,725.0,Holstein-Stadion,M. Petersen
+78,Bundesliga,Germany,2024,1224124,2025-01-14T19:30:00+00:00,UTC,1736883000,Match Finished,FT,90,Regular Season - 17,161,VfL Wolfsburg,163,Borussia Mönchengladbach,5,1,HOME,752.0,Volkswagen Arena,F. Badstübner
+78,Bundesliga,Germany,2024,1224119,2025-01-14T19:30:00+00:00,UTC,1736883000,Match Finished,FT,90,Regular Season - 17,168,Bayer Leverkusen,164,FSV Mainz 05,1,0,HOME,699.0,BayArena,T. Welz
+78,Bundesliga,Germany,2024,1224122,2025-01-14T19:30:00+00:00,UTC,1736883000,Match Finished,FT,90,Regular Season - 17,169,Eintracht Frankfurt,160,SC Freiburg,4,1,HOME,10491.0,Deutsche Bank Park,S. Jablonski
+78,Bundesliga,Germany,2024,1224126,2025-01-15T17:30:00+00:00,UTC,1736962200,Match Finished,FT,90,Regular Season - 17,176,VfL Bochum,186,FC St. Pauli,1,0,HOME,751.0,Vonovia Ruhrstadion,D. Siebert
+78,Bundesliga,Germany,2024,1224121,2025-01-15T19:30:00+00:00,UTC,1736969400,Match Finished,FT,90,Regular Season - 17,157,Bayern München,167,1899 Hoffenheim,5,0,HOME,700.0,Allianz Arena,T. Gerach
+78,Bundesliga,Germany,2024,1224123,2025-01-15T19:30:00+00:00,UTC,1736969400,Match Finished,FT,90,Regular Season - 17,162,Werder Bremen,180,1. FC Heidenheim,3,3,DRAW,,Weserstadion,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224120,2025-01-15T19:30:00+00:00,UTC,1736969400,Match Finished,FT,90,Regular Season - 17,172,VfB Stuttgart,173,RB Leipzig,2,1,HOME,20473.0,MHPArena,S. Stegemann
+78,Bundesliga,Germany,2024,1224125,2025-01-15T19:30:00+00:00,UTC,1736969400,Match Finished,FT,90,Regular Season - 17,182,Union Berlin,170,FC Augsburg,0,2,AWAY,748.0,Stadion An der Alten Försterei,F. Willenborg
+78,Bundesliga,Germany,2024,1224131,2025-01-17T19:30:00+00:00,UTC,1737142200,Match Finished,FT,90,Regular Season - 18,169,Eintracht Frankfurt,165,Borussia Dortmund,2,0,HOME,10491.0,Deutsche Bank Park,D. Schlager
+78,Bundesliga,Germany,2024,1224130,2025-01-18T14:30:00+00:00,UTC,1737210600,Match Finished,FT,90,Regular Season - 18,157,Bayern München,161,VfL Wolfsburg,3,2,HOME,700.0,Allianz Arena,T. Reichel
+78,Bundesliga,Germany,2024,1224129,2025-01-18T14:30:00+00:00,UTC,1737210600,Match Finished,FT,90,Regular Season - 18,172,VfB Stuttgart,160,SC Freiburg,4,0,HOME,20473.0,MHPArena,F. Zwayer
+78,Bundesliga,Germany,2024,1224135,2025-01-18T14:30:00+00:00,UTC,1737210600,Match Finished,FT,90,Regular Season - 18,176,VfL Bochum,173,RB Leipzig,3,3,DRAW,751.0,Vonovia Ruhrstadion,R. Hartmann
+78,Bundesliga,Germany,2024,1224132,2025-01-18T14:30:00+00:00,UTC,1737210600,Match Finished,FT,90,Regular Season - 18,180,1. FC Heidenheim,186,FC St. Pauli,0,2,AWAY,723.0,Voith-Arena,B. Dankert
+78,Bundesliga,Germany,2024,1224136,2025-01-18T14:30:00+00:00,UTC,1737210600,Match Finished,FT,90,Regular Season - 18,191,Holstein Kiel,167,1899 Hoffenheim,1,3,AWAY,725.0,Holstein-Stadion,F. Brych
+78,Bundesliga,Germany,2024,1224128,2025-01-18T17:30:00+00:00,UTC,1737221400,Match Finished,FT,90,Regular Season - 18,168,Bayer Leverkusen,163,Borussia Mönchengladbach,3,1,HOME,699.0,BayArena,H. Osmers
+78,Bundesliga,Germany,2024,1224134,2025-01-19T14:30:00+00:00,UTC,1737297000,Match Finished,FT,90,Regular Season - 18,182,Union Berlin,164,FSV Mainz 05,2,1,HOME,748.0,Stadion An der Alten Försterei,F. Exner
+78,Bundesliga,Germany,2024,1224133,2025-01-19T16:30:00+00:00,UTC,1737304200,Match Finished,FT,90,Regular Season - 18,162,Werder Bremen,170,FC Augsburg,0,2,AWAY,,Weserstadion,B. Brand
+78,Bundesliga,Germany,2024,1224142,2025-01-24T19:30:00+00:00,UTC,1737747000,Match Finished,FT,90,Regular Season - 19,161,VfL Wolfsburg,191,Holstein Kiel,2,2,DRAW,752.0,Volkswagen Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224140,2025-01-25T14:30:00+00:00,UTC,1737815400,Match Finished,FT,90,Regular Season - 19,160,SC Freiburg,157,Bayern München,1,2,AWAY,12717.0,Europa-Park Stadion,D. Siebert
+78,Bundesliga,Germany,2024,1224143,2025-01-25T14:30:00+00:00,UTC,1737815400,Match Finished,FT,90,Regular Season - 19,164,FSV Mainz 05,172,VfB Stuttgart,2,0,HOME,11899.0,MEWA ARENA,T. Stieler
+78,Bundesliga,Germany,2024,1224138,2025-01-25T14:30:00+00:00,UTC,1737815400,Match Finished,FT,90,Regular Season - 19,165,Borussia Dortmund,162,Werder Bremen,2,2,DRAW,19381.0,SIGNAL IDUNA PARK,C. Dingert
+78,Bundesliga,Germany,2024,1224141,2025-01-25T14:30:00+00:00,UTC,1737815400,Match Finished,FT,90,Regular Season - 19,170,FC Augsburg,180,1. FC Heidenheim,2,1,HOME,698.0,WWK Arena,F. Badstübner
+78,Bundesliga,Germany,2024,1224137,2025-01-25T14:30:00+00:00,UTC,1737815400,Match Finished,FT,90,Regular Season - 19,173,RB Leipzig,168,Bayer Leverkusen,2,2,DRAW,738.0,Red Bull Arena,B. Dankert
+78,Bundesliga,Germany,2024,1224144,2025-01-25T17:30:00+00:00,UTC,1737826200,Match Finished,FT,90,Regular Season - 19,163,Borussia Mönchengladbach,176,VfL Bochum,3,0,HOME,20471.0,BORUSSIA-PARK,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224139,2025-01-26T14:30:00+00:00,UTC,1737901800,Match Finished,FT,90,Regular Season - 19,167,1899 Hoffenheim,169,Eintracht Frankfurt,2,2,DRAW,724.0,PreZero Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224145,2025-01-26T16:30:00+00:00,UTC,1737909000,Match Finished,FT,90,Regular Season - 19,186,FC St. Pauli,182,Union Berlin,3,0,HOME,745.0,Millerntor-Stadion,S. Storks
+78,Bundesliga,Germany,2024,1224151,2025-01-31T19:30:00+00:00,UTC,1738351800,Match Finished,FT,90,Regular Season - 20,162,Werder Bremen,164,FSV Mainz 05,1,0,HOME,,Weserstadion,M. Petersen
+78,Bundesliga,Germany,2024,1224148,2025-02-01T14:30:00+00:00,UTC,1738420200,Match Finished,FT,90,Regular Season - 20,157,Bayern München,191,Holstein Kiel,4,3,HOME,700.0,Allianz Arena,F. Exner
+78,Bundesliga,Germany,2024,1224147,2025-02-01T14:30:00+00:00,UTC,1738420200,Match Finished,FT,90,Regular Season - 20,172,VfB Stuttgart,163,Borussia Mönchengladbach,1,2,AWAY,20473.0,MHPArena,R. Hartmann
+78,Bundesliga,Germany,2024,1224153,2025-02-01T14:30:00+00:00,UTC,1738420200,Match Finished,FT,90,Regular Season - 20,176,VfL Bochum,160,SC Freiburg,0,1,AWAY,751.0,Vonovia Ruhrstadion,T. Welz
+78,Bundesliga,Germany,2024,1224150,2025-02-01T14:30:00+00:00,UTC,1738420200,Match Finished,FT,90,Regular Season - 20,180,1. FC Heidenheim,165,Borussia Dortmund,1,2,AWAY,723.0,Voith-Arena,F. Willenborg
+78,Bundesliga,Germany,2024,1224154,2025-02-01T14:30:00+00:00,UTC,1738420200,Match Finished,FT,90,Regular Season - 20,186,FC St. Pauli,170,FC Augsburg,1,1,DRAW,745.0,Millerntor-Stadion,T. Reichel
+78,Bundesliga,Germany,2024,1224152,2025-02-01T17:30:00+00:00,UTC,1738431000,Match Finished,FT,90,Regular Season - 20,182,Union Berlin,173,RB Leipzig,0,0,DRAW,748.0,Stadion An der Alten Försterei,D. Schlager
+78,Bundesliga,Germany,2024,1224149,2025-02-02T14:30:00+00:00,UTC,1738506600,Match Finished,FT,90,Regular Season - 20,169,Eintracht Frankfurt,161,VfL Wolfsburg,1,1,DRAW,10491.0,Deutsche Bank Park,B. Brand
+78,Bundesliga,Germany,2024,1224146,2025-02-02T16:30:00+00:00,UTC,1738513800,Match Finished,FT,90,Regular Season - 20,168,Bayer Leverkusen,167,1899 Hoffenheim,3,1,HOME,699.0,BayArena,R. Braun
+78,Bundesliga,Germany,2024,1224155,2025-02-07T19:30:00+00:00,UTC,1738956600,Match Finished,FT,90,Regular Season - 21,157,Bayern München,162,Werder Bremen,3,0,HOME,700.0,Allianz Arena,S. Storks
+78,Bundesliga,Germany,2024,1224159,2025-02-08T14:30:00+00:00,UTC,1739025000,Match Finished,FT,90,Regular Season - 21,160,SC Freiburg,180,1. FC Heidenheim,1,0,HOME,12717.0,Europa-Park Stadion,T. Reichel
+78,Bundesliga,Germany,2024,1224160,2025-02-08T14:30:00+00:00,UTC,1739025000,Match Finished,FT,90,Regular Season - 21,161,VfL Wolfsburg,168,Bayer Leverkusen,0,0,DRAW,752.0,Volkswagen Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224161,2025-02-08T14:30:00+00:00,UTC,1739025000,Match Finished,FT,90,Regular Season - 21,164,FSV Mainz 05,170,FC Augsburg,0,0,DRAW,11899.0,MEWA ARENA,D. Schlager
+78,Bundesliga,Germany,2024,1224157,2025-02-08T14:30:00+00:00,UTC,1739025000,Match Finished,FT,90,Regular Season - 21,165,Borussia Dortmund,172,VfB Stuttgart,1,2,AWAY,19381.0,SIGNAL IDUNA PARK,D. Siebert
+78,Bundesliga,Germany,2024,1224158,2025-02-08T14:30:00+00:00,UTC,1739025000,Match Finished,FT,90,Regular Season - 21,167,1899 Hoffenheim,182,Union Berlin,0,4,AWAY,724.0,PreZero Arena,T. Stieler
+78,Bundesliga,Germany,2024,1224162,2025-02-08T17:30:00+00:00,UTC,1739035800,Match Finished,FT,90,Regular Season - 21,163,Borussia Mönchengladbach,169,Eintracht Frankfurt,1,1,DRAW,20471.0,BORUSSIA-PARK,C. Dingert
+78,Bundesliga,Germany,2024,1224163,2025-02-09T14:30:00+00:00,UTC,1739111400,Match Finished,FT,90,Regular Season - 21,191,Holstein Kiel,176,VfL Bochum,2,2,DRAW,725.0,Holstein-Stadion,F. Zwayer
+78,Bundesliga,Germany,2024,1224156,2025-02-09T16:30:00+00:00,UTC,1739118600,Match Finished,FT,90,Regular Season - 21,173,RB Leipzig,186,FC St. Pauli,2,0,HOME,738.0,Red Bull Arena,F. Badstübner
+78,Bundesliga,Germany,2024,1224169,2025-02-14T19:30:00+00:00,UTC,1739561400,Match Finished,FT,90,Regular Season - 22,170,FC Augsburg,173,RB Leipzig,0,0,DRAW,698.0,WWK Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224165,2025-02-15T14:30:00+00:00,UTC,1739629800,Match Finished,FT,90,Regular Season - 22,172,VfB Stuttgart,161,VfL Wolfsburg,1,2,AWAY,20473.0,MHPArena,T. Welz
+78,Bundesliga,Germany,2024,1224171,2025-02-15T14:30:00+00:00,UTC,1739629800,Match Finished,FT,90,Regular Season - 22,176,VfL Bochum,165,Borussia Dortmund,2,0,HOME,751.0,Vonovia Ruhrstadion,H. Osmers
+78,Bundesliga,Germany,2024,1224170,2025-02-15T14:30:00+00:00,UTC,1739629800,Match Finished,FT,90,Regular Season - 22,182,Union Berlin,163,Borussia Mönchengladbach,1,2,AWAY,748.0,Stadion An der Alten Försterei,S. Jablonski
+78,Bundesliga,Germany,2024,1224172,2025-02-15T14:30:00+00:00,UTC,1739629800,Match Finished,FT,90,Regular Season - 22,186,FC St. Pauli,160,SC Freiburg,0,1,AWAY,745.0,Millerntor-Stadion,B. Brand
+78,Bundesliga,Germany,2024,1224164,2025-02-15T17:30:00+00:00,UTC,1739640600,Match Finished,FT,90,Regular Season - 22,168,Bayer Leverkusen,157,Bayern München,0,0,DRAW,699.0,BayArena,D. Siebert
+78,Bundesliga,Germany,2024,1224168,2025-02-16T14:30:00+00:00,UTC,1739716200,Match Finished,FT,90,Regular Season - 22,162,Werder Bremen,167,1899 Hoffenheim,1,3,AWAY,,Weserstadion,F. Willenborg
+78,Bundesliga,Germany,2024,1224166,2025-02-16T16:30:00+00:00,UTC,1739723400,Match Finished,FT,90,Regular Season - 22,169,Eintracht Frankfurt,191,Holstein Kiel,3,1,HOME,10491.0,Deutsche Bank Park,R. Hartmann
+78,Bundesliga,Germany,2024,1224167,2025-02-16T18:30:00+00:00,UTC,1739730600,Match Finished,FT,90,Regular Season - 22,180,1. FC Heidenheim,164,FSV Mainz 05,0,2,AWAY,723.0,Voith-Arena,F. Brych
+78,Bundesliga,Germany,2024,1224177,2025-02-21T19:30:00+00:00,UTC,1740166200,Match Finished,FT,90,Regular Season - 23,160,SC Freiburg,162,Werder Bremen,5,0,HOME,12717.0,Europa-Park Stadion,M. Burda
+78,Bundesliga,Germany,2024,1224178,2025-02-22T14:30:00+00:00,UTC,1740234600,Match Finished,FT,90,Regular Season - 23,161,VfL Wolfsburg,176,VfL Bochum,1,1,DRAW,752.0,Volkswagen Arena,T. Gerach
+78,Bundesliga,Germany,2024,1224180,2025-02-22T14:30:00+00:00,UTC,1740234600,Match Finished,FT,90,Regular Season - 23,163,Borussia Mönchengladbach,170,FC Augsburg,0,3,AWAY,20471.0,BORUSSIA-PARK,F. Exner
+78,Bundesliga,Germany,2024,1224179,2025-02-22T14:30:00+00:00,UTC,1740234600,Match Finished,FT,90,Regular Season - 23,164,FSV Mainz 05,186,FC St. Pauli,2,0,HOME,11899.0,MEWA ARENA,F. Zwayer
+78,Bundesliga,Germany,2024,1224181,2025-02-22T14:30:00+00:00,UTC,1740234600,Match Finished,FT,90,Regular Season - 23,191,Holstein Kiel,168,Bayer Leverkusen,0,2,AWAY,725.0,Holstein-Stadion,D. Schlager
+78,Bundesliga,Germany,2024,1224175,2025-02-22T17:30:00+00:00,UTC,1740245400,Match Finished,FT,90,Regular Season - 23,165,Borussia Dortmund,182,Union Berlin,6,0,HOME,19381.0,SIGNAL IDUNA PARK,B. Dankert
+78,Bundesliga,Germany,2024,1224174,2025-02-23T14:30:00+00:00,UTC,1740321000,Match Finished,FT,90,Regular Season - 23,173,RB Leipzig,180,1. FC Heidenheim,2,2,DRAW,738.0,Red Bull Arena,M. Petersen
+78,Bundesliga,Germany,2024,1224173,2025-02-23T16:30:00+00:00,UTC,1740328200,Match Finished,FT,90,Regular Season - 23,157,Bayern München,169,Eintracht Frankfurt,4,0,HOME,700.0,Allianz Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224176,2025-02-23T18:30:00+00:00,UTC,1740335400,Match Finished,FT,90,Regular Season - 23,167,1899 Hoffenheim,172,VfB Stuttgart,1,1,DRAW,724.0,PreZero Arena,C. Dingert
+78,Bundesliga,Germany,2024,1224182,2025-02-28T19:30:00+00:00,UTC,1740771000,Match Finished,FT,90,Regular Season - 24,172,VfB Stuttgart,157,Bayern München,1,3,AWAY,20473.0,MHPArena,B. Brand
+78,Bundesliga,Germany,2024,1224186,2025-03-01T14:30:00+00:00,UTC,1740839400,Match Finished,FT,90,Regular Season - 24,162,Werder Bremen,161,VfL Wolfsburg,1,2,AWAY,,Weserstadion,F. Brych
+78,Bundesliga,Germany,2024,1224183,2025-03-01T14:30:00+00:00,UTC,1740839400,Match Finished,FT,90,Regular Season - 24,173,RB Leipzig,164,FSV Mainz 05,1,2,AWAY,738.0,Red Bull Arena,D. Siebert
+78,Bundesliga,Germany,2024,1224189,2025-03-01T14:30:00+00:00,UTC,1740839400,Match Finished,FT,90,Regular Season - 24,176,VfL Bochum,167,1899 Hoffenheim,0,1,AWAY,751.0,Vonovia Ruhrstadion,F. Badstübner
+78,Bundesliga,Germany,2024,1224185,2025-03-01T14:30:00+00:00,UTC,1740839400,Match Finished,FT,90,Regular Season - 24,180,1. FC Heidenheim,163,Borussia Mönchengladbach,0,3,AWAY,723.0,Voith-Arena,S. Storks
+78,Bundesliga,Germany,2024,1224190,2025-03-01T14:30:00+00:00,UTC,1740839400,Match Finished,FT,90,Regular Season - 24,186,FC St. Pauli,165,Borussia Dortmund,0,2,AWAY,745.0,Millerntor-Stadion,T. Stieler
+78,Bundesliga,Germany,2024,1224184,2025-03-01T17:30:00+00:00,UTC,1740850200,Match Finished,FT,90,Regular Season - 24,169,Eintracht Frankfurt,168,Bayer Leverkusen,1,4,AWAY,10491.0,Deutsche Bank Park,F. Zwayer
+78,Bundesliga,Germany,2024,1224188,2025-03-02T14:30:00+00:00,UTC,1740925800,Match Finished,FT,90,Regular Season - 24,182,Union Berlin,191,Holstein Kiel,0,1,AWAY,748.0,Stadion An der Alten Försterei,T. Reichel
+78,Bundesliga,Germany,2024,1224187,2025-03-02T16:30:00+00:00,UTC,1740933000,Match Finished,FT,90,Regular Season - 24,170,FC Augsburg,160,SC Freiburg,0,0,DRAW,698.0,WWK Arena,H. Osmers
+78,Bundesliga,Germany,2024,1224198,2025-03-07T19:30:00+00:00,UTC,1741375800,Match Finished,FT,90,Regular Season - 25,163,Borussia Mönchengladbach,164,FSV Mainz 05,1,3,AWAY,20471.0,BORUSSIA-PARK,S. Stegemann
+78,Bundesliga,Germany,2024,1224192,2025-03-08T14:30:00+00:00,UTC,1741444200,Match Finished,FT,90,Regular Season - 25,157,Bayern München,176,VfL Bochum,2,3,AWAY,700.0,Allianz Arena,C. Dingert
+78,Bundesliga,Germany,2024,1224197,2025-03-08T14:30:00+00:00,UTC,1741444200,Match Finished,FT,90,Regular Season - 25,161,VfL Wolfsburg,186,FC St. Pauli,1,1,DRAW,752.0,Volkswagen Arena,R. Hartmann
+78,Bundesliga,Germany,2024,1224193,2025-03-08T14:30:00+00:00,UTC,1741444200,Match Finished,FT,90,Regular Season - 25,165,Borussia Dortmund,170,FC Augsburg,0,1,AWAY,19381.0,SIGNAL IDUNA PARK,D. Aytekin
+78,Bundesliga,Germany,2024,1224191,2025-03-08T14:30:00+00:00,UTC,1741444200,Match Finished,FT,90,Regular Season - 25,168,Bayer Leverkusen,162,Werder Bremen,0,2,AWAY,699.0,BayArena,T. Welz
+78,Bundesliga,Germany,2024,1224199,2025-03-08T14:30:00+00:00,UTC,1741444200,Match Finished,FT,90,Regular Season - 25,191,Holstein Kiel,172,VfB Stuttgart,2,2,DRAW,725.0,Holstein-Stadion,B. Dankert
+78,Bundesliga,Germany,2024,1224196,2025-03-08T17:30:00+00:00,UTC,1741455000,Match Finished,FT,90,Regular Season - 25,160,SC Freiburg,173,RB Leipzig,0,0,DRAW,12717.0,Europa-Park Stadion,S. Jablonski
+78,Bundesliga,Germany,2024,1224194,2025-03-09T14:30:00+00:00,UTC,1741530600,Match Finished,FT,90,Regular Season - 25,169,Eintracht Frankfurt,182,Union Berlin,1,2,AWAY,10491.0,Deutsche Bank Park,F. Willenborg
+78,Bundesliga,Germany,2024,1224195,2025-03-09T16:30:00+00:00,UTC,1741537800,Match Finished,FT,90,Regular Season - 25,167,1899 Hoffenheim,180,1. FC Heidenheim,1,1,DRAW,724.0,PreZero Arena,D. Schlager
+78,Bundesliga,Germany,2024,1224208,2025-03-14T19:30:00+00:00,UTC,1741980600,Match Finished,FT,90,Regular Season - 26,186,FC St. Pauli,167,1899 Hoffenheim,1,0,HOME,745.0,Millerntor-Stadion,F. Brych
+78,Bundesliga,Germany,2024,1224203,2025-03-15T14:30:00+00:00,UTC,1742049000,Match Finished,FT,90,Regular Season - 26,162,Werder Bremen,163,Borussia Mönchengladbach,2,4,AWAY,,Weserstadion,T. Gerach
+78,Bundesliga,Germany,2024,1224205,2025-03-15T14:30:00+00:00,UTC,1742049000,Match Finished,FT,90,Regular Season - 26,164,FSV Mainz 05,160,SC Freiburg,2,2,DRAW,11899.0,MEWA ARENA,B. Brand
+78,Bundesliga,Germany,2024,1224204,2025-03-15T14:30:00+00:00,UTC,1742049000,Match Finished,FT,90,Regular Season - 26,170,FC Augsburg,161,VfL Wolfsburg,1,0,HOME,698.0,WWK Arena,M. Petersen
+78,Bundesliga,Germany,2024,1224206,2025-03-15T14:30:00+00:00,UTC,1742049000,Match Finished,FT,90,Regular Season - 26,182,Union Berlin,157,Bayern München,1,1,DRAW,748.0,Stadion An der Alten Försterei,F. Exner
+78,Bundesliga,Germany,2024,1224201,2025-03-15T17:30:00+00:00,UTC,1742059800,Match Finished,FT,90,Regular Season - 26,173,RB Leipzig,165,Borussia Dortmund,2,0,HOME,738.0,Red Bull Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224207,2025-03-16T15:20:00+00:00,UTC,1742138400,Match Finished,FT,90,Regular Season - 26,176,VfL Bochum,169,Eintracht Frankfurt,1,3,AWAY,751.0,Vonovia Ruhrstadion,F. Zwayer
+78,Bundesliga,Germany,2024,1224202,2025-03-16T16:30:00+00:00,UTC,1742142600,Match Finished,FT,90,Regular Season - 26,180,1. FC Heidenheim,191,Holstein Kiel,3,1,HOME,723.0,Voith-Arena,H. Osmers
+78,Bundesliga,Germany,2024,1224200,2025-03-16T18:30:00+00:00,UTC,1742149800,Match Finished,FT,90,Regular Season - 26,172,VfB Stuttgart,168,Bayer Leverkusen,3,4,AWAY,20473.0,MHPArena,D. Siebert
+78,Bundesliga,Germany,2024,1224209,2025-03-28T19:30:00+00:00,UTC,1743190200,Match Finished,FT,90,Regular Season - 27,168,Bayer Leverkusen,176,VfL Bochum,3,1,HOME,699.0,BayArena,S. Jablonski
+78,Bundesliga,Germany,2024,1224210,2025-03-29T14:30:00+00:00,UTC,1743258600,Match Finished,FT,90,Regular Season - 27,157,Bayern München,186,FC St. Pauli,3,2,HOME,700.0,Allianz Arena,F. Badstübner
+78,Bundesliga,Germany,2024,1224215,2025-03-29T14:30:00+00:00,UTC,1743258600,Match Finished,FT,90,Regular Season - 27,161,VfL Wolfsburg,180,1. FC Heidenheim,0,1,AWAY,752.0,Volkswagen Arena,B. Dankert
+78,Bundesliga,Germany,2024,1224216,2025-03-29T14:30:00+00:00,UTC,1743258600,Match Finished,FT,90,Regular Season - 27,163,Borussia Mönchengladbach,173,RB Leipzig,1,0,HOME,20471.0,BORUSSIA-PARK,T. Stieler
+78,Bundesliga,Germany,2024,1224213,2025-03-29T14:30:00+00:00,UTC,1743258600,Match Finished,FT,90,Regular Season - 27,167,1899 Hoffenheim,170,FC Augsburg,1,1,DRAW,724.0,PreZero Arena,T. Reichel
+78,Bundesliga,Germany,2024,1224217,2025-03-29T14:30:00+00:00,UTC,1743258600,Match Finished,FT,90,Regular Season - 27,191,Holstein Kiel,162,Werder Bremen,0,3,AWAY,725.0,Holstein-Stadion,S. Stegemann
+78,Bundesliga,Germany,2024,1224212,2025-03-29T17:30:00+00:00,UTC,1743269400,Match Finished,FT,90,Regular Season - 27,169,Eintracht Frankfurt,172,VfB Stuttgart,1,0,HOME,10491.0,Deutsche Bank Park,D. Aytekin
+78,Bundesliga,Germany,2024,1224214,2025-03-30T13:30:00+00:00,UTC,1743341400,Match Finished,FT,90,Regular Season - 27,160,SC Freiburg,182,Union Berlin,1,2,AWAY,12717.0,Europa-Park Stadion,S. Storks
+78,Bundesliga,Germany,2024,1224211,2025-03-30T15:30:00+00:00,UTC,1743348600,Match Finished,FT,90,Regular Season - 27,165,Borussia Dortmund,164,FSV Mainz 05,3,1,HOME,19381.0,SIGNAL IDUNA PARK,D. Schlager
+78,Bundesliga,Germany,2024,1224222,2025-04-04T18:30:00+00:00,UTC,1743791400,Match Finished,FT,90,Regular Season - 28,170,FC Augsburg,157,Bayern München,1,3,AWAY,698.0,WWK Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224221,2025-04-05T13:30:00+00:00,UTC,1743859800,Match Finished,FT,90,Regular Season - 28,160,SC Freiburg,165,Borussia Dortmund,1,4,AWAY,12717.0,Europa-Park Stadion,F. Zwayer
+78,Bundesliga,Germany,2024,1224223,2025-04-05T13:30:00+00:00,UTC,1743859800,Match Finished,FT,90,Regular Season - 28,164,FSV Mainz 05,191,Holstein Kiel,1,1,DRAW,11899.0,MEWA ARENA,F. Willenborg
+78,Bundesliga,Germany,2024,1224218,2025-04-05T13:30:00+00:00,UTC,1743859800,Match Finished,FT,90,Regular Season - 28,173,RB Leipzig,167,1899 Hoffenheim,3,1,HOME,738.0,Red Bull Arena,R. Hartmann
+78,Bundesliga,Germany,2024,1224225,2025-04-05T13:30:00+00:00,UTC,1743859800,Match Finished,FT,90,Regular Season - 28,176,VfL Bochum,172,VfB Stuttgart,0,4,AWAY,751.0,Vonovia Ruhrstadion,F. Brych
+78,Bundesliga,Germany,2024,1224219,2025-04-05T13:30:00+00:00,UTC,1743859800,Match Finished,FT,90,Regular Season - 28,180,1. FC Heidenheim,168,Bayer Leverkusen,0,1,AWAY,723.0,Voith-Arena,T. Stieler
+78,Bundesliga,Germany,2024,1224220,2025-04-05T16:30:00+00:00,UTC,1743870600,Match Finished,FT,90,Regular Season - 28,162,Werder Bremen,169,Eintracht Frankfurt,2,0,HOME,,Weserstadion,D. Siebert
+78,Bundesliga,Germany,2024,1224226,2025-04-06T13:30:00+00:00,UTC,1743946200,Match Finished,FT,90,Regular Season - 28,186,FC St. Pauli,163,Borussia Mönchengladbach,1,1,DRAW,745.0,Millerntor-Stadion,C. Dingert
+78,Bundesliga,Germany,2024,1224224,2025-04-06T15:30:00+00:00,UTC,1743953400,Match Finished,FT,90,Regular Season - 28,182,Union Berlin,161,VfL Wolfsburg,1,0,HOME,748.0,Stadion An der Alten Försterei,H. Osmers
+78,Bundesliga,Germany,2024,1224232,2025-04-11T18:30:00+00:00,UTC,1744396200,Match Finished,FT,90,Regular Season - 29,161,VfL Wolfsburg,173,RB Leipzig,2,3,AWAY,752.0,Volkswagen Arena,F. Exner
+78,Bundesliga,Germany,2024,1224233,2025-04-12T13:30:00+00:00,UTC,1744464600,Match Finished,FT,90,Regular Season - 29,163,Borussia Mönchengladbach,160,SC Freiburg,1,2,AWAY,20471.0,BORUSSIA-PARK,D. Aytekin
+78,Bundesliga,Germany,2024,1224231,2025-04-12T13:30:00+00:00,UTC,1744464600,Match Finished,FT,90,Regular Season - 29,167,1899 Hoffenheim,164,FSV Mainz 05,2,0,HOME,724.0,PreZero Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224227,2025-04-12T13:30:00+00:00,UTC,1744464600,Match Finished,FT,90,Regular Season - 29,168,Bayer Leverkusen,182,Union Berlin,0,0,DRAW,699.0,BayArena,B. Dankert
+78,Bundesliga,Germany,2024,1224234,2025-04-12T13:30:00+00:00,UTC,1744464600,Match Finished,FT,90,Regular Season - 29,176,VfL Bochum,170,FC Augsburg,1,2,AWAY,751.0,Vonovia Ruhrstadion,M. Petersen
+78,Bundesliga,Germany,2024,1224235,2025-04-12T13:30:00+00:00,UTC,1744464600,Match Finished,FT,90,Regular Season - 29,191,Holstein Kiel,186,FC St. Pauli,1,2,AWAY,725.0,Holstein-Stadion,B. Brand
+78,Bundesliga,Germany,2024,1224229,2025-04-12T16:30:00+00:00,UTC,1744475400,Match Finished,FT,90,Regular Season - 29,157,Bayern München,165,Borussia Dortmund,2,2,DRAW,700.0,Allianz Arena,T. Welz
+78,Bundesliga,Germany,2024,1224228,2025-04-13T13:30:00+00:00,UTC,1744551000,Match Finished,FT,90,Regular Season - 29,172,VfB Stuttgart,162,Werder Bremen,1,2,AWAY,20473.0,MHPArena,D. Schlager
+78,Bundesliga,Germany,2024,1224230,2025-04-13T15:30:00+00:00,UTC,1744558200,Match Finished,FT,90,Regular Season - 29,169,Eintracht Frankfurt,180,1. FC Heidenheim,3,0,HOME,10491.0,Deutsche Bank Park,T. Gerach
+78,Bundesliga,Germany,2024,1224240,2025-04-19T13:30:00+00:00,UTC,1745069400,Match Finished,FT,90,Regular Season - 30,160,SC Freiburg,167,1899 Hoffenheim,3,2,HOME,12717.0,Europa-Park Stadion,S. Stegemann
+78,Bundesliga,Germany,2024,1224239,2025-04-19T13:30:00+00:00,UTC,1745069400,Match Finished,FT,90,Regular Season - 30,162,Werder Bremen,176,VfL Bochum,1,0,HOME,,Weserstadion,R. Schröder
+78,Bundesliga,Germany,2024,1224242,2025-04-19T13:30:00+00:00,UTC,1745069400,Match Finished,FT,90,Regular Season - 30,164,FSV Mainz 05,161,VfL Wolfsburg,2,2,DRAW,11899.0,MEWA ARENA,F. Zwayer
+78,Bundesliga,Germany,2024,1224236,2025-04-19T13:30:00+00:00,UTC,1745069400,Match Finished,FT,90,Regular Season - 30,173,RB Leipzig,191,Holstein Kiel,1,1,DRAW,738.0,Red Bull Arena,F. Brych
+78,Bundesliga,Germany,2024,1224238,2025-04-19T13:30:00+00:00,UTC,1745069400,Match Finished,FT,90,Regular Season - 30,180,1. FC Heidenheim,157,Bayern München,0,4,AWAY,723.0,Voith-Arena,F. Willenborg
+78,Bundesliga,Germany,2024,1224243,2025-04-19T16:30:00+00:00,UTC,1745080200,Match Finished,FT,90,Regular Season - 30,182,Union Berlin,172,VfB Stuttgart,4,4,DRAW,748.0,Stadion An der Alten Försterei,T. Stieler
+78,Bundesliga,Germany,2024,1224241,2025-04-20T13:30:00+00:00,UTC,1745155800,Match Finished,FT,90,Regular Season - 30,170,FC Augsburg,169,Eintracht Frankfurt,0,0,DRAW,698.0,WWK Arena,F. Badstübner
+78,Bundesliga,Germany,2024,1224237,2025-04-20T15:30:00+00:00,UTC,1745163000,Match Finished,FT,90,Regular Season - 30,165,Borussia Dortmund,163,Borussia Mönchengladbach,3,2,HOME,19381.0,SIGNAL IDUNA PARK,D. Siebert
+78,Bundesliga,Germany,2024,1224244,2025-04-20T17:30:00+00:00,UTC,1745170200,Match Finished,FT,90,Regular Season - 30,186,FC St. Pauli,168,Bayer Leverkusen,1,1,DRAW,745.0,Millerntor-Stadion,S. Storks
+78,Bundesliga,Germany,2024,1224246,2025-04-25T18:30:00+00:00,UTC,1745605800,Match Finished,FT,90,Regular Season - 31,172,VfB Stuttgart,180,1. FC Heidenheim,0,1,AWAY,20473.0,MHPArena,T. Welz
+78,Bundesliga,Germany,2024,1224247,2025-04-26T13:30:00+00:00,UTC,1745674200,Match Finished,FT,90,Regular Season - 31,157,Bayern München,164,FSV Mainz 05,3,0,HOME,700.0,Allianz Arena,B. Dankert
+78,Bundesliga,Germany,2024,1224251,2025-04-26T13:30:00+00:00,UTC,1745674200,Match Finished,FT,90,Regular Season - 31,161,VfL Wolfsburg,160,SC Freiburg,0,1,AWAY,752.0,Volkswagen Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224249,2025-04-26T13:30:00+00:00,UTC,1745674200,Match Finished,FT,90,Regular Season - 31,167,1899 Hoffenheim,165,Borussia Dortmund,2,3,AWAY,724.0,PreZero Arena,B. Brand
+78,Bundesliga,Germany,2024,1224245,2025-04-26T13:30:00+00:00,UTC,1745674200,Match Finished,FT,90,Regular Season - 31,168,Bayer Leverkusen,170,FC Augsburg,2,0,HOME,699.0,BayArena,C. Dingert
+78,Bundesliga,Germany,2024,1224253,2025-04-26T13:30:00+00:00,UTC,1745674200,Match Finished,FT,90,Regular Season - 31,191,Holstein Kiel,163,Borussia Mönchengladbach,4,3,HOME,725.0,Holstein-Stadion,R. Hartmann
+78,Bundesliga,Germany,2024,1224248,2025-04-26T16:30:00+00:00,UTC,1745685000,Match Finished,FT,90,Regular Season - 31,169,Eintracht Frankfurt,173,RB Leipzig,4,0,HOME,10491.0,Deutsche Bank Park,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224252,2025-04-27T13:30:00+00:00,UTC,1745760600,Match Finished,FT,90,Regular Season - 31,176,VfL Bochum,182,Union Berlin,1,1,DRAW,751.0,Vonovia Ruhrstadion,D. Aytekin
+78,Bundesliga,Germany,2024,1224250,2025-04-27T15:30:00+00:00,UTC,1745767800,Match Finished,FT,90,Regular Season - 31,162,Werder Bremen,186,FC St. Pauli,0,0,DRAW,,Weserstadion,T. Reichel
+78,Bundesliga,Germany,2024,1224256,2025-05-02T18:30:00+00:00,UTC,1746210600,Match Finished,FT,90,Regular Season - 32,180,1. FC Heidenheim,176,VfL Bochum,0,0,DRAW,723.0,Voith-Arena,S. Stegemann
+78,Bundesliga,Germany,2024,1224260,2025-05-03T13:30:00+00:00,UTC,1746279000,Match Finished,FT,90,Regular Season - 32,163,Borussia Mönchengladbach,167,1899 Hoffenheim,4,4,DRAW,20471.0,BORUSSIA-PARK,F. Willenborg
+78,Bundesliga,Germany,2024,1224254,2025-05-03T13:30:00+00:00,UTC,1746279000,Match Finished,FT,90,Regular Season - 32,173,RB Leipzig,157,Bayern München,3,3,DRAW,738.0,Red Bull Arena,F. Zwayer
+78,Bundesliga,Germany,2024,1224261,2025-05-03T13:30:00+00:00,UTC,1746279000,Match Finished,FT,90,Regular Season - 32,182,Union Berlin,162,Werder Bremen,2,2,DRAW,748.0,Stadion An der Alten Försterei,S. Storks
+78,Bundesliga,Germany,2024,1224262,2025-05-03T13:30:00+00:00,UTC,1746279000,Match Finished,FT,90,Regular Season - 32,186,FC St. Pauli,172,VfB Stuttgart,0,1,AWAY,745.0,Millerntor-Stadion,F. Exner
+78,Bundesliga,Germany,2024,1224255,2025-05-03T16:30:00+00:00,UTC,1746289800,Match Finished,FT,90,Regular Season - 32,165,Borussia Dortmund,161,VfL Wolfsburg,4,0,HOME,19381.0,SIGNAL IDUNA PARK,F. Brych
+78,Bundesliga,Germany,2024,1224258,2025-05-04T13:30:00+00:00,UTC,1746365400,Match Finished,FT,90,Regular Season - 32,170,FC Augsburg,191,Holstein Kiel,1,3,AWAY,698.0,WWK Arena,H. Osmers
+78,Bundesliga,Germany,2024,1224257,2025-05-04T15:30:00+00:00,UTC,1746372600,Match Finished,FT,90,Regular Season - 32,160,SC Freiburg,168,Bayer Leverkusen,2,2,DRAW,12717.0,Europa-Park Stadion,D. Siebert
+78,Bundesliga,Germany,2024,1224259,2025-05-04T17:30:00+00:00,UTC,1746379800,Match Finished,FT,90,Regular Season - 32,164,FSV Mainz 05,169,Eintracht Frankfurt,1,1,DRAW,11899.0,MEWA ARENA,M. Petersen
+78,Bundesliga,Germany,2024,1224268,2025-05-09T18:30:00+00:00,UTC,1746815400,Match Finished,FT,90,Regular Season - 33,161,VfL Wolfsburg,167,1899 Hoffenheim,2,2,DRAW,752.0,Volkswagen Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2024,1224267,2025-05-10T13:30:00+00:00,UTC,1746883800,Match Finished,FT,90,Regular Season - 33,162,Werder Bremen,173,RB Leipzig,0,0,DRAW,,Weserstadion,B. Dankert
+78,Bundesliga,Germany,2024,1224270,2025-05-10T13:30:00+00:00,UTC,1746883800,Match Finished,FT,90,Regular Season - 33,176,VfL Bochum,164,FSV Mainz 05,1,4,AWAY,751.0,Vonovia Ruhrstadion,T. Stieler
+78,Bundesliga,Germany,2024,1224269,2025-05-10T13:30:00+00:00,UTC,1746883800,Match Finished,FT,90,Regular Season - 33,182,Union Berlin,180,1. FC Heidenheim,0,3,AWAY,748.0,Stadion An der Alten Försterei,F. Badstübner
+78,Bundesliga,Germany,2024,1224271,2025-05-10T13:30:00+00:00,UTC,1746883800,Match Finished,FT,90,Regular Season - 33,191,Holstein Kiel,160,SC Freiburg,1,2,AWAY,725.0,Holstein-Stadion,R. Schröder
+78,Bundesliga,Germany,2024,1224265,2025-05-10T16:30:00+00:00,UTC,1746894600,Match Finished,FT,90,Regular Season - 33,157,Bayern München,163,Borussia Mönchengladbach,2,0,HOME,700.0,Allianz Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1224263,2025-05-11T13:30:00+00:00,UTC,1746970200,Match Finished,FT,90,Regular Season - 33,168,Bayer Leverkusen,165,Borussia Dortmund,2,4,AWAY,699.0,BayArena,D. Aytekin
+78,Bundesliga,Germany,2024,1224266,2025-05-11T15:30:00+00:00,UTC,1746977400,Match Finished,FT,90,Regular Season - 33,169,Eintracht Frankfurt,186,FC St. Pauli,2,2,DRAW,10491.0,Deutsche Bank Park,C. Dingert
+78,Bundesliga,Germany,2024,1224264,2025-05-11T17:30:00+00:00,UTC,1746984600,Match Finished,FT,90,Regular Season - 33,172,VfB Stuttgart,170,FC Augsburg,4,0,HOME,20473.0,MHPArena,T. Gerach
+78,Bundesliga,Germany,2024,1224276,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,160,SC Freiburg,169,Eintracht Frankfurt,1,3,AWAY,12717.0,Europa-Park Stadion,B. Brand
+78,Bundesliga,Germany,2024,1224279,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,163,Borussia Mönchengladbach,161,VfL Wolfsburg,0,1,AWAY,20471.0,BORUSSIA-PARK,S. Stegemann
+78,Bundesliga,Germany,2024,1224278,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,164,FSV Mainz 05,168,Bayer Leverkusen,2,2,DRAW,11899.0,MEWA ARENA,T. Reichel
+78,Bundesliga,Germany,2024,1224273,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,165,Borussia Dortmund,191,Holstein Kiel,3,0,HOME,19381.0,SIGNAL IDUNA PARK,H. Osmers
+78,Bundesliga,Germany,2024,1224274,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,167,1899 Hoffenheim,157,Bayern München,0,4,AWAY,724.0,PreZero Arena,D. Schlager
+78,Bundesliga,Germany,2024,1224277,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,170,FC Augsburg,182,Union Berlin,1,2,AWAY,698.0,WWK Arena,F. Brych
+78,Bundesliga,Germany,2024,1224272,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,173,RB Leipzig,172,VfB Stuttgart,2,3,AWAY,738.0,Red Bull Arena,D. Siebert
+78,Bundesliga,Germany,2024,1224275,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,180,1. FC Heidenheim,162,Werder Bremen,1,4,AWAY,723.0,Voith-Arena,T. Welz
+78,Bundesliga,Germany,2024,1224280,2025-05-17T13:30:00+00:00,UTC,1747488600,Match Finished,FT,90,Regular Season - 34,186,FC St. Pauli,176,VfL Bochum,0,2,AWAY,745.0,Millerntor-Stadion,F. Zwayer
+78,Bundesliga,Germany,2024,1375862,2025-05-22T18:30:00+00:00,UTC,1747938600,Match Finished,FT,90,Relegation Round,180,1. FC Heidenheim,1660,SV Elversberg,2,2,DRAW,723.0,Voith-Arena,S. Jablonski
+78,Bundesliga,Germany,2024,1375863,2025-05-26T18:30:00+00:00,UTC,1748284200,Match Finished,FT,90,Relegation Round,1660,SV Elversberg,180,1. FC Heidenheim,1,2,AWAY,710.0,URSAPHARM-Arena an der Kaiserlinde,S. Stegemann

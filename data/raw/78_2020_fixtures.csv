@@ -1,0 +1,309 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+78,Bundesliga,Germany,2020,587176,2020-09-18T18:30:00+00:00,UTC,1600453800,Match Finished,FT,90,Regular Season - 1,157,Bayern Munich,174,FC Schalke 04,8,0,HOME,700,Allianz Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587183,2020-09-19T13:30:00+00:00,UTC,1600522200,Match Finished,FT,90,Regular Season - 1,162,Werder Bremen,159,Hertha Berlin,1,4,AWAY,755,wohninvest WESERSTADION,S. Stegemann
+78,Bundesliga,Germany,2020,587180,2020-09-19T13:30:00+00:00,UTC,1600522200,Match Finished,FT,90,Regular Season - 1,169,Eintracht Frankfurt,188,Arminia Bielefeld,1,1,DRAW,10491,Deutsche Bank Park,B. Brand
+78,Bundesliga,Germany,2020,587184,2020-09-19T13:30:00+00:00,UTC,1600522200,Match Finished,FT,90,Regular Season - 1,172,VfB Stuttgart,160,SC Freiburg,2,3,AWAY,750,Mercedes-Benz-Arena,B. Cortus
+78,Bundesliga,Germany,2020,587181,2020-09-19T13:30:00+00:00,UTC,1600522200,Match Finished,FT,90,Regular Season - 1,182,Union Berlin,170,FC Augsburg,1,3,AWAY,748,Stadion An der Alten Försterei,M. Fritz
+78,Bundesliga,Germany,2020,587182,2020-09-19T13:30:00+00:00,UTC,1600522200,Match Finished,FT,90,Regular Season - 1,192,1. FC Köln,167,1899 Hoffenheim,2,3,AWAY,731,RheinEnergieStadion,D. Siebert
+78,Bundesliga,Germany,2020,587177,2020-09-19T16:30:00+00:00,UTC,1600533000,Match Finished,FT,90,Regular Season - 1,165,Borussia Dortmund,163,Borussia Monchengladbach,3,0,HOME,702,Signal-Iduna-Park,F. Brych
+78,Bundesliga,Germany,2020,587178,2020-09-20T13:30:00+00:00,UTC,1600608600,Match Finished,FT,90,Regular Season - 1,173,RB Leipzig,164,FSV Mainz 05,3,1,HOME,738,Red Bull Arena,M. Gräfe
+78,Bundesliga,Germany,2020,587179,2020-09-20T16:00:00+00:00,UTC,1600617600,Match Finished,FT,90,Regular Season - 1,161,VfL Wolfsburg,168,Bayer Leverkusen,0,0,DRAW,752,VOLKSWAGEN ARENA,S. Jablonski
+78,Bundesliga,Germany,2020,587189,2020-09-25T18:30:00+00:00,UTC,1601058600,Match Finished,FT,90,Regular Season - 2,159,Hertha Berlin,169,Eintracht Frankfurt,1,3,AWAY,694,Olympiastadion Berlin,B. Dankert
+78,Bundesliga,Germany,2020,587185,2020-09-26T13:30:00+00:00,UTC,1601127000,Match Finished,FT,90,Regular Season - 2,163,Borussia Monchengladbach,182,Union Berlin,1,1,DRAW,703,Stadion im BORUSSIA-PARK,T. Stieler
+78,Bundesliga,Germany,2020,587191,2020-09-26T13:30:00+00:00,UTC,1601127000,Match Finished,FT,90,Regular Season - 2,164,FSV Mainz 05,172,VfB Stuttgart,1,4,AWAY,717,OPEL ARENA,D. Schlager
+78,Bundesliga,Germany,2020,587186,2020-09-26T13:30:00+00:00,UTC,1601127000,Match Finished,FT,90,Regular Season - 2,168,Bayer Leverkusen,173,RB Leipzig,1,1,DRAW,699,BayArena,H. Osmers
+78,Bundesliga,Germany,2020,587192,2020-09-26T13:30:00+00:00,UTC,1601127000,Match Finished,FT,90,Regular Season - 2,170,FC Augsburg,165,Borussia Dortmund,2,0,HOME,698,WWK Arena,M. Petersen
+78,Bundesliga,Germany,2020,587193,2020-09-26T13:30:00+00:00,UTC,1601127000,Match Finished,FT,90,Regular Season - 2,188,Arminia Bielefeld,192,1. FC Köln,1,0,HOME,697,SchücoArena,P. Ittrich
+78,Bundesliga,Germany,2020,587190,2020-09-26T16:30:00+00:00,UTC,1601137800,Match Finished,FT,90,Regular Season - 2,174,FC Schalke 04,162,Werder Bremen,1,3,AWAY,741,VELTINS-Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587187,2020-09-27T13:30:00+00:00,UTC,1601213400,Match Finished,FT,90,Regular Season - 2,167,1899 Hoffenheim,157,Bayern Munich,4,1,HOME,724,PreZero Arena,B. Brand
+78,Bundesliga,Germany,2020,587188,2020-09-27T16:00:00+00:00,UTC,1601222400,Match Finished,FT,90,Regular Season - 2,160,SC Freiburg,161,VfL Wolfsburg,1,1,DRAW,716,Schwarzwald-Stadion,S. Storks
+78,Bundesliga,Germany,2020,587199,2020-10-02T18:30:00+00:00,UTC,1601663400,Match Finished,FT,90,Regular Season - 3,182,Union Berlin,164,FSV Mainz 05,4,0,HOME,748,Stadion An der Alten Försterei,S. Stegemann
+78,Bundesliga,Germany,2020,587201,2020-10-03T13:30:00+00:00,UTC,1601731800,Match Finished,FT,90,Regular Season - 3,162,Werder Bremen,188,Arminia Bielefeld,1,0,HOME,755,wohninvest WESERSTADION,R. Schröder
+78,Bundesliga,Germany,2020,587195,2020-10-03T13:30:00+00:00,UTC,1601731800,Match Finished,FT,90,Regular Season - 3,165,Borussia Dortmund,160,SC Freiburg,4,0,HOME,702,Signal-Iduna-Park,G. Winkmann
+78,Bundesliga,Germany,2020,587198,2020-10-03T13:30:00+00:00,UTC,1601731800,Match Finished,FT,90,Regular Season - 3,169,Eintracht Frankfurt,167,1899 Hoffenheim,2,1,HOME,10491,Deutsche Bank Park,M. Gräfe
+78,Bundesliga,Germany,2020,587202,2020-10-03T13:30:00+00:00,UTC,1601731800,Match Finished,FT,90,Regular Season - 3,172,VfB Stuttgart,168,Bayer Leverkusen,1,1,DRAW,750,Mercedes-Benz-Arena,R. Hartmann
+78,Bundesliga,Germany,2020,587200,2020-10-03T13:30:00+00:00,UTC,1601731800,Match Finished,FT,90,Regular Season - 3,192,1. FC Köln,163,Borussia Monchengladbach,1,3,AWAY,731,RheinEnergieStadion,M. Fritz
+78,Bundesliga,Germany,2020,587196,2020-10-03T16:30:00+00:00,UTC,1601742600,Match Finished,FT,90,Regular Season - 3,173,RB Leipzig,174,FC Schalke 04,4,0,HOME,738,Red Bull Arena,F. Badstübner
+78,Bundesliga,Germany,2020,587197,2020-10-04T13:30:00+00:00,UTC,1601818200,Match Finished,FT,90,Regular Season - 3,161,VfL Wolfsburg,170,FC Augsburg,0,0,DRAW,752,VOLKSWAGEN ARENA,F. Zwayer
+78,Bundesliga,Germany,2020,587194,2020-10-04T16:00:00+00:00,UTC,1601827200,Match Finished,FT,90,Regular Season - 3,157,Bayern Munich,159,Hertha Berlin,4,3,HOME,700,Allianz Arena,B. Cortus
+78,Bundesliga,Germany,2020,587206,2020-10-17T13:30:00+00:00,UTC,1602941400,Match Finished,FT,90,Regular Season - 4,159,Hertha Berlin,172,VfB Stuttgart,0,2,AWAY,694,Olympiastadion Berlin,H. Osmers
+78,Bundesliga,Germany,2020,587205,2020-10-17T13:30:00+00:00,UTC,1602941400,Match Finished,FT,90,Regular Season - 4,160,SC Freiburg,162,Werder Bremen,1,1,DRAW,716,Schwarzwald-Stadion,C. Dingert
+78,Bundesliga,Germany,2020,587208,2020-10-17T13:30:00+00:00,UTC,1602941400,Match Finished,FT,90,Regular Season - 4,164,FSV Mainz 05,168,Bayer Leverkusen,0,1,AWAY,717,OPEL ARENA,B. Dankert
+78,Bundesliga,Germany,2020,587204,2020-10-17T13:30:00+00:00,UTC,1602941400,Match Finished,FT,90,Regular Season - 4,167,1899 Hoffenheim,165,Borussia Dortmund,0,1,AWAY,724,PreZero Arena,S. Stegemann
+78,Bundesliga,Germany,2020,587210,2020-10-17T13:30:00+00:00,UTC,1602941400,Match Finished,FT,90,Regular Season - 4,170,FC Augsburg,173,RB Leipzig,0,2,AWAY,698,WWK Arena,F. Brych
+78,Bundesliga,Germany,2020,587211,2020-10-17T16:30:00+00:00,UTC,1602952200,Match Finished,FT,90,Regular Season - 4,188,Arminia Bielefeld,157,Bayern Munich,1,4,AWAY,697,SchücoArena,D. Siebert
+78,Bundesliga,Germany,2020,587203,2020-10-17T18:30:00+00:00,UTC,1602959400,Match Finished,FT,90,Regular Season - 4,163,Borussia Monchengladbach,161,VfL Wolfsburg,1,1,DRAW,703,Stadion im BORUSSIA-PARK,D. Schlager
+78,Bundesliga,Germany,2020,587209,2020-10-18T13:30:00+00:00,UTC,1603027800,Match Finished,FT,90,Regular Season - 4,192,1. FC Köln,169,Eintracht Frankfurt,1,1,DRAW,731,RheinEnergieStadion,S. Jablonski
+78,Bundesliga,Germany,2020,587207,2020-10-18T16:00:00+00:00,UTC,1603036800,Match Finished,FT,90,Regular Season - 4,174,FC Schalke 04,182,Union Berlin,1,1,DRAW,741,VELTINS-Arena,P. Ittrich
+78,Bundesliga,Germany,2020,587220,2020-10-23T18:30:00+00:00,UTC,1603477800,Match Finished,FT,90,Regular Season - 5,172,VfB Stuttgart,192,1. FC Köln,1,1,DRAW,750,Mercedes-Benz-Arena,G. Winkmann
+78,Bundesliga,Germany,2020,587212,2020-10-24T13:30:00+00:00,UTC,1603546200,Match Finished,FT,90,Regular Season - 5,157,Bayern Munich,169,Eintracht Frankfurt,5,0,HOME,700,Allianz Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587218,2020-10-24T13:30:00+00:00,UTC,1603546200,Match Finished,FT,90,Regular Season - 5,164,FSV Mainz 05,163,Borussia Monchengladbach,2,3,AWAY,717,OPEL ARENA,F. Willenborg
+78,Bundesliga,Germany,2020,587214,2020-10-24T13:30:00+00:00,UTC,1603546200,Match Finished,FT,90,Regular Season - 5,173,RB Leipzig,159,Hertha Berlin,2,1,HOME,738,Red Bull Arena,T. Stieler
+78,Bundesliga,Germany,2020,587217,2020-10-24T13:30:00+00:00,UTC,1603546200,Match Finished,FT,90,Regular Season - 5,182,Union Berlin,160,SC Freiburg,1,1,DRAW,748,Stadion An der Alten Försterei,R. Schröder
+78,Bundesliga,Germany,2020,587213,2020-10-24T16:30:00+00:00,UTC,1603557000,Match Finished,FT,90,Regular Season - 5,165,Borussia Dortmund,174,FC Schalke 04,3,0,HOME,702,Signal-Iduna-Park,F. Zwayer
+78,Bundesliga,Germany,2020,587216,2020-10-25T14:30:00+00:00,UTC,1603636200,Match Finished,FT,90,Regular Season - 5,161,VfL Wolfsburg,188,Arminia Bielefeld,2,1,HOME,752,VOLKSWAGEN ARENA,M. Gräfe
+78,Bundesliga,Germany,2020,587219,2020-10-25T17:00:00+00:00,UTC,1603645200,Match Finished,FT,90,Regular Season - 5,162,Werder Bremen,167,1899 Hoffenheim,1,1,DRAW,755,wohninvest WESERSTADION,D. Schlager
+78,Bundesliga,Germany,2020,587215,2020-10-26T19:30:00+00:00,UTC,1603740600,Match Finished,FT,90,Regular Season - 5,168,Bayer Leverkusen,170,FC Augsburg,3,1,HOME,699,BayArena,S. Storks
+78,Bundesliga,Germany,2020,587226,2020-10-30T19:30:00+00:00,UTC,1604086200,Match Finished,FT,90,Regular Season - 6,174,FC Schalke 04,172,VfB Stuttgart,1,1,DRAW,741,VELTINS-Arena,B. Brand
+78,Bundesliga,Germany,2020,587224,2020-10-31T14:30:00+00:00,UTC,1604154600,Match Finished,FT,90,Regular Season - 6,169,Eintracht Frankfurt,162,Werder Bremen,1,1,DRAW,10491,Deutsche Bank Park,F. Brych
+78,Bundesliga,Germany,2020,587228,2020-10-31T14:30:00+00:00,UTC,1604154600,Match Finished,FT,90,Regular Season - 6,170,FC Augsburg,164,FSV Mainz 05,3,1,HOME,698,WWK Arena,M. Fritz
+78,Bundesliga,Germany,2020,587229,2020-10-31T14:30:00+00:00,UTC,1604154600,Match Finished,FT,90,Regular Season - 6,188,Arminia Bielefeld,165,Borussia Dortmund,0,2,AWAY,697,SchücoArena,B. Dankert
+78,Bundesliga,Germany,2020,587227,2020-10-31T14:30:00+00:00,UTC,1604154600,Match Finished,FT,90,Regular Season - 6,192,1. FC Köln,157,Bayern Munich,1,2,AWAY,731,RheinEnergieStadion,F. Willenborg
+78,Bundesliga,Germany,2020,587221,2020-10-31T17:30:00+00:00,UTC,1604165400,Match Finished,FT,90,Regular Season - 6,163,Borussia Monchengladbach,173,RB Leipzig,1,0,HOME,703,Stadion im BORUSSIA-PARK,D. Siebert
+78,Bundesliga,Germany,2020,587223,2020-11-01T14:30:00+00:00,UTC,1604241000,Match Finished,FT,90,Regular Season - 6,160,SC Freiburg,168,Bayer Leverkusen,2,4,AWAY,716,Schwarzwald-Stadion,B. Cortus
+78,Bundesliga,Germany,2020,587225,2020-11-01T17:00:00+00:00,UTC,1604250000,Match Finished,FT,90,Regular Season - 6,159,Hertha Berlin,161,VfL Wolfsburg,1,1,DRAW,694,Olympiastadion Berlin,M. Petersen
+78,Bundesliga,Germany,2020,587222,2020-11-02T19:30:00+00:00,UTC,1604345400,Match Finished,FT,90,Regular Season - 6,167,1899 Hoffenheim,182,Union Berlin,1,3,AWAY,724,PreZero Arena,R. Hartmann
+78,Bundesliga,Germany,2020,587237,2020-11-06T19:30:00+00:00,UTC,1604691000,Match Finished,FT,90,Regular Season - 7,162,Werder Bremen,192,1. FC Köln,1,1,DRAW,755,wohninvest WESERSTADION,F. Badstübner
+78,Bundesliga,Germany,2020,587235,2020-11-07T14:30:00+00:00,UTC,1604759400,Match Finished,FT,90,Regular Season - 7,164,FSV Mainz 05,174,FC Schalke 04,2,2,DRAW,717,OPEL ARENA,P. Ittrich
+78,Bundesliga,Germany,2020,587236,2020-11-07T14:30:00+00:00,UTC,1604759400,Match Finished,FT,90,Regular Season - 7,170,FC Augsburg,159,Hertha Berlin,0,3,AWAY,698,WWK Arena,F. Willenborg
+78,Bundesliga,Germany,2020,587238,2020-11-07T14:30:00+00:00,UTC,1604759400,Match Finished,FT,90,Regular Season - 7,172,VfB Stuttgart,169,Eintracht Frankfurt,2,2,DRAW,750,Mercedes-Benz-Arena,S. Stegemann
+78,Bundesliga,Germany,2020,587231,2020-11-07T14:30:00+00:00,UTC,1604759400,Match Finished,FT,90,Regular Season - 7,173,RB Leipzig,160,SC Freiburg,3,0,HOME,738,Red Bull Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587234,2020-11-07T14:30:00+00:00,UTC,1604759400,Match Finished,FT,90,Regular Season - 7,182,Union Berlin,188,Arminia Bielefeld,5,0,HOME,748,Stadion An der Alten Försterei,M. Jöllenbeck
+78,Bundesliga,Germany,2020,587230,2020-11-07T17:30:00+00:00,UTC,1604770200,Match Finished,FT,90,Regular Season - 7,165,Borussia Dortmund,157,Bayern Munich,2,3,AWAY,702,Signal-Iduna-Park,M. Gräfe
+78,Bundesliga,Germany,2020,587233,2020-11-08T14:30:00+00:00,UTC,1604845800,Match Finished,FT,90,Regular Season - 7,161,VfL Wolfsburg,167,1899 Hoffenheim,2,1,HOME,752,VOLKSWAGEN ARENA,S. Jablonski
+78,Bundesliga,Germany,2020,587232,2020-11-08T17:00:00+00:00,UTC,1604854800,Match Finished,FT,90,Regular Season - 7,168,Bayer Leverkusen,163,Borussia Monchengladbach,4,3,HOME,699,BayArena,H. Osmers
+78,Bundesliga,Germany,2020,587239,2020-11-21T14:30:00+00:00,UTC,1605969000,Match Finished,FT,90,Regular Season - 8,157,Bayern Munich,162,Werder Bremen,1,1,DRAW,700,Allianz Arena,G. Winkmann
+78,Bundesliga,Germany,2020,587240,2020-11-21T14:30:00+00:00,UTC,1605969000,Match Finished,FT,90,Regular Season - 8,163,Borussia Monchengladbach,170,FC Augsburg,1,1,DRAW,703,Stadion im BORUSSIA-PARK,M. Schmidt
+78,Bundesliga,Germany,2020,587241,2020-11-21T14:30:00+00:00,UTC,1605969000,Match Finished,FT,90,Regular Season - 8,167,1899 Hoffenheim,172,VfB Stuttgart,3,3,DRAW,724,PreZero Arena,D. Siebert
+78,Bundesliga,Germany,2020,587245,2020-11-21T14:30:00+00:00,UTC,1605969000,Match Finished,FT,90,Regular Season - 8,174,FC Schalke 04,161,VfL Wolfsburg,0,2,AWAY,741,VELTINS-Arena,M. Fritz
+78,Bundesliga,Germany,2020,587247,2020-11-21T14:30:00+00:00,UTC,1605969000,Match Finished,FT,90,Regular Season - 8,188,Arminia Bielefeld,168,Bayer Leverkusen,1,2,AWAY,697,SchücoArena,F. Brych
+78,Bundesliga,Germany,2020,587243,2020-11-21T17:30:00+00:00,UTC,1605979800,Match Finished,FT,90,Regular Season - 8,169,Eintracht Frankfurt,173,RB Leipzig,1,1,DRAW,10491,Deutsche Bank Park,S. Storks
+78,Bundesliga,Germany,2020,587244,2020-11-21T19:30:00+00:00,UTC,1605987000,Match Finished,FT,90,Regular Season - 8,159,Hertha Berlin,165,Borussia Dortmund,2,5,AWAY,694,Olympiastadion Berlin,B. Dankert
+78,Bundesliga,Germany,2020,587242,2020-11-22T14:30:00+00:00,UTC,1606055400,Match Finished,FT,90,Regular Season - 8,160,SC Freiburg,164,FSV Mainz 05,1,3,AWAY,716,Schwarzwald-Stadion,M. Petersen
+78,Bundesliga,Germany,2020,587246,2020-11-22T17:00:00+00:00,UTC,1606064400,Match Finished,FT,90,Regular Season - 8,192,1. FC Köln,182,Union Berlin,1,2,AWAY,731,RheinEnergieStadion,T. Stieler
+78,Bundesliga,Germany,2020,587252,2020-11-27T19:30:00+00:00,UTC,1606505400,Match Finished,FT,90,Regular Season - 9,161,VfL Wolfsburg,162,Werder Bremen,5,3,HOME,752,VOLKSWAGEN ARENA,C. Dingert
+78,Bundesliga,Germany,2020,587248,2020-11-28T14:30:00+00:00,UTC,1606573800,Match Finished,FT,90,Regular Season - 9,165,Borussia Dortmund,192,1. FC Köln,1,2,AWAY,702,Signal-Iduna-Park,B. Brand
+78,Bundesliga,Germany,2020,587255,2020-11-28T14:30:00+00:00,UTC,1606573800,Match Finished,FT,90,Regular Season - 9,170,FC Augsburg,160,SC Freiburg,1,1,DRAW,698,WWK Arena,R. Schröder
+78,Bundesliga,Germany,2020,587256,2020-11-28T14:30:00+00:00,UTC,1606573800,Match Finished,FT,90,Regular Season - 9,172,VfB Stuttgart,157,Bayern Munich,1,3,AWAY,750,Mercedes-Benz-Arena,H. Osmers
+78,Bundesliga,Germany,2020,587249,2020-11-28T14:30:00+00:00,UTC,1606573800,Match Finished,FT,90,Regular Season - 9,173,RB Leipzig,188,Arminia Bielefeld,2,1,HOME,738,Red Bull Arena,R. Hartmann
+78,Bundesliga,Germany,2020,587253,2020-11-28T14:30:00+00:00,UTC,1606573800,Match Finished,FT,90,Regular Season - 9,182,Union Berlin,169,Eintracht Frankfurt,3,3,DRAW,748,Stadion An der Alten Försterei,T. Reichel
+78,Bundesliga,Germany,2020,587250,2020-11-28T17:30:00+00:00,UTC,1606584600,Match Finished,FT,90,Regular Season - 9,163,Borussia Monchengladbach,174,FC Schalke 04,4,1,HOME,703,Stadion im BORUSSIA-PARK,M. Gräfe
+78,Bundesliga,Germany,2020,587251,2020-11-29T14:30:00+00:00,UTC,1606660200,Match Finished,FT,90,Regular Season - 9,168,Bayer Leverkusen,159,Hertha Berlin,0,0,DRAW,699,BayArena,D. Schlager
+78,Bundesliga,Germany,2020,587254,2020-11-29T17:00:00+00:00,UTC,1606669200,Match Finished,FT,90,Regular Season - 9,164,FSV Mainz 05,167,1899 Hoffenheim,1,1,DRAW,717,OPEL ARENA,S. Stegemann
+78,Bundesliga,Germany,2020,587261,2020-12-04T19:30:00+00:00,UTC,1607110200,Match Finished,FT,90,Regular Season - 10,159,Hertha Berlin,182,Union Berlin,3,1,HOME,694,Olympiastadion Berlin,F. Brych
+78,Bundesliga,Germany,2020,587259,2020-12-05T14:30:00+00:00,UTC,1607178600,Match Finished,FT,90,Regular Season - 10,160,SC Freiburg,163,Borussia Monchengladbach,2,2,DRAW,716,Schwarzwald-Stadion,T. Stieler
+78,Bundesliga,Germany,2020,587260,2020-12-05T14:30:00+00:00,UTC,1607178600,Match Finished,FT,90,Regular Season - 10,169,Eintracht Frankfurt,165,Borussia Dortmund,1,1,DRAW,10491,Deutsche Bank Park,G. Winkmann
+78,Bundesliga,Germany,2020,587265,2020-12-05T14:30:00+00:00,UTC,1607178600,Match Finished,FT,90,Regular Season - 10,188,Arminia Bielefeld,164,FSV Mainz 05,2,1,HOME,697,SchücoArena,M. Fritz
+78,Bundesliga,Germany,2020,587263,2020-12-05T14:30:00+00:00,UTC,1607178600,Match Finished,FT,90,Regular Season - 10,192,1. FC Köln,161,VfL Wolfsburg,2,2,DRAW,731,RheinEnergieStadion,S. Jablonski
+78,Bundesliga,Germany,2020,587257,2020-12-05T17:30:00+00:00,UTC,1607189400,Match Finished,FT,90,Regular Season - 10,157,Bayern Munich,173,RB Leipzig,3,3,DRAW,700,Allianz Arena,D. Siebert
+78,Bundesliga,Germany,2020,587264,2020-12-06T14:30:00+00:00,UTC,1607265000,Match Finished,FT,90,Regular Season - 10,162,Werder Bremen,172,VfB Stuttgart,1,2,AWAY,755,wohninvest WESERSTADION,F. Willenborg
+78,Bundesliga,Germany,2020,587262,2020-12-06T17:00:00+00:00,UTC,1607274000,Match Finished,FT,90,Regular Season - 10,174,FC Schalke 04,168,Bayer Leverkusen,0,3,AWAY,741,VELTINS-Arena,B. Cortus
+78,Bundesliga,Germany,2020,587258,2020-12-07T19:30:00+00:00,UTC,1607369400,Match Finished,FT,90,Regular Season - 10,167,1899 Hoffenheim,170,FC Augsburg,3,1,HOME,724,PreZero Arena,F. Badstübner
+78,Bundesliga,Germany,2020,587270,2020-12-11T19:30:00+00:00,UTC,1607715000,Match Finished,FT,90,Regular Season - 11,161,VfL Wolfsburg,169,Eintracht Frankfurt,2,1,HOME,752,VOLKSWAGEN ARENA,M. Schmidt
+78,Bundesliga,Germany,2020,587271,2020-12-12T14:30:00+00:00,UTC,1607783400,Match Finished,FT,90,Regular Season - 11,160,SC Freiburg,188,Arminia Bielefeld,2,0,HOME,716,Schwarzwald-Stadion,H. Osmers
+78,Bundesliga,Germany,2020,587268,2020-12-12T14:30:00+00:00,UTC,1607783400,Match Finished,FT,90,Regular Season - 11,163,Borussia Monchengladbach,159,Hertha Berlin,1,1,DRAW,703,Stadion im BORUSSIA-PARK,R. Hartmann
+78,Bundesliga,Germany,2020,587273,2020-12-12T14:30:00+00:00,UTC,1607783400,Match Finished,FT,90,Regular Season - 11,164,FSV Mainz 05,192,1. FC Köln,0,1,AWAY,717,OPEL ARENA,F. Zwayer
+78,Bundesliga,Germany,2020,587266,2020-12-12T14:30:00+00:00,UTC,1607783400,Match Finished,FT,90,Regular Season - 11,165,Borussia Dortmund,172,VfB Stuttgart,1,5,AWAY,702,Signal-Iduna-Park,C. Dingert
+78,Bundesliga,Germany,2020,587267,2020-12-12T14:30:00+00:00,UTC,1607783400,Match Finished,FT,90,Regular Season - 11,173,RB Leipzig,162,Werder Bremen,2,0,HOME,738,Red Bull Arena,S. Storks
+78,Bundesliga,Germany,2020,587272,2020-12-12T17:30:00+00:00,UTC,1607794200,Match Finished,FT,90,Regular Season - 11,182,Union Berlin,157,Bayern Munich,1,1,DRAW,748,Stadion An der Alten Försterei,B. Dankert
+78,Bundesliga,Germany,2020,587274,2020-12-13T14:30:00+00:00,UTC,1607869800,Match Finished,FT,90,Regular Season - 11,170,FC Augsburg,174,FC Schalke 04,2,2,DRAW,698,WWK Arena,M. Gräfe
+78,Bundesliga,Germany,2020,587269,2020-12-13T17:00:00+00:00,UTC,1607878800,Match Finished,FT,90,Regular Season - 11,168,Bayer Leverkusen,167,1899 Hoffenheim,4,1,HOME,699,BayArena,M. Petersen
+78,Bundesliga,Germany,2020,587277,2020-12-15T17:30:00+00:00,UTC,1608053400,Match Finished,FT,90,Regular Season - 12,169,Eintracht Frankfurt,163,Borussia Monchengladbach,3,3,DRAW,10491,Deutsche Bank Park,B. Cortus
+78,Bundesliga,Germany,2020,587278,2020-12-15T19:30:00+00:00,UTC,1608060600,Match Finished,FT,90,Regular Season - 12,159,Hertha Berlin,164,FSV Mainz 05,0,0,DRAW,694,Olympiastadion Berlin,M. Jöllenbeck
+78,Bundesliga,Germany,2020,587281,2020-12-15T19:30:00+00:00,UTC,1608060600,Match Finished,FT,90,Regular Season - 12,162,Werder Bremen,165,Borussia Dortmund,1,2,AWAY,755,wohninvest WESERSTADION,R. Schröder
+78,Bundesliga,Germany,2020,587283,2020-12-15T19:30:00+00:00,UTC,1608060600,Match Finished,FT,90,Regular Season - 12,172,VfB Stuttgart,182,Union Berlin,2,2,DRAW,750,Mercedes-Benz-Arena,S. Stegemann
+78,Bundesliga,Germany,2020,587279,2020-12-16T17:30:00+00:00,UTC,1608139800,Match Finished,FT,90,Regular Season - 12,174,FC Schalke 04,160,SC Freiburg,0,2,AWAY,741,VELTINS-Arena,S. Jablonski
+78,Bundesliga,Germany,2020,587275,2020-12-16T19:30:00+00:00,UTC,1608147000,Match Finished,FT,90,Regular Season - 12,157,Bayern Munich,161,VfL Wolfsburg,2,1,HOME,700,Allianz Arena,M. Fritz
+78,Bundesliga,Germany,2020,587276,2020-12-16T19:30:00+00:00,UTC,1608147000,Match Finished,FT,90,Regular Season - 12,167,1899 Hoffenheim,173,RB Leipzig,0,1,AWAY,724,PreZero Arena,D. Schlager
+78,Bundesliga,Germany,2020,587282,2020-12-16T19:30:00+00:00,UTC,1608147000,Match Finished,FT,90,Regular Season - 12,188,Arminia Bielefeld,170,FC Augsburg,0,1,AWAY,697,SchücoArena,P. Ittrich
+78,Bundesliga,Germany,2020,587280,2020-12-16T19:30:00+00:00,UTC,1608147000,Match Finished,FT,90,Regular Season - 12,192,1. FC Köln,168,Bayer Leverkusen,0,4,AWAY,731,RheinEnergieStadion,T. Stieler
+78,Bundesliga,Germany,2020,587289,2020-12-18T19:30:00+00:00,UTC,1608319800,Match Finished,FT,90,Regular Season - 13,182,Union Berlin,165,Borussia Dortmund,2,1,HOME,748,Stadion An der Alten Försterei,H. Osmers
+78,Bundesliga,Germany,2020,587285,2020-12-19T14:30:00+00:00,UTC,1608388200,Match Finished,FT,90,Regular Season - 13,163,Borussia Monchengladbach,167,1899 Hoffenheim,1,2,AWAY,703,Stadion im BORUSSIA-PARK,F. Willenborg
+78,Bundesliga,Germany,2020,587291,2020-12-19T14:30:00+00:00,UTC,1608388200,Match Finished,FT,90,Regular Season - 13,164,FSV Mainz 05,162,Werder Bremen,0,1,AWAY,717,OPEL ARENA,G. Winkmann
+78,Bundesliga,Germany,2020,587292,2020-12-19T14:30:00+00:00,UTC,1608388200,Match Finished,FT,90,Regular Season - 13,170,FC Augsburg,169,Eintracht Frankfurt,0,2,AWAY,698,WWK Arena,D. Siebert
+78,Bundesliga,Germany,2020,587284,2020-12-19T14:30:00+00:00,UTC,1608388200,Match Finished,FT,90,Regular Season - 13,173,RB Leipzig,192,1. FC Köln,0,0,DRAW,738,Red Bull Arena,F. Brych
+78,Bundesliga,Germany,2020,587290,2020-12-19T14:30:00+00:00,UTC,1608388200,Match Finished,FT,90,Regular Season - 13,174,FC Schalke 04,188,Arminia Bielefeld,0,1,AWAY,741,VELTINS-Arena,B. Dankert
+78,Bundesliga,Germany,2020,587286,2020-12-19T17:30:00+00:00,UTC,1608399000,Match Finished,FT,90,Regular Season - 13,168,Bayer Leverkusen,157,Bayern Munich,1,2,AWAY,699,BayArena,F. Zwayer
+78,Bundesliga,Germany,2020,587288,2020-12-20T14:30:00+00:00,UTC,1608474600,Match Finished,FT,90,Regular Season - 13,160,SC Freiburg,159,Hertha Berlin,4,1,HOME,716,Schwarzwald-Stadion,T. Reichel
+78,Bundesliga,Germany,2020,587287,2020-12-20T17:00:00+00:00,UTC,1608483600,Match Finished,FT,90,Regular Season - 13,161,VfL Wolfsburg,172,VfB Stuttgart,1,0,HOME,752,VOLKSWAGEN ARENA,F. Badstübner
+78,Bundesliga,Germany,2020,587299,2021-01-02T14:30:00+00:00,UTC,1609597800,Match Finished,FT,90,Regular Season - 14,162,Werder Bremen,182,Union Berlin,0,2,AWAY,755,wohninvest WESERSTADION,T. Stieler
+78,Bundesliga,Germany,2020,587295,2021-01-02T14:30:00+00:00,UTC,1609597800,Match Finished,FT,90,Regular Season - 14,167,1899 Hoffenheim,160,SC Freiburg,1,3,AWAY,724,PreZero Arena,R. Hartmann
+78,Bundesliga,Germany,2020,587296,2021-01-02T14:30:00+00:00,UTC,1609597800,Match Finished,FT,90,Regular Season - 14,169,Eintracht Frankfurt,168,Bayer Leverkusen,2,1,HOME,10491,Deutsche Bank Park,F. Brych
+78,Bundesliga,Germany,2020,587300,2021-01-02T14:30:00+00:00,UTC,1609597800,Match Finished,FT,90,Regular Season - 14,188,Arminia Bielefeld,163,Borussia Monchengladbach,0,1,AWAY,697,SchücoArena,S. Stegemann
+78,Bundesliga,Germany,2020,587298,2021-01-02T14:30:00+00:00,UTC,1609597800,Match Finished,FT,90,Regular Season - 14,192,1. FC Köln,170,FC Augsburg,0,1,AWAY,731,RheinEnergieStadion,S. Storks
+78,Bundesliga,Germany,2020,587297,2021-01-02T17:30:00+00:00,UTC,1609608600,Match Finished,FT,90,Regular Season - 14,159,Hertha Berlin,174,FC Schalke 04,3,0,HOME,694,Olympiastadion Berlin,S. Jablonski
+78,Bundesliga,Germany,2020,587301,2021-01-02T19:30:00+00:00,UTC,1609615800,Match Finished,FT,90,Regular Season - 14,172,VfB Stuttgart,173,RB Leipzig,0,1,AWAY,750,Mercedes-Benz-Arena,C. Dingert
+78,Bundesliga,Germany,2020,587294,2021-01-03T14:30:00+00:00,UTC,1609684200,Match Finished,FT,90,Regular Season - 14,165,Borussia Dortmund,161,VfL Wolfsburg,2,0,HOME,702,Signal-Iduna-Park,M. Gräfe
+78,Bundesliga,Germany,2020,587293,2021-01-03T17:00:00+00:00,UTC,1609693200,Match Finished,FT,90,Regular Season - 14,157,Bayern Munich,164,FSV Mainz 05,5,2,HOME,700,Allianz Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587303,2021-01-08T19:30:00+00:00,UTC,1610134200,Match Finished,FT,90,Regular Season - 15,163,Borussia Monchengladbach,157,Bayern Munich,3,2,HOME,703,Stadion im BORUSSIA-PARK,H. Osmers
+78,Bundesliga,Germany,2020,587305,2021-01-09T14:30:00+00:00,UTC,1610202600,Match Finished,FT,90,Regular Season - 15,160,SC Freiburg,192,1. FC Köln,5,0,HOME,716,Schwarzwald-Stadion,R. Schröder
+78,Bundesliga,Germany,2020,587308,2021-01-09T14:30:00+00:00,UTC,1610202600,Match Finished,FT,90,Regular Season - 15,164,FSV Mainz 05,169,Eintracht Frankfurt,0,2,AWAY,717,OPEL ARENA,B. Dankert
+78,Bundesliga,Germany,2020,587304,2021-01-09T14:30:00+00:00,UTC,1610202600,Match Finished,FT,90,Regular Season - 15,168,Bayer Leverkusen,162,Werder Bremen,1,1,DRAW,699,BayArena,B. Cortus
+78,Bundesliga,Germany,2020,587307,2021-01-09T14:30:00+00:00,UTC,1610202600,Match Finished,FT,90,Regular Season - 15,174,FC Schalke 04,167,1899 Hoffenheim,4,0,HOME,741,VELTINS-Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587306,2021-01-09T14:30:00+00:00,UTC,1610202600,Match Finished,FT,90,Regular Season - 15,182,Union Berlin,161,VfL Wolfsburg,2,2,DRAW,748,Stadion An der Alten Försterei,P. Ittrich
+78,Bundesliga,Germany,2020,587302,2021-01-09T17:30:00+00:00,UTC,1610213400,Match Finished,FT,90,Regular Season - 15,173,RB Leipzig,165,Borussia Dortmund,1,3,AWAY,738,Red Bull Arena,D. Siebert
+78,Bundesliga,Germany,2020,587309,2021-01-10T14:30:00+00:00,UTC,1610289000,Match Finished,FT,90,Regular Season - 15,170,FC Augsburg,172,VfB Stuttgart,1,4,AWAY,698,WWK Arena,D. Schlager
+78,Bundesliga,Germany,2020,587310,2021-01-10T17:00:00+00:00,UTC,1610298000,Match Finished,FT,90,Regular Season - 15,188,Arminia Bielefeld,159,Hertha Berlin,1,0,HOME,697,SchücoArena,G. Winkmann
+78,Bundesliga,Germany,2020,587316,2021-01-15T19:30:00+00:00,UTC,1610739000,Match Finished,FT,90,Regular Season - 16,182,Union Berlin,168,Bayer Leverkusen,1,0,HOME,748,Stadion An der Alten Försterei,F. Badstübner
+78,Bundesliga,Germany,2020,587314,2021-01-16T14:30:00+00:00,UTC,1610807400,Match Finished,FT,90,Regular Season - 16,161,VfL Wolfsburg,173,RB Leipzig,2,2,DRAW,752,VOLKSWAGEN ARENA,T. Stieler
+78,Bundesliga,Germany,2020,587318,2021-01-16T14:30:00+00:00,UTC,1610807400,Match Finished,FT,90,Regular Season - 16,162,Werder Bremen,170,FC Augsburg,2,0,HOME,755,wohninvest WESERSTADION,S. Stegemann
+78,Bundesliga,Germany,2020,587312,2021-01-16T14:30:00+00:00,UTC,1610807400,Match Finished,FT,90,Regular Season - 16,165,Borussia Dortmund,164,FSV Mainz 05,1,1,DRAW,702,Signal-Iduna-Park,S. Jablonski
+78,Bundesliga,Germany,2020,587313,2021-01-16T14:30:00+00:00,UTC,1610807400,Match Finished,FT,90,Regular Season - 16,167,1899 Hoffenheim,188,Arminia Bielefeld,0,0,DRAW,724,PreZero Arena,M. Fritz
+78,Bundesliga,Germany,2020,587317,2021-01-16T14:30:00+00:00,UTC,1610807400,Match Finished,FT,90,Regular Season - 16,192,1. FC Köln,159,Hertha Berlin,0,0,DRAW,731,RheinEnergieStadion,F. Willenborg
+78,Bundesliga,Germany,2020,587319,2021-01-16T17:30:00+00:00,UTC,1610818200,Match Finished,FT,90,Regular Season - 16,172,VfB Stuttgart,163,Borussia Monchengladbach,2,2,DRAW,750,Mercedes-Benz-Arena,F. Brych
+78,Bundesliga,Germany,2020,587311,2021-01-17T14:30:00+00:00,UTC,1610893800,Match Finished,FT,90,Regular Season - 16,157,Bayern Munich,160,SC Freiburg,2,1,HOME,700,Allianz Arena,C. Dingert
+78,Bundesliga,Germany,2020,587315,2021-01-17T17:00:00+00:00,UTC,1610902800,Match Finished,FT,90,Regular Season - 16,169,Eintracht Frankfurt,174,FC Schalke 04,3,1,HOME,10491,Deutsche Bank Park,M. Gräfe
+78,Bundesliga,Germany,2020,587321,2021-01-19T17:30:00+00:00,UTC,1611077400,Match Finished,FT,90,Regular Season - 17,163,Borussia Monchengladbach,162,Werder Bremen,1,0,HOME,703,Stadion im BORUSSIA-PARK,M. Petersen
+78,Bundesliga,Germany,2020,587324,2021-01-19T19:30:00+00:00,UTC,1611084600,Match Finished,FT,90,Regular Season - 17,159,Hertha Berlin,167,1899 Hoffenheim,0,3,AWAY,694,Olympiastadion Berlin,H. Osmers
+78,Bundesliga,Germany,2020,587326,2021-01-19T19:30:00+00:00,UTC,1611084600,Match Finished,FT,90,Regular Season - 17,164,FSV Mainz 05,161,VfL Wolfsburg,0,2,AWAY,717,OPEL ARENA,S. Storks
+78,Bundesliga,Germany,2020,587322,2021-01-19T19:30:00+00:00,UTC,1611084600,Match Finished,FT,90,Regular Season - 17,168,Bayer Leverkusen,165,Borussia Dortmund,2,1,HOME,699,BayArena,F. Zwayer
+78,Bundesliga,Germany,2020,587325,2021-01-20T17:30:00+00:00,UTC,1611163800,Match Finished,FT,90,Regular Season - 17,174,FC Schalke 04,192,1. FC Köln,1,2,AWAY,741,VELTINS-Arena,D. Siebert
+78,Bundesliga,Germany,2020,587323,2021-01-20T19:30:00+00:00,UTC,1611171000,Match Finished,FT,90,Regular Season - 17,160,SC Freiburg,169,Eintracht Frankfurt,2,2,DRAW,716,Schwarzwald-Stadion,G. Winkmann
+78,Bundesliga,Germany,2020,587327,2021-01-20T19:30:00+00:00,UTC,1611171000,Match Finished,FT,90,Regular Season - 17,170,FC Augsburg,157,Bayern Munich,0,1,AWAY,698,WWK Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2020,587320,2021-01-20T19:30:00+00:00,UTC,1611171000,Match Finished,FT,90,Regular Season - 17,173,RB Leipzig,182,Union Berlin,1,0,HOME,738,Red Bull Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587328,2021-01-20T19:30:00+00:00,UTC,1611171000,Match Finished,FT,90,Regular Season - 17,188,Arminia Bielefeld,172,VfB Stuttgart,3,0,HOME,697,SchücoArena,R. Hartmann
+78,Bundesliga,Germany,2020,587329,2021-01-22T19:30:00+00:00,UTC,1611343800,Match Finished,FT,90,Regular Season - 18,163,Borussia Monchengladbach,165,Borussia Dortmund,4,2,HOME,703,Stadion im BORUSSIA-PARK,M. Gräfe
+78,Bundesliga,Germany,2020,587332,2021-01-23T14:30:00+00:00,UTC,1611412200,Match Finished,FT,90,Regular Season - 18,160,SC Freiburg,172,VfB Stuttgart,2,1,HOME,716,Schwarzwald-Stadion,T. Stieler
+78,Bundesliga,Germany,2020,587335,2021-01-23T14:30:00+00:00,UTC,1611412200,Match Finished,FT,90,Regular Season - 18,164,FSV Mainz 05,173,RB Leipzig,3,2,HOME,717,OPEL ARENA,C. Dingert
+78,Bundesliga,Germany,2020,587330,2021-01-23T14:30:00+00:00,UTC,1611412200,Match Finished,FT,90,Regular Season - 18,168,Bayer Leverkusen,161,VfL Wolfsburg,0,1,AWAY,699,BayArena,M. Fritz
+78,Bundesliga,Germany,2020,587336,2021-01-23T14:30:00+00:00,UTC,1611412200,Match Finished,FT,90,Regular Season - 18,170,FC Augsburg,182,Union Berlin,2,1,HOME,698,WWK Arena,F. Brych
+78,Bundesliga,Germany,2020,587337,2021-01-23T14:30:00+00:00,UTC,1611412200,Match Finished,FT,90,Regular Season - 18,188,Arminia Bielefeld,169,Eintracht Frankfurt,1,5,AWAY,697,SchücoArena,R. Schröder
+78,Bundesliga,Germany,2020,587333,2021-01-23T17:30:00+00:00,UTC,1611423000,Match Finished,FT,90,Regular Season - 18,159,Hertha Berlin,162,Werder Bremen,1,4,AWAY,694,Olympiastadion Berlin,D. Schlager
+78,Bundesliga,Germany,2020,587334,2021-01-24T14:30:00+00:00,UTC,1611498600,Match Finished,FT,90,Regular Season - 18,174,FC Schalke 04,157,Bayern Munich,0,4,AWAY,741,VELTINS-Arena,S. Stegemann
+78,Bundesliga,Germany,2020,587331,2021-01-24T17:00:00+00:00,UTC,1611507600,Match Finished,FT,90,Regular Season - 18,167,1899 Hoffenheim,192,1. FC Köln,3,0,HOME,724,PreZero Arena,S. Jablonski
+78,Bundesliga,Germany,2020,587346,2021-01-29T19:30:00+00:00,UTC,1611948600,Match Finished,FT,90,Regular Season - 19,172,VfB Stuttgart,164,FSV Mainz 05,2,0,HOME,750,Mercedes-Benz-Arena,F. Willenborg
+78,Bundesliga,Germany,2020,587338,2021-01-30T14:30:00+00:00,UTC,1612017000,Match Finished,FT,90,Regular Season - 19,157,Bayern Munich,167,1899 Hoffenheim,4,1,HOME,700,Allianz Arena,B. Cortus
+78,Bundesliga,Germany,2020,587345,2021-01-30T14:30:00+00:00,UTC,1612017000,Match Finished,FT,90,Regular Season - 19,162,Werder Bremen,174,FC Schalke 04,1,1,DRAW,755,wohninvest WESERSTADION,S. Storks
+78,Bundesliga,Germany,2020,587339,2021-01-30T14:30:00+00:00,UTC,1612017000,Match Finished,FT,90,Regular Season - 19,165,Borussia Dortmund,170,FC Augsburg,3,1,HOME,702,Signal-Iduna-Park,P. Ittrich
+78,Bundesliga,Germany,2020,587342,2021-01-30T14:30:00+00:00,UTC,1612017000,Match Finished,FT,90,Regular Season - 19,169,Eintracht Frankfurt,159,Hertha Berlin,3,1,HOME,10491,Deutsche Bank Park,F. Badstübner
+78,Bundesliga,Germany,2020,587343,2021-01-30T14:30:00+00:00,UTC,1612017000,Match Finished,FT,90,Regular Season - 19,182,Union Berlin,163,Borussia Monchengladbach,1,1,DRAW,748,Stadion An der Alten Försterei,B. Dankert
+78,Bundesliga,Germany,2020,587340,2021-01-30T17:30:00+00:00,UTC,1612027800,Match Finished,FT,90,Regular Season - 19,173,RB Leipzig,168,Bayer Leverkusen,1,0,HOME,738,Red Bull Arena,H. Osmers
+78,Bundesliga,Germany,2020,587344,2021-01-31T14:30:00+00:00,UTC,1612103400,Match Finished,FT,90,Regular Season - 19,192,1. FC Köln,188,Arminia Bielefeld,3,1,HOME,731,RheinEnergieStadion,F. Zwayer
+78,Bundesliga,Germany,2020,587341,2021-01-31T17:00:00+00:00,UTC,1612112400,Match Finished,FT,90,Regular Season - 19,161,VfL Wolfsburg,160,SC Freiburg,3,0,HOME,752,VOLKSWAGEN ARENA,T. Reichel
+78,Bundesliga,Germany,2020,587351,2021-02-05T19:00:00+00:00,UTC,1612551600,Match Finished,FT,90,Regular Season - 20,159,Hertha Berlin,157,Bayern Munich,0,1,AWAY,694,Olympiastadion Berlin,R. Schröder
+78,Bundesliga,Germany,2020,587350,2021-02-06T14:30:00+00:00,UTC,1612621800,Match Finished,FT,90,Regular Season - 20,160,SC Freiburg,165,Borussia Dortmund,2,1,HOME,716,Schwarzwald-Stadion,F. Brych
+78,Bundesliga,Germany,2020,587353,2021-02-06T14:30:00+00:00,UTC,1612621800,Match Finished,FT,90,Regular Season - 20,164,FSV Mainz 05,182,Union Berlin,1,0,HOME,717,OPEL ARENA,S. Stegemann
+78,Bundesliga,Germany,2020,587348,2021-02-06T14:30:00+00:00,UTC,1612621800,Match Finished,FT,90,Regular Season - 20,168,Bayer Leverkusen,172,VfB Stuttgart,5,2,HOME,699,BayArena,S. Jablonski
+78,Bundesliga,Germany,2020,587354,2021-02-06T14:30:00+00:00,UTC,1612621800,Match Finished,FT,90,Regular Season - 20,170,FC Augsburg,161,VfL Wolfsburg,0,2,AWAY,698,WWK Arena,R. Hartmann
+78,Bundesliga,Germany,2020,587352,2021-02-06T14:30:00+00:00,UTC,1612621800,Match Finished,FT,90,Regular Season - 20,174,FC Schalke 04,173,RB Leipzig,0,3,AWAY,741,VELTINS-Arena,M. Petersen
+78,Bundesliga,Germany,2020,587347,2021-02-06T17:30:00+00:00,UTC,1612632600,Match Finished,FT,90,Regular Season - 20,163,Borussia Monchengladbach,192,1. FC Köln,1,2,AWAY,703,Stadion im BORUSSIA-PARK,C. Dingert
+78,Bundesliga,Germany,2020,587349,2021-02-07T14:30:00+00:00,UTC,1612708200,Match Finished,FT,90,Regular Season - 20,167,1899 Hoffenheim,169,Eintracht Frankfurt,1,3,AWAY,724,PreZero Arena,D. Siebert
+78,Bundesliga,Germany,2020,587358,2021-02-12T19:30:00+00:00,UTC,1613158200,Match Finished,FT,90,Regular Season - 21,173,RB Leipzig,170,FC Augsburg,2,1,HOME,738,Red Bull Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587363,2021-02-13T14:30:00+00:00,UTC,1613226600,Match Finished,FT,90,Regular Season - 21,162,Werder Bremen,160,SC Freiburg,0,0,DRAW,755,wohninvest WESERSTADION,M. Gräfe
+78,Bundesliga,Germany,2020,587357,2021-02-13T14:30:00+00:00,UTC,1613226600,Match Finished,FT,90,Regular Season - 21,165,Borussia Dortmund,167,1899 Hoffenheim,2,2,DRAW,702,Signal-Iduna-Park,B. Dankert
+78,Bundesliga,Germany,2020,587359,2021-02-13T14:30:00+00:00,UTC,1613226600,Match Finished,FT,90,Regular Season - 21,168,Bayer Leverkusen,164,FSV Mainz 05,2,2,DRAW,699,BayArena,G. Winkmann
+78,Bundesliga,Germany,2020,587364,2021-02-13T14:30:00+00:00,UTC,1613226600,Match Finished,FT,90,Regular Season - 21,172,VfB Stuttgart,159,Hertha Berlin,1,1,DRAW,750,Mercedes-Benz-Arena,H. Osmers
+78,Bundesliga,Germany,2020,587362,2021-02-13T17:30:00+00:00,UTC,1613237400,Match Finished,FT,90,Regular Season - 21,182,Union Berlin,174,FC Schalke 04,0,0,DRAW,748,Stadion An der Alten Försterei,D. Schlager
+78,Bundesliga,Germany,2020,587361,2021-02-14T14:30:00+00:00,UTC,1613313000,Match Finished,FT,90,Regular Season - 21,169,Eintracht Frankfurt,192,1. FC Köln,2,0,HOME,10491,Deutsche Bank Park,F. Willenborg
+78,Bundesliga,Germany,2020,587360,2021-02-14T17:00:00+00:00,UTC,1613322000,Match Finished,FT,90,Regular Season - 21,161,VfL Wolfsburg,163,Borussia Monchengladbach,0,0,DRAW,752,VOLKSWAGEN ARENA,T. Stieler
+78,Bundesliga,Germany,2020,587356,2021-02-15T19:30:00+00:00,UTC,1613417400,Match Finished,FT,90,Regular Season - 21,157,Bayern Munich,188,Arminia Bielefeld,3,3,DRAW,700,Allianz Arena,F. Badstübner
+78,Bundesliga,Germany,2020,587373,2021-02-19T19:30:00+00:00,UTC,1613763000,Match Finished,FT,90,Regular Season - 22,188,Arminia Bielefeld,161,VfL Wolfsburg,0,3,AWAY,697,SchücoArena,F. Brych
+78,Bundesliga,Germany,2020,587367,2021-02-20T14:30:00+00:00,UTC,1613831400,Match Finished,FT,90,Regular Season - 22,160,SC Freiburg,182,Union Berlin,0,1,AWAY,716,Schwarzwald-Stadion,S. Storks
+78,Bundesliga,Germany,2020,587365,2021-02-20T14:30:00+00:00,UTC,1613831400,Match Finished,FT,90,Regular Season - 22,163,Borussia Monchengladbach,164,FSV Mainz 05,1,2,AWAY,703,Stadion im BORUSSIA-PARK,M. Schmidt
+78,Bundesliga,Germany,2020,587368,2021-02-20T14:30:00+00:00,UTC,1613831400,Match Finished,FT,90,Regular Season - 22,169,Eintracht Frankfurt,157,Bayern Munich,2,1,HOME,10491,Deutsche Bank Park,S. Stegemann
+78,Bundesliga,Germany,2020,587371,2021-02-20T14:30:00+00:00,UTC,1613831400,Match Finished,FT,90,Regular Season - 22,192,1. FC Köln,172,VfB Stuttgart,0,1,AWAY,731,RheinEnergieStadion,B. Cortus
+78,Bundesliga,Germany,2020,587370,2021-02-20T17:30:00+00:00,UTC,1613842200,Match Finished,FT,90,Regular Season - 22,174,FC Schalke 04,165,Borussia Dortmund,0,4,AWAY,741,VELTINS-Arena,D. Siebert
+78,Bundesliga,Germany,2020,587372,2021-02-21T12:30:00+00:00,UTC,1613910600,Match Finished,FT,90,Regular Season - 22,170,FC Augsburg,168,Bayer Leverkusen,1,1,DRAW,698,WWK Arena,C. Dingert
+78,Bundesliga,Germany,2020,587369,2021-02-21T14:30:00+00:00,UTC,1613917800,Match Finished,FT,90,Regular Season - 22,159,Hertha Berlin,173,RB Leipzig,0,3,AWAY,694,Olympiastadion Berlin,S. Jablonski
+78,Bundesliga,Germany,2020,587366,2021-02-21T17:00:00+00:00,UTC,1613926800,Match Finished,FT,90,Regular Season - 22,167,1899 Hoffenheim,162,Werder Bremen,4,0,HOME,724,PreZero Arena,R. Schröder
+78,Bundesliga,Germany,2020,587381,2021-02-26T19:30:00+00:00,UTC,1614367800,Match Finished,FT,90,Regular Season - 23,162,Werder Bremen,169,Eintracht Frankfurt,2,1,HOME,755,wohninvest WESERSTADION,R. Hartmann
+78,Bundesliga,Germany,2020,587374,2021-02-27T14:30:00+00:00,UTC,1614436200,Match Finished,FT,90,Regular Season - 23,157,Bayern Munich,192,1. FC Köln,5,1,HOME,700,Allianz Arena,M. Petersen
+78,Bundesliga,Germany,2020,587378,2021-02-27T14:30:00+00:00,UTC,1614436200,Match Finished,FT,90,Regular Season - 23,161,VfL Wolfsburg,159,Hertha Berlin,2,0,HOME,752,VOLKSWAGEN ARENA,B. Dankert
+78,Bundesliga,Germany,2020,587375,2021-02-27T14:30:00+00:00,UTC,1614436200,Match Finished,FT,90,Regular Season - 23,165,Borussia Dortmund,188,Arminia Bielefeld,3,0,HOME,702,Signal-Iduna-Park,T. Reichel
+78,Bundesliga,Germany,2020,587382,2021-02-27T14:30:00+00:00,UTC,1614436200,Match Finished,FT,90,Regular Season - 23,172,VfB Stuttgart,174,FC Schalke 04,5,1,HOME,750,Mercedes-Benz-Arena,G. Winkmann
+78,Bundesliga,Germany,2020,587376,2021-02-27T17:30:00+00:00,UTC,1614447000,Match Finished,FT,90,Regular Season - 23,173,RB Leipzig,163,Borussia Monchengladbach,3,2,HOME,738,Red Bull Arena,M. Gräfe
+78,Bundesliga,Germany,2020,587379,2021-02-28T12:30:00+00:00,UTC,1614515400,Match Finished,FT,90,Regular Season - 23,182,Union Berlin,167,1899 Hoffenheim,1,1,DRAW,748,Stadion An der Alten Försterei,T. Stieler
+78,Bundesliga,Germany,2020,587380,2021-02-28T14:30:00+00:00,UTC,1614522600,Match Finished,FT,90,Regular Season - 23,164,FSV Mainz 05,170,FC Augsburg,0,1,AWAY,717,OPEL ARENA,D. Schlager
+78,Bundesliga,Germany,2020,587377,2021-02-28T17:00:00+00:00,UTC,1614531600,Match Finished,FT,90,Regular Season - 23,168,Bayer Leverkusen,160,SC Freiburg,1,2,AWAY,699,BayArena,F. Zwayer
+78,Bundesliga,Germany,2020,587389,2021-03-05T19:30:00+00:00,UTC,1614972600,Match Finished,FT,90,Regular Season - 24,174,FC Schalke 04,164,FSV Mainz 05,0,0,DRAW,741,VELTINS-Arena,F. Brych
+78,Bundesliga,Germany,2020,587388,2021-03-06T14:30:00+00:00,UTC,1615041000,Match Finished,FT,90,Regular Season - 24,159,Hertha Berlin,170,FC Augsburg,2,1,HOME,694,Olympiastadion Berlin,F. Badstübner
+78,Bundesliga,Germany,2020,587386,2021-03-06T14:30:00+00:00,UTC,1615041000,Match Finished,FT,90,Regular Season - 24,160,SC Freiburg,173,RB Leipzig,0,3,AWAY,716,Schwarzwald-Stadion,G. Winkmann
+78,Bundesliga,Germany,2020,587384,2021-03-06T14:30:00+00:00,UTC,1615041000,Match Finished,FT,90,Regular Season - 24,163,Borussia Monchengladbach,168,Bayer Leverkusen,0,1,AWAY,703,Stadion im BORUSSIA-PARK,D. Siebert
+78,Bundesliga,Germany,2020,587385,2021-03-06T14:30:00+00:00,UTC,1615041000,Match Finished,FT,90,Regular Season - 24,167,1899 Hoffenheim,161,VfL Wolfsburg,2,1,HOME,724,PreZero Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587387,2021-03-06T14:30:00+00:00,UTC,1615041000,Match Finished,FT,90,Regular Season - 24,169,Eintracht Frankfurt,172,VfB Stuttgart,1,1,DRAW,10491,Deutsche Bank Park,R. Schröder
+78,Bundesliga,Germany,2020,587383,2021-03-06T17:30:00+00:00,UTC,1615051800,Match Finished,FT,90,Regular Season - 24,157,Bayern Munich,165,Borussia Dortmund,4,2,HOME,700,Allianz Arena,M. Fritz
+78,Bundesliga,Germany,2020,587390,2021-03-07T14:30:00+00:00,UTC,1615127400,Match Finished,FT,90,Regular Season - 24,192,1. FC Köln,162,Werder Bremen,1,1,DRAW,731,RheinEnergieStadion,M. Jöllenbeck
+78,Bundesliga,Germany,2020,587391,2021-03-07T17:00:00+00:00,UTC,1615136400,Match Finished,FT,90,Regular Season - 24,188,Arminia Bielefeld,182,Union Berlin,0,0,DRAW,697,SchücoArena,H. Osmers
+78,Bundesliga,Germany,2020,587355,2021-03-10T17:30:00+00:00,UTC,1615397400,Match Finished,FT,90,Regular Season - 20,188,Arminia Bielefeld,162,Werder Bremen,0,2,AWAY,697,SchücoArena,M. Schmidt
+78,Bundesliga,Germany,2020,587398,2021-03-12T19:30:00+00:00,UTC,1615577400,Match Finished,FT,90,Regular Season - 25,170,FC Augsburg,163,Borussia Monchengladbach,3,1,HOME,698,WWK Arena,S. Jablonski
+78,Bundesliga,Germany,2020,587395,2021-03-13T14:30:00+00:00,UTC,1615645800,Match Finished,FT,90,Regular Season - 25,161,VfL Wolfsburg,174,FC Schalke 04,5,0,HOME,752,VOLKSWAGEN ARENA,S. Storks
+78,Bundesliga,Germany,2020,587399,2021-03-13T14:30:00+00:00,UTC,1615645800,Match Finished,FT,90,Regular Season - 25,162,Werder Bremen,157,Bayern Munich,1,3,AWAY,755,wohninvest WESERSTADION,M. Gräfe
+78,Bundesliga,Germany,2020,587397,2021-03-13T14:30:00+00:00,UTC,1615645800,Match Finished,FT,90,Regular Season - 25,164,FSV Mainz 05,160,SC Freiburg,1,0,HOME,717,OPEL ARENA,B. Cortus
+78,Bundesliga,Germany,2020,587396,2021-03-13T14:30:00+00:00,UTC,1615645800,Match Finished,FT,90,Regular Season - 25,182,Union Berlin,192,1. FC Köln,2,1,HOME,748,Stadion An der Alten Försterei,D. Aytekin
+78,Bundesliga,Germany,2020,587392,2021-03-13T17:30:00+00:00,UTC,1615656600,Match Finished,FT,90,Regular Season - 25,165,Borussia Dortmund,159,Hertha Berlin,2,0,HOME,702,Signal-Iduna-Park,M. Petersen
+78,Bundesliga,Germany,2020,587394,2021-03-14T12:30:00+00:00,UTC,1615725000,Match Finished,FT,90,Regular Season - 25,168,Bayer Leverkusen,188,Arminia Bielefeld,1,2,AWAY,699,BayArena,S. Stegemann
+78,Bundesliga,Germany,2020,587393,2021-03-14T14:30:00+00:00,UTC,1615732200,Match Finished,FT,90,Regular Season - 25,173,RB Leipzig,169,Eintracht Frankfurt,1,1,DRAW,738,Red Bull Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587400,2021-03-14T17:00:00+00:00,UTC,1615741200,Match Finished,FT,90,Regular Season - 25,172,VfB Stuttgart,167,1899 Hoffenheim,2,0,HOME,750,Mercedes-Benz-Arena,C. Dingert
+78,Bundesliga,Germany,2020,587409,2021-03-19T19:30:00+00:00,UTC,1616182200,Match Finished,FT,90,Regular Season - 26,188,Arminia Bielefeld,173,RB Leipzig,0,1,AWAY,697,SchücoArena,F. Willenborg
+78,Bundesliga,Germany,2020,587401,2021-03-20T14:30:00+00:00,UTC,1616250600,Match Finished,FT,90,Regular Season - 26,157,Bayern Munich,172,VfB Stuttgart,4,0,HOME,700,Allianz Arena,D. Schlager
+78,Bundesliga,Germany,2020,587408,2021-03-20T14:30:00+00:00,UTC,1616250600,Match Finished,FT,90,Regular Season - 26,162,Werder Bremen,161,VfL Wolfsburg,1,2,AWAY,755,wohninvest WESERSTADION,R. Schröder
+78,Bundesliga,Germany,2020,587404,2021-03-20T14:30:00+00:00,UTC,1616250600,Match Finished,FT,90,Regular Season - 26,169,Eintracht Frankfurt,182,Union Berlin,5,2,HOME,10491,Deutsche Bank Park,M. Schmidt
+78,Bundesliga,Germany,2020,587407,2021-03-20T14:30:00+00:00,UTC,1616250600,Match Finished,FT,90,Regular Season - 26,192,1. FC Köln,165,Borussia Dortmund,2,2,DRAW,731,RheinEnergieStadion,D. Siebert
+78,Bundesliga,Germany,2020,587406,2021-03-20T17:30:00+00:00,UTC,1616261400,Match Finished,FT,90,Regular Season - 26,174,FC Schalke 04,163,Borussia Monchengladbach,0,3,AWAY,741,VELTINS-Arena,T. Stieler
+78,Bundesliga,Germany,2020,587402,2021-03-21T12:30:00+00:00,UTC,1616329800,Match Finished,FT,90,Regular Season - 26,167,1899 Hoffenheim,164,FSV Mainz 05,1,2,AWAY,724,PreZero Arena,M. Fritz
+78,Bundesliga,Germany,2020,587405,2021-03-21T14:30:00+00:00,UTC,1616337000,Match Finished,FT,90,Regular Season - 26,159,Hertha Berlin,168,Bayer Leverkusen,3,0,HOME,694,Olympiastadion Berlin,F. Brych
+78,Bundesliga,Germany,2020,587403,2021-03-21T17:00:00+00:00,UTC,1616346000,Match Finished,FT,90,Regular Season - 26,160,SC Freiburg,170,FC Augsburg,2,0,HOME,716,Schwarzwald-Stadion,B. Dankert
+78,Bundesliga,Germany,2020,587414,2021-04-03T13:30:00+00:00,UTC,1617456600,Match Finished,FT,90,Regular Season - 27,161,VfL Wolfsburg,192,1. FC Köln,1,0,HOME,752,VOLKSWAGEN ARENA,R. Hartmann
+78,Bundesliga,Germany,2020,587416,2021-04-03T13:30:00+00:00,UTC,1617456600,Match Finished,FT,90,Regular Season - 27,164,FSV Mainz 05,188,Arminia Bielefeld,1,1,DRAW,717,OPEL ARENA,D. Aytekin
+78,Bundesliga,Germany,2020,587410,2021-04-03T13:30:00+00:00,UTC,1617456600,Match Finished,FT,90,Regular Season - 27,165,Borussia Dortmund,169,Eintracht Frankfurt,1,2,AWAY,702,Signal-Iduna-Park,M. Gräfe
+78,Bundesliga,Germany,2020,587413,2021-04-03T13:30:00+00:00,UTC,1617456600,Match Finished,FT,90,Regular Season - 27,168,Bayer Leverkusen,174,FC Schalke 04,2,1,HOME,699,BayArena,S. Jablonski
+78,Bundesliga,Germany,2020,587417,2021-04-03T13:30:00+00:00,UTC,1617456600,Match Finished,FT,90,Regular Season - 27,170,FC Augsburg,167,1899 Hoffenheim,2,1,HOME,698,WWK Arena,G. Winkmann
+78,Bundesliga,Germany,2020,587411,2021-04-03T16:30:00+00:00,UTC,1617467400,Match Finished,FT,90,Regular Season - 27,173,RB Leipzig,157,Bayern Munich,0,1,AWAY,738,Red Bull Arena,D. Siebert
+78,Bundesliga,Germany,2020,587412,2021-04-03T18:30:00+00:00,UTC,1617474600,Match Finished,FT,90,Regular Season - 27,163,Borussia Monchengladbach,160,SC Freiburg,2,1,HOME,703,Stadion im BORUSSIA-PARK,C. Dingert
+78,Bundesliga,Germany,2020,587418,2021-04-04T13:30:00+00:00,UTC,1617543000,Match Finished,FT,90,Regular Season - 27,172,VfB Stuttgart,162,Werder Bremen,1,0,HOME,750,Mercedes-Benz-Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587415,2021-04-04T16:00:00+00:00,UTC,1617552000,Match Finished,FT,90,Regular Season - 27,182,Union Berlin,159,Hertha Berlin,1,1,DRAW,748,Stadion An der Alten Försterei,S. Stegemann
+78,Bundesliga,Germany,2020,587426,2021-04-09T18:30:00+00:00,UTC,1617993000,Match Finished,FT,90,Regular Season - 28,188,Arminia Bielefeld,160,SC Freiburg,1,0,HOME,697,SchücoArena,M. Petersen
+78,Bundesliga,Germany,2020,587419,2021-04-10T13:30:00+00:00,UTC,1618061400,Match Finished,FT,90,Regular Season - 28,157,Bayern Munich,182,Union Berlin,1,1,DRAW,700,Allianz Arena,T. Stieler
+78,Bundesliga,Germany,2020,587422,2021-04-10T13:30:00+00:00,UTC,1618061400,Match Finished,FT,90,Regular Season - 28,159,Hertha Berlin,163,Borussia Monchengladbach,2,2,DRAW,694,Olympiastadion Berlin,P. Ittrich
+78,Bundesliga,Germany,2020,587425,2021-04-10T13:30:00+00:00,UTC,1618061400,Match Finished,FT,90,Regular Season - 28,162,Werder Bremen,173,RB Leipzig,1,4,AWAY,755,wohninvest WESERSTADION,F. Badstübner
+78,Bundesliga,Germany,2020,587421,2021-04-10T13:30:00+00:00,UTC,1618061400,Match Finished,FT,90,Regular Season - 28,169,Eintracht Frankfurt,161,VfL Wolfsburg,4,3,HOME,10491,Deutsche Bank Park,M. Fritz
+78,Bundesliga,Germany,2020,587427,2021-04-10T16:30:00+00:00,UTC,1618072200,Match Finished,FT,90,Regular Season - 28,172,VfB Stuttgart,165,Borussia Dortmund,2,3,AWAY,750,Mercedes-Benz-Arena,R. Schröder
+78,Bundesliga,Germany,2020,587423,2021-04-11T13:30:00+00:00,UTC,1618147800,Match Finished,FT,90,Regular Season - 28,174,FC Schalke 04,170,FC Augsburg,1,0,HOME,741,VELTINS-Arena,H. Osmers
+78,Bundesliga,Germany,2020,587424,2021-04-11T16:00:00+00:00,UTC,1618156800,Match Finished,FT,90,Regular Season - 28,192,1. FC Köln,164,FSV Mainz 05,2,3,AWAY,731,RheinEnergieStadion,F. Brych
+78,Bundesliga,Germany,2020,587420,2021-04-12T18:30:00+00:00,UTC,1618252200,Match Finished,FT,90,Regular Season - 28,167,1899 Hoffenheim,168,Bayer Leverkusen,0,0,DRAW,724,PreZero Arena,M. Jöllenbeck
+78,Bundesliga,Germany,2020,587429,2021-04-16T18:30:00+00:00,UTC,1618597800,Match Finished,FT,90,Regular Season - 29,173,RB Leipzig,167,1899 Hoffenheim,0,0,DRAW,738,Red Bull Arena,M. Gräfe
+78,Bundesliga,Germany,2020,587433,2021-04-17T13:30:00+00:00,UTC,1618666200,Match Finished,FT,90,Regular Season - 29,160,SC Freiburg,174,FC Schalke 04,4,0,HOME,716,Schwarzwald-Stadion,T. Reichel
+78,Bundesliga,Germany,2020,587432,2021-04-17T13:30:00+00:00,UTC,1618666200,Match Finished,FT,90,Regular Season - 29,161,VfL Wolfsburg,157,Bayern Munich,2,3,AWAY,752,VOLKSWAGEN ARENA,F. Zwayer
+78,Bundesliga,Germany,2020,587430,2021-04-17T13:30:00+00:00,UTC,1618666200,Match Finished,FT,90,Regular Season - 29,163,Borussia Monchengladbach,169,Eintracht Frankfurt,4,0,HOME,703,Stadion im BORUSSIA-PARK,D. Aytekin
+78,Bundesliga,Germany,2020,587436,2021-04-17T13:30:00+00:00,UTC,1618666200,Match Finished,FT,90,Regular Season - 29,170,FC Augsburg,188,Arminia Bielefeld,0,0,DRAW,698,WWK Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587434,2021-04-17T13:30:00+00:00,UTC,1618666200,Match Finished,FT,90,Regular Season - 29,182,Union Berlin,172,VfB Stuttgart,2,1,HOME,748,Stadion An der Alten Försterei,B. Cortus
+78,Bundesliga,Germany,2020,587431,2021-04-17T16:30:00+00:00,UTC,1618677000,Match Finished,FT,90,Regular Season - 29,168,Bayer Leverkusen,192,1. FC Köln,3,0,HOME,699,BayArena,S. Storks
+78,Bundesliga,Germany,2020,587428,2021-04-18T13:30:00+00:00,UTC,1618752600,Match Finished,FT,90,Regular Season - 29,165,Borussia Dortmund,162,Werder Bremen,4,1,HOME,702,Signal-Iduna-Park,B. Dankert
+78,Bundesliga,Germany,2020,587442,2021-04-20T16:30:00+00:00,UTC,1618936200,Match Finished,FT,90,Regular Season - 30,192,1. FC Köln,173,RB Leipzig,2,1,HOME,731,RheinEnergieStadion,F. Willenborg
+78,Bundesliga,Germany,2020,587437,2021-04-20T18:30:00+00:00,UTC,1618943400,Match Finished,FT,90,Regular Season - 30,157,Bayern Munich,168,Bayer Leverkusen,2,0,HOME,700,Allianz Arena,G. Winkmann
+78,Bundesliga,Germany,2020,587440,2021-04-20T18:30:00+00:00,UTC,1618943400,Match Finished,FT,90,Regular Season - 30,169,Eintracht Frankfurt,170,FC Augsburg,2,0,HOME,10491,Deutsche Bank Park,R. Schröder
+78,Bundesliga,Germany,2020,587444,2021-04-20T18:30:00+00:00,UTC,1618943400,Match Finished,FT,90,Regular Season - 30,188,Arminia Bielefeld,174,FC Schalke 04,1,0,HOME,697,SchücoArena,C. Dingert
+78,Bundesliga,Germany,2020,587443,2021-04-21T18:30:00+00:00,UTC,1619029800,Match Finished,FT,90,Regular Season - 30,162,Werder Bremen,164,FSV Mainz 05,0,1,AWAY,755,wohninvest WESERSTADION,M. Fritz
+78,Bundesliga,Germany,2020,587438,2021-04-21T18:30:00+00:00,UTC,1619029800,Match Finished,FT,90,Regular Season - 30,165,Borussia Dortmund,182,Union Berlin,2,0,HOME,702,Signal-Iduna-Park,D. Schlager
+78,Bundesliga,Germany,2020,587439,2021-04-21T18:30:00+00:00,UTC,1619029800,Match Finished,FT,90,Regular Season - 30,167,1899 Hoffenheim,163,Borussia Monchengladbach,3,2,HOME,724,PreZero Arena,D. Siebert
+78,Bundesliga,Germany,2020,587445,2021-04-21T18:30:00+00:00,UTC,1619029800,Match Finished,FT,90,Regular Season - 30,172,VfB Stuttgart,161,VfL Wolfsburg,1,3,AWAY,750,Mercedes-Benz-Arena,F. Brych
+78,Bundesliga,Germany,2020,587454,2021-04-23T18:30:00+00:00,UTC,1619202600,Match Finished,FT,90,Regular Season - 31,170,FC Augsburg,192,1. FC Köln,2,3,AWAY,698,WWK Arena,M. Petersen
+78,Bundesliga,Germany,2020,587450,2021-04-24T13:30:00+00:00,UTC,1619271000,Match Finished,FT,90,Regular Season - 31,160,SC Freiburg,167,1899 Hoffenheim,1,1,DRAW,716,Schwarzwald-Stadion,M. Gräfe
+78,Bundesliga,Germany,2020,587449,2021-04-24T13:30:00+00:00,UTC,1619271000,Match Finished,FT,90,Regular Season - 31,161,VfL Wolfsburg,165,Borussia Dortmund,0,2,AWAY,752,VOLKSWAGEN ARENA,T. Stieler
+78,Bundesliga,Germany,2020,587453,2021-04-24T13:30:00+00:00,UTC,1619271000,Match Finished,FT,90,Regular Season - 31,164,FSV Mainz 05,157,Bayern Munich,2,1,HOME,717,OPEL ARENA,H. Osmers
+78,Bundesliga,Germany,2020,587451,2021-04-24T13:30:00+00:00,UTC,1619271000,Match Finished,FT,90,Regular Season - 31,182,Union Berlin,162,Werder Bremen,3,1,HOME,748,Stadion An der Alten Försterei,P. Ittrich
+78,Bundesliga,Germany,2020,587448,2021-04-24T16:30:00+00:00,UTC,1619281800,Match Finished,FT,90,Regular Season - 31,168,Bayer Leverkusen,169,Eintracht Frankfurt,3,1,HOME,699,BayArena,F. Zwayer
+78,Bundesliga,Germany,2020,587446,2021-04-25T13:30:00+00:00,UTC,1619357400,Match Finished,FT,90,Regular Season - 31,173,RB Leipzig,172,VfB Stuttgart,2,0,HOME,738,Red Bull Arena,D. Aytekin
+78,Bundesliga,Germany,2020,587447,2021-04-25T16:00:00+00:00,UTC,1619366400,Match Finished,FT,90,Regular Season - 31,163,Borussia Monchengladbach,188,Arminia Bielefeld,5,0,HOME,703,Stadion im BORUSSIA-PARK,R. Hartmann
+78,Bundesliga,Germany,2020,587435,2021-05-03T16:00:00+00:00,UTC,1620057600,Match Finished,FT,90,Regular Season - 29,164,FSV Mainz 05,159,Hertha Berlin,1,1,DRAW,717,OPEL ARENA,S. Stegemann
+78,Bundesliga,Germany,2020,587441,2021-05-06T16:30:00+00:00,UTC,1620318600,Match Finished,FT,90,Regular Season - 30,159,Hertha Berlin,160,SC Freiburg,3,0,HOME,694,Olympiastadion Berlin,B. Cortus
+78,Bundesliga,Germany,2020,587463,2021-05-07T18:30:00+00:00,UTC,1620412200,Match Finished,FT,90,Regular Season - 32,172,VfB Stuttgart,170,FC Augsburg,2,1,HOME,750,Mercedes-Benz-Arena,M. Gräfe
+78,Bundesliga,Germany,2020,587458,2021-05-08T13:30:00+00:00,UTC,1620480600,Match Finished,FT,90,Regular Season - 32,161,VfL Wolfsburg,182,Union Berlin,3,0,HOME,752,VOLKSWAGEN ARENA,S. Jablonski
+78,Bundesliga,Germany,2020,587462,2021-05-08T13:30:00+00:00,UTC,1620480600,Match Finished,FT,90,Regular Season - 32,162,Werder Bremen,168,Bayer Leverkusen,0,0,DRAW,755,wohninvest WESERSTADION,M. Schmidt
+78,Bundesliga,Germany,2020,587456,2021-05-08T13:30:00+00:00,UTC,1620480600,Match Finished,FT,90,Regular Season - 32,165,Borussia Dortmund,173,RB Leipzig,3,2,HOME,702,Signal-Iduna-Park,D. Siebert
+78,Bundesliga,Germany,2020,587457,2021-05-08T13:30:00+00:00,UTC,1620480600,Match Finished,FT,90,Regular Season - 32,167,1899 Hoffenheim,174,FC Schalke 04,4,2,HOME,724,PreZero Arena,G. Winkmann
+78,Bundesliga,Germany,2020,587455,2021-05-08T16:30:00+00:00,UTC,1620491400,Match Finished,FT,90,Regular Season - 32,157,Bayern Munich,163,Borussia Monchengladbach,6,0,HOME,700,Allianz Arena,T. Stieler
+78,Bundesliga,Germany,2020,587461,2021-05-09T11:30:00+00:00,UTC,1620559800,Match Finished,FT,90,Regular Season - 32,192,1. FC Köln,160,SC Freiburg,1,4,AWAY,731,RheinEnergieStadion,M. Fritz
+78,Bundesliga,Germany,2020,587459,2021-05-09T13:30:00+00:00,UTC,1620567000,Match Finished,FT,90,Regular Season - 32,169,Eintracht Frankfurt,164,FSV Mainz 05,1,1,DRAW,10491,Deutsche Bank Park,F. Brych
+78,Bundesliga,Germany,2020,587460,2021-05-09T16:00:00+00:00,UTC,1620576000,Match Finished,FT,90,Regular Season - 32,159,Hertha Berlin,188,Arminia Bielefeld,0,0,DRAW,694,Olympiastadion Berlin,B. Dankert
+78,Bundesliga,Germany,2020,587452,2021-05-12T16:00:00+00:00,UTC,1620835200,Match Finished,FT,90,Regular Season - 31,174,FC Schalke 04,159,Hertha Berlin,1,2,AWAY,741,VELTINS-Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587468,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,159,Hertha Berlin,192,1. FC Köln,0,0,DRAW,694,Olympiastadion Berlin,D. Aytekin
+78,Bundesliga,Germany,2020,587467,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,160,SC Freiburg,157,Bayern Munich,2,2,DRAW,716,Schwarzwald-Stadion,F. Badstübner
+78,Bundesliga,Germany,2020,587465,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,163,Borussia Monchengladbach,172,VfB Stuttgart,1,2,AWAY,703,Stadion im BORUSSIA-PARK,S. Stegemann
+78,Bundesliga,Germany,2020,587466,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,168,Bayer Leverkusen,182,Union Berlin,1,1,DRAW,699,BayArena,P. Ittrich
+78,Bundesliga,Germany,2020,587471,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,170,FC Augsburg,162,Werder Bremen,2,0,HOME,698,WWK Arena,R. Schröder
+78,Bundesliga,Germany,2020,587469,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,174,FC Schalke 04,169,Eintracht Frankfurt,4,3,HOME,741,VELTINS-Arena,S. Jablonski
+78,Bundesliga,Germany,2020,587472,2021-05-15T13:30:00+00:00,UTC,1621085400,Match Finished,FT,90,Regular Season - 33,188,Arminia Bielefeld,167,1899 Hoffenheim,1,1,DRAW,697,SchücoArena,D. Schlager
+78,Bundesliga,Germany,2020,587470,2021-05-16T16:00:00+00:00,UTC,1621180800,Match Finished,FT,90,Regular Season - 33,164,FSV Mainz 05,165,Borussia Dortmund,1,3,AWAY,717,OPEL ARENA,H. Osmers
+78,Bundesliga,Germany,2020,587464,2021-05-16T18:30:00+00:00,UTC,1621189800,Match Finished,FT,90,Regular Season - 33,173,RB Leipzig,161,VfL Wolfsburg,2,2,DRAW,738,Red Bull Arena,F. Zwayer
+78,Bundesliga,Germany,2020,587473,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,157,Bayern Munich,170,FC Augsburg,5,2,HOME,700,Allianz Arena,M. Schmidt
+78,Bundesliga,Germany,2020,587476,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,161,VfL Wolfsburg,164,FSV Mainz 05,2,3,AWAY,752,VOLKSWAGEN ARENA,B. Dankert
+78,Bundesliga,Germany,2020,587480,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,162,Werder Bremen,163,Borussia Monchengladbach,2,4,AWAY,755,wohninvest WESERSTADION,F. Brych
+78,Bundesliga,Germany,2020,587474,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,165,Borussia Dortmund,168,Bayer Leverkusen,3,1,HOME,702,Signal-Iduna-Park,M. Gräfe
+78,Bundesliga,Germany,2020,587475,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,167,1899 Hoffenheim,159,Hertha Berlin,2,1,HOME,724,PreZero Arena,F. Willenborg
+78,Bundesliga,Germany,2020,587477,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,169,Eintracht Frankfurt,160,SC Freiburg,3,1,HOME,10491,Deutsche Bank Park,C. Dingert
+78,Bundesliga,Germany,2020,587481,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,172,VfB Stuttgart,188,Arminia Bielefeld,0,2,AWAY,750,Mercedes-Benz-Arena,T. Stieler
+78,Bundesliga,Germany,2020,587478,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,182,Union Berlin,173,RB Leipzig,2,1,HOME,748,Stadion An der Alten Försterei,G. Winkmann
+78,Bundesliga,Germany,2020,587479,2021-05-22T13:30:00+00:00,UTC,1621690200,Match Finished,FT,90,Regular Season - 34,192,1. FC Köln,174,FC Schalke 04,1,0,HOME,731,RheinEnergieStadion,D. Siebert
+78,Bundesliga,Germany,2020,705680,2021-05-26T16:30:00+00:00,UTC,1622046600,Match Finished,FT,90,Relegation Round,192,1. FC Köln,191,Holstein Kiel,0,1,AWAY,731,RheinEnergieStadion,F. Zwayer
+78,Bundesliga,Germany,2020,705681,2021-05-29T16:00:00+00:00,UTC,1622304000,Match Finished,FT,90,Relegation Round,191,Holstein Kiel,192,1. FC Köln,1,5,AWAY,725,Holstein-Stadion,"Deniz Aytekin, Germany"

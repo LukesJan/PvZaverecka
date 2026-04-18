@@ -1,0 +1,381 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+135,Serie A,Italy,2024,1223598,2024-08-17T16:30:00+00:00,UTC,1723912200,Match Finished,FT,90,Regular Season - 1,495,Genoa,505,Inter,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,E. Feliciani
+135,Serie A,Italy,2024,1223604,2024-08-17T16:30:00+00:00,UTC,1723912200,Match Finished,FT,90,Regular Season - 1,523,Parma,502,Fiorentina,1,1,DRAW,921.0,Stadio Ennio Tardini,G. Ayroldi
+135,Serie A,Italy,2024,1223603,2024-08-17T18:45:00+00:00,UTC,1723920300,Match Finished,FT,90,Regular Season - 1,489,AC Milan,503,Torino,2,2,DRAW,907.0,Stadio Giuseppe Meazza,F. Maresca
+135,Serie A,Italy,2024,1223597,2024-08-17T18:45:00+00:00,UTC,1723920300,Match Finished,FT,90,Regular Season - 1,511,Empoli,1579,Monza,0,0,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Fabbri
+135,Serie A,Italy,2024,1223595,2024-08-18T16:30:00+00:00,UTC,1723998600,Match Finished,FT,90,Regular Season - 1,500,Bologna,494,Udinese,1,1,DRAW,881.0,Stadio Renato Dall'Ara,M. Ferrieri Caputi
+135,Serie A,Italy,2024,1223599,2024-08-18T16:30:00+00:00,UTC,1723998600,Match Finished,FT,90,Regular Season - 1,504,Hellas Verona,492,Napoli,3,0,HOME,,Stadio Marcantonio Bentegodi,M. Marchetti
+135,Serie A,Italy,2024,1223601,2024-08-18T18:45:00+00:00,UTC,1724006700,Match Finished,FT,90,Regular Season - 1,487,Lazio,517,Venezia,3,1,HOME,910.0,Stadio Olimpico,P. Tremolada
+135,Serie A,Italy,2024,1223596,2024-08-18T18:45:00+00:00,UTC,1724006700,Match Finished,FT,90,Regular Season - 1,490,Cagliari,497,AS Roma,0,0,DRAW,12275.0,Unipol Domus,L. Marinelli
+135,Serie A,Italy,2024,1223602,2024-08-19T16:30:00+00:00,UTC,1724085000,Match Finished,FT,90,Regular Season - 1,867,Lecce,499,Atalanta,0,4,AWAY,,Stadio Ettore Giardiniero - Via del Mare,D. Massa
+135,Serie A,Italy,2024,1223600,2024-08-19T18:45:00+00:00,UTC,1724093100,Match Finished,FT,90,Regular Season - 1,496,Juventus,895,Como,3,0,HOME,909.0,Allianz Stadium,M. Marcenaro
+135,Serie A,Italy,2024,1223614,2024-08-24T16:30:00+00:00,UTC,1724517000,Match Finished,FT,90,Regular Season - 2,494,Udinese,487,Lazio,2,1,HOME,20416.0,Bluenergy Stadium,D. Doveri
+135,Serie A,Italy,2024,1223611,2024-08-24T16:30:00+00:00,UTC,1724517000,Match Finished,FT,90,Regular Season - 2,523,Parma,489,AC Milan,2,1,HOME,921.0,Stadio Ennio Tardini,J. Sacchi
+135,Serie A,Italy,2024,1223608,2024-08-24T18:45:00+00:00,UTC,1724525100,Match Finished,FT,90,Regular Season - 2,505,Inter,867,Lecce,2,0,HOME,907.0,Stadio Giuseppe Meazza,D. Di Marco
+135,Serie A,Italy,2024,1223609,2024-08-24T18:45:00+00:00,UTC,1724525100,Match Finished,FT,90,Regular Season - 2,1579,Monza,495,Genoa,0,1,AWAY,12086.0,U-Power Stadium,M. Mariani
+135,Serie A,Italy,2024,1223606,2024-08-25T16:30:00+00:00,UTC,1724603400,Match Finished,FT,90,Regular Season - 2,502,Fiorentina,517,Venezia,0,0,DRAW,902.0,Stadio Artemio Franchi,S. Sozza
+135,Serie A,Italy,2024,1223613,2024-08-25T16:30:00+00:00,UTC,1724603400,Match Finished,FT,90,Regular Season - 2,503,Torino,499,Atalanta,2,1,HOME,943.0,Stadio Olimpico Grande Torino,A. Rapuano
+135,Serie A,Italy,2024,1223610,2024-08-25T18:45:00+00:00,UTC,1724611500,Match Finished,FT,90,Regular Season - 2,492,Napoli,500,Bologna,3,0,HOME,11904.0,Stadio Diego Armando Maradona,L. Pairetto
+135,Serie A,Italy,2024,1223612,2024-08-25T18:45:00+00:00,UTC,1724611500,Match Finished,FT,90,Regular Season - 2,497,AS Roma,511,Empoli,1,2,AWAY,910.0,Stadio Olimpico,L. Zufferli
+135,Serie A,Italy,2024,1223605,2024-08-26T16:30:00+00:00,UTC,1724689800,Match Finished,FT,90,Regular Season - 2,490,Cagliari,895,Como,1,1,DRAW,12275.0,Unipol Domus,M. Di Bello
+135,Serie A,Italy,2024,1223607,2024-08-26T18:45:00+00:00,UTC,1724697900,Match Finished,FT,90,Regular Season - 2,504,Hellas Verona,496,Juventus,0,3,AWAY,,Stadio Marcantonio Bentegodi,A. Giua
+135,Serie A,Italy,2024,1223624,2024-08-30T16:30:00+00:00,UTC,1725035400,Match Finished,FT,90,Regular Season - 3,517,Venezia,503,Torino,0,1,AWAY,,Stadio Pier Luigi Penzo,M. Marcenaro
+135,Serie A,Italy,2024,1223618,2024-08-30T18:45:00+00:00,UTC,1725043500,Match Finished,FT,90,Regular Season - 3,505,Inter,499,Atalanta,4,0,HOME,907.0,Stadio Giuseppe Meazza,M. Marchetti
+135,Serie A,Italy,2024,1223615,2024-08-31T16:30:00+00:00,UTC,1725121800,Match Finished,FT,90,Regular Season - 3,500,Bologna,511,Empoli,1,1,DRAW,881.0,Stadio Renato Dall'Ara,L. Marinelli
+135,Serie A,Italy,2024,1223621,2024-08-31T16:30:00+00:00,UTC,1725121800,Match Finished,FT,90,Regular Season - 3,867,Lecce,490,Cagliari,1,0,HOME,,Stadio Ettore Giardiniero - Via del Mare,M. Fabbri
+135,Serie A,Italy,2024,1223620,2024-08-31T18:45:00+00:00,UTC,1725129900,Match Finished,FT,90,Regular Season - 3,487,Lazio,489,AC Milan,2,2,DRAW,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2024,1223622,2024-08-31T18:45:00+00:00,UTC,1725129900,Match Finished,FT,90,Regular Season - 3,492,Napoli,523,Parma,2,1,HOME,11904.0,Stadio Diego Armando Maradona,P. Tremolada
+135,Serie A,Italy,2024,1223617,2024-09-01T16:30:00+00:00,UTC,1725208200,Match Finished,FT,90,Regular Season - 3,495,Genoa,504,Hellas Verona,0,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,G. Ayroldi
+135,Serie A,Italy,2024,1223616,2024-09-01T16:30:00+00:00,UTC,1725208200,Match Finished,FT,90,Regular Season - 3,502,Fiorentina,1579,Monza,2,2,DRAW,902.0,Stadio Artemio Franchi,A. Colombo
+135,Serie A,Italy,2024,1223623,2024-09-01T18:45:00+00:00,UTC,1725216300,Match Finished,FT,90,Regular Season - 3,494,Udinese,895,Como,1,0,HOME,20416.0,Bluenergy Stadium,A. Prontera
+135,Serie A,Italy,2024,1223619,2024-09-01T18:45:00+00:00,UTC,1725216300,Match Finished,FT,90,Regular Season - 3,496,Juventus,497,AS Roma,0,0,DRAW,909.0,Allianz Stadium,M. Guida
+135,Serie A,Italy,2024,1223627,2024-09-14T13:00:00+00:00,UTC,1726318800,Match Finished,FT,90,Regular Season - 4,895,Como,500,Bologna,2,2,DRAW,892.0,Stadio Giuseppe Sinigaglia,M. Piccinini
+135,Serie A,Italy,2024,1223628,2024-09-14T16:00:00+00:00,UTC,1726329600,Match Finished,FT,90,Regular Season - 4,511,Empoli,496,Juventus,0,0,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Di Bello
+135,Serie A,Italy,2024,1223631,2024-09-14T18:45:00+00:00,UTC,1726339500,Match Finished,FT,90,Regular Season - 4,489,AC Milan,517,Venezia,4,0,HOME,907.0,Stadio Giuseppe Meazza,D. Di Marco
+135,Serie A,Italy,2024,1223629,2024-09-15T10:30:00+00:00,UTC,1726396200,Match Finished,FT,90,Regular Season - 4,495,Genoa,497,AS Roma,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,A. Giua
+135,Serie A,Italy,2024,1223625,2024-09-15T13:00:00+00:00,UTC,1726405200,Match Finished,FT,90,Regular Season - 4,499,Atalanta,502,Fiorentina,3,2,HOME,879.0,Gewiss Stadium,J. Sacchi
+135,Serie A,Italy,2024,1223634,2024-09-15T13:00:00+00:00,UTC,1726405200,Match Finished,FT,90,Regular Season - 4,503,Torino,867,Lecce,0,0,DRAW,943.0,Stadio Olimpico Grande Torino,A. Colombo
+135,Serie A,Italy,2024,1223626,2024-09-15T16:00:00+00:00,UTC,1726416000,Match Finished,FT,90,Regular Season - 4,490,Cagliari,492,Napoli,0,4,AWAY,12275.0,Unipol Domus,F. La Penna
+135,Serie A,Italy,2024,1223632,2024-09-15T18:45:00+00:00,UTC,1726425900,Match Finished,FT,90,Regular Season - 4,1579,Monza,505,Inter,1,1,DRAW,12086.0,U-Power Stadium,L. Pairetto
+135,Serie A,Italy,2024,1223633,2024-09-16T16:30:00+00:00,UTC,1726504200,Match Finished,FT,90,Regular Season - 4,523,Parma,494,Udinese,2,3,AWAY,921.0,Stadio Ennio Tardini,R. Abisso
+135,Serie A,Italy,2024,1223630,2024-09-16T18:45:00+00:00,UTC,1726512300,Match Finished,FT,90,Regular Season - 4,487,Lazio,504,Hellas Verona,2,1,HOME,910.0,Stadio Olimpico,L. Zufferli
+135,Serie A,Italy,2024,1223636,2024-09-20T16:30:00+00:00,UTC,1726849800,Match Finished,FT,90,Regular Season - 5,490,Cagliari,511,Empoli,0,2,AWAY,12275.0,Unipol Domus,S. Sozza
+135,Serie A,Italy,2024,1223638,2024-09-20T18:45:00+00:00,UTC,1726857900,Match Finished,FT,90,Regular Season - 5,504,Hellas Verona,503,Torino,2,3,AWAY,,Stadio Marcantonio Bentegodi,L. Marinelli
+135,Serie A,Italy,2024,1223644,2024-09-21T13:00:00+00:00,UTC,1726923600,Match Finished,FT,90,Regular Season - 5,517,Venezia,495,Genoa,2,0,HOME,,Stadio Pier Luigi Penzo,M. Marchetti
+135,Serie A,Italy,2024,1223640,2024-09-21T16:00:00+00:00,UTC,1726934400,Match Finished,FT,90,Regular Season - 5,496,Juventus,492,Napoli,0,0,DRAW,909.0,Allianz Stadium,D. Doveri
+135,Serie A,Italy,2024,1223641,2024-09-21T18:45:00+00:00,UTC,1726944300,Match Finished,FT,90,Regular Season - 5,867,Lecce,523,Parma,2,2,DRAW,,Stadio Ettore Giardiniero - Via del Mare,M. Guida
+135,Serie A,Italy,2024,1223637,2024-09-22T10:30:00+00:00,UTC,1727001000,Match Finished,FT,90,Regular Season - 5,502,Fiorentina,487,Lazio,2,1,HOME,902.0,Stadio Artemio Franchi,M. Marcenaro
+135,Serie A,Italy,2024,1223642,2024-09-22T13:00:00+00:00,UTC,1727010000,Match Finished,FT,90,Regular Season - 5,1579,Monza,500,Bologna,1,2,AWAY,12086.0,U-Power Stadium,D. Massa
+135,Serie A,Italy,2024,1223643,2024-09-22T16:00:00+00:00,UTC,1727020800,Match Finished,FT,90,Regular Season - 5,497,AS Roma,494,Udinese,3,0,HOME,910.0,Stadio Olimpico,E. Feliciani
+135,Serie A,Italy,2024,1223639,2024-09-22T18:45:00+00:00,UTC,1727030700,Match Finished,FT,90,Regular Season - 5,505,Inter,489,AC Milan,1,2,AWAY,907.0,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2024,1223635,2024-09-24T18:45:00+00:00,UTC,1727203500,Match Finished,FT,90,Regular Season - 5,499,Atalanta,895,Como,2,3,AWAY,879.0,Gewiss Stadium,P. Tremolada
+135,Serie A,Italy,2024,1223649,2024-09-27T18:45:00+00:00,UTC,1727462700,Match Finished,FT,90,Regular Season - 6,489,AC Milan,867,Lecce,3,0,HOME,907.0,Stadio Giuseppe Meazza,L. Zufferli
+135,Serie A,Italy,2024,1223654,2024-09-28T13:00:00+00:00,UTC,1727528400,Match Finished,FT,90,Regular Season - 6,494,Udinese,505,Inter,2,3,AWAY,20416.0,Bluenergy Stadium,J. Sacchi
+135,Serie A,Italy,2024,1223648,2024-09-28T16:00:00+00:00,UTC,1727539200,Match Finished,FT,90,Regular Season - 6,495,Genoa,496,Juventus,0,3,AWAY,905.0,Stadio Comunale Luigi Ferraris,A. Colombo
+135,Serie A,Italy,2024,1223645,2024-09-28T18:45:00+00:00,UTC,1727549100,Match Finished,FT,90,Regular Season - 6,500,Bologna,499,Atalanta,1,1,DRAW,881.0,Stadio Renato Dall'Ara,A. Rapuano
+135,Serie A,Italy,2024,1223653,2024-09-29T10:30:00+00:00,UTC,1727605800,Match Finished,FT,90,Regular Season - 6,503,Torino,487,Lazio,2,3,AWAY,943.0,Stadio Olimpico Grande Torino,S. Sozza
+135,Serie A,Italy,2024,1223652,2024-09-29T13:00:00+00:00,UTC,1727614800,Match Finished,FT,90,Regular Season - 6,497,AS Roma,517,Venezia,2,1,HOME,910.0,Stadio Olimpico,R. Abisso
+135,Serie A,Italy,2024,1223646,2024-09-29T13:00:00+00:00,UTC,1727614800,Match Finished,FT,90,Regular Season - 6,895,Como,504,Hellas Verona,3,2,HOME,892.0,Stadio Giuseppe Sinigaglia,A. Giua
+135,Serie A,Italy,2024,1223647,2024-09-29T16:00:00+00:00,UTC,1727625600,Match Finished,FT,90,Regular Season - 6,511,Empoli,502,Fiorentina,0,0,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,G. Aureliano
+135,Serie A,Italy,2024,1223650,2024-09-29T18:45:00+00:00,UTC,1727635500,Match Finished,FT,90,Regular Season - 6,492,Napoli,1579,Monza,2,0,HOME,11904.0,Stadio Diego Armando Maradona,G. Manganiello
+135,Serie A,Italy,2024,1223651,2024-09-30T18:45:00+00:00,UTC,1727721900,Match Finished,FT,90,Regular Season - 6,523,Parma,490,Cagliari,2,3,AWAY,921.0,Stadio Ennio Tardini,F. Fourneau
+135,Serie A,Italy,2024,1223663,2024-10-04T16:30:00+00:00,UTC,1728059400,Match Finished,FT,90,Regular Season - 7,492,Napoli,895,Como,3,1,HOME,11904.0,Stadio Diego Armando Maradona,E. Feliciani
+135,Serie A,Italy,2024,1223658,2024-10-04T18:45:00+00:00,UTC,1728067500,Match Finished,FT,90,Regular Season - 7,504,Hellas Verona,517,Venezia,2,1,HOME,,Stadio Marcantonio Bentegodi,M. Guida
+135,Serie A,Italy,2024,1223664,2024-10-05T13:00:00+00:00,UTC,1728133200,Match Finished,FT,90,Regular Season - 7,494,Udinese,867,Lecce,1,0,HOME,20416.0,Bluenergy Stadium,M. Mariani
+135,Serie A,Italy,2024,1223655,2024-10-05T16:00:00+00:00,UTC,1728144000,Match Finished,FT,90,Regular Season - 7,499,Atalanta,495,Genoa,5,1,HOME,879.0,Gewiss Stadium,D. Chiffi
+135,Serie A,Italy,2024,1223659,2024-10-05T18:45:00+00:00,UTC,1728153900,Match Finished,FT,90,Regular Season - 7,505,Inter,503,Torino,3,2,HOME,907.0,Stadio Giuseppe Meazza,M. Marcenaro
+135,Serie A,Italy,2024,1223660,2024-10-06T10:30:00+00:00,UTC,1728210600,Match Finished,FT,90,Regular Season - 7,496,Juventus,490,Cagliari,1,1,DRAW,909.0,Allianz Stadium,L. Marinelli
+135,Serie A,Italy,2024,1223661,2024-10-06T13:00:00+00:00,UTC,1728219600,Match Finished,FT,90,Regular Season - 7,487,Lazio,511,Empoli,2,1,HOME,910.0,Stadio Olimpico,G. Ayroldi
+135,Serie A,Italy,2024,1223656,2024-10-06T13:00:00+00:00,UTC,1728219600,Match Finished,FT,90,Regular Season - 7,500,Bologna,523,Parma,0,0,DRAW,881.0,Stadio Renato Dall'Ara,M. Di Bello
+135,Serie A,Italy,2024,1223662,2024-10-06T16:00:00+00:00,UTC,1728230400,Match Finished,FT,90,Regular Season - 7,1579,Monza,497,AS Roma,1,1,DRAW,12086.0,U-Power Stadium,F. La Penna
+135,Serie A,Italy,2024,1223657,2024-10-06T18:45:00+00:00,UTC,1728240300,Match Finished,FT,90,Regular Season - 7,502,Fiorentina,489,AC Milan,2,1,HOME,902.0,Stadio Artemio Franchi,L. Pairetto
+135,Serie A,Italy,2024,1223668,2024-10-19T13:00:00+00:00,UTC,1729342800,Match Finished,FT,90,Regular Season - 8,495,Genoa,500,Bologna,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,D. Doveri
+135,Serie A,Italy,2024,1223666,2024-10-19T13:00:00+00:00,UTC,1729342800,Match Finished,FT,90,Regular Season - 8,895,Como,523,Parma,1,1,DRAW,892.0,Stadio Giuseppe Sinigaglia,M. Fabbri
+135,Serie A,Italy,2024,1223672,2024-10-19T16:00:00+00:00,UTC,1729353600,Match Finished,FT,90,Regular Season - 8,489,AC Milan,494,Udinese,1,0,HOME,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2024,1223670,2024-10-19T18:45:00+00:00,UTC,1729363500,Match Finished,FT,90,Regular Season - 8,496,Juventus,487,Lazio,1,0,HOME,909.0,Allianz Stadium,J. Sacchi
+135,Serie A,Italy,2024,1223667,2024-10-20T10:30:00+00:00,UTC,1729420200,Match Finished,FT,90,Regular Season - 8,511,Empoli,492,Napoli,0,1,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,R. Abisso
+135,Serie A,Italy,2024,1223674,2024-10-20T13:00:00+00:00,UTC,1729429200,Match Finished,FT,90,Regular Season - 8,517,Venezia,499,Atalanta,0,2,AWAY,,Stadio Pier Luigi Penzo,L. Zufferli
+135,Serie A,Italy,2024,1223671,2024-10-20T13:00:00+00:00,UTC,1729429200,Match Finished,FT,90,Regular Season - 8,867,Lecce,502,Fiorentina,0,6,AWAY,,Stadio Ettore Giardiniero - Via del Mare,F. Fourneau
+135,Serie A,Italy,2024,1223665,2024-10-20T16:00:00+00:00,UTC,1729440000,Match Finished,FT,90,Regular Season - 8,490,Cagliari,503,Torino,3,2,HOME,12275.0,Unipol Domus,G. Aureliano
+135,Serie A,Italy,2024,1223673,2024-10-20T18:45:00+00:00,UTC,1729449900,Match Finished,FT,90,Regular Season - 8,497,AS Roma,505,Inter,0,1,AWAY,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2024,1223669,2024-10-21T18:45:00+00:00,UTC,1729536300,Match Finished,FT,90,Regular Season - 8,504,Hellas Verona,1579,Monza,0,3,AWAY,,Stadio Marcantonio Bentegodi,F. Dionisi
+135,Serie A,Italy,2024,1223684,2024-10-25T16:30:00+00:00,UTC,1729873800,Match Finished,FT,90,Regular Season - 9,494,Udinese,490,Cagliari,2,0,HOME,20416.0,Bluenergy Stadium,G. Manganiello
+135,Serie A,Italy,2024,1223683,2024-10-25T18:45:00+00:00,UTC,1729881900,Match Finished,FT,90,Regular Season - 9,503,Torino,895,Como,1,0,HOME,943.0,Stadio Olimpico Grande Torino,G. Ayroldi
+135,Serie A,Italy,2024,1223681,2024-10-26T13:00:00+00:00,UTC,1729947600,Match Finished,FT,90,Regular Season - 9,492,Napoli,867,Lecce,1,0,HOME,11904.0,Stadio Diego Armando Maradona,P. Tremolada
+135,Serie A,Italy,2024,1223675,2024-10-26T18:45:00+00:00,UTC,1729968300,Match Finished,FT,90,Regular Season - 9,499,Atalanta,504,Hellas Verona,6,1,HOME,879.0,Gewiss Stadium,E. Feliciani
+135,Serie A,Italy,2024,1223682,2024-10-27T10:30:00+00:00,UTC,1730025000,Match Finished,FT,90,Regular Season - 9,523,Parma,511,Empoli,1,1,DRAW,921.0,Stadio Ennio Tardini,F. La Penna
+135,Serie A,Italy,2024,1223679,2024-10-27T13:00:00+00:00,UTC,1730034000,Match Finished,FT,90,Regular Season - 9,487,Lazio,495,Genoa,3,0,HOME,910.0,Stadio Olimpico,M. Piccinini
+135,Serie A,Italy,2024,1223680,2024-10-27T13:00:00+00:00,UTC,1730034000,Match Finished,FT,90,Regular Season - 9,1579,Monza,517,Venezia,2,2,DRAW,12086.0,U-Power Stadium,A. Rapuano
+135,Serie A,Italy,2024,1223678,2024-10-27T16:00:00+00:00,UTC,1730044800,Match Finished,FT,90,Regular Season - 9,505,Inter,496,Juventus,4,4,DRAW,907.0,Stadio Giuseppe Meazza,M. Guida
+135,Serie A,Italy,2024,1223677,2024-10-27T19:45:00+00:00,UTC,1730058300,Match Finished,FT,90,Regular Season - 9,502,Fiorentina,497,AS Roma,5,1,HOME,902.0,Stadio Artemio Franchi,S. Sozza
+135,Serie A,Italy,2024,1223686,2024-10-29T17:30:00+00:00,UTC,1730223000,Match Finished,FT,90,Regular Season - 10,490,Cagliari,500,Bologna,0,2,AWAY,12275.0,Unipol Domus,F. Fourneau
+135,Serie A,Italy,2024,1223691,2024-10-29T17:30:00+00:00,UTC,1730223000,Match Finished,FT,90,Regular Season - 10,867,Lecce,504,Hellas Verona,1,0,HOME,,Stadio Ettore Giardiniero - Via del Mare,M. Mariani
+135,Serie A,Italy,2024,1223692,2024-10-29T19:45:00+00:00,UTC,1730231100,Match Finished,FT,90,Regular Season - 10,489,AC Milan,492,Napoli,0,2,AWAY,907.0,Stadio Giuseppe Meazza,A. Colombo
+135,Serie A,Italy,2024,1223688,2024-10-30T17:30:00+00:00,UTC,1730309400,Match Finished,FT,90,Regular Season - 10,511,Empoli,505,Inter,0,3,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Marchetti
+135,Serie A,Italy,2024,1223694,2024-10-30T17:30:00+00:00,UTC,1730309400,Match Finished,FT,90,Regular Season - 10,517,Venezia,494,Udinese,3,2,HOME,,Stadio Pier Luigi Penzo,D. Massa
+135,Serie A,Italy,2024,1223690,2024-10-30T19:45:00+00:00,UTC,1730317500,Match Finished,FT,90,Regular Season - 10,496,Juventus,523,Parma,2,2,DRAW,909.0,Allianz Stadium,L. Zufferli
+135,Serie A,Italy,2024,1223685,2024-10-30T19:45:00+00:00,UTC,1730317500,Match Finished,FT,90,Regular Season - 10,499,Atalanta,1579,Monza,2,0,HOME,879.0,Gewiss Stadium,M. Piccinini
+135,Serie A,Italy,2024,1223689,2024-10-31T17:30:00+00:00,UTC,1730395800,Match Finished,FT,90,Regular Season - 10,495,Genoa,502,Fiorentina,0,1,AWAY,905.0,Stadio Comunale Luigi Ferraris,D. Chiffi
+135,Serie A,Italy,2024,1223693,2024-10-31T19:45:00+00:00,UTC,1730403900,Match Finished,FT,90,Regular Season - 10,497,AS Roma,503,Torino,1,0,HOME,910.0,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2024,1223687,2024-10-31T19:45:00+00:00,UTC,1730403900,Match Finished,FT,90,Regular Season - 10,895,Como,487,Lazio,1,5,AWAY,892.0,Stadio Giuseppe Sinigaglia,L. Pairetto
+135,Serie A,Italy,2024,1223695,2024-11-02T14:00:00+00:00,UTC,1730556000,Match Finished,FT,90,Regular Season - 11,500,Bologna,867,Lecce,1,0,HOME,881.0,Stadio Renato Dall'Ara,G. Collu
+135,Serie A,Italy,2024,1223704,2024-11-02T17:00:00+00:00,UTC,1730566800,Match Finished,FT,90,Regular Season - 11,494,Udinese,496,Juventus,0,2,AWAY,20416.0,Bluenergy Stadium,R. Abisso
+135,Serie A,Italy,2024,1223700,2024-11-02T19:45:00+00:00,UTC,1730576700,Match Finished,FT,90,Regular Season - 11,1579,Monza,489,AC Milan,0,1,AWAY,12086.0,U-Power Stadium,E. Feliciani
+135,Serie A,Italy,2024,1223701,2024-11-03T11:30:00+00:00,UTC,1730633400,Match Finished,FT,90,Regular Season - 11,492,Napoli,499,Atalanta,0,3,AWAY,11904.0,Stadio Diego Armando Maradona,D. Doveri
+135,Serie A,Italy,2024,1223703,2024-11-03T14:00:00+00:00,UTC,1730642400,Match Finished,FT,90,Regular Season - 11,503,Torino,502,Fiorentina,0,1,AWAY,943.0,Stadio Olimpico Grande Torino,F. La Penna
+135,Serie A,Italy,2024,1223697,2024-11-03T17:00:00+00:00,UTC,1730653200,Match Finished,FT,90,Regular Season - 11,504,Hellas Verona,497,AS Roma,3,2,HOME,,Stadio Marcantonio Bentegodi,M. Marcenaro
+135,Serie A,Italy,2024,1223698,2024-11-03T19:45:00+00:00,UTC,1730663100,Match Finished,FT,90,Regular Season - 11,505,Inter,517,Venezia,1,0,HOME,907.0,Stadio Giuseppe Meazza,M. Ferrieri Caputi
+135,Serie A,Italy,2024,1223696,2024-11-04T17:30:00+00:00,UTC,1730741400,Match Finished,FT,90,Regular Season - 11,511,Empoli,895,Como,1,0,HOME,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Di Bello
+135,Serie A,Italy,2024,1223702,2024-11-04T17:30:00+00:00,UTC,1730741400,Match Finished,FT,90,Regular Season - 11,523,Parma,495,Genoa,0,1,AWAY,921.0,Stadio Ennio Tardini,M. Guida
+135,Serie A,Italy,2024,1223699,2024-11-04T19:45:00+00:00,UTC,1730749500,Match Finished,FT,90,Regular Season - 11,487,Lazio,490,Cagliari,2,1,HOME,910.0,Stadio Olimpico,G. Ayroldi
+135,Serie A,Italy,2024,1223708,2024-11-07T19:45:00+00:00,UTC,1731008700,Match Finished,FT,90,Regular Season - 12,495,Genoa,895,Como,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,A. Rapuano
+135,Serie A,Italy,2024,1223711,2024-11-08T19:45:00+00:00,UTC,1731095100,Match Finished,FT,90,Regular Season - 12,867,Lecce,511,Empoli,1,1,DRAW,,Stadio Ettore Giardiniero - Via del Mare,J. Sacchi
+135,Serie A,Italy,2024,1223714,2024-11-09T14:00:00+00:00,UTC,1731160800,Match Finished,FT,90,Regular Season - 12,517,Venezia,523,Parma,1,2,AWAY,,Stadio Pier Luigi Penzo,D. Chiffi
+135,Serie A,Italy,2024,1223706,2024-11-09T17:00:00+00:00,UTC,1731171600,Match Finished,FT,90,Regular Season - 12,490,Cagliari,489,AC Milan,3,3,DRAW,12275.0,Unipol Domus,M. Fabbri
+135,Serie A,Italy,2024,1223710,2024-11-09T19:45:00+00:00,UTC,1731181500,Match Finished,FT,90,Regular Season - 12,496,Juventus,503,Torino,2,0,HOME,909.0,Allianz Stadium,S. Sozza
+135,Serie A,Italy,2024,1223705,2024-11-10T11:30:00+00:00,UTC,1731238200,Match Finished,FT,90,Regular Season - 12,499,Atalanta,494,Udinese,2,1,HOME,879.0,Gewiss Stadium,M. Di Bello
+135,Serie A,Italy,2024,1223713,2024-11-10T14:00:00+00:00,UTC,1731247200,Match Finished,FT,90,Regular Season - 12,497,AS Roma,500,Bologna,2,3,AWAY,910.0,Stadio Olimpico,G. Manganiello
+135,Serie A,Italy,2024,1223707,2024-11-10T14:00:00+00:00,UTC,1731247200,Match Finished,FT,90,Regular Season - 12,502,Fiorentina,504,Hellas Verona,3,1,HOME,902.0,Stadio Artemio Franchi,L. Zufferli
+135,Serie A,Italy,2024,1223712,2024-11-10T17:00:00+00:00,UTC,1731258000,Match Finished,FT,90,Regular Season - 12,1579,Monza,487,Lazio,0,1,AWAY,12086.0,U-Power Stadium,A. Colombo
+135,Serie A,Italy,2024,1223709,2024-11-10T19:45:00+00:00,UTC,1731267900,Match Finished,FT,90,Regular Season - 12,505,Inter,492,Napoli,1,1,DRAW,907.0,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2024,1223718,2024-11-23T14:00:00+00:00,UTC,1732370400,Match Finished,FT,90,Regular Season - 13,504,Hellas Verona,505,Inter,0,5,AWAY,,Stadio Marcantonio Bentegodi,A. Colombo
+135,Serie A,Italy,2024,1223720,2024-11-23T17:00:00+00:00,UTC,1732381200,Match Finished,FT,90,Regular Season - 13,489,AC Milan,496,Juventus,0,0,DRAW,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2024,1223722,2024-11-23T19:45:00+00:00,UTC,1732391100,Match Finished,FT,90,Regular Season - 13,523,Parma,499,Atalanta,1,3,AWAY,921.0,Stadio Ennio Tardini,G. Manganiello
+135,Serie A,Italy,2024,1223717,2024-11-24T11:30:00+00:00,UTC,1732447800,Match Finished,FT,90,Regular Season - 13,495,Genoa,490,Cagliari,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,S. Sozza
+135,Serie A,Italy,2024,1223723,2024-11-24T14:00:00+00:00,UTC,1732456800,Match Finished,FT,90,Regular Season - 13,503,Torino,1579,Monza,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,R. Abisso
+135,Serie A,Italy,2024,1223715,2024-11-24T14:00:00+00:00,UTC,1732456800,Match Finished,FT,90,Regular Season - 13,895,Como,502,Fiorentina,0,2,AWAY,892.0,Stadio Giuseppe Sinigaglia,M. Marchetti
+135,Serie A,Italy,2024,1223721,2024-11-24T17:00:00+00:00,UTC,1732467600,Match Finished,FT,90,Regular Season - 13,492,Napoli,497,AS Roma,1,0,HOME,11904.0,Stadio Diego Armando Maradona,D. Massa
+135,Serie A,Italy,2024,1223719,2024-11-24T19:45:00+00:00,UTC,1732477500,Match Finished,FT,90,Regular Season - 13,487,Lazio,500,Bologna,3,0,HOME,910.0,Stadio Olimpico,A. Rapuano
+135,Serie A,Italy,2024,1223716,2024-11-25T17:30:00+00:00,UTC,1732555800,Match Finished,FT,90,Regular Season - 13,511,Empoli,494,Udinese,1,1,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,L. Marinelli
+135,Serie A,Italy,2024,1223724,2024-11-25T19:45:00+00:00,UTC,1732563900,Match Finished,FT,90,Regular Season - 13,517,Venezia,867,Lecce,0,1,AWAY,,Stadio Pier Luigi Penzo,L. Pairetto
+135,Serie A,Italy,2024,1223726,2024-11-29T19:45:00+00:00,UTC,1732909500,Match Finished,FT,90,Regular Season - 14,490,Cagliari,504,Hellas Verona,1,0,HOME,12275.0,Unipol Domus,M. Mariani
+135,Serie A,Italy,2024,1223727,2024-11-30T14:00:00+00:00,UTC,1732975200,Match Finished,FT,90,Regular Season - 14,895,Como,1579,Monza,1,1,DRAW,892.0,Stadio Giuseppe Sinigaglia,J. Sacchi
+135,Serie A,Italy,2024,1223730,2024-11-30T17:00:00+00:00,UTC,1732986000,Match Finished,FT,90,Regular Season - 14,489,AC Milan,511,Empoli,3,0,HOME,907.0,Stadio Giuseppe Meazza,F. Dionisi
+135,Serie A,Italy,2024,1223725,2024-11-30T19:45:00+00:00,UTC,1732995900,Match Finished,FT,90,Regular Season - 14,500,Bologna,517,Venezia,3,0,HOME,881.0,Stadio Renato Dall'Ara,L. Massimi
+135,Serie A,Italy,2024,1223734,2024-12-01T11:30:00+00:00,UTC,1733052600,Match Finished,FT,90,Regular Season - 14,494,Udinese,495,Genoa,0,2,AWAY,20416.0,Bluenergy Stadium,G. Aureliano
+135,Serie A,Italy,2024,1223733,2024-12-01T14:00:00+00:00,UTC,1733061600,Match Finished,FT,90,Regular Season - 14,503,Torino,492,Napoli,0,1,AWAY,943.0,Stadio Olimpico Grande Torino,M. Fabbri
+135,Serie A,Italy,2024,1223731,2024-12-01T14:00:00+00:00,UTC,1733061600,Match Finished,FT,90,Regular Season - 14,523,Parma,487,Lazio,3,1,HOME,921.0,Stadio Ennio Tardini,L. Zufferli
+135,Serie A,Italy,2024,1223729,2024-12-01T19:45:00+00:00,UTC,1733082300,Match Finished,FT,90,Regular Season - 14,867,Lecce,496,Juventus,1,1,DRAW,,Stadio Ettore Giardiniero - Via del Mare,A. Rapuano
+135,Serie A,Italy,2024,1223732,2024-12-02T19:45:00+00:00,UTC,1733168700,Match Finished,FT,90,Regular Season - 14,497,AS Roma,499,Atalanta,0,2,AWAY,910.0,Stadio Olimpico,M. Guida
+135,Serie A,Italy,2024,1223739,2024-12-06T17:30:00+00:00,UTC,1733506200,Match Finished,FT,90,Regular Season - 15,505,Inter,523,Parma,3,1,HOME,907.0,Stadio Giuseppe Meazza,R. Abisso
+135,Serie A,Italy,2024,1223735,2024-12-06T19:45:00+00:00,UTC,1733514300,Match Finished,FT,90,Regular Season - 15,499,Atalanta,489,AC Milan,2,1,HOME,879.0,Gewiss Stadium,F. La Penna
+135,Serie A,Italy,2024,1223737,2024-12-07T14:00:00+00:00,UTC,1733580000,Match Finished,FT,90,Regular Season - 15,495,Genoa,503,Torino,0,0,DRAW,905.0,Stadio Comunale Luigi Ferraris,L. Marinelli
+135,Serie A,Italy,2024,1223740,2024-12-07T17:00:00+00:00,UTC,1733590800,Match Finished,FT,90,Regular Season - 15,496,Juventus,500,Bologna,2,2,DRAW,909.0,Allianz Stadium,M. Marchetti
+135,Serie A,Italy,2024,1223743,2024-12-07T19:45:00+00:00,UTC,1733600700,Match Finished,FT,90,Regular Season - 15,497,AS Roma,867,Lecce,4,1,HOME,910.0,Stadio Olimpico,D. Chiffi
+135,Serie A,Italy,2024,1223736,2024-12-08T11:30:00+00:00,UTC,1733657400,Match Finished,FT,90,Regular Season - 15,502,Fiorentina,490,Cagliari,1,0,HOME,902.0,Stadio Artemio Franchi,M. Piccinini
+135,Serie A,Italy,2024,1223738,2024-12-08T14:00:00+00:00,UTC,1733666400,Match Finished,FT,90,Regular Season - 15,504,Hellas Verona,511,Empoli,1,4,AWAY,,Stadio Marcantonio Bentegodi,M. Di Bello
+135,Serie A,Italy,2024,1223744,2024-12-08T17:00:00+00:00,UTC,1733677200,Match Finished,FT,90,Regular Season - 15,517,Venezia,895,Como,2,2,DRAW,,Stadio Pier Luigi Penzo,D. Doveri
+135,Serie A,Italy,2024,1223742,2024-12-08T19:45:00+00:00,UTC,1733687100,Match Finished,FT,90,Regular Season - 15,492,Napoli,487,Lazio,0,1,AWAY,11904.0,Stadio Diego Armando Maradona,A. Colombo
+135,Serie A,Italy,2024,1223741,2024-12-09T19:45:00+00:00,UTC,1733773500,Match Finished,FT,90,Regular Season - 15,1579,Monza,494,Udinese,1,2,AWAY,12086.0,U-Power Stadium,G. Manganiello
+135,Serie A,Italy,2024,1223748,2024-12-13T19:45:00+00:00,UTC,1734119100,Match Finished,FT,90,Regular Season - 16,511,Empoli,503,Torino,0,1,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,K. Bonacina
+135,Serie A,Italy,2024,1223746,2024-12-14T14:00:00+00:00,UTC,1734184800,Match Finished,FT,90,Regular Season - 16,490,Cagliari,499,Atalanta,0,1,AWAY,12275.0,Unipol Domus,L. Pairetto
+135,Serie A,Italy,2024,1223754,2024-12-14T17:00:00+00:00,UTC,1734195600,Match Finished,FT,90,Regular Season - 16,494,Udinese,492,Napoli,1,3,AWAY,20416.0,Bluenergy Stadium,D. Doveri
+135,Serie A,Italy,2024,1223749,2024-12-14T19:45:00+00:00,UTC,1734205500,Match Finished,FT,90,Regular Season - 16,496,Juventus,517,Venezia,2,2,DRAW,909.0,Allianz Stadium,A. Giua
+135,Serie A,Italy,2024,1223751,2024-12-15T11:30:00+00:00,UTC,1734262200,Match Finished,FT,90,Regular Season - 16,867,Lecce,1579,Monza,2,1,HOME,,Stadio Ettore Giardiniero - Via del Mare,M. Mariani
+135,Serie A,Italy,2024,1223745,2024-12-15T14:00:00+00:00,UTC,1734271200,Match Finished,FT,90,Regular Season - 16,500,Bologna,502,Fiorentina,1,0,HOME,881.0,Stadio Renato Dall'Ara,M. Fabbri
+135,Serie A,Italy,2024,1223753,2024-12-15T14:00:00+00:00,UTC,1734271200,Match Finished,FT,90,Regular Season - 16,523,Parma,504,Hellas Verona,2,3,AWAY,921.0,Stadio Ennio Tardini,S. Sozza
+135,Serie A,Italy,2024,1223747,2024-12-15T17:00:00+00:00,UTC,1734282000,Match Finished,FT,90,Regular Season - 16,895,Como,497,AS Roma,2,0,HOME,892.0,Stadio Giuseppe Sinigaglia,A. Rapuano
+135,Serie A,Italy,2024,1223752,2024-12-15T19:45:00+00:00,UTC,1734291900,Match Finished,FT,90,Regular Season - 16,489,AC Milan,495,Genoa,0,0,DRAW,907.0,Stadio Giuseppe Meazza,M. Guida
+135,Serie A,Italy,2024,1223750,2024-12-16T19:45:00+00:00,UTC,1734378300,Match Finished,FT,90,Regular Season - 16,487,Lazio,505,Inter,0,6,AWAY,910.0,Stadio Olimpico,D. Chiffi
+135,Serie A,Italy,2024,1223758,2024-12-20T19:45:00+00:00,UTC,1734723900,Match Finished,FT,90,Regular Season - 17,504,Hellas Verona,489,AC Milan,0,1,AWAY,,Stadio Marcantonio Bentegodi,L. Marinelli
+135,Serie A,Italy,2024,1223763,2024-12-21T14:00:00+00:00,UTC,1734789600,Match Finished,FT,90,Regular Season - 17,503,Torino,500,Bologna,0,2,AWAY,943.0,Stadio Olimpico Grande Torino,M. Piccinini
+135,Serie A,Italy,2024,1223757,2024-12-21T17:00:00+00:00,UTC,1734800400,Match Finished,FT,90,Regular Season - 17,495,Genoa,492,Napoli,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,F. La Penna
+135,Serie A,Italy,2024,1223760,2024-12-21T19:45:00+00:00,UTC,1734810300,Match Finished,FT,90,Regular Season - 17,867,Lecce,487,Lazio,1,2,AWAY,,Stadio Ettore Giardiniero - Via del Mare,G. Manganiello
+135,Serie A,Italy,2024,1223762,2024-12-22T11:30:00+00:00,UTC,1734867000,Match Finished,FT,90,Regular Season - 17,497,AS Roma,523,Parma,5,0,HOME,910.0,Stadio Olimpico,M. Di Bello
+135,Serie A,Italy,2024,1223764,2024-12-22T14:00:00+00:00,UTC,1734876000,Match Finished,FT,90,Regular Season - 17,517,Venezia,490,Cagliari,2,1,HOME,,Stadio Pier Luigi Penzo,M. Guida
+135,Serie A,Italy,2024,1223755,2024-12-22T17:00:00+00:00,UTC,1734886800,Match Finished,FT,90,Regular Season - 17,499,Atalanta,511,Empoli,3,2,HOME,879.0,Gewiss Stadium,E. Feliciani
+135,Serie A,Italy,2024,1223761,2024-12-22T19:45:00+00:00,UTC,1734896700,Match Finished,FT,90,Regular Season - 17,1579,Monza,496,Juventus,1,2,AWAY,12086.0,U-Power Stadium,D. Massa
+135,Serie A,Italy,2024,1223756,2024-12-23T17:30:00+00:00,UTC,1734975000,Match Finished,FT,90,Regular Season - 17,502,Fiorentina,494,Udinese,1,2,AWAY,902.0,Stadio Artemio Franchi,M. Marcenaro
+135,Serie A,Italy,2024,1223759,2024-12-23T19:45:00+00:00,UTC,1734983100,Match Finished,FT,90,Regular Season - 17,505,Inter,895,Como,2,0,HOME,907.0,Stadio Giuseppe Meazza,A. Giua
+135,Serie A,Italy,2024,1223768,2024-12-28T14:00:00+00:00,UTC,1735394400,Match Finished,FT,90,Regular Season - 18,511,Empoli,495,Genoa,1,2,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,A. Rapuano
+135,Serie A,Italy,2024,1223773,2024-12-28T14:00:00+00:00,UTC,1735394400,Match Finished,FT,90,Regular Season - 18,523,Parma,1579,Monza,2,1,HOME,921.0,Stadio Ennio Tardini,F. La Penna
+135,Serie A,Italy,2024,1223766,2024-12-28T17:00:00+00:00,UTC,1735405200,Match Finished,FT,90,Regular Season - 18,490,Cagliari,505,Inter,0,3,AWAY,12275.0,Unipol Domus,D. Doveri
+135,Serie A,Italy,2024,1223770,2024-12-28T19:45:00+00:00,UTC,1735415100,Match Finished,FT,90,Regular Season - 18,487,Lazio,499,Atalanta,1,1,DRAW,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2024,1223774,2024-12-29T11:30:00+00:00,UTC,1735471800,Match Finished,FT,90,Regular Season - 18,494,Udinese,503,Torino,2,2,DRAW,20416.0,Bluenergy Stadium,F. Fourneau
+135,Serie A,Italy,2024,1223772,2024-12-29T14:00:00+00:00,UTC,1735480800,Match Finished,FT,90,Regular Season - 18,492,Napoli,517,Venezia,1,0,HOME,11904.0,Stadio Diego Armando Maradona,F. Cosso
+135,Serie A,Italy,2024,1223769,2024-12-29T17:00:00+00:00,UTC,1735491600,Match Finished,FT,90,Regular Season - 18,496,Juventus,502,Fiorentina,2,2,DRAW,909.0,Allianz Stadium,M. Mariani
+135,Serie A,Italy,2024,1223771,2024-12-29T19:45:00+00:00,UTC,1735501500,Match Finished,FT,90,Regular Season - 18,489,AC Milan,497,AS Roma,1,1,DRAW,907.0,Stadio Giuseppe Meazza,M. Fabbri
+135,Serie A,Italy,2024,1223767,2024-12-30T17:30:00+00:00,UTC,1735579800,Match Finished,FT,90,Regular Season - 18,895,Como,867,Lecce,2,0,HOME,892.0,Stadio Giuseppe Sinigaglia,M. Piccinini
+135,Serie A,Italy,2024,1223765,2024-12-30T19:45:00+00:00,UTC,1735587900,Match Finished,FT,90,Regular Season - 18,500,Bologna,504,Hellas Verona,2,3,AWAY,881.0,Stadio Renato Dall'Ara,G. Ayroldi
+135,Serie A,Italy,2024,1223784,2025-01-04T14:00:00+00:00,UTC,1735999200,Match Finished,FT,90,Regular Season - 19,517,Venezia,511,Empoli,1,1,DRAW,,Stadio Pier Luigi Penzo,J. Sacchi
+135,Serie A,Italy,2024,1223777,2025-01-04T17:00:00+00:00,UTC,1736010000,Match Finished,FT,90,Regular Season - 19,502,Fiorentina,492,Napoli,0,3,AWAY,902.0,Stadio Artemio Franchi,G. Manganiello
+135,Serie A,Italy,2024,1223778,2025-01-04T19:45:00+00:00,UTC,1736019900,Match Finished,FT,90,Regular Season - 19,504,Hellas Verona,494,Udinese,0,0,DRAW,,Stadio Marcantonio Bentegodi,F. Dionisi
+135,Serie A,Italy,2024,1223781,2025-01-05T11:30:00+00:00,UTC,1736076600,Match Finished,FT,90,Regular Season - 19,1579,Monza,490,Cagliari,1,2,AWAY,12086.0,U-Power Stadium,M. Di Bello
+135,Serie A,Italy,2024,1223780,2025-01-05T14:00:00+00:00,UTC,1736085600,Match Finished,FT,90,Regular Season - 19,867,Lecce,495,Genoa,0,0,DRAW,,Stadio Ettore Giardiniero - Via del Mare,L. Marinelli
+135,Serie A,Italy,2024,1223783,2025-01-05T17:00:00+00:00,UTC,1736096400,Match Finished,FT,90,Regular Season - 19,503,Torino,523,Parma,0,0,DRAW,943.0,Stadio Olimpico Grande Torino,E. Feliciani
+135,Serie A,Italy,2024,1223782,2025-01-05T19:45:00+00:00,UTC,1736106300,Match Finished,FT,90,Regular Season - 19,497,AS Roma,487,Lazio,2,0,HOME,910.0,Stadio Olimpico,L. Pairetto
+135,Serie A,Italy,2024,1223788,2025-01-10T19:45:00+00:00,UTC,1736538300,Match Finished,FT,90,Regular Season - 20,487,Lazio,895,Como,1,1,DRAW,910.0,Stadio Olimpico,P. Tremolada
+135,Serie A,Italy,2024,1223793,2025-01-11T14:00:00+00:00,UTC,1736604000,Match Finished,FT,90,Regular Season - 20,494,Udinese,499,Atalanta,0,0,DRAW,20416.0,Bluenergy Stadium,M. Mariani
+135,Serie A,Italy,2024,1223786,2025-01-11T14:00:00+00:00,UTC,1736604000,Match Finished,FT,90,Regular Season - 20,511,Empoli,867,Lecce,1,3,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,D. Chiffi
+135,Serie A,Italy,2024,1223792,2025-01-11T17:00:00+00:00,UTC,1736614800,Match Finished,FT,90,Regular Season - 20,503,Torino,496,Juventus,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,M. Fabbri
+135,Serie A,Italy,2024,1223789,2025-01-11T19:45:00+00:00,UTC,1736624700,Match Finished,FT,90,Regular Season - 20,489,AC Milan,490,Cagliari,1,1,DRAW,907.0,Stadio Giuseppe Meazza,F. Fourneau
+135,Serie A,Italy,2024,1223787,2025-01-12T11:30:00+00:00,UTC,1736681400,Match Finished,FT,90,Regular Season - 20,495,Genoa,523,Parma,1,0,HOME,905.0,Stadio Comunale Luigi Ferraris,A. Colombo
+135,Serie A,Italy,2024,1223794,2025-01-12T14:00:00+00:00,UTC,1736690400,Match Finished,FT,90,Regular Season - 20,517,Venezia,505,Inter,0,1,AWAY,,Stadio Pier Luigi Penzo,M. Piccinini
+135,Serie A,Italy,2024,1223785,2025-01-12T17:00:00+00:00,UTC,1736701200,Match Finished,FT,90,Regular Season - 20,500,Bologna,497,AS Roma,2,2,DRAW,881.0,Stadio Renato Dall'Ara,R. Abisso
+135,Serie A,Italy,2024,1223791,2025-01-12T19:45:00+00:00,UTC,1736711100,Match Finished,FT,90,Regular Season - 20,492,Napoli,504,Hellas Verona,2,0,HOME,11904.0,Stadio Diego Armando Maradona,L. Zufferli
+135,Serie A,Italy,2024,1223790,2025-01-13T19:45:00+00:00,UTC,1736797500,Match Finished,FT,90,Regular Season - 20,1579,Monza,502,Fiorentina,2,1,HOME,12086.0,U-Power Stadium,F. Dionisi
+135,Serie A,Italy,2024,1223776,2025-01-14T17:30:00+00:00,UTC,1736875800,Match Finished,FT,90,Regular Season - 19,895,Como,489,AC Milan,1,2,AWAY,892.0,Stadio Giuseppe Sinigaglia,G. Manganiello
+135,Serie A,Italy,2024,1223775,2025-01-14T19:45:00+00:00,UTC,1736883900,Match Finished,FT,90,Regular Season - 19,499,Atalanta,496,Juventus,1,1,DRAW,879.0,Gewiss Stadium,D. Doveri
+135,Serie A,Italy,2024,1223779,2025-01-15T19:45:00+00:00,UTC,1736970300,Match Finished,FT,90,Regular Season - 19,505,Inter,500,Bologna,2,2,DRAW,907.0,Stadio Giuseppe Meazza,L. Pairetto
+135,Serie A,Italy,2024,1223804,2025-01-17T19:45:00+00:00,UTC,1737143100,Match Finished,FT,90,Regular Season - 21,497,AS Roma,495,Genoa,3,1,HOME,910.0,Stadio Olimpico,L. Zufferli
+135,Serie A,Italy,2024,1223796,2025-01-18T14:00:00+00:00,UTC,1737208800,Match Finished,FT,90,Regular Season - 21,500,Bologna,1579,Monza,3,1,HOME,881.0,Stadio Renato Dall'Ara,M. Mariani
+135,Serie A,Italy,2024,1223802,2025-01-18T17:00:00+00:00,UTC,1737219600,Match Finished,FT,90,Regular Season - 21,496,Juventus,489,AC Milan,2,0,HOME,909.0,Allianz Stadium,D. Massa
+135,Serie A,Italy,2024,1223795,2025-01-18T19:45:00+00:00,UTC,1737229500,Match Finished,FT,90,Regular Season - 21,499,Atalanta,492,Napoli,2,3,AWAY,879.0,Gewiss Stadium,A. Colombo
+135,Serie A,Italy,2024,1223799,2025-01-19T11:30:00+00:00,UTC,1737286200,Match Finished,FT,90,Regular Season - 21,502,Fiorentina,503,Torino,1,1,DRAW,902.0,Stadio Artemio Franchi,L. Marinelli
+135,Serie A,Italy,2024,1223797,2025-01-19T14:00:00+00:00,UTC,1737295200,Match Finished,FT,90,Regular Season - 21,490,Cagliari,867,Lecce,4,1,HOME,12275.0,Unipol Domus,J. Sacchi
+135,Serie A,Italy,2024,1223803,2025-01-19T14:00:00+00:00,UTC,1737295200,Match Finished,FT,90,Regular Season - 21,523,Parma,517,Venezia,1,1,DRAW,921.0,Stadio Ennio Tardini,F. Fourneau
+135,Serie A,Italy,2024,1223800,2025-01-19T17:00:00+00:00,UTC,1737306000,Match Finished,FT,90,Regular Season - 21,504,Hellas Verona,487,Lazio,0,3,AWAY,,Stadio Marcantonio Bentegodi,M. Fabbri
+135,Serie A,Italy,2024,1223801,2025-01-19T19:45:00+00:00,UTC,1737315900,Match Finished,FT,90,Regular Season - 21,505,Inter,511,Empoli,3,1,HOME,907.0,Stadio Giuseppe Meazza,E. Feliciani
+135,Serie A,Italy,2024,1223798,2025-01-20T19:45:00+00:00,UTC,1737402300,Match Finished,FT,90,Regular Season - 21,895,Como,494,Udinese,4,1,HOME,892.0,Stadio Giuseppe Sinigaglia,F. Cosso
+135,Serie A,Italy,2024,1223812,2025-01-24T19:45:00+00:00,UTC,1737747900,Match Finished,FT,90,Regular Season - 22,503,Torino,490,Cagliari,2,0,HOME,943.0,Stadio Olimpico Grande Torino,K. Bonacina
+135,Serie A,Italy,2024,1223805,2025-01-25T14:00:00+00:00,UTC,1737813600,Match Finished,FT,90,Regular Season - 22,895,Como,499,Atalanta,1,2,AWAY,892.0,Stadio Giuseppe Sinigaglia,L. Pairetto
+135,Serie A,Italy,2024,1223811,2025-01-25T17:00:00+00:00,UTC,1737824400,Match Finished,FT,90,Regular Season - 22,492,Napoli,496,Juventus,2,1,HOME,11904.0,Stadio Diego Armando Maradona,D. Chiffi
+135,Serie A,Italy,2024,1223806,2025-01-25T19:45:00+00:00,UTC,1737834300,Match Finished,FT,90,Regular Season - 22,511,Empoli,500,Bologna,1,1,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,F. La Penna
+135,Serie A,Italy,2024,1223810,2025-01-26T11:30:00+00:00,UTC,1737891000,Match Finished,FT,90,Regular Season - 22,489,AC Milan,523,Parma,3,2,HOME,907.0,Stadio Giuseppe Meazza,R. Abisso
+135,Serie A,Italy,2024,1223813,2025-01-26T14:00:00+00:00,UTC,1737900000,Match Finished,FT,90,Regular Season - 22,494,Udinese,497,AS Roma,1,2,AWAY,20416.0,Bluenergy Stadium,S. Sozza
+135,Serie A,Italy,2024,1223809,2025-01-26T17:00:00+00:00,UTC,1737910800,Match Finished,FT,90,Regular Season - 22,867,Lecce,505,Inter,0,4,AWAY,,Stadio Ettore Giardiniero - Via del Mare,L. Marinelli
+135,Serie A,Italy,2024,1223808,2025-01-26T19:45:00+00:00,UTC,1737920700,Match Finished,FT,90,Regular Season - 22,487,Lazio,502,Fiorentina,1,2,AWAY,910.0,Stadio Olimpico,A. Rapuano
+135,Serie A,Italy,2024,1223814,2025-01-27T17:30:00+00:00,UTC,1737999000,Match Finished,FT,90,Regular Season - 22,517,Venezia,504,Hellas Verona,1,1,DRAW,,Stadio Pier Luigi Penzo,G. Manganiello
+135,Serie A,Italy,2024,1223807,2025-01-27T19:45:00+00:00,UTC,1738007100,Match Finished,FT,90,Regular Season - 22,495,Genoa,1579,Monza,2,0,HOME,905.0,Stadio Comunale Luigi Ferraris,D. Doveri
+135,Serie A,Italy,2024,1223822,2025-01-31T19:45:00+00:00,UTC,1738352700,Match Finished,FT,90,Regular Season - 23,523,Parma,867,Lecce,1,3,AWAY,921.0,Stadio Ennio Tardini,S. Sozza
+135,Serie A,Italy,2024,1223824,2025-02-01T14:00:00+00:00,UTC,1738418400,Match Finished,FT,90,Regular Season - 23,494,Udinese,517,Venezia,3,2,HOME,20416.0,Bluenergy Stadium,M. Mariani
+135,Serie A,Italy,2024,1223821,2025-02-01T14:00:00+00:00,UTC,1738418400,Match Finished,FT,90,Regular Season - 23,1579,Monza,504,Hellas Verona,0,1,AWAY,12086.0,U-Power Stadium,D. Massa
+135,Serie A,Italy,2024,1223815,2025-02-01T17:00:00+00:00,UTC,1738429200,Match Finished,FT,90,Regular Season - 23,499,Atalanta,503,Torino,1,1,DRAW,879.0,Gewiss Stadium,M. Piccinini
+135,Serie A,Italy,2024,1223816,2025-02-01T19:45:00+00:00,UTC,1738439100,Match Finished,FT,90,Regular Season - 23,500,Bologna,895,Como,2,0,HOME,881.0,Stadio Renato Dall'Ara,L. Massimi
+135,Serie A,Italy,2024,1223819,2025-02-02T11:30:00+00:00,UTC,1738495800,Match Finished,FT,90,Regular Season - 23,496,Juventus,511,Empoli,4,1,HOME,909.0,Allianz Stadium,L. Zufferli
+135,Serie A,Italy,2024,1223818,2025-02-02T14:00:00+00:00,UTC,1738504800,Match Finished,FT,90,Regular Season - 23,502,Fiorentina,495,Genoa,2,1,HOME,902.0,Stadio Artemio Franchi,G. Collu
+135,Serie A,Italy,2024,1223820,2025-02-02T17:00:00+00:00,UTC,1738515600,Match Finished,FT,90,Regular Season - 23,489,AC Milan,505,Inter,1,1,DRAW,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2024,1223823,2025-02-02T19:45:00+00:00,UTC,1738525500,Match Finished,FT,90,Regular Season - 23,497,AS Roma,492,Napoli,1,1,DRAW,910.0,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2024,1223817,2025-02-03T19:45:00+00:00,UTC,1738611900,Match Finished,FT,90,Regular Season - 23,490,Cagliari,487,Lazio,1,2,AWAY,12275.0,Unipol Domus,G. Manganiello
+135,Serie A,Italy,2024,1223728,2025-02-06T19:45:00+00:00,UTC,1738871100,Match Finished,FT,90,Regular Season - 14,502,Fiorentina,505,Inter,3,0,HOME,902.0,Stadio Artemio Franchi,D. Doveri
+135,Serie A,Italy,2024,1223826,2025-02-07T19:45:00+00:00,UTC,1738957500,Match Finished,FT,90,Regular Season - 24,895,Como,496,Juventus,1,2,AWAY,892.0,Stadio Giuseppe Sinigaglia,R. Abisso
+135,Serie A,Italy,2024,1223828,2025-02-08T14:00:00+00:00,UTC,1739023200,Match Finished,FT,90,Regular Season - 24,504,Hellas Verona,499,Atalanta,0,5,AWAY,,Stadio Marcantonio Bentegodi,S. Sozza
+135,Serie A,Italy,2024,1223827,2025-02-08T17:00:00+00:00,UTC,1739034000,Match Finished,FT,90,Regular Season - 24,511,Empoli,489,AC Milan,0,2,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,L. Pairetto
+135,Serie A,Italy,2024,1223833,2025-02-08T19:45:00+00:00,UTC,1739043900,Match Finished,FT,90,Regular Season - 24,503,Torino,495,Genoa,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,E. Feliciani
+135,Serie A,Italy,2024,1223834,2025-02-09T11:30:00+00:00,UTC,1739100600,Match Finished,FT,90,Regular Season - 24,517,Venezia,497,AS Roma,0,1,AWAY,,Stadio Pier Luigi Penzo,L. Zufferli
+135,Serie A,Italy,2024,1223830,2025-02-09T14:00:00+00:00,UTC,1739109600,Match Finished,FT,90,Regular Season - 24,487,Lazio,1579,Monza,5,1,HOME,910.0,Stadio Olimpico,G. Aureliano
+135,Serie A,Italy,2024,1223825,2025-02-09T14:00:00+00:00,UTC,1739109600,Match Finished,FT,90,Regular Season - 24,490,Cagliari,523,Parma,2,1,HOME,12275.0,Unipol Domus,M. Di Bello
+135,Serie A,Italy,2024,1223831,2025-02-09T17:00:00+00:00,UTC,1739120400,Match Finished,FT,90,Regular Season - 24,867,Lecce,500,Bologna,0,0,DRAW,,Stadio Ettore Giardiniero - Via del Mare,F. Fourneau
+135,Serie A,Italy,2024,1223832,2025-02-09T19:45:00+00:00,UTC,1739130300,Match Finished,FT,90,Regular Season - 24,492,Napoli,494,Udinese,1,1,DRAW,11904.0,Stadio Diego Armando Maradona,L. Marinelli
+135,Serie A,Italy,2024,1223829,2025-02-10T19:45:00+00:00,UTC,1739216700,Match Finished,FT,90,Regular Season - 24,505,Inter,502,Fiorentina,2,1,HOME,907.0,Stadio Giuseppe Meazza,F. La Penna
+135,Serie A,Italy,2024,1223836,2025-02-14T19:45:00+00:00,UTC,1739562300,Match Finished,FT,90,Regular Season - 25,500,Bologna,503,Torino,3,2,HOME,881.0,Stadio Renato Dall'Ara,M. Fabbri
+135,Serie A,Italy,2024,1223835,2025-02-15T14:00:00+00:00,UTC,1739628000,Match Finished,FT,90,Regular Season - 25,499,Atalanta,490,Cagliari,0,0,DRAW,879.0,Gewiss Stadium,M. Marchetti
+135,Serie A,Italy,2024,1223840,2025-02-15T17:00:00+00:00,UTC,1739638800,Match Finished,FT,90,Regular Season - 25,487,Lazio,492,Napoli,2,2,DRAW,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2024,1223841,2025-02-15T19:45:00+00:00,UTC,1739648700,Match Finished,FT,90,Regular Season - 25,489,AC Milan,504,Hellas Verona,1,0,HOME,907.0,Stadio Giuseppe Meazza,F. Fourneau
+135,Serie A,Italy,2024,1223837,2025-02-16T11:30:00+00:00,UTC,1739705400,Match Finished,FT,90,Regular Season - 25,502,Fiorentina,895,Como,0,2,AWAY,902.0,Stadio Artemio Franchi,M. Piccinini
+135,Serie A,Italy,2024,1223844,2025-02-16T14:00:00+00:00,UTC,1739714400,Match Finished,FT,90,Regular Season - 25,494,Udinese,511,Empoli,3,0,HOME,20416.0,Bluenergy Stadium,D. Doveri
+135,Serie A,Italy,2024,1223842,2025-02-16T14:00:00+00:00,UTC,1739714400,Match Finished,FT,90,Regular Season - 25,1579,Monza,867,Lecce,0,0,DRAW,12086.0,U-Power Stadium,G. Collu
+135,Serie A,Italy,2024,1223843,2025-02-16T17:00:00+00:00,UTC,1739725200,Match Finished,FT,90,Regular Season - 25,523,Parma,497,AS Roma,0,1,AWAY,921.0,Stadio Ennio Tardini,D. Chiffi
+135,Serie A,Italy,2024,1223839,2025-02-16T19:45:00+00:00,UTC,1739735100,Match Finished,FT,90,Regular Season - 25,496,Juventus,505,Inter,1,0,HOME,909.0,Allianz Stadium,M. Mariani
+135,Serie A,Italy,2024,1223838,2025-02-17T19:45:00+00:00,UTC,1739821500,Match Finished,FT,90,Regular Season - 25,495,Genoa,517,Venezia,2,0,HOME,905.0,Stadio Comunale Luigi Ferraris,L. Marinelli
+135,Serie A,Italy,2024,1223850,2025-02-21T19:45:00+00:00,UTC,1740167100,Match Finished,FT,90,Regular Season - 26,867,Lecce,494,Udinese,0,1,AWAY,,Stadio Ettore Giardiniero - Via del Mare,K. Bonacina
+135,Serie A,Italy,2024,1223854,2025-02-22T14:00:00+00:00,UTC,1740232800,Match Finished,FT,90,Regular Season - 26,517,Venezia,487,Lazio,0,0,DRAW,,Stadio Pier Luigi Penzo,M. Marchetti
+135,Serie A,Italy,2024,1223851,2025-02-22T14:00:00+00:00,UTC,1740232800,Match Finished,FT,90,Regular Season - 26,523,Parma,500,Bologna,2,0,HOME,921.0,Stadio Ennio Tardini,R. Abisso
+135,Serie A,Italy,2024,1223853,2025-02-22T17:00:00+00:00,UTC,1740243600,Match Finished,FT,90,Regular Season - 26,503,Torino,489,AC Milan,2,1,HOME,943.0,Stadio Olimpico Grande Torino,S. Sozza
+135,Serie A,Italy,2024,1223849,2025-02-22T19:45:00+00:00,UTC,1740253500,Match Finished,FT,90,Regular Season - 26,505,Inter,495,Genoa,1,0,HOME,907.0,Stadio Giuseppe Meazza,M. Piccinini
+135,Serie A,Italy,2024,1223846,2025-02-23T11:30:00+00:00,UTC,1740310200,Match Finished,FT,90,Regular Season - 26,895,Como,492,Napoli,2,1,HOME,892.0,Stadio Giuseppe Sinigaglia,G. Manganiello
+135,Serie A,Italy,2024,1223848,2025-02-23T14:00:00+00:00,UTC,1740319200,Match Finished,FT,90,Regular Season - 26,504,Hellas Verona,502,Fiorentina,1,0,HOME,,Stadio Marcantonio Bentegodi,M. Di Bello
+135,Serie A,Italy,2024,1223847,2025-02-23T17:00:00+00:00,UTC,1740330000,Match Finished,FT,90,Regular Season - 26,511,Empoli,499,Atalanta,0,5,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Mariani
+135,Serie A,Italy,2024,1223845,2025-02-23T19:45:00+00:00,UTC,1740339900,Match Finished,FT,90,Regular Season - 26,490,Cagliari,496,Juventus,0,1,AWAY,12275.0,Unipol Domus,A. Colombo
+135,Serie A,Italy,2024,1223852,2025-02-24T19:45:00+00:00,UTC,1740426300,Match Finished,FT,90,Regular Season - 26,497,AS Roma,1579,Monza,4,0,HOME,910.0,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2024,1223676,2025-02-27T19:45:00+00:00,UTC,1740685500,Match Finished,FT,90,Regular Season - 9,500,Bologna,489,AC Milan,2,1,HOME,881.0,Stadio Renato Dall'Ara,M. Mariani
+135,Serie A,Italy,2024,1223857,2025-02-28T19:45:00+00:00,UTC,1740771900,Match Finished,FT,90,Regular Season - 27,502,Fiorentina,867,Lecce,1,0,HOME,902.0,Stadio Artemio Franchi,L. Marinelli
+135,Serie A,Italy,2024,1223855,2025-03-01T14:00:00+00:00,UTC,1740837600,Match Finished,FT,90,Regular Season - 27,499,Atalanta,517,Venezia,0,0,DRAW,879.0,Gewiss Stadium,G. Collu
+135,Serie A,Italy,2024,1223862,2025-03-01T17:00:00+00:00,UTC,1740848400,Match Finished,FT,90,Regular Season - 27,492,Napoli,505,Inter,1,1,DRAW,11904.0,Stadio Diego Armando Maradona,D. Doveri
+135,Serie A,Italy,2024,1223864,2025-03-01T19:45:00+00:00,UTC,1740858300,Match Finished,FT,90,Regular Season - 27,494,Udinese,523,Parma,1,0,HOME,20416.0,Bluenergy Stadium,F. Maresca
+135,Serie A,Italy,2024,1223861,2025-03-02T11:30:00+00:00,UTC,1740915000,Match Finished,FT,90,Regular Season - 27,1579,Monza,503,Torino,0,2,AWAY,12086.0,U-Power Stadium,A. Rapuano
+135,Serie A,Italy,2024,1223858,2025-03-02T14:00:00+00:00,UTC,1740924000,Match Finished,FT,90,Regular Season - 27,495,Genoa,511,Empoli,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,D. Massa
+135,Serie A,Italy,2024,1223856,2025-03-02T14:00:00+00:00,UTC,1740924000,Match Finished,FT,90,Regular Season - 27,500,Bologna,490,Cagliari,2,1,HOME,881.0,Stadio Renato Dall'Ara,L. Zufferli
+135,Serie A,Italy,2024,1223863,2025-03-02T17:00:00+00:00,UTC,1740934800,Match Finished,FT,90,Regular Season - 27,497,AS Roma,895,Como,2,1,HOME,910.0,Stadio Olimpico,L. Pairetto
+135,Serie A,Italy,2024,1223860,2025-03-02T19:45:00+00:00,UTC,1740944700,Match Finished,FT,90,Regular Season - 27,489,AC Milan,487,Lazio,1,2,AWAY,907.0,Stadio Giuseppe Meazza,G. Manganiello
+135,Serie A,Italy,2024,1223859,2025-03-03T19:45:00+00:00,UTC,1741031100,Match Finished,FT,90,Regular Season - 27,496,Juventus,504,Hellas Verona,2,0,HOME,909.0,Allianz Stadium,M. Marchetti
+135,Serie A,Italy,2024,1223865,2025-03-07T19:45:00+00:00,UTC,1741376700,Match Finished,FT,90,Regular Season - 28,490,Cagliari,495,Genoa,1,1,DRAW,12275.0,Unipol Domus,M. Fabbri
+135,Serie A,Italy,2024,1223874,2025-03-08T14:00:00+00:00,UTC,1741442400,Match Finished,FT,90,Regular Season - 28,523,Parma,503,Torino,2,2,DRAW,921.0,Stadio Ennio Tardini,F. Fourneau
+135,Serie A,Italy,2024,1223866,2025-03-08T14:00:00+00:00,UTC,1741442400,Match Finished,FT,90,Regular Season - 28,895,Como,517,Venezia,1,1,DRAW,892.0,Stadio Giuseppe Sinigaglia,G. Ayroldi
+135,Serie A,Italy,2024,1223872,2025-03-08T17:00:00+00:00,UTC,1741453200,Match Finished,FT,90,Regular Season - 28,867,Lecce,489,AC Milan,2,3,AWAY,,Stadio Ettore Giardiniero - Via del Mare,D. Doveri
+135,Serie A,Italy,2024,1223869,2025-03-08T19:45:00+00:00,UTC,1741463100,Match Finished,FT,90,Regular Season - 28,505,Inter,1579,Monza,3,2,HOME,907.0,Stadio Giuseppe Meazza,L. Zufferli
+135,Serie A,Italy,2024,1223868,2025-03-09T11:30:00+00:00,UTC,1741519800,Match Finished,FT,90,Regular Season - 28,504,Hellas Verona,500,Bologna,1,2,AWAY,,Stadio Marcantonio Bentegodi,A. Rapuano
+135,Serie A,Italy,2024,1223873,2025-03-09T14:00:00+00:00,UTC,1741528800,Match Finished,FT,90,Regular Season - 28,492,Napoli,502,Fiorentina,2,1,HOME,11904.0,Stadio Diego Armando Maradona,A. Colombo
+135,Serie A,Italy,2024,1223867,2025-03-09T17:00:00+00:00,UTC,1741539600,Match Finished,FT,90,Regular Season - 28,511,Empoli,497,AS Roma,0,1,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Di Bello
+135,Serie A,Italy,2024,1223870,2025-03-09T19:45:00+00:00,UTC,1741549500,Match Finished,FT,90,Regular Season - 28,496,Juventus,499,Atalanta,0,4,AWAY,909.0,Allianz Stadium,S. Sozza
+135,Serie A,Italy,2024,1223871,2025-03-10T19:45:00+00:00,UTC,1741635900,Match Finished,FT,90,Regular Season - 28,487,Lazio,494,Udinese,1,1,DRAW,910.0,Stadio Olimpico,M. Piccinini
+135,Serie A,Italy,2024,1223878,2025-03-14T19:45:00+00:00,UTC,1741981500,Match Finished,FT,90,Regular Season - 29,495,Genoa,867,Lecce,2,1,HOME,905.0,Stadio Comunale Luigi Ferraris,F. Maresca
+135,Serie A,Italy,2024,1223883,2025-03-15T14:00:00+00:00,UTC,1742047200,Match Finished,FT,90,Regular Season - 29,494,Udinese,504,Hellas Verona,0,1,AWAY,20416.0,Bluenergy Stadium,G. Ayroldi
+135,Serie A,Italy,2024,1223880,2025-03-15T14:00:00+00:00,UTC,1742047200,Match Finished,FT,90,Regular Season - 29,1579,Monza,523,Parma,1,1,DRAW,12086.0,U-Power Stadium,G. Manganiello
+135,Serie A,Italy,2024,1223879,2025-03-15T17:00:00+00:00,UTC,1742058000,Match Finished,FT,90,Regular Season - 29,489,AC Milan,895,Como,2,1,HOME,907.0,Stadio Giuseppe Meazza,M. Marchetti
+135,Serie A,Italy,2024,1223882,2025-03-15T19:45:00+00:00,UTC,1742067900,Match Finished,FT,90,Regular Season - 29,503,Torino,511,Empoli,1,0,HOME,943.0,Stadio Olimpico Grande Torino,D. Chiffi
+135,Serie A,Italy,2024,1223884,2025-03-16T11:30:00+00:00,UTC,1742124600,Match Finished,FT,90,Regular Season - 29,517,Venezia,492,Napoli,0,0,DRAW,,Stadio Pier Luigi Penzo,M. Mariani
+135,Serie A,Italy,2024,1223876,2025-03-16T14:00:00+00:00,UTC,1742133600,Match Finished,FT,90,Regular Season - 29,500,Bologna,487,Lazio,5,0,HOME,881.0,Stadio Renato Dall'Ara,A. Colombo
+135,Serie A,Italy,2024,1223881,2025-03-16T15:00:00+00:00,UTC,1742137200,Match Finished,FT,90,Regular Season - 29,497,AS Roma,490,Cagliari,1,0,HOME,910.0,Stadio Olimpico,M. Piccinini
+135,Serie A,Italy,2024,1223877,2025-03-16T17:00:00+00:00,UTC,1742144400,Match Finished,FT,90,Regular Season - 29,502,Fiorentina,496,Juventus,3,0,HOME,902.0,Stadio Artemio Franchi,M. Fabbri
+135,Serie A,Italy,2024,1223875,2025-03-16T19:45:00+00:00,UTC,1742154300,Match Finished,FT,90,Regular Season - 29,499,Atalanta,505,Inter,0,2,AWAY,879.0,Gewiss Stadium,D. Massa
+135,Serie A,Italy,2024,1223894,2025-03-29T14:00:00+00:00,UTC,1743256800,Match Finished,FT,90,Regular Season - 30,517,Venezia,500,Bologna,0,1,AWAY,,Stadio Pier Luigi Penzo,M. Di Bello
+135,Serie A,Italy,2024,1223886,2025-03-29T14:00:00+00:00,UTC,1743256800,Match Finished,FT,90,Regular Season - 30,895,Como,511,Empoli,1,1,DRAW,892.0,Stadio Giuseppe Sinigaglia,M. Mariani
+135,Serie A,Italy,2024,1223890,2025-03-29T17:00:00+00:00,UTC,1743267600,Match Finished,FT,90,Regular Season - 30,496,Juventus,495,Genoa,1,0,HOME,909.0,Allianz Stadium,A. Rapuano
+135,Serie A,Italy,2024,1223892,2025-03-29T19:45:00+00:00,UTC,1743277500,Match Finished,FT,90,Regular Season - 30,867,Lecce,497,AS Roma,0,1,AWAY,,Stadio Ettore Giardiniero - Via del Mare,G. Manganiello
+135,Serie A,Italy,2024,1223885,2025-03-30T10:30:00+00:00,UTC,1743330600,Match Finished,FT,90,Regular Season - 30,490,Cagliari,1579,Monza,3,0,HOME,12275.0,Unipol Domus,F. Fourneau
+135,Serie A,Italy,2024,1223887,2025-03-30T13:00:00+00:00,UTC,1743339600,Match Finished,FT,90,Regular Season - 30,502,Fiorentina,499,Atalanta,1,0,HOME,902.0,Stadio Artemio Franchi,D. Doveri
+135,Serie A,Italy,2024,1223889,2025-03-30T16:00:00+00:00,UTC,1743350400,Match Finished,FT,90,Regular Season - 30,505,Inter,494,Udinese,2,1,HOME,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2024,1223893,2025-03-30T18:45:00+00:00,UTC,1743360300,Match Finished,FT,90,Regular Season - 30,492,Napoli,489,AC Milan,2,1,HOME,11904.0,Stadio Diego Armando Maradona,S. Sozza
+135,Serie A,Italy,2024,1223888,2025-03-31T16:30:00+00:00,UTC,1743438600,Match Finished,FT,90,Regular Season - 30,504,Hellas Verona,523,Parma,0,0,DRAW,,Stadio Marcantonio Bentegodi,J. Sacchi
+135,Serie A,Italy,2024,1223891,2025-03-31T18:45:00+00:00,UTC,1743446700,Match Finished,FT,90,Regular Season - 30,487,Lazio,503,Torino,1,1,DRAW,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2024,1223898,2025-04-04T18:45:00+00:00,UTC,1743792300,Match Finished,FT,90,Regular Season - 31,495,Genoa,494,Udinese,1,0,HOME,905.0,Stadio Comunale Luigi Ferraris,D. Perenzoni
+135,Serie A,Italy,2024,1223901,2025-04-05T13:00:00+00:00,UTC,1743858000,Match Finished,FT,90,Regular Season - 31,1579,Monza,895,Como,1,3,AWAY,12086.0,U-Power Stadium,G. Collu
+135,Serie A,Italy,2024,1223902,2025-04-05T16:00:00+00:00,UTC,1743868800,Match Finished,FT,90,Regular Season - 31,523,Parma,505,Inter,2,2,DRAW,921.0,Stadio Ennio Tardini,D. Doveri
+135,Serie A,Italy,2024,1223900,2025-04-05T18:45:00+00:00,UTC,1743878700,Match Finished,FT,90,Regular Season - 31,489,AC Milan,502,Fiorentina,2,2,DRAW,907.0,Stadio Giuseppe Meazza,G. Ayroldi
+135,Serie A,Italy,2024,1223899,2025-04-06T10:30:00+00:00,UTC,1743935400,Match Finished,FT,90,Regular Season - 31,867,Lecce,517,Venezia,1,1,DRAW,,Stadio Ettore Giardiniero - Via del Mare,M. Piccinini
+135,Serie A,Italy,2024,1223904,2025-04-06T13:00:00+00:00,UTC,1743944400,Match Finished,FT,90,Regular Season - 31,503,Torino,504,Hellas Verona,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,K. Bonacina
+135,Serie A,Italy,2024,1223897,2025-04-06T13:00:00+00:00,UTC,1743944400,Match Finished,FT,90,Regular Season - 31,511,Empoli,490,Cagliari,0,0,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,F. La Penna
+135,Serie A,Italy,2024,1223895,2025-04-06T16:00:00+00:00,UTC,1743955200,Match Finished,FT,90,Regular Season - 31,499,Atalanta,487,Lazio,0,1,AWAY,879.0,Gewiss Stadium,D. Chiffi
+135,Serie A,Italy,2024,1223903,2025-04-06T18:45:00+00:00,UTC,1743965100,Match Finished,FT,90,Regular Season - 31,497,AS Roma,496,Juventus,1,1,DRAW,910.0,Stadio Olimpico,A. Colombo
+135,Serie A,Italy,2024,1223896,2025-04-07T18:45:00+00:00,UTC,1744051500,Match Finished,FT,90,Regular Season - 31,500,Bologna,492,Napoli,1,1,DRAW,881.0,Stadio Renato Dall'Ara,D. Massa
+135,Serie A,Italy,2024,1223913,2025-04-11T18:45:00+00:00,UTC,1744397100,Match Finished,FT,90,Regular Season - 32,494,Udinese,489,AC Milan,0,4,AWAY,20416.0,Bluenergy Stadium,J. Sacchi
+135,Serie A,Italy,2024,1223914,2025-04-12T13:00:00+00:00,UTC,1744462800,Match Finished,FT,90,Regular Season - 32,517,Venezia,1579,Monza,1,0,HOME,,Stadio Pier Luigi Penzo,F. Maresca
+135,Serie A,Italy,2024,1223909,2025-04-12T16:00:00+00:00,UTC,1744473600,Match Finished,FT,90,Regular Season - 32,505,Inter,490,Cagliari,3,1,HOME,907.0,Stadio Giuseppe Meazza,M. Di Bello
+135,Serie A,Italy,2024,1223910,2025-04-12T18:45:00+00:00,UTC,1744483500,Match Finished,FT,90,Regular Season - 32,496,Juventus,867,Lecce,2,1,HOME,909.0,Allianz Stadium,L. Zufferli
+135,Serie A,Italy,2024,1223905,2025-04-13T10:30:00+00:00,UTC,1744540200,Match Finished,FT,90,Regular Season - 32,499,Atalanta,500,Bologna,2,0,HOME,879.0,Gewiss Stadium,M. Mariani
+135,Serie A,Italy,2024,1223907,2025-04-13T13:00:00+00:00,UTC,1744549200,Match Finished,FT,90,Regular Season - 32,502,Fiorentina,523,Parma,0,0,DRAW,902.0,Stadio Artemio Franchi,G. Manganiello
+135,Serie A,Italy,2024,1223908,2025-04-13T13:00:00+00:00,UTC,1744549200,Match Finished,FT,90,Regular Season - 32,504,Hellas Verona,495,Genoa,0,0,DRAW,,Stadio Marcantonio Bentegodi,M. Marchetti
+135,Serie A,Italy,2024,1223906,2025-04-13T16:00:00+00:00,UTC,1744560000,Match Finished,FT,90,Regular Season - 32,895,Como,503,Torino,1,0,HOME,892.0,Stadio Giuseppe Sinigaglia,M. Marcenaro
+135,Serie A,Italy,2024,1223911,2025-04-13T18:45:00+00:00,UTC,1744569900,Match Finished,FT,90,Regular Season - 32,487,Lazio,497,AS Roma,1,1,DRAW,910.0,Stadio Olimpico,S. Sozza
+135,Serie A,Italy,2024,1223912,2025-04-14T18:45:00+00:00,UTC,1744656300,Match Finished,FT,90,Regular Season - 32,492,Napoli,511,Empoli,3,0,HOME,11904.0,Stadio Diego Armando Maradona,M. Fabbri
+135,Serie A,Italy,2024,1223919,2025-04-19T13:00:00+00:00,UTC,1745067600,Match Finished,FT,90,Regular Season - 33,867,Lecce,895,Como,0,3,AWAY,,Stadio Ettore Giardiniero - Via del Mare,S. Sozza
+135,Serie A,Italy,2024,1223921,2025-04-19T16:00:00+00:00,UTC,1745078400,Match Finished,FT,90,Regular Season - 33,1579,Monza,492,Napoli,0,1,AWAY,12086.0,U-Power Stadium,F. La Penna
+135,Serie A,Italy,2024,1223923,2025-04-19T18:45:00+00:00,UTC,1745088300,Match Finished,FT,90,Regular Season - 33,497,AS Roma,504,Hellas Verona,1,0,HOME,910.0,Stadio Olimpico,L. Pairetto
+135,Serie A,Italy,2024,1223917,2025-04-20T13:00:00+00:00,UTC,1745154000,Match Finished,FT,90,Regular Season - 33,511,Empoli,517,Venezia,2,2,DRAW,20109.0,Stadio Carlo Castellani – Computer Gross Arena,D. Massa
+135,Serie A,Italy,2024,1223915,2025-04-20T16:00:00+00:00,UTC,1745164800,Match Finished,FT,90,Regular Season - 33,500,Bologna,505,Inter,1,0,HOME,881.0,Stadio Renato Dall'Ara,A. Colombo
+135,Serie A,Italy,2024,1223920,2025-04-20T18:45:00+00:00,UTC,1745174700,Match Finished,FT,90,Regular Season - 33,489,AC Milan,499,Atalanta,0,1,AWAY,907.0,Stadio Giuseppe Meazza,M. Piccinini
+135,Serie A,Italy,2024,1223916,2025-04-23T16:30:00+00:00,UTC,1745425800,Match Finished,FT,90,Regular Season - 33,490,Cagliari,502,Fiorentina,1,2,AWAY,12275.0,Unipol Domus,L. Marinelli
+135,Serie A,Italy,2024,1223918,2025-04-23T16:30:00+00:00,UTC,1745425800,Match Finished,FT,90,Regular Season - 33,495,Genoa,487,Lazio,0,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,G. Ayroldi
+135,Serie A,Italy,2024,1223924,2025-04-23T16:30:00+00:00,UTC,1745425800,Match Finished,FT,90,Regular Season - 33,503,Torino,494,Udinese,2,0,HOME,943.0,Stadio Olimpico Grande Torino,G. Collu
+135,Serie A,Italy,2024,1223922,2025-04-23T16:30:00+00:00,UTC,1745425800,Match Finished,FT,90,Regular Season - 33,523,Parma,496,Juventus,1,0,HOME,921.0,Stadio Ennio Tardini,D. Chiffi
+135,Serie A,Italy,2024,1223934,2025-04-27T10:30:00+00:00,UTC,1745749800,Match Finished,FT,90,Regular Season - 34,517,Venezia,489,AC Milan,0,2,AWAY,,Stadio Pier Luigi Penzo,G. Manganiello
+135,Serie A,Italy,2024,1223926,2025-04-27T10:30:00+00:00,UTC,1745749800,Match Finished,FT,90,Regular Season - 34,895,Como,495,Genoa,1,0,HOME,892.0,Stadio Giuseppe Sinigaglia,A. Arena
+135,Serie A,Italy,2024,1223927,2025-04-27T13:00:00+00:00,UTC,1745758800,Match Finished,FT,90,Regular Season - 34,502,Fiorentina,511,Empoli,2,1,HOME,902.0,Stadio Artemio Franchi,A. Rapuano
+135,Serie A,Italy,2024,1223929,2025-04-27T13:00:00+00:00,UTC,1745758800,Match Finished,FT,90,Regular Season - 34,505,Inter,497,AS Roma,0,1,AWAY,907.0,Stadio Giuseppe Meazza,M. Fabbri
+135,Serie A,Italy,2024,1223930,2025-04-27T16:00:00+00:00,UTC,1745769600,Match Finished,FT,90,Regular Season - 34,496,Juventus,1579,Monza,2,0,HOME,909.0,Allianz Stadium,D. Perenzoni
+135,Serie A,Italy,2024,1223932,2025-04-27T18:45:00+00:00,UTC,1745779500,Match Finished,FT,90,Regular Season - 34,492,Napoli,503,Torino,2,0,HOME,11904.0,Stadio Diego Armando Maradona,M. Mariani
+135,Serie A,Italy,2024,1223925,2025-04-27T18:45:00+00:00,UTC,1745779500,Match Finished,FT,90,Regular Season - 34,499,Atalanta,867,Lecce,1,1,DRAW,879.0,Gewiss Stadium,F. La Penna
+135,Serie A,Italy,2024,1223933,2025-04-28T16:30:00+00:00,UTC,1745857800,Match Finished,FT,90,Regular Season - 34,494,Udinese,500,Bologna,0,0,DRAW,20416.0,Bluenergy Stadium,F. Maresca
+135,Serie A,Italy,2024,1223931,2025-04-28T18:45:00+00:00,UTC,1745865900,Match Finished,FT,90,Regular Season - 34,487,Lazio,523,Parma,2,2,DRAW,910.0,Stadio Olimpico,J. Sacchi
+135,Serie A,Italy,2024,1223928,2025-04-28T18:45:00+00:00,UTC,1745865900,Match Finished,FT,90,Regular Season - 34,504,Hellas Verona,490,Cagliari,0,2,AWAY,,Stadio Marcantonio Bentegodi,R. Abisso
+135,Serie A,Italy,2024,1223944,2025-05-02T18:45:00+00:00,UTC,1746211500,Match Finished,FT,90,Regular Season - 35,503,Torino,517,Venezia,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,S. Sozza
+135,Serie A,Italy,2024,1223936,2025-05-03T13:00:00+00:00,UTC,1746277200,Match Finished,FT,90,Regular Season - 35,490,Cagliari,494,Udinese,1,2,AWAY,12275.0,Unipol Domus,E. Feliciani
+135,Serie A,Italy,2024,1223942,2025-05-03T13:00:00+00:00,UTC,1746277200,Match Finished,FT,90,Regular Season - 35,523,Parma,895,Como,0,1,AWAY,921.0,Stadio Ennio Tardini,M. Di Bello
+135,Serie A,Italy,2024,1223940,2025-05-03T16:00:00+00:00,UTC,1746288000,Match Finished,FT,90,Regular Season - 35,867,Lecce,492,Napoli,0,1,AWAY,,Stadio Ettore Giardiniero - Via del Mare,D. Massa
+135,Serie A,Italy,2024,1223939,2025-05-03T18:45:00+00:00,UTC,1746297900,Match Finished,FT,90,Regular Season - 35,505,Inter,504,Hellas Verona,1,0,HOME,907.0,Stadio Giuseppe Meazza,G. Manganiello
+135,Serie A,Italy,2024,1223937,2025-05-04T10:30:00+00:00,UTC,1746354600,Match Finished,FT,90,Regular Season - 35,511,Empoli,487,Lazio,0,1,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,A. Colombo
+135,Serie A,Italy,2024,1223941,2025-05-04T13:00:00+00:00,UTC,1746363600,Match Finished,FT,90,Regular Season - 35,1579,Monza,499,Atalanta,0,4,AWAY,12086.0,U-Power Stadium,L. Pairetto
+135,Serie A,Italy,2024,1223943,2025-05-04T16:00:00+00:00,UTC,1746374400,Match Finished,FT,90,Regular Season - 35,497,AS Roma,502,Fiorentina,1,0,HOME,910.0,Stadio Olimpico,D. Chiffi
+135,Serie A,Italy,2024,1223935,2025-05-04T18:45:00+00:00,UTC,1746384300,Match Finished,FT,90,Regular Season - 35,500,Bologna,496,Juventus,1,1,DRAW,881.0,Stadio Renato Dall'Ara,D. Doveri
+135,Serie A,Italy,2024,1223938,2025-05-05T18:45:00+00:00,UTC,1746470700,Match Finished,FT,90,Regular Season - 35,495,Genoa,489,AC Milan,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,G. Collu
+135,Serie A,Italy,2024,1223950,2025-05-09T18:45:00+00:00,UTC,1746816300,Match Finished,FT,90,Regular Season - 36,489,AC Milan,500,Bologna,3,1,HOME,907.0,Stadio Giuseppe Meazza,L. Marinelli
+135,Serie A,Italy,2024,1223946,2025-05-10T13:00:00+00:00,UTC,1746882000,Match Finished,FT,90,Regular Season - 36,895,Como,490,Cagliari,3,1,HOME,892.0,Stadio Giuseppe Sinigaglia,F. Fourneau
+135,Serie A,Italy,2024,1223949,2025-05-10T16:00:00+00:00,UTC,1746892800,Match Finished,FT,90,Regular Season - 36,487,Lazio,496,Juventus,1,1,DRAW,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2024,1223947,2025-05-10T18:45:00+00:00,UTC,1746902700,Match Finished,FT,90,Regular Season - 36,511,Empoli,523,Parma,2,1,HOME,20109.0,Stadio Carlo Castellani – Computer Gross Arena,M. Fabbri
+135,Serie A,Italy,2024,1223953,2025-05-11T10:30:00+00:00,UTC,1746959400,Match Finished,FT,90,Regular Season - 36,494,Udinese,1579,Monza,1,2,AWAY,20416.0,Bluenergy Stadium,V. Crezzini
+135,Serie A,Italy,2024,1223948,2025-05-11T13:00:00+00:00,UTC,1746968400,Match Finished,FT,90,Regular Season - 36,504,Hellas Verona,867,Lecce,1,1,DRAW,,Stadio Marcantonio Bentegodi,F. Maresca
+135,Serie A,Italy,2024,1223952,2025-05-11T16:00:00+00:00,UTC,1746979200,Match Finished,FT,90,Regular Season - 36,503,Torino,505,Inter,0,2,AWAY,943.0,Stadio Olimpico Grande Torino,F. La Penna
+135,Serie A,Italy,2024,1223951,2025-05-11T18:45:00+00:00,UTC,1746989100,Match Finished,FT,90,Regular Season - 36,492,Napoli,495,Genoa,2,2,DRAW,11904.0,Stadio Diego Armando Maradona,M. Piccinini
+135,Serie A,Italy,2024,1223954,2025-05-12T16:30:00+00:00,UTC,1747067400,Match Finished,FT,90,Regular Season - 36,517,Venezia,502,Fiorentina,2,1,HOME,,Stadio Pier Luigi Penzo,M. Marchetti
+135,Serie A,Italy,2024,1223945,2025-05-12T18:45:00+00:00,UTC,1747075500,Match Finished,FT,90,Regular Season - 36,499,Atalanta,497,AS Roma,2,1,HOME,879.0,Gewiss Stadium,S. Sozza
+135,Serie A,Italy,2024,1223957,2025-05-17T18:45:00+00:00,UTC,1747507500,Match Finished,FT,90,Regular Season - 37,495,Genoa,499,Atalanta,2,3,AWAY,905.0,Stadio Comunale Luigi Ferraris,D. Ghersini
+135,Serie A,Italy,2024,1223955,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,490,Cagliari,517,Venezia,3,0,HOME,12275.0,Unipol Domus,L. Pairetto
+135,Serie A,Italy,2024,1223960,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,496,Juventus,494,Udinese,2,0,HOME,909.0,Allianz Stadium,G. Ayroldi
+135,Serie A,Italy,2024,1223964,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,497,AS Roma,489,AC Milan,3,1,HOME,910.0,Stadio Olimpico,M. Piccinini
+135,Serie A,Italy,2024,1223956,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,502,Fiorentina,500,Bologna,3,2,HOME,902.0,Stadio Artemio Franchi,L. Zufferli
+135,Serie A,Italy,2024,1223958,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,504,Hellas Verona,895,Como,1,1,DRAW,,Stadio Marcantonio Bentegodi,R. Abisso
+135,Serie A,Italy,2024,1223959,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,505,Inter,487,Lazio,2,2,DRAW,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2024,1223963,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,523,Parma,492,Napoli,0,0,DRAW,921.0,Stadio Ennio Tardini,D. Doveri
+135,Serie A,Italy,2024,1223961,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,867,Lecce,503,Torino,1,0,HOME,,Stadio Ettore Giardiniero - Via del Mare,A. Rapuano
+135,Serie A,Italy,2024,1223962,2025-05-18T18:45:00+00:00,UTC,1747593900,Match Finished,FT,90,Regular Season - 37,1579,Monza,511,Empoli,1,3,AWAY,12086.0,U-Power Stadium,L. Marinelli
+135,Serie A,Italy,2024,1223971,2025-05-23T18:45:00+00:00,UTC,1748025900,Match Finished,FT,90,Regular Season - 38,492,Napoli,490,Cagliari,2,0,HOME,11904.0,Stadio Diego Armando Maradona,F. La Penna
+135,Serie A,Italy,2024,1223967,2025-05-23T18:45:00+00:00,UTC,1748025900,Match Finished,FT,90,Regular Season - 38,895,Como,505,Inter,0,2,AWAY,892.0,Stadio Giuseppe Sinigaglia,D. Massa
+135,Serie A,Italy,2024,1223966,2025-05-24T16:00:00+00:00,UTC,1748102400,Match Finished,FT,90,Regular Season - 38,500,Bologna,495,Genoa,1,3,AWAY,881.0,Stadio Renato Dall'Ara,M. Monaldi
+135,Serie A,Italy,2024,1223970,2025-05-24T18:45:00+00:00,UTC,1748112300,Match Finished,FT,90,Regular Season - 38,489,AC Milan,1579,Monza,2,0,HOME,907.0,Stadio Giuseppe Meazza,D. Rutella
+135,Serie A,Italy,2024,1223969,2025-05-25T18:45:00+00:00,UTC,1748198700,Match Finished,FT,90,Regular Season - 38,487,Lazio,867,Lecce,0,1,AWAY,910.0,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2024,1223973,2025-05-25T18:45:00+00:00,UTC,1748198700,Match Finished,FT,90,Regular Season - 38,494,Udinese,502,Fiorentina,2,3,AWAY,20416.0,Bluenergy Stadium,M. Marcenaro
+135,Serie A,Italy,2024,1223965,2025-05-25T18:45:00+00:00,UTC,1748198700,Match Finished,FT,90,Regular Season - 38,499,Atalanta,523,Parma,2,3,AWAY,879.0,Gewiss Stadium,L. Marinelli
+135,Serie A,Italy,2024,1223972,2025-05-25T18:45:00+00:00,UTC,1748198700,Match Finished,FT,90,Regular Season - 38,503,Torino,497,AS Roma,0,2,AWAY,943.0,Stadio Olimpico Grande Torino,M. Di Bello
+135,Serie A,Italy,2024,1223968,2025-05-25T18:45:00+00:00,UTC,1748198700,Match Finished,FT,90,Regular Season - 38,511,Empoli,504,Hellas Verona,1,2,AWAY,20109.0,Stadio Carlo Castellani – Computer Gross Arena,D. Doveri
+135,Serie A,Italy,2024,1223974,2025-05-25T18:45:00+00:00,UTC,1748198700,Match Finished,FT,90,Regular Season - 38,517,Venezia,496,Juventus,2,3,AWAY,,Stadio Pier Luigi Penzo,A. Colombo

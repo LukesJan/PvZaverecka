@@ -1,0 +1,166 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --bg: #f4f7fb;
+    --panel: rgba(255, 255, 255, 0.92);
+    --line: #d8e3ef;
+    --text: #17324d;
+    --muted: #60758b;
+    --accent: #2f80ed;
+    --accent-soft: #ecf4ff;
+    --shadow: 0 18px 40px rgba(23, 50, 77, 0.08);
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text);
+    background:
+        radial-gradient(circle at top left, #ffffff 0%, #f4f7fb 38%, #eaf1f9 100%);
+}
+
+.page {
+    width: min(1040px, calc(100% - 24px));
+    margin: 0 auto;
+    padding: 24px 0 40px;
+}
+
+h1 {
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 2.8rem);
+    line-height: 1.05;
+}
+
+.export-info {
+    margin: 10px 0 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+}
+
+.filters {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+    margin: 22px 0 22px;
+    padding: 16px;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    background: var(--panel);
+    box-shadow: var(--shadow);
+}
+
+.filter {
+    display: grid;
+    gap: 8px;
+    font-size: 0.95rem;
+}
+
+.filter span {
+    font-weight: 700;
+}
+
+select {
+    width: 100%;
+    min-height: 48px;
+    padding: 0 14px;
+    border: 1px solid #c7d9ea;
+    border-radius: 14px;
+    background: #fff;
+    color: inherit;
+    font: inherit;
+    box-shadow: 0 6px 18px rgba(23, 50, 77, 0.05);
+}
+
+.predictions {
+    display: grid;
+    gap: 18px;
+}
+
+.league-section {
+    display: grid;
+    gap: 14px;
+    padding: 20px;
+    border: 1px solid var(--line);
+    border-radius: 22px;
+    background: var(--panel);
+    box-shadow: var(--shadow);
+}
+
+.league-title {
+    margin: 0;
+    font-size: 1.35rem;
+}
+
+.card-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.card {
+    padding: 16px;
+    border: 1px solid #d9e6f3;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #ffffff 0%, #f9fbfe 100%);
+}
+
+.card-title {
+    margin: 0 0 6px;
+    font-size: 1.05rem;
+    line-height: 1.35;
+}
+
+.card-meta {
+    margin: 0 0 6px;
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.card-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #e8eff6;
+}
+
+.card-label {
+    color: var(--muted);
+    font-weight: 600;
+}
+
+.card-value {
+    font-weight: 700;
+    text-align: right;
+    color: var(--accent);
+}
+
+.empty-state {
+    margin: 0;
+    padding: 18px;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    background: var(--panel);
+    color: var(--muted);
+    box-shadow: var(--shadow);
+}
+
+@media (max-width: 720px) {
+    .filters,
+    .card-list {
+        grid-template-columns: 1fr;
+    }
+
+    .page {
+        width: min(100% - 18px, 1040px);
+        padding-top: 16px;
+    }
+
+    .league-section,
+    .filters {
+        padding: 14px;
+    }
+}

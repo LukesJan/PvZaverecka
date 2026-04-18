@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predikce fotbalovych zapasu z API-Football</title>
+    <link rel="stylesheet" href="styles.css?v=2">
+</head>
+<body>
+    <main class="page">
+        <h1>Predikce fotbalovych zapasu</h1>
+        <p id="export-info" class="export-info"></p>
+
+        <section class="filters" aria-label="Filtry predikci">
+            <label class="filter">
+                <span>Zobrazeni</span>
+                <select id="mode-filter">
+                    <option value="UPCOMING">Budouci zapasy</option>
+                    <option value="HISTORY">Historie posledni kolo</option>
+                </select>
+            </label>
+
+            <label class="filter">
+                <span>Liga</span>
+                <select id="league-filter">
+                    <option value="ALL">Vsechny ligy</option>
+                </select>
+            </label>
+
+            <label class="filter">
+                <span>Kolo</span>
+                <select id="round-filter">
+                    <option value="ALL">Vsechna kola</option>
+                </select>
+            </label>
+        </section>
+
+        <section id="predictions-root" class="predictions"></section>
+    </main>
+
+    <script src="script.js?v=2"></script>
+</body>
+</html>

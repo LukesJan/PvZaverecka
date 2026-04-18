@@ -1,0 +1,381 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+140,La Liga,Spain,2024,1208494,2024-08-15T17:00:00+00:00,UTC,1723741200,Match Finished,FT,90,Regular Season - 1,531,Athletic Club,546,Getafe,1,1,DRAW,1460.0,San Mamés Barria,Alejandro Muñiz
+140,La Liga,Spain,2024,1208495,2024-08-15T19:30:00+00:00,UTC,1723750200,Match Finished,FT,90,Regular Season - 1,543,Real Betis,547,Girona,1,1,DRAW,1489.0,Estadio Benito Villamarín,Miguel Ortiz
+140,La Liga,Spain,2024,1208501,2024-08-16T17:00:00+00:00,UTC,1723827600,Match Finished,FT,90,Regular Season - 1,538,Celta Vigo,542,Alaves,2,1,HOME,,Estadio Abanca-Balaídos,Alejandro Quintero
+140,La Liga,Spain,2024,1208497,2024-08-16T19:30:00+00:00,UTC,1723836600,Match Finished,FT,90,Regular Season - 1,534,Las Palmas,536,Sevilla,2,2,DRAW,1481.0,Estadio de Gran Canaria,Francisco Hernández
+140,La Liga,Spain,2024,1208502,2024-08-17T17:00:00+00:00,UTC,1723914000,Match Finished,FT,90,Regular Season - 1,727,Osasuna,537,Leganes,1,1,DRAW,1486.0,Estadio El Sadar,Juan Pulido
+140,La Liga,Spain,2024,1208499,2024-08-17T19:30:00+00:00,UTC,1723923000,Match Finished,FT,90,Regular Season - 1,532,Valencia,529,Barcelona,1,2,AWAY,1497.0,Estadio de Mestalla,José Sánchez
+140,La Liga,Spain,2024,1208500,2024-08-18T17:00:00+00:00,UTC,1724000400,Match Finished,FT,90,Regular Season - 1,548,Real Sociedad,728,Rayo Vallecano,1,2,AWAY,1491.0,Reale Arena,Alejandro Hernández
+140,La Liga,Spain,2024,1208496,2024-08-18T19:30:00+00:00,UTC,1724009400,Match Finished,FT,90,Regular Season - 1,798,Mallorca,541,Real Madrid,1,1,DRAW,19940.0,Estadi Mallorca Son Moix,César Soto
+140,La Liga,Spain,2024,1212910,2024-08-19T17:00:00+00:00,UTC,1724086800,Match Finished,FT,90,Regular Season - 1,720,Valladolid,540,Espanyol,1,0,HOME,1492.0,Estadio Municipal José Zorrilla,Pablo González
+140,La Liga,Spain,2024,1208498,2024-08-19T19:30:00+00:00,UTC,1724095800,Match Finished,FT,90,Regular Season - 1,533,Villarreal,530,Atletico Madrid,2,2,DRAW,1498.0,Estadio de la Cerámica,Guillermo Cuadra
+140,La Liga,Spain,2024,1208504,2024-08-23T17:00:00+00:00,UTC,1724432400,Match Finished,FT,90,Regular Season - 2,538,Celta Vigo,532,Valencia,3,1,HOME,,Estadio Abanca-Balaídos,José Munuera
+140,La Liga,Spain,2024,1208507,2024-08-23T19:30:00+00:00,UTC,1724441400,Match Finished,FT,90,Regular Season - 2,536,Sevilla,533,Villarreal,1,2,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208511,2024-08-24T15:00:00+00:00,UTC,1724511600,Match Finished,FT,90,Regular Season - 2,727,Osasuna,798,Mallorca,1,0,HOME,1486.0,Estadio El Sadar,Adrián Cordero
+140,La Liga,Spain,2024,1208510,2024-08-24T17:00:00+00:00,UTC,1724518800,Match Finished,FT,90,Regular Season - 2,529,Barcelona,531,Athletic Club,2,1,HOME,19939.0,Estadi Olímpic Lluís Companys,Gil Manzano
+140,La Liga,Spain,2024,1212911,2024-08-24T19:30:00+00:00,UTC,1724527800,Match Finished,FT,90,Regular Season - 2,540,Espanyol,548,Real Sociedad,0,1,AWAY,1474.0,RCDE Stadium,Mario Melero
+140,La Liga,Spain,2024,1208505,2024-08-24T19:30:00+00:00,UTC,1724527800,Match Finished,FT,90,Regular Season - 2,546,Getafe,728,Rayo Vallecano,0,0,DRAW,20422.0,Estadio Coliseum,Javier Alberola
+140,La Liga,Spain,2024,1208506,2024-08-25T15:00:00+00:00,UTC,1724598000,Match Finished,FT,90,Regular Season - 2,541,Real Madrid,720,Valladolid,3,0,HOME,1456.0,Estadio Santiago Bernabéu,Víctor García
+140,La Liga,Spain,2024,1208509,2024-08-25T17:00:00+00:00,UTC,1724605200,Match Finished,FT,90,Regular Season - 2,537,Leganes,534,Las Palmas,2,1,HOME,1464.0,Estadio Municipal de Butarque,Ricardo De Burgos
+140,La Liga,Spain,2024,1208508,2024-08-25T17:15:00+00:00,UTC,1724606100,Match Finished,FT,90,Regular Season - 2,542,Alaves,543,Real Betis,0,0,DRAW,1470.0,Estadio de Mendizorroza,Mateo Busquets
+140,La Liga,Spain,2024,1208503,2024-08-25T19:30:00+00:00,UTC,1724614200,Match Finished,FT,90,Regular Season - 2,530,Atletico Madrid,547,Girona,3,0,HOME,19217.0,Riyadh Air Metropolitano,Juan Martínez
+140,La Liga,Spain,2024,1208518,2024-08-26T19:30:00+00:00,UTC,1724700600,Match Finished,FT,90,Regular Season - 3,533,Villarreal,538,Celta Vigo,4,3,HOME,1498.0,Estadio de la Cerámica,Miguel Ortiz
+140,La Liga,Spain,2024,1208515,2024-08-27T17:00:00+00:00,UTC,1724778000,Match Finished,FT,90,Regular Season - 3,798,Mallorca,536,Sevilla,0,0,DRAW,19940.0,Estadi Mallorca Son Moix,Alejandro Muñiz
+140,La Liga,Spain,2024,1208517,2024-08-27T19:30:00+00:00,UTC,1724787000,Match Finished,FT,90,Regular Season - 3,728,Rayo Vallecano,529,Barcelona,1,2,AWAY,1488.0,Estadio de Vallecas,César Soto
+140,La Liga,Spain,2024,1208512,2024-08-28T17:00:00+00:00,UTC,1724864400,Match Finished,FT,90,Regular Season - 3,531,Athletic Club,532,Valencia,1,0,HOME,1460.0,San Mamés Barria,Pablo González
+140,La Liga,Spain,2024,1208520,2024-08-28T17:00:00+00:00,UTC,1724864400,Match Finished,FT,90,Regular Season - 3,720,Valladolid,537,Leganes,0,0,DRAW,1492.0,Estadio Municipal José Zorrilla,Alejandro Quintero
+140,La Liga,Spain,2024,1212912,2024-08-28T19:30:00+00:00,UTC,1724873400,Match Finished,FT,90,Regular Season - 3,530,Atletico Madrid,540,Espanyol,0,0,DRAW,19217.0,Riyadh Air Metropolitano,Ricardo De Burgos
+140,La Liga,Spain,2024,1208519,2024-08-28T19:30:00+00:00,UTC,1724873400,Match Finished,FT,90,Regular Season - 3,548,Real Sociedad,542,Alaves,1,2,AWAY,1491.0,Reale Arena,José Sánchez
+140,La Liga,Spain,2024,1208514,2024-08-29T17:00:00+00:00,UTC,1724950800,Match Finished,FT,90,Regular Season - 3,547,Girona,727,Osasuna,4,0,HOME,1478.0,Estadi Municipal de Montilivi,Francisco Hernández
+140,La Liga,Spain,2024,1208516,2024-08-29T19:30:00+00:00,UTC,1724959800,Match Finished,FT,90,Regular Season - 3,534,Las Palmas,541,Real Madrid,1,1,DRAW,1481.0,Estadio de Gran Canaria,Mateo Busquets
+140,La Liga,Spain,2024,1208522,2024-08-31T15:00:00+00:00,UTC,1725116400,Match Finished,FT,90,Regular Season - 4,529,Barcelona,720,Valladolid,7,0,HOME,19939.0,Estadi Olímpic Lluís Companys,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208521,2024-08-31T17:00:00+00:00,UTC,1725123600,Match Finished,FT,90,Regular Season - 4,531,Athletic Club,530,Atletico Madrid,0,1,AWAY,1460.0,San Mamés Barria,Alejandro Hernández
+140,La Liga,Spain,2024,1212913,2024-08-31T17:15:00+00:00,UTC,1725124500,Match Finished,FT,90,Regular Season - 4,540,Espanyol,728,Rayo Vallecano,2,1,HOME,1474.0,RCDE Stadium,Adrián Cordero
+140,La Liga,Spain,2024,1208524,2024-08-31T19:30:00+00:00,UTC,1725132600,Match Finished,FT,90,Regular Season - 4,532,Valencia,533,Villarreal,1,1,DRAW,1497.0,Estadio de Mestalla,Gil Manzano
+140,La Liga,Spain,2024,1208526,2024-08-31T19:30:00+00:00,UTC,1725132600,Match Finished,FT,90,Regular Season - 4,537,Leganes,798,Mallorca,0,1,AWAY,1464.0,Estadio Municipal de Butarque,Mario Melero
+140,La Liga,Spain,2024,1208525,2024-09-01T15:00:00+00:00,UTC,1725202800,Match Finished,FT,90,Regular Season - 4,542,Alaves,534,Las Palmas,2,0,HOME,1470.0,Estadio de Mendizorroza,Víctor García
+140,La Liga,Spain,2024,1208528,2024-09-01T15:00:00+00:00,UTC,1725202800,Match Finished,FT,90,Regular Season - 4,727,Osasuna,538,Celta Vigo,3,2,HOME,1486.0,Estadio El Sadar,Juan Martínez
+140,La Liga,Spain,2024,1208529,2024-09-01T17:00:00+00:00,UTC,1725210000,Match Finished,FT,90,Regular Season - 4,536,Sevilla,547,Girona,0,2,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,José Sánchez
+140,La Liga,Spain,2024,1208523,2024-09-01T17:15:00+00:00,UTC,1725210900,Match Finished,FT,90,Regular Season - 4,546,Getafe,548,Real Sociedad,0,0,DRAW,20422.0,Estadio Coliseum,José Munuera
+140,La Liga,Spain,2024,1208527,2024-09-01T19:30:00+00:00,UTC,1725219000,Match Finished,FT,90,Regular Season - 4,541,Real Madrid,543,Real Betis,2,0,HOME,1456.0,Estadio Santiago Bernabéu,Javier Alberola
+140,La Liga,Spain,2024,1208531,2024-09-13T19:00:00+00:00,UTC,1726254000,Match Finished,FT,90,Regular Season - 5,543,Real Betis,537,Leganes,2,0,HOME,1489.0,Estadio Benito Villamarín,Pablo González
+140,La Liga,Spain,2024,1208533,2024-09-14T12:00:00+00:00,UTC,1726315200,Match Finished,FT,90,Regular Season - 5,798,Mallorca,533,Villarreal,1,2,AWAY,19940.0,Estadi Mallorca Son Moix,Ricardo De Burgos
+140,La Liga,Spain,2024,1212914,2024-09-14T14:15:00+00:00,UTC,1726323300,Match Finished,FT,90,Regular Season - 5,540,Espanyol,542,Alaves,3,2,HOME,1474.0,RCDE Stadium,Juan Pulido
+140,La Liga,Spain,2024,1208536,2024-09-14T16:30:00+00:00,UTC,1726331400,Match Finished,FT,90,Regular Season - 5,536,Sevilla,546,Getafe,1,0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets
+140,La Liga,Spain,2024,1208538,2024-09-14T19:00:00+00:00,UTC,1726340400,Match Finished,FT,90,Regular Season - 5,548,Real Sociedad,541,Real Madrid,0,2,AWAY,1491.0,Reale Arena,Juan Martínez
+140,La Liga,Spain,2024,1208532,2024-09-15T12:00:00+00:00,UTC,1726401600,Match Finished,FT,90,Regular Season - 5,538,Celta Vigo,720,Valladolid,3,1,HOME,,Estadio Abanca-Balaídos,Francisco Hernández
+140,La Liga,Spain,2024,1208535,2024-09-15T14:15:00+00:00,UTC,1726409700,Match Finished,FT,90,Regular Season - 5,547,Girona,529,Barcelona,1,4,AWAY,1478.0,Estadi Municipal de Montilivi,Alejandro Muñiz
+140,La Liga,Spain,2024,1208534,2024-09-15T16:30:00+00:00,UTC,1726417800,Match Finished,FT,90,Regular Season - 5,534,Las Palmas,531,Athletic Club,2,3,AWAY,1481.0,Estadio de Gran Canaria,Miguel Ortiz
+140,La Liga,Spain,2024,1208530,2024-09-15T19:00:00+00:00,UTC,1726426800,Match Finished,FT,90,Regular Season - 5,530,Atletico Madrid,532,Valencia,3,0,HOME,19217.0,Riyadh Air Metropolitano,César Soto
+140,La Liga,Spain,2024,1208537,2024-09-16T19:00:00+00:00,UTC,1726513200,Match Finished,FT,90,Regular Season - 5,728,Rayo Vallecano,727,Osasuna,3,1,HOME,1488.0,Estadio de Vallecas,Alejandro Quintero
+140,La Liga,Spain,2024,1208550,2024-09-17T17:00:00+00:00,UTC,1726592400,Match Finished,FT,90,Regular Season - 7,798,Mallorca,548,Real Sociedad,1,0,HOME,19940.0,Estadi Mallorca Son Moix,Adrián Cordero
+140,La Liga,Spain,2024,1208513,2024-09-18T17:00:00+00:00,UTC,1726678800,Match Finished,FT,90,Regular Season - 3,543,Real Betis,546,Getafe,2,1,HOME,1489.0,Estadio Benito Villamarín,Juan Pulido
+140,La Liga,Spain,2024,1208552,2024-09-19T17:00:00+00:00,UTC,1726765200,Match Finished,FT,90,Regular Season - 7,537,Leganes,531,Athletic Club,0,2,AWAY,1464.0,Estadio Municipal de Butarque,Francisco Hernández
+140,La Liga,Spain,2024,1208542,2024-09-20T19:00:00+00:00,UTC,1726858800,Match Finished,FT,90,Regular Season - 6,542,Alaves,536,Sevilla,2,1,HOME,1470.0,Estadio de Mendizorroza,Javier Alberola
+140,La Liga,Spain,2024,1208546,2024-09-21T12:00:00+00:00,UTC,1726920000,Match Finished,FT,90,Regular Season - 6,720,Valladolid,548,Real Sociedad,0,0,DRAW,1492.0,Estadio Municipal José Zorrilla,Guillermo Cuadra
+140,La Liga,Spain,2024,1208547,2024-09-21T14:15:00+00:00,UTC,1726928100,Match Finished,FT,90,Regular Season - 6,727,Osasuna,534,Las Palmas,2,1,HOME,1486.0,Estadio El Sadar,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208545,2024-09-21T16:30:00+00:00,UTC,1726936200,Match Finished,FT,90,Regular Season - 6,532,Valencia,547,Girona,2,0,HOME,1497.0,Estadio de Mestalla,Alejandro Hernández
+140,La Liga,Spain,2024,1212915,2024-09-21T19:00:00+00:00,UTC,1726945200,Match Finished,FT,90,Regular Season - 6,541,Real Madrid,540,Espanyol,4,1,HOME,1456.0,Estadio Santiago Bernabéu,José Munuera
+140,La Liga,Spain,2024,1208541,2024-09-22T12:00:00+00:00,UTC,1727006400,Match Finished,FT,90,Regular Season - 6,546,Getafe,537,Leganes,1,1,DRAW,20422.0,Estadio Coliseum,Adrián Cordero
+140,La Liga,Spain,2024,1208539,2024-09-22T14:15:00+00:00,UTC,1727014500,Match Finished,FT,90,Regular Season - 6,531,Athletic Club,538,Celta Vigo,3,1,HOME,1460.0,San Mamés Barria,José Sánchez
+140,La Liga,Spain,2024,1208544,2024-09-22T16:30:00+00:00,UTC,1727022600,Match Finished,FT,90,Regular Season - 6,533,Villarreal,529,Barcelona,1,5,AWAY,1498.0,Estadio de la Cerámica,Mateo Busquets
+140,La Liga,Spain,2024,1208543,2024-09-22T19:00:00+00:00,UTC,1727031600,Match Finished,FT,90,Regular Season - 6,728,Rayo Vallecano,530,Atletico Madrid,1,1,DRAW,1488.0,Estadio de Vallecas,Mario Melero
+140,La Liga,Spain,2024,1208540,2024-09-23T19:00:00+00:00,UTC,1727118000,Match Finished,FT,90,Regular Season - 6,543,Real Betis,798,Mallorca,1,2,AWAY,1489.0,Estadio Benito Villamarín,Víctor García
+140,La Liga,Spain,2024,1208555,2024-09-24T17:00:00+00:00,UTC,1727197200,Match Finished,FT,90,Regular Season - 7,532,Valencia,727,Osasuna,0,0,DRAW,1497.0,Estadio de Mestalla,Miguel Ortiz
+140,La Liga,Spain,2024,1208551,2024-09-24T17:00:00+00:00,UTC,1727197200,Match Finished,FT,90,Regular Season - 7,536,Sevilla,720,Valladolid,2,1,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido
+140,La Liga,Spain,2024,1208556,2024-09-24T19:00:00+00:00,UTC,1727204400,Match Finished,FT,90,Regular Season - 7,541,Real Madrid,542,Alaves,3,2,HOME,1456.0,Estadio Santiago Bernabéu,Alejandro Muñiz
+140,La Liga,Spain,2024,1208549,2024-09-25T17:00:00+00:00,UTC,1727283600,Match Finished,FT,90,Regular Season - 7,547,Girona,728,Rayo Vallecano,0,0,DRAW,1478.0,Estadi Municipal de Montilivi,Juan Martínez
+140,La Liga,Spain,2024,1208548,2024-09-25T19:00:00+00:00,UTC,1727290800,Match Finished,FT,90,Regular Season - 7,529,Barcelona,546,Getafe,1,0,HOME,19939.0,Estadi Olímpic Lluís Companys,Pablo González
+140,La Liga,Spain,2024,1208554,2024-09-26T17:00:00+00:00,UTC,1727370000,Match Finished,FT,90,Regular Season - 7,534,Las Palmas,543,Real Betis,1,1,DRAW,1481.0,Estadio de Gran Canaria,José Sánchez
+140,La Liga,Spain,2024,1212916,2024-09-26T17:00:00+00:00,UTC,1727370000,Match Finished,FT,90,Regular Season - 7,540,Espanyol,533,Villarreal,1,2,AWAY,1474.0,RCDE Stadium,Alejandro Quintero
+140,La Liga,Spain,2024,1208553,2024-09-26T19:00:00+00:00,UTC,1727377200,Match Finished,FT,90,Regular Season - 7,538,Celta Vigo,530,Atletico Madrid,0,1,AWAY,,Estadio Abanca-Balaídos,Víctor García
+140,La Liga,Spain,2024,1208562,2024-09-27T19:00:00+00:00,UTC,1727463600,Match Finished,FT,90,Regular Season - 8,720,Valladolid,798,Mallorca,1,2,AWAY,1492.0,Estadio Municipal José Zorrilla,José Munuera
+140,La Liga,Spain,2024,1208564,2024-09-28T12:00:00+00:00,UTC,1727524800,Match Finished,FT,90,Regular Season - 8,546,Getafe,542,Alaves,2,0,HOME,20422.0,Estadio Coliseum,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208565,2024-09-28T14:15:00+00:00,UTC,1727532900,Match Finished,FT,90,Regular Season - 8,728,Rayo Vallecano,537,Leganes,1,1,DRAW,1488.0,Estadio de Vallecas,Alejandro Muñiz
+140,La Liga,Spain,2024,1208560,2024-09-28T16:30:00+00:00,UTC,1727541000,Match Finished,FT,90,Regular Season - 8,548,Real Sociedad,532,Valencia,3,0,HOME,1491.0,Reale Arena,Javier Alberola
+140,La Liga,Spain,2024,1208561,2024-09-28T19:00:00+00:00,UTC,1727550000,Match Finished,FT,90,Regular Season - 8,727,Osasuna,529,Barcelona,4,2,HOME,1486.0,Estadio El Sadar,Guillermo Cuadra
+140,La Liga,Spain,2024,1208559,2024-09-29T12:00:00+00:00,UTC,1727611200,Match Finished,FT,90,Regular Season - 8,538,Celta Vigo,547,Girona,1,1,DRAW,,Estadio Abanca-Balaídos,Ricardo De Burgos
+140,La Liga,Spain,2024,1208557,2024-09-29T14:15:00+00:00,UTC,1727619300,Match Finished,FT,90,Regular Season - 8,531,Athletic Club,536,Sevilla,1,1,DRAW,1460.0,San Mamés Barria,César Soto
+140,La Liga,Spain,2024,1212917,2024-09-29T16:30:00+00:00,UTC,1727627400,Match Finished,FT,90,Regular Season - 8,543,Real Betis,540,Espanyol,1,0,HOME,1489.0,Estadio Benito Villamarín,Alejandro Hernández
+140,La Liga,Spain,2024,1208558,2024-09-29T19:00:00+00:00,UTC,1727636400,Match Finished,FT,90,Regular Season - 8,530,Atletico Madrid,541,Real Madrid,1,1,DRAW,19217.0,Riyadh Air Metropolitano,Mateo Busquets
+140,La Liga,Spain,2024,1208563,2024-09-30T19:00:00+00:00,UTC,1727722800,Match Finished,FT,90,Regular Season - 8,533,Villarreal,534,Las Palmas,3,1,HOME,1498.0,Estadio de la Cerámica,Mario Melero
+140,La Liga,Spain,2024,1208569,2024-10-04T19:00:00+00:00,UTC,1728068400,Match Finished,FT,90,Regular Season - 9,537,Leganes,532,Valencia,0,0,DRAW,1464.0,Estadio Municipal de Butarque,Alejandro Quintero
+140,La Liga,Spain,2024,1212918,2024-10-05T12:00:00+00:00,UTC,1728129600,Match Finished,FT,90,Regular Season - 9,540,Espanyol,798,Mallorca,2,1,HOME,1474.0,RCDE Stadium,Francisco Hernández
+140,La Liga,Spain,2024,1208566,2024-10-05T14:15:00+00:00,UTC,1728137700,Match Finished,FT,90,Regular Season - 9,546,Getafe,727,Osasuna,1,1,DRAW,20422.0,Estadio Coliseum,José Sánchez
+140,La Liga,Spain,2024,1208573,2024-10-05T16:30:00+00:00,UTC,1728145800,Match Finished,FT,90,Regular Season - 9,534,Las Palmas,538,Celta Vigo,0,1,AWAY,1481.0,Estadio de Gran Canaria,Adrián Cordero
+140,La Liga,Spain,2024,1208574,2024-10-05T16:30:00+00:00,UTC,1728145800,Match Finished,FT,90,Regular Season - 9,720,Valladolid,728,Rayo Vallecano,1,2,AWAY,1492.0,Estadio Municipal José Zorrilla,Pablo González
+140,La Liga,Spain,2024,1208567,2024-10-05T19:00:00+00:00,UTC,1728154800,Match Finished,FT,90,Regular Season - 9,541,Real Madrid,533,Villarreal,2,0,HOME,1456.0,Estadio Santiago Bernabéu,Guillermo Cuadra
+140,La Liga,Spain,2024,1208570,2024-10-06T12:00:00+00:00,UTC,1728216000,Match Finished,FT,90,Regular Season - 9,547,Girona,531,Athletic Club,2,1,HOME,1478.0,Estadi Municipal de Montilivi,Juan Pulido
+140,La Liga,Spain,2024,1208568,2024-10-06T14:15:00+00:00,UTC,1728224100,Match Finished,FT,90,Regular Season - 9,542,Alaves,529,Barcelona,0,3,AWAY,1470.0,Estadio de Mendizorroza,Miguel Ortiz
+140,La Liga,Spain,2024,1208572,2024-10-06T16:30:00+00:00,UTC,1728232200,Match Finished,FT,90,Regular Season - 9,536,Sevilla,543,Real Betis,1,0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+140,La Liga,Spain,2024,1208571,2024-10-06T19:00:00+00:00,UTC,1728241200,Match Finished,FT,90,Regular Season - 9,548,Real Sociedad,530,Atletico Madrid,1,1,DRAW,1491.0,Reale Arena,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208580,2024-10-18T19:00:00+00:00,UTC,1729278000,Match Finished,FT,90,Regular Season - 10,542,Alaves,720,Valladolid,2,3,AWAY,1470.0,Estadio de Mendizorroza,Mario Melero
+140,La Liga,Spain,2024,1212919,2024-10-19T12:00:00+00:00,UTC,1729339200,Match Finished,FT,90,Regular Season - 10,531,Athletic Club,540,Espanyol,4,1,HOME,1460.0,San Mamés Barria,Mateo Busquets
+140,La Liga,Spain,2024,1208581,2024-10-19T14:15:00+00:00,UTC,1729347300,Match Finished,FT,90,Regular Season - 10,727,Osasuna,543,Real Betis,1,2,AWAY,1486.0,Estadio El Sadar,Alejandro Muñiz
+140,La Liga,Spain,2024,1208578,2024-10-19T16:30:00+00:00,UTC,1729355400,Match Finished,FT,90,Regular Season - 10,547,Girona,548,Real Sociedad,0,1,AWAY,1478.0,Estadi Municipal de Montilivi,César Soto
+140,La Liga,Spain,2024,1208577,2024-10-19T19:00:00+00:00,UTC,1729364400,Match Finished,FT,90,Regular Season - 10,538,Celta Vigo,541,Real Madrid,1,2,AWAY,,Estadio Abanca-Balaídos,Alejandro Hernández
+140,La Liga,Spain,2024,1208579,2024-10-20T12:00:00+00:00,UTC,1729425600,Match Finished,FT,90,Regular Season - 10,798,Mallorca,728,Rayo Vallecano,1,0,HOME,19940.0,Estadi Mallorca Son Moix,Javier Alberola
+140,La Liga,Spain,2024,1208575,2024-10-20T14:15:00+00:00,UTC,1729433700,Match Finished,FT,90,Regular Season - 10,530,Atletico Madrid,537,Leganes,3,1,HOME,19217.0,Riyadh Air Metropolitano,José Munuera
+140,La Liga,Spain,2024,1208582,2024-10-20T16:30:00+00:00,UTC,1729441800,Match Finished,FT,90,Regular Season - 10,533,Villarreal,546,Getafe,1,1,DRAW,1498.0,Estadio de la Cerámica,Víctor García
+140,La Liga,Spain,2024,1208576,2024-10-20T19:00:00+00:00,UTC,1729450800,Match Finished,FT,90,Regular Season - 10,529,Barcelona,536,Sevilla,5,1,HOME,19939.0,Estadi Olímpic Lluís Companys,Ricardo De Burgos
+140,La Liga,Spain,2024,1208583,2024-10-21T19:00:00+00:00,UTC,1729537200,Match Finished,FT,90,Regular Season - 10,532,Valencia,534,Las Palmas,2,3,AWAY,1497.0,Estadio de Mestalla,Gil Manzano
+140,La Liga,Spain,2024,1212920,2024-10-25T19:00:00+00:00,UTC,1729882800,Match Finished,FT,90,Regular Season - 11,540,Espanyol,536,Sevilla,0,2,AWAY,1474.0,RCDE Stadium,Miguel Ortiz
+140,La Liga,Spain,2024,1208591,2024-10-26T12:00:00+00:00,UTC,1729944000,Match Finished,FT,90,Regular Season - 11,720,Valladolid,533,Villarreal,1,2,AWAY,1492.0,Estadio Municipal José Zorrilla,Francisco Hernández
+140,La Liga,Spain,2024,1208592,2024-10-26T14:15:00+00:00,UTC,1729952100,Match Finished,FT,90,Regular Season - 11,728,Rayo Vallecano,542,Alaves,1,0,HOME,1488.0,Estadio de Vallecas,Adrián Cordero
+140,La Liga,Spain,2024,1208589,2024-10-26T16:30:00+00:00,UTC,1729960200,Match Finished,FT,90,Regular Season - 11,534,Las Palmas,547,Girona,1,0,HOME,1481.0,Estadio de Gran Canaria,Alejandro Quintero
+140,La Liga,Spain,2024,1208587,2024-10-26T19:00:00+00:00,UTC,1729969200,Match Finished,FT,90,Regular Season - 11,541,Real Madrid,529,Barcelona,0,4,AWAY,1456.0,Estadio Santiago Bernabéu,José Sánchez
+140,La Liga,Spain,2024,1208588,2024-10-27T12:00:00+00:00,UTC,1730030400,Match Finished,FT,90,Regular Season - 11,537,Leganes,538,Celta Vigo,3,0,HOME,1464.0,Estadio Municipal de Butarque,Mario Melero
+140,La Liga,Spain,2024,1208584,2024-10-27T14:15:00+00:00,UTC,1730038500,Match Finished,FT,90,Regular Season - 11,546,Getafe,532,Valencia,1,1,DRAW,20422.0,Estadio Coliseum,Guillermo Cuadra
+140,La Liga,Spain,2024,1208586,2024-10-27T16:30:00+00:00,UTC,1730046600,Match Finished,FT,90,Regular Season - 11,543,Real Betis,530,Atletico Madrid,1,0,HOME,1489.0,Estadio Benito Villamarín,Gil Manzano
+140,La Liga,Spain,2024,1208590,2024-10-27T20:00:00+00:00,UTC,1730059200,Match Finished,FT,90,Regular Season - 11,548,Real Sociedad,727,Osasuna,0,2,AWAY,1491.0,Reale Arena,Juan Pulido
+140,La Liga,Spain,2024,1208585,2024-10-28T20:00:00+00:00,UTC,1730145600,Match Finished,FT,90,Regular Season - 11,798,Mallorca,531,Athletic Club,0,0,DRAW,19940.0,Estadi Mallorca Son Moix,Juan Martínez
+140,La Liga,Spain,2024,1208598,2024-11-01T20:00:00+00:00,UTC,1730491200,Match Finished,FT,90,Regular Season - 12,542,Alaves,798,Mallorca,1,0,HOME,1470.0,Estadio de Mendizorroza,Pablo González
+140,La Liga,Spain,2024,1208597,2024-11-02T13:00:00+00:00,UTC,1730552400,Match Finished,FT,90,Regular Season - 12,727,Osasuna,720,Valladolid,1,0,HOME,1486.0,Estadio El Sadar,Víctor García
+140,La Liga,Spain,2024,1208596,2024-11-02T15:15:00+00:00,UTC,1730560500,Match Finished,FT,90,Regular Season - 12,547,Girona,537,Leganes,4,3,HOME,1478.0,Estadi Municipal de Montilivi,Mateo Busquets
+140,La Liga,Spain,2024,1208594,2024-11-03T13:00:00+00:00,UTC,1730638800,Match Finished,FT,90,Regular Season - 12,530,Atletico Madrid,534,Las Palmas,2,0,HOME,19217.0,Riyadh Air Metropolitano,Ricardo De Burgos
+140,La Liga,Spain,2024,1212921,2024-11-03T15:15:00+00:00,UTC,1730646900,Match Finished,FT,90,Regular Season - 12,529,Barcelona,540,Espanyol,3,1,HOME,19939.0,Estadi Olímpic Lluís Companys,José Munuera
+140,La Liga,Spain,2024,1208601,2024-11-03T17:30:00+00:00,UTC,1730655000,Match Finished,FT,90,Regular Season - 12,536,Sevilla,548,Real Sociedad,0,2,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,Alejandro Muñiz
+140,La Liga,Spain,2024,1208593,2024-11-03T20:00:00+00:00,UTC,1730664000,Match Finished,FT,90,Regular Season - 12,531,Athletic Club,543,Real Betis,1,1,DRAW,1460.0,San Mamés Barria,Javier Alberola
+140,La Liga,Spain,2024,1208595,2024-11-04T20:00:00+00:00,UTC,1730750400,Match Finished,FT,90,Regular Season - 12,538,Celta Vigo,546,Getafe,1,0,HOME,,Estadio Abanca-Balaídos,Gil Manzano
+140,La Liga,Spain,2024,1208609,2024-11-08T20:00:00+00:00,UTC,1731096000,Match Finished,FT,90,Regular Season - 13,728,Rayo Vallecano,534,Las Palmas,1,3,AWAY,1488.0,Estadio de Vallecas,Francisco Hernández
+140,La Liga,Spain,2024,1208608,2024-11-09T13:00:00+00:00,UTC,1731157200,Match Finished,FT,90,Regular Season - 13,541,Real Madrid,727,Osasuna,4,0,HOME,1456.0,Estadio Santiago Bernabéu,Mario Melero
+140,La Liga,Spain,2024,1208610,2024-11-09T15:15:00+00:00,UTC,1731165300,Match Finished,FT,90,Regular Season - 13,533,Villarreal,542,Alaves,3,0,HOME,1498.0,Estadio de la Cerámica,Alejandro Quintero
+140,La Liga,Spain,2024,1208604,2024-11-09T20:00:00+00:00,UTC,1731182400,Match Finished,FT,90,Regular Season - 13,537,Leganes,536,Sevilla,1,0,HOME,1464.0,Estadio Municipal de Butarque,Juan Pulido
+140,La Liga,Spain,2024,1208602,2024-11-10T13:00:00+00:00,UTC,1731243600,Match Finished,FT,90,Regular Season - 13,543,Real Betis,538,Celta Vigo,2,2,DRAW,1489.0,Estadio Benito Villamarín,Miguel Ortiz
+140,La Liga,Spain,2024,1208606,2024-11-10T15:15:00+00:00,UTC,1731251700,Match Finished,FT,90,Regular Season - 13,798,Mallorca,530,Atletico Madrid,0,1,AWAY,19940.0,Estadi Mallorca Son Moix,José Sánchez
+140,La Liga,Spain,2024,1208603,2024-11-10T17:30:00+00:00,UTC,1731259800,Match Finished,FT,90,Regular Season - 13,546,Getafe,547,Girona,0,1,AWAY,20422.0,Estadio Coliseum,Juan Martínez
+140,La Liga,Spain,2024,1208605,2024-11-10T17:30:00+00:00,UTC,1731259800,Match Finished,FT,90,Regular Season - 13,720,Valladolid,531,Athletic Club,1,1,DRAW,1492.0,Estadio Municipal José Zorrilla,Adrián Cordero
+140,La Liga,Spain,2024,1208607,2024-11-10T20:00:00+00:00,UTC,1731268800,Match Finished,FT,90,Regular Season - 13,548,Real Sociedad,529,Barcelona,1,0,HOME,1491.0,Reale Arena,Guillermo Cuadra
+140,La Liga,Spain,2024,1208612,2024-11-22T20:00:00+00:00,UTC,1732305600,Match Finished,FT,90,Regular Season - 14,546,Getafe,720,Valladolid,2,0,HOME,20422.0,Estadio Coliseum,Pablo González
+140,La Liga,Spain,2024,1208617,2024-11-23T13:00:00+00:00,UTC,1732366800,Match Finished,FT,90,Regular Season - 14,532,Valencia,543,Real Betis,4,2,HOME,1497.0,Estadio de Mestalla,Ricardo De Burgos
+140,La Liga,Spain,2024,1208619,2024-11-23T15:15:00+00:00,UTC,1732374900,Match Finished,FT,90,Regular Season - 14,530,Atletico Madrid,542,Alaves,2,1,HOME,19217.0,Riyadh Air Metropolitano,Víctor García
+140,La Liga,Spain,2024,1208614,2024-11-23T17:30:00+00:00,UTC,1732383000,Match Finished,FT,90,Regular Season - 14,534,Las Palmas,798,Mallorca,2,3,AWAY,1481.0,Estadio de Gran Canaria,Alejandro Muñiz
+140,La Liga,Spain,2024,1212923,2024-11-23T17:30:00+00:00,UTC,1732383000,Match Finished,FT,90,Regular Season - 14,547,Girona,540,Espanyol,4,1,HOME,1478.0,Estadi Municipal de Montilivi,Alejandro Hernández
+140,La Liga,Spain,2024,1208616,2024-11-23T20:00:00+00:00,UTC,1732392000,Match Finished,FT,90,Regular Season - 14,538,Celta Vigo,529,Barcelona,2,2,DRAW,,Estadio Abanca-Balaídos,César Soto
+140,La Liga,Spain,2024,1208613,2024-11-24T13:00:00+00:00,UTC,1732453200,Match Finished,FT,90,Regular Season - 14,727,Osasuna,533,Villarreal,2,2,DRAW,1486.0,Estadio El Sadar,José Munuera
+140,La Liga,Spain,2024,1208618,2024-11-24T15:15:00+00:00,UTC,1732461300,Match Finished,FT,90,Regular Season - 14,536,Sevilla,728,Rayo Vallecano,1,0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets
+140,La Liga,Spain,2024,1208615,2024-11-24T17:30:00+00:00,UTC,1732469400,Match Finished,FT,90,Regular Season - 14,537,Leganes,541,Real Madrid,0,3,AWAY,1464.0,Estadio Municipal de Butarque,Javier Alberola
+140,La Liga,Spain,2024,1208611,2024-11-24T20:00:00+00:00,UTC,1732478400,Match Finished,FT,90,Regular Season - 14,531,Athletic Club,548,Real Sociedad,1,0,HOME,1460.0,San Mamés Barria,Gil Manzano
+140,La Liga,Spain,2024,1208621,2024-11-29T20:00:00+00:00,UTC,1732910400,Match Finished,FT,90,Regular Season - 15,798,Mallorca,532,Valencia,2,1,HOME,19940.0,Estadi Mallorca Son Moix,Alejandro Quintero
+140,La Liga,Spain,2024,1208620,2024-11-30T13:00:00+00:00,UTC,1732971600,Match Finished,FT,90,Regular Season - 15,529,Barcelona,534,Las Palmas,1,2,AWAY,19939.0,Estadi Olímpic Lluís Companys,Adrián Cordero
+140,La Liga,Spain,2024,1208622,2024-11-30T15:15:00+00:00,UTC,1732979700,Match Finished,FT,90,Regular Season - 15,542,Alaves,537,Leganes,1,1,DRAW,1470.0,Estadio de Mendizorroza,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1212924,2024-11-30T17:30:00+00:00,UTC,1732987800,Match Finished,FT,90,Regular Season - 15,540,Espanyol,538,Celta Vigo,3,1,HOME,1474.0,RCDE Stadium,José Sánchez
+140,La Liga,Spain,2024,1208624,2024-11-30T20:00:00+00:00,UTC,1732996800,Match Finished,FT,90,Regular Season - 15,720,Valladolid,530,Atletico Madrid,0,5,AWAY,1492.0,Estadio Municipal José Zorrilla,Guillermo Cuadra
+140,La Liga,Spain,2024,1208627,2024-12-01T13:00:00+00:00,UTC,1733058000,Match Finished,FT,90,Regular Season - 15,533,Villarreal,547,Girona,2,2,DRAW,1498.0,Estadio de la Cerámica,Miguel Ortiz
+140,La Liga,Spain,2024,1208626,2024-12-01T15:15:00+00:00,UTC,1733066100,Match Finished,FT,90,Regular Season - 15,541,Real Madrid,546,Getafe,2,0,HOME,1456.0,Estadio Santiago Bernabéu,Alejandro Hernández
+140,La Liga,Spain,2024,1208623,2024-12-01T17:30:00+00:00,UTC,1733074200,Match Finished,FT,90,Regular Season - 15,728,Rayo Vallecano,531,Athletic Club,1,2,AWAY,1488.0,Estadio de Vallecas,Mario Melero
+140,La Liga,Spain,2024,1208625,2024-12-01T20:00:00+00:00,UTC,1733083200,Match Finished,FT,90,Regular Season - 15,548,Real Sociedad,543,Real Betis,2,0,HOME,1491.0,Reale Arena,Francisco Hernández
+140,La Liga,Spain,2024,1208628,2024-12-02T20:00:00+00:00,UTC,1733169600,Match Finished,FT,90,Regular Season - 15,536,Sevilla,727,Osasuna,1,1,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+140,La Liga,Spain,2024,1208661,2024-12-03T18:00:00+00:00,UTC,1733248800,Match Finished,FT,90,Regular Season - 19,798,Mallorca,529,Barcelona,1,5,AWAY,19940.0,Estadi Mallorca Son Moix,Gil Manzano
+140,La Liga,Spain,2024,1208656,2024-12-04T20:00:00+00:00,UTC,1733342400,Match Finished,FT,90,Regular Season - 19,531,Athletic Club,541,Real Madrid,2,1,HOME,1460.0,San Mamés Barria,José Sánchez
+140,La Liga,Spain,2024,1208631,2024-12-06T20:00:00+00:00,UTC,1733515200,Match Finished,FT,90,Regular Season - 16,538,Celta Vigo,798,Mallorca,2,0,HOME,,Estadio Abanca-Balaídos,Ricardo De Burgos
+140,La Liga,Spain,2024,1208633,2024-12-07T13:00:00+00:00,UTC,1733576400,Match Finished,FT,90,Regular Season - 16,534,Las Palmas,720,Valladolid,2,1,HOME,1481.0,Estadio de Gran Canaria,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208635,2024-12-07T15:15:00+00:00,UTC,1733584500,Match Finished,FT,90,Regular Season - 16,543,Real Betis,529,Barcelona,2,2,DRAW,1489.0,Estadio Benito Villamarín,Alejandro Muñiz
+140,La Liga,Spain,2024,1208636,2024-12-07T17:30:00+00:00,UTC,1733592600,Match Finished,FT,90,Regular Season - 16,532,Valencia,728,Rayo Vallecano,0,1,AWAY,1497.0,Estadio de Mestalla,José Munuera
+140,La Liga,Spain,2024,1208632,2024-12-07T20:00:00+00:00,UTC,1733601600,Match Finished,FT,90,Regular Season - 16,547,Girona,541,Real Madrid,0,3,AWAY,1478.0,Estadi Municipal de Montilivi,Gil Manzano
+140,La Liga,Spain,2024,1208634,2024-12-08T13:00:00+00:00,UTC,1733662800,Match Finished,FT,90,Regular Season - 16,537,Leganes,548,Real Sociedad,0,3,AWAY,1464.0,Estadio Municipal de Butarque,Pablo González
+140,La Liga,Spain,2024,1208629,2024-12-08T15:15:00+00:00,UTC,1733670900,Match Finished,FT,90,Regular Season - 16,531,Athletic Club,533,Villarreal,2,0,HOME,1460.0,San Mamés Barria,Víctor García
+140,La Liga,Spain,2024,1208637,2024-12-08T17:30:00+00:00,UTC,1733679000,Match Finished,FT,90,Regular Season - 16,727,Osasuna,542,Alaves,2,2,DRAW,1486.0,Estadio El Sadar,César Soto
+140,La Liga,Spain,2024,1208630,2024-12-08T20:00:00+00:00,UTC,1733688000,Match Finished,FT,90,Regular Season - 16,530,Atletico Madrid,536,Sevilla,4,3,HOME,19217.0,Riyadh Air Metropolitano,Javier Alberola
+140,La Liga,Spain,2024,1212925,2024-12-09T20:00:00+00:00,UTC,1733774400,Match Finished,FT,90,Regular Season - 16,546,Getafe,540,Espanyol,1,0,HOME,20422.0,Estadio Coliseum,Mateo Busquets
+140,La Liga,Spain,2024,1208645,2024-12-13T20:00:00+00:00,UTC,1734120000,Match Finished,FT,90,Regular Season - 17,720,Valladolid,532,Valencia,1,0,HOME,1492.0,Estadio Municipal José Zorrilla,Miguel Ortiz
+140,La Liga,Spain,2024,1212926,2024-12-14T13:00:00+00:00,UTC,1734181200,Match Finished,FT,90,Regular Season - 17,540,Espanyol,727,Osasuna,0,0,DRAW,1474.0,RCDE Stadium,Adrián Cordero
+140,La Liga,Spain,2024,1208644,2024-12-14T15:15:00+00:00,UTC,1734189300,Match Finished,FT,90,Regular Season - 17,798,Mallorca,547,Girona,2,1,HOME,19940.0,Estadi Mallorca Son Moix,Francisco Hernández
+140,La Liga,Spain,2024,1208643,2024-12-14T17:30:00+00:00,UTC,1734197400,Match Finished,FT,90,Regular Season - 17,536,Sevilla,538,Celta Vigo,1,0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,Gil Manzano
+140,La Liga,Spain,2024,1208640,2024-12-14T20:00:00+00:00,UTC,1734206400,Match Finished,FT,90,Regular Season - 17,728,Rayo Vallecano,541,Real Madrid,3,3,DRAW,1488.0,Estadio de Vallecas,Juan Martínez
+140,La Liga,Spain,2024,1208638,2024-12-15T13:00:00+00:00,UTC,1734267600,Match Finished,FT,90,Regular Season - 17,530,Atletico Madrid,546,Getafe,1,0,HOME,19217.0,Riyadh Air Metropolitano,César Soto
+140,La Liga,Spain,2024,1208641,2024-12-15T15:15:00+00:00,UTC,1734275700,Match Finished,FT,90,Regular Season - 17,542,Alaves,531,Athletic Club,1,1,DRAW,1470.0,Estadio de Mendizorroza,José Sánchez
+140,La Liga,Spain,2024,1208642,2024-12-15T17:30:00+00:00,UTC,1734283800,Match Finished,FT,90,Regular Season - 17,533,Villarreal,543,Real Betis,1,2,AWAY,1498.0,Estadio de la Cerámica,Guillermo Cuadra
+140,La Liga,Spain,2024,1208646,2024-12-15T17:30:00+00:00,UTC,1734283800,Match Finished,FT,90,Regular Season - 17,548,Real Sociedad,534,Las Palmas,0,0,DRAW,1491.0,Reale Arena,Mario Melero
+140,La Liga,Spain,2024,1208639,2024-12-15T20:00:00+00:00,UTC,1734292800,Match Finished,FT,90,Regular Season - 17,529,Barcelona,537,Leganes,0,1,AWAY,19939.0,Estadi Olímpic Lluís Companys,Alejandro Quintero
+140,La Liga,Spain,2024,1208599,2024-12-18T20:30:00+00:00,UTC,1734553800,Match Finished,FT,90,Regular Season - 12,533,Villarreal,728,Rayo Vallecano,1,1,DRAW,1498.0,Estadio de la Cerámica,Alejandro Hernández
+140,La Liga,Spain,2024,1212922,2024-12-18T20:30:00+00:00,UTC,1734553800,Match Finished,FT,90,Regular Season - 13,540,Espanyol,532,Valencia,1,1,DRAW,1474.0,RCDE Stadium,Pablo González
+140,La Liga,Spain,2024,1208650,2024-12-20T20:00:00+00:00,UTC,1734724800,Match Finished,FT,90,Regular Season - 18,547,Girona,720,Valladolid,3,0,HOME,1478.0,Estadi Municipal de Montilivi,Pablo González
+140,La Liga,Spain,2024,1208649,2024-12-21T13:00:00+00:00,UTC,1734786000,Match Finished,FT,90,Regular Season - 18,546,Getafe,798,Mallorca,0,1,AWAY,20422.0,Estadio Coliseum,José Munuera
+140,La Liga,Spain,2024,1208648,2024-12-21T15:15:00+00:00,UTC,1734794100,Match Finished,FT,90,Regular Season - 18,538,Celta Vigo,548,Real Sociedad,2,0,HOME,,Estadio Abanca-Balaídos,Mateo Busquets
+140,La Liga,Spain,2024,1208653,2024-12-21T17:30:00+00:00,UTC,1734802200,Match Finished,FT,90,Regular Season - 18,727,Osasuna,531,Athletic Club,1,2,AWAY,1486.0,Estadio El Sadar,Alejandro Quintero
+140,La Liga,Spain,2024,1208654,2024-12-21T20:00:00+00:00,UTC,1734811200,Match Finished,FT,90,Regular Season - 18,529,Barcelona,530,Atletico Madrid,1,2,AWAY,19939.0,Estadi Olímpic Lluís Companys,Ricardo De Burgos
+140,La Liga,Spain,2024,1208655,2024-12-22T13:00:00+00:00,UTC,1734872400,Match Finished,FT,90,Regular Season - 18,532,Valencia,542,Alaves,2,2,DRAW,1497.0,Estadio de Mestalla,Javier Alberola
+140,La Liga,Spain,2024,1208651,2024-12-22T15:15:00+00:00,UTC,1734880500,Match Finished,FT,90,Regular Season - 18,541,Real Madrid,536,Sevilla,4,2,HOME,1456.0,Estadio Santiago Bernabéu,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1212927,2024-12-22T17:30:00+00:00,UTC,1734888600,Match Finished,FT,90,Regular Season - 18,534,Las Palmas,540,Espanyol,1,0,HOME,1481.0,Estadio de Gran Canaria,César Soto
+140,La Liga,Spain,2024,1208652,2024-12-22T17:30:00+00:00,UTC,1734888600,Match Finished,FT,90,Regular Season - 18,537,Leganes,533,Villarreal,2,5,AWAY,1464.0,Estadio Municipal de Butarque,Alejandro Muñiz
+140,La Liga,Spain,2024,1208647,2024-12-22T20:00:00+00:00,UTC,1734897600,Match Finished,FT,90,Regular Season - 18,543,Real Betis,728,Rayo Vallecano,1,1,DRAW,1489.0,Estadio Benito Villamarín,Víctor García
+140,La Liga,Spain,2024,1208600,2025-01-03T20:00:00+00:00,UTC,1735934400,Match Finished,FT,90,Regular Season - 12,532,Valencia,541,Real Madrid,1,2,AWAY,1497.0,Estadio de Mestalla,César Soto
+140,La Liga,Spain,2024,1208663,2025-01-10T20:00:00+00:00,UTC,1736539200,Match Finished,FT,90,Regular Season - 19,728,Rayo Vallecano,538,Celta Vigo,2,1,HOME,1488.0,Estadio de Vallecas,Guillermo Cuadra
+140,La Liga,Spain,2024,1208660,2025-01-11T13:00:00+00:00,UTC,1736600400,Match Finished,FT,90,Regular Season - 19,542,Alaves,547,Girona,0,1,AWAY,1470.0,Estadio de Mendizorroza,Mateo Busquets
+140,La Liga,Spain,2024,1208662,2025-01-11T15:15:00+00:00,UTC,1736608500,Match Finished,FT,90,Regular Season - 19,720,Valladolid,543,Real Betis,1,0,HOME,1492.0,Estadio Municipal José Zorrilla,Adrián Cordero
+140,La Liga,Spain,2024,1212928,2025-01-11T17:30:00+00:00,UTC,1736616600,Match Finished,FT,90,Regular Season - 19,540,Espanyol,537,Leganes,1,1,DRAW,1474.0,RCDE Stadium,Juan Martínez
+140,La Liga,Spain,2024,1208659,2025-01-11T20:00:00+00:00,UTC,1736625600,Match Finished,FT,90,Regular Season - 19,536,Sevilla,532,Valencia,1,1,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,Francisco Hernández
+140,La Liga,Spain,2024,1208664,2025-01-12T13:00:00+00:00,UTC,1736686800,Match Finished,FT,90,Regular Season - 19,534,Las Palmas,546,Getafe,1,2,AWAY,1481.0,Estadio de Gran Canaria,Javier Alberola
+140,La Liga,Spain,2024,1208657,2025-01-12T15:15:00+00:00,UTC,1736694900,Match Finished,FT,90,Regular Season - 19,530,Atletico Madrid,727,Osasuna,1,0,HOME,19217.0,Riyadh Air Metropolitano,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208658,2025-01-13T20:00:00+00:00,UTC,1736798400,Match Finished,FT,90,Regular Season - 19,548,Real Sociedad,533,Villarreal,1,0,HOME,1491.0,Reale Arena,César Soto
+140,La Liga,Spain,2024,1212929,2025-01-17T20:00:00+00:00,UTC,1737144000,Match Finished,FT,90,Regular Season - 20,540,Espanyol,720,Valladolid,2,1,HOME,1474.0,RCDE Stadium,Ricardo De Burgos
+140,La Liga,Spain,2024,1208665,2025-01-18T13:00:00+00:00,UTC,1737205200,Match Finished,FT,90,Regular Season - 20,547,Girona,536,Sevilla,1,2,AWAY,1478.0,Estadi Municipal de Montilivi,Juan Martínez
+140,La Liga,Spain,2024,1208668,2025-01-18T15:15:00+00:00,UTC,1737213300,Match Finished,FT,90,Regular Season - 20,537,Leganes,530,Atletico Madrid,1,0,HOME,1464.0,Estadio Municipal de Butarque,Mario Melero
+140,La Liga,Spain,2024,1208673,2025-01-18T17:30:00+00:00,UTC,1737221400,Match Finished,FT,90,Regular Season - 20,543,Real Betis,542,Alaves,1,3,AWAY,1489.0,Estadio Benito Villamarín,Alejandro Hernández
+140,La Liga,Spain,2024,1208669,2025-01-18T20:00:00+00:00,UTC,1737230400,Match Finished,FT,90,Regular Season - 20,546,Getafe,529,Barcelona,1,1,DRAW,20422.0,Estadio Coliseum,Pablo González
+140,La Liga,Spain,2024,1208667,2025-01-19T13:00:00+00:00,UTC,1737291600,Match Finished,FT,90,Regular Season - 20,538,Celta Vigo,531,Athletic Club,1,2,AWAY,,Estadio Abanca-Balaídos,Miguel Ortiz
+140,La Liga,Spain,2024,1208672,2025-01-19T15:15:00+00:00,UTC,1737299700,Match Finished,FT,90,Regular Season - 20,541,Real Madrid,534,Las Palmas,4,1,HOME,1456.0,Estadio Santiago Bernabéu,Alejandro Quintero
+140,La Liga,Spain,2024,1208666,2025-01-19T17:30:00+00:00,UTC,1737307800,Match Finished,FT,90,Regular Season - 20,727,Osasuna,728,Rayo Vallecano,1,1,DRAW,1486.0,Estadio El Sadar,Alejandro Muñiz
+140,La Liga,Spain,2024,1208671,2025-01-19T20:00:00+00:00,UTC,1737316800,Match Finished,FT,90,Regular Season - 20,532,Valencia,548,Real Sociedad,1,0,HOME,1497.0,Estadio de Mestalla,Víctor García
+140,La Liga,Spain,2024,1208670,2025-01-20T20:00:00+00:00,UTC,1737403200,Match Finished,FT,90,Regular Season - 20,533,Villarreal,798,Mallorca,4,0,HOME,1498.0,Estadio de la Cerámica,José Munuera
+140,La Liga,Spain,2024,1208677,2025-01-24T20:00:00+00:00,UTC,1737748800,Match Finished,FT,90,Regular Season - 21,534,Las Palmas,727,Osasuna,1,1,DRAW,1481.0,Estadio de Gran Canaria,Gil Manzano
+140,La Liga,Spain,2024,1208679,2025-01-25T13:00:00+00:00,UTC,1737810000,Match Finished,FT,90,Regular Season - 21,798,Mallorca,543,Real Betis,0,1,AWAY,19940.0,Estadi Mallorca Son Moix,Javier Alberola
+140,La Liga,Spain,2024,1208675,2025-01-25T15:15:00+00:00,UTC,1737818100,Match Finished,FT,90,Regular Season - 21,530,Atletico Madrid,533,Villarreal,1,1,DRAW,19217.0,Riyadh Air Metropolitano,José Sánchez
+140,La Liga,Spain,2024,1212930,2025-01-25T17:30:00+00:00,UTC,1737826200,Match Finished,FT,90,Regular Season - 21,536,Sevilla,540,Espanyol,1,1,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,Adrián Cordero
+140,La Liga,Spain,2024,1208682,2025-01-25T20:00:00+00:00,UTC,1737835200,Match Finished,FT,90,Regular Season - 21,720,Valladolid,541,Real Madrid,0,3,AWAY,1492.0,Estadio Municipal José Zorrilla,Mateo Busquets
+140,La Liga,Spain,2024,1208681,2025-01-26T13:00:00+00:00,UTC,1737896400,Match Finished,FT,90,Regular Season - 21,728,Rayo Vallecano,547,Girona,2,1,HOME,1488.0,Estadio de Vallecas,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208680,2025-01-26T15:15:00+00:00,UTC,1737904500,Match Finished,FT,90,Regular Season - 21,548,Real Sociedad,546,Getafe,0,3,AWAY,1491.0,Reale Arena,Guillermo Cuadra
+140,La Liga,Spain,2024,1208674,2025-01-26T17:30:00+00:00,UTC,1737912600,Match Finished,FT,90,Regular Season - 21,531,Athletic Club,537,Leganes,0,0,DRAW,1460.0,San Mamés Barria,Alejandro Hernández
+140,La Liga,Spain,2024,1208676,2025-01-26T20:00:00+00:00,UTC,1737921600,Match Finished,FT,90,Regular Season - 21,529,Barcelona,532,Valencia,7,1,HOME,19939.0,Estadi Olímpic Lluís Companys,César Soto
+140,La Liga,Spain,2024,1208678,2025-01-27T20:00:00+00:00,UTC,1738008000,Match Finished,FT,90,Regular Season - 21,542,Alaves,538,Celta Vigo,1,1,DRAW,1470.0,Estadio de Mendizorroza,Francisco Hernández
+140,La Liga,Spain,2024,1208688,2025-01-31T20:00:00+00:00,UTC,1738353600,Match Finished,FT,90,Regular Season - 22,537,Leganes,728,Rayo Vallecano,0,1,AWAY,1464.0,Estadio Municipal de Butarque,Alejandro Quintero
+140,La Liga,Spain,2024,1208684,2025-02-01T13:00:00+00:00,UTC,1738414800,Match Finished,FT,90,Regular Season - 22,546,Getafe,536,Sevilla,0,0,DRAW,20422.0,Estadio Coliseum,Ricardo De Burgos
+140,La Liga,Spain,2024,1208687,2025-02-01T15:15:00+00:00,UTC,1738422900,Match Finished,FT,90,Regular Season - 22,533,Villarreal,720,Valladolid,5,1,HOME,1498.0,Estadio de la Cerámica,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208683,2025-02-01T17:30:00+00:00,UTC,1738431000,Match Finished,FT,90,Regular Season - 22,530,Atletico Madrid,798,Mallorca,2,0,HOME,19217.0,Riyadh Air Metropolitano,Víctor García
+140,La Liga,Spain,2024,1212931,2025-02-01T20:00:00+00:00,UTC,1738440000,Match Finished,FT,90,Regular Season - 22,540,Espanyol,541,Real Madrid,1,0,HOME,1474.0,RCDE Stadium,Alejandro Muñiz
+140,La Liga,Spain,2024,1208691,2025-02-02T13:00:00+00:00,UTC,1738501200,Match Finished,FT,90,Regular Season - 22,529,Barcelona,542,Alaves,1,0,HOME,19939.0,Estadi Olímpic Lluís Companys,José Munuera
+140,La Liga,Spain,2024,1208690,2025-02-02T15:15:00+00:00,UTC,1738509300,Match Finished,FT,90,Regular Season - 22,532,Valencia,538,Celta Vigo,2,1,HOME,1497.0,Estadio de Mestalla,Pablo González
+140,La Liga,Spain,2024,1208686,2025-02-02T17:30:00+00:00,UTC,1738517400,Match Finished,FT,90,Regular Season - 22,727,Osasuna,548,Real Sociedad,2,1,HOME,1486.0,Estadio El Sadar,Miguel Ortiz
+140,La Liga,Spain,2024,1208689,2025-02-02T20:00:00+00:00,UTC,1738526400,Match Finished,FT,90,Regular Season - 22,543,Real Betis,531,Athletic Club,2,2,DRAW,1489.0,Estadio Benito Villamarín,Juan Martínez
+140,La Liga,Spain,2024,1208685,2025-02-03T20:00:00+00:00,UTC,1738612800,Match Finished,FT,90,Regular Season - 22,547,Girona,534,Las Palmas,2,1,HOME,1478.0,Estadi Municipal de Montilivi,Mario Melero
+140,La Liga,Spain,2024,1208694,2025-02-07T20:00:00+00:00,UTC,1738958400,Match Finished,FT,90,Regular Season - 23,728,Rayo Vallecano,720,Valladolid,1,0,HOME,1488.0,Estadio de Vallecas,Gil Manzano
+140,La Liga,Spain,2024,1208699,2025-02-08T13:00:00+00:00,UTC,1739019600,Match Finished,FT,90,Regular Season - 23,538,Celta Vigo,543,Real Betis,3,2,HOME,,Estadio Abanca-Balaídos,Mateo Busquets
+140,La Liga,Spain,2024,1208692,2025-02-08T15:15:00+00:00,UTC,1739027700,Match Finished,FT,90,Regular Season - 23,531,Athletic Club,547,Girona,3,0,HOME,1460.0,San Mamés Barria,José Sánchez
+140,La Liga,Spain,2024,1208695,2025-02-08T17:30:00+00:00,UTC,1739035800,Match Finished,FT,90,Regular Season - 23,534,Las Palmas,533,Villarreal,1,2,AWAY,1481.0,Estadio de Gran Canaria,Francisco Hernández
+140,La Liga,Spain,2024,1208697,2025-02-08T20:00:00+00:00,UTC,1739044800,Match Finished,FT,90,Regular Season - 23,541,Real Madrid,530,Atletico Madrid,1,1,DRAW,1456.0,Estadio Santiago Bernabéu,César Soto
+140,La Liga,Spain,2024,1208696,2025-02-09T13:00:00+00:00,UTC,1739106000,Match Finished,FT,90,Regular Season - 23,542,Alaves,546,Getafe,0,1,AWAY,1470.0,Estadio de Mendizorroza,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208700,2025-02-09T15:15:00+00:00,UTC,1739114100,Match Finished,FT,90,Regular Season - 23,532,Valencia,537,Leganes,2,0,HOME,1497.0,Estadio de Mestalla,Guillermo Cuadra
+140,La Liga,Spain,2024,1212932,2025-02-09T17:30:00+00:00,UTC,1739122200,Match Finished,FT,90,Regular Season - 23,548,Real Sociedad,540,Espanyol,2,1,HOME,1491.0,Reale Arena,Javier Alberola
+140,La Liga,Spain,2024,1208698,2025-02-09T20:00:00+00:00,UTC,1739131200,Match Finished,FT,90,Regular Season - 23,536,Sevilla,529,Barcelona,1,4,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+140,La Liga,Spain,2024,1208693,2025-02-10T20:00:00+00:00,UTC,1739217600,Match Finished,FT,90,Regular Season - 23,798,Mallorca,727,Osasuna,1,1,DRAW,19940.0,Estadi Mallorca Son Moix,Adrián Cordero
+140,La Liga,Spain,2024,1208705,2025-02-14T20:00:00+00:00,UTC,1739563200,Match Finished,FT,90,Regular Season - 24,547,Girona,546,Getafe,1,2,AWAY,1478.0,Estadi Municipal de Montilivi,Alejandro Quintero
+140,La Liga,Spain,2024,1208709,2025-02-15T13:00:00+00:00,UTC,1739624400,Match Finished,FT,90,Regular Season - 24,537,Leganes,542,Alaves,3,3,DRAW,1464.0,Estadio Municipal de Butarque,Pablo González
+140,La Liga,Spain,2024,1208704,2025-02-15T15:15:00+00:00,UTC,1739632500,Match Finished,FT,90,Regular Season - 24,727,Osasuna,541,Real Madrid,1,1,DRAW,1486.0,Estadio El Sadar,José Munuera
+140,La Liga,Spain,2024,1208701,2025-02-15T17:30:00+00:00,UTC,1739640600,Match Finished,FT,90,Regular Season - 24,530,Atletico Madrid,538,Celta Vigo,1,1,DRAW,19217.0,Riyadh Air Metropolitano,Juan Martínez
+140,La Liga,Spain,2024,1208707,2025-02-15T20:00:00+00:00,UTC,1739649600,Match Finished,FT,90,Regular Season - 24,533,Villarreal,532,Valencia,1,1,DRAW,1498.0,Estadio de la Cerámica,Ricardo De Burgos
+140,La Liga,Spain,2024,1212933,2025-02-16T13:00:00+00:00,UTC,1739710800,Match Finished,FT,90,Regular Season - 24,540,Espanyol,531,Athletic Club,1,1,DRAW,1474.0,RCDE Stadium,Guillermo Cuadra
+140,La Liga,Spain,2024,1208706,2025-02-16T15:15:00+00:00,UTC,1739718900,Match Finished,FT,90,Regular Season - 24,720,Valladolid,536,Sevilla,0,4,AWAY,1492.0,Estadio Municipal José Zorrilla,Javier Alberola
+140,La Liga,Spain,2024,1208708,2025-02-16T17:30:00+00:00,UTC,1739727000,Match Finished,FT,90,Regular Season - 24,798,Mallorca,534,Las Palmas,3,1,HOME,19940.0,Estadi Mallorca Son Moix,Miguel Ortiz
+140,La Liga,Spain,2024,1208703,2025-02-16T20:00:00+00:00,UTC,1739736000,Match Finished,FT,90,Regular Season - 24,543,Real Betis,548,Real Sociedad,3,0,HOME,1489.0,Estadio Benito Villamarín,Gil Manzano
+140,La Liga,Spain,2024,1208702,2025-02-17T20:00:00+00:00,UTC,1739822400,Match Finished,FT,90,Regular Season - 24,529,Barcelona,728,Rayo Vallecano,1,0,HOME,19939.0,Estadi Olímpic Lluís Companys,Mario Melero
+140,La Liga,Spain,2024,1208711,2025-02-21T20:00:00+00:00,UTC,1740168000,Match Finished,FT,90,Regular Season - 25,538,Celta Vigo,727,Osasuna,1,0,HOME,,Estadio Abanca-Balaídos,José Sánchez
+140,La Liga,Spain,2024,1212934,2025-02-22T13:00:00+00:00,UTC,1740229200,Match Finished,FT,90,Regular Season - 25,542,Alaves,540,Espanyol,0,1,AWAY,1470.0,Estadio de Mendizorroza,Juan Pulido
+140,La Liga,Spain,2024,1208712,2025-02-22T15:15:00+00:00,UTC,1740237300,Match Finished,FT,90,Regular Season - 25,728,Rayo Vallecano,533,Villarreal,0,1,AWAY,1488.0,Estadio de Vallecas,Víctor García
+140,La Liga,Spain,2024,1208713,2025-02-22T17:30:00+00:00,UTC,1740245400,Match Finished,FT,90,Regular Season - 25,532,Valencia,530,Atletico Madrid,0,3,AWAY,1497.0,Estadio de Mestalla,Mateo Busquets
+140,La Liga,Spain,2024,1208714,2025-02-22T20:00:00+00:00,UTC,1740254400,Match Finished,FT,90,Regular Season - 25,534,Las Palmas,529,Barcelona,0,2,AWAY,1481.0,Estadio de Gran Canaria,Adrián Cordero
+140,La Liga,Spain,2024,1208710,2025-02-23T13:00:00+00:00,UTC,1740315600,Match Finished,FT,90,Regular Season - 25,531,Athletic Club,720,Valladolid,7,1,HOME,1460.0,San Mamés Barria,César Soto
+140,La Liga,Spain,2024,1208716,2025-02-23T15:15:00+00:00,UTC,1740323700,Match Finished,FT,90,Regular Season - 25,541,Real Madrid,547,Girona,2,0,HOME,1456.0,Estadio Santiago Bernabéu,Guillermo Cuadra
+140,La Liga,Spain,2024,1208715,2025-02-23T17:30:00+00:00,UTC,1740331800,Match Finished,FT,90,Regular Season - 25,546,Getafe,543,Real Betis,1,2,AWAY,20422.0,Estadio Coliseum,Javier Alberola
+140,La Liga,Spain,2024,1208718,2025-02-23T20:00:00+00:00,UTC,1740340800,Match Finished,FT,90,Regular Season - 25,548,Real Sociedad,537,Leganes,3,0,HOME,1491.0,Reale Arena,Francisco Hernández
+140,La Liga,Spain,2024,1208717,2025-02-24T20:00:00+00:00,UTC,1740427200,Match Finished,FT,90,Regular Season - 25,536,Sevilla,798,Mallorca,1,1,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,Alejandro Muñiz
+140,La Liga,Spain,2024,1208726,2025-02-28T20:00:00+00:00,UTC,1740772800,Match Finished,FT,90,Regular Season - 26,720,Valladolid,534,Las Palmas,1,1,DRAW,1492.0,Estadio Municipal José Zorrilla,Ricardo De Burgos
+140,La Liga,Spain,2024,1208724,2025-03-01T13:00:00+00:00,UTC,1740834000,Match Finished,FT,90,Regular Season - 26,547,Girona,538,Celta Vigo,2,2,DRAW,1478.0,Estadi Municipal de Montilivi,Miguel Ortiz
+140,La Liga,Spain,2024,1208722,2025-03-01T15:15:00+00:00,UTC,1740842100,Match Finished,FT,90,Regular Season - 26,728,Rayo Vallecano,536,Sevilla,1,1,DRAW,1488.0,Estadio de Vallecas,Pablo González
+140,La Liga,Spain,2024,1208720,2025-03-01T17:30:00+00:00,UTC,1740850200,Match Finished,FT,90,Regular Season - 26,543,Real Betis,541,Real Madrid,2,1,HOME,1489.0,Estadio Benito Villamarín,Alejandro Hernández
+140,La Liga,Spain,2024,1208723,2025-03-01T20:00:00+00:00,UTC,1740859200,Match Finished,FT,90,Regular Season - 26,530,Atletico Madrid,531,Athletic Club,1,0,HOME,19217.0,Riyadh Air Metropolitano,Gil Manzano
+140,La Liga,Spain,2024,1208725,2025-03-02T13:00:00+00:00,UTC,1740920400,Match Finished,FT,90,Regular Season - 26,537,Leganes,546,Getafe,1,0,HOME,1464.0,Estadio Municipal de Butarque,Alejandro Muñiz
+140,La Liga,Spain,2024,1208719,2025-03-02T15:15:00+00:00,UTC,1740928500,Match Finished,FT,90,Regular Season - 26,529,Barcelona,548,Real Sociedad,4,0,HOME,19939.0,Estadi Olímpic Lluís Companys,Alejandro Quintero
+140,La Liga,Spain,2024,1208727,2025-03-02T17:30:00+00:00,UTC,1740936600,Match Finished,FT,90,Regular Season - 26,798,Mallorca,542,Alaves,1,1,DRAW,19940.0,Estadi Mallorca Son Moix,César Soto
+140,La Liga,Spain,2024,1208721,2025-03-02T20:00:00+00:00,UTC,1740945600,Match Finished,FT,90,Regular Season - 26,727,Osasuna,532,Valencia,3,3,DRAW,1486.0,Estadio El Sadar,Mario Melero
+140,La Liga,Spain,2024,1208731,2025-03-08T13:00:00+00:00,UTC,1741438800,Match Finished,FT,90,Regular Season - 27,538,Celta Vigo,537,Leganes,2,1,HOME,,Estadio Abanca-Balaídos,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208734,2025-03-08T15:15:00+00:00,UTC,1741446900,Match Finished,FT,90,Regular Season - 27,542,Alaves,533,Villarreal,1,0,HOME,1470.0,Estadio de Mendizorroza,Miguel Ortiz
+140,La Liga,Spain,2024,1208733,2025-03-08T17:30:00+00:00,UTC,1741455000,Match Finished,FT,90,Regular Season - 27,532,Valencia,720,Valladolid,2,1,HOME,1497.0,Estadio de Mestalla,Juan Pulido
+140,La Liga,Spain,2024,1208735,2025-03-09T13:00:00+00:00,UTC,1741525200,Match Finished,FT,90,Regular Season - 27,546,Getafe,530,Atletico Madrid,2,1,HOME,20422.0,Estadio Coliseum,Guillermo Cuadra
+140,La Liga,Spain,2024,1208736,2025-03-09T15:15:00+00:00,UTC,1741533300,Match Finished,FT,90,Regular Season - 27,541,Real Madrid,728,Rayo Vallecano,2,1,HOME,1456.0,Estadio Santiago Bernabéu,Francisco Hernández
+140,La Liga,Spain,2024,1208728,2025-03-09T17:30:00+00:00,UTC,1741541400,Match Finished,FT,90,Regular Season - 27,531,Athletic Club,798,Mallorca,1,1,DRAW,1460.0,San Mamés Barria,Alejandro Hernández
+140,La Liga,Spain,2024,1208730,2025-03-09T17:30:00+00:00,UTC,1741541400,Match Finished,FT,90,Regular Season - 27,543,Real Betis,534,Las Palmas,1,0,HOME,1489.0,Estadio Benito Villamarín,José Sánchez
+140,La Liga,Spain,2024,1208732,2025-03-09T20:00:00+00:00,UTC,1741550400,Match Finished,FT,90,Regular Season - 27,548,Real Sociedad,536,Sevilla,0,1,AWAY,1491.0,Reale Arena,Víctor García
+140,La Liga,Spain,2024,1212936,2025-03-10T20:00:00+00:00,UTC,1741636800,Match Finished,FT,90,Regular Season - 27,540,Espanyol,547,Girona,1,1,DRAW,1474.0,RCDE Stadium,Adrián Cordero
+140,La Liga,Spain,2024,1208745,2025-03-14T20:00:00+00:00,UTC,1741982400,Match Finished,FT,90,Regular Season - 28,534,Las Palmas,542,Alaves,2,2,DRAW,1481.0,Estadio de Gran Canaria,Mario Melero
+140,La Liga,Spain,2024,1208742,2025-03-15T13:00:00+00:00,UTC,1742043600,Match Finished,FT,90,Regular Season - 28,720,Valladolid,538,Celta Vigo,0,1,AWAY,1492.0,Estadio Municipal José Zorrilla,Víctor García
+140,La Liga,Spain,2024,1212937,2025-03-15T15:15:00+00:00,UTC,1742051700,Match Finished,FT,90,Regular Season - 28,798,Mallorca,540,Espanyol,2,1,HOME,19940.0,Estadi Mallorca Son Moix,Alejandro Quintero
+140,La Liga,Spain,2024,1208744,2025-03-15T17:30:00+00:00,UTC,1742059800,Match Finished,FT,90,Regular Season - 28,533,Villarreal,541,Real Madrid,1,2,AWAY,1498.0,Estadio de la Cerámica,Gil Manzano
+140,La Liga,Spain,2024,1208738,2025-03-15T20:00:00+00:00,UTC,1742068800,Match Finished,FT,90,Regular Season - 28,547,Girona,532,Valencia,1,1,DRAW,1478.0,Estadi Municipal de Montilivi,José Munuera
+140,La Liga,Spain,2024,1208741,2025-03-16T13:00:00+00:00,UTC,1742130000,Match Finished,FT,90,Regular Season - 28,537,Leganes,543,Real Betis,2,3,AWAY,1464.0,Estadio Municipal de Butarque,César Soto
+140,La Liga,Spain,2024,1208740,2025-03-16T15:15:00+00:00,UTC,1742138100,Match Finished,FT,90,Regular Season - 28,536,Sevilla,531,Athletic Club,0,1,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido
+140,La Liga,Spain,2024,1208743,2025-03-16T17:30:00+00:00,UTC,1742146200,Match Finished,FT,90,Regular Season - 28,727,Osasuna,546,Getafe,1,2,AWAY,1486.0,Estadio El Sadar,Alejandro Hernández
+140,La Liga,Spain,2024,1208739,2025-03-16T17:30:00+00:00,UTC,1742146200,Match Finished,FT,90,Regular Season - 28,728,Rayo Vallecano,548,Real Sociedad,2,2,DRAW,1488.0,Estadio de Vallecas,Alejandro Muñiz
+140,La Liga,Spain,2024,1208737,2025-03-16T20:00:00+00:00,UTC,1742155200,Match Finished,FT,90,Regular Season - 28,530,Atletico Madrid,529,Barcelona,2,4,AWAY,19217.0,Riyadh Air Metropolitano,Ricardo De Burgos
+140,La Liga,Spain,2024,1208729,2025-03-27T20:00:00+00:00,UTC,1743105600,Match Finished,FT,90,Regular Season - 27,529,Barcelona,727,Osasuna,3,0,HOME,19939.0,Estadi Olímpic Lluís Companys,Mateo Busquets
+140,La Liga,Spain,2024,1208751,2025-03-29T13:00:00+00:00,UTC,1743253200,Match Finished,FT,90,Regular Season - 29,548,Real Sociedad,720,Valladolid,2,1,HOME,1491.0,Reale Arena,Adrián Cordero
+140,La Liga,Spain,2024,1212938,2025-03-29T15:15:00+00:00,UTC,1743261300,Match Finished,FT,90,Regular Season - 29,540,Espanyol,530,Atletico Madrid,1,1,DRAW,1474.0,RCDE Stadium,Javier Alberola
+140,La Liga,Spain,2024,1208752,2025-03-29T17:30:00+00:00,UTC,1743269400,Match Finished,FT,90,Regular Season - 29,542,Alaves,728,Rayo Vallecano,0,2,AWAY,1470.0,Estadio de Mendizorroza,José Munuera
+140,La Liga,Spain,2024,1208754,2025-03-29T20:00:00+00:00,UTC,1743278400,Match Finished,FT,90,Regular Season - 29,541,Real Madrid,537,Leganes,3,2,HOME,1456.0,Estadio Santiago Bernabéu,Pablo González
+140,La Liga,Spain,2024,1208750,2025-03-30T12:00:00+00:00,UTC,1743336000,Match Finished,FT,90,Regular Season - 29,546,Getafe,533,Villarreal,1,2,AWAY,20422.0,Estadio Coliseum,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208747,2025-03-30T14:15:00+00:00,UTC,1743344100,Match Finished,FT,90,Regular Season - 29,529,Barcelona,547,Girona,4,1,HOME,19939.0,Estadi Olímpic Lluís Companys,Juan Pulido
+140,La Liga,Spain,2024,1208746,2025-03-30T16:30:00+00:00,UTC,1743352200,Match Finished,FT,90,Regular Season - 29,531,Athletic Club,727,Osasuna,0,0,DRAW,1460.0,San Mamés Barria,Guillermo Cuadra
+140,La Liga,Spain,2024,1208753,2025-03-30T16:30:00+00:00,UTC,1743352200,Match Finished,FT,90,Regular Season - 29,532,Valencia,798,Mallorca,1,0,HOME,1497.0,Estadio de Mestalla,Francisco Hernández
+140,La Liga,Spain,2024,1208748,2025-03-30T19:00:00+00:00,UTC,1743361200,Match Finished,FT,90,Regular Season - 29,543,Real Betis,536,Sevilla,2,1,HOME,1489.0,Estadio Benito Villamarín,Mateo Busquets
+140,La Liga,Spain,2024,1208749,2025-03-31T19:00:00+00:00,UTC,1743447600,Match Finished,FT,90,Regular Season - 29,538,Celta Vigo,534,Las Palmas,1,1,DRAW,,Estadio Abanca-Balaídos,Juan Martínez
+140,La Liga,Spain,2024,1212939,2025-04-04T19:00:00+00:00,UTC,1743793200,Match Finished,FT,90,Regular Season - 30,728,Rayo Vallecano,540,Espanyol,0,4,AWAY,1488.0,Estadio de Vallecas,Alejandro Hernández
+140,La Liga,Spain,2024,1208763,2025-04-05T12:00:00+00:00,UTC,1743854400,Match Finished,FT,90,Regular Season - 30,547,Girona,542,Alaves,0,1,AWAY,1478.0,Estadi Municipal de Montilivi,Alejandro Muñiz
+140,La Liga,Spain,2024,1208756,2025-04-05T14:15:00+00:00,UTC,1743862500,Match Finished,FT,90,Regular Season - 30,541,Real Madrid,532,Valencia,1,2,AWAY,1456.0,Estadio Santiago Bernabéu,Guillermo Cuadra
+140,La Liga,Spain,2024,1208761,2025-04-05T16:30:00+00:00,UTC,1743870600,Match Finished,FT,90,Regular Season - 30,798,Mallorca,538,Celta Vigo,1,2,AWAY,19940.0,Estadi Mallorca Son Moix,Ricardo De Burgos
+140,La Liga,Spain,2024,1208755,2025-04-05T19:00:00+00:00,UTC,1743879600,Match Finished,FT,90,Regular Season - 30,529,Barcelona,543,Real Betis,1,1,DRAW,19939.0,Estadi Olímpic Lluís Companys,Gil Manzano
+140,La Liga,Spain,2024,1208757,2025-04-06T12:00:00+00:00,UTC,1743940800,Match Finished,FT,90,Regular Season - 30,534,Las Palmas,548,Real Sociedad,1,3,AWAY,1481.0,Estadio de Gran Canaria,Miguel Ortiz
+140,La Liga,Spain,2024,1208760,2025-04-06T14:15:00+00:00,UTC,1743948900,Match Finished,FT,90,Regular Season - 30,536,Sevilla,530,Atletico Madrid,1,2,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,César Soto
+140,La Liga,Spain,2024,1208762,2025-04-06T16:30:00+00:00,UTC,1743957000,Match Finished,FT,90,Regular Season - 30,720,Valladolid,546,Getafe,0,4,AWAY,1492.0,Estadio Municipal José Zorrilla,Alejandro Quintero
+140,La Liga,Spain,2024,1208759,2025-04-06T19:00:00+00:00,UTC,1743966000,Match Finished,FT,90,Regular Season - 30,533,Villarreal,531,Athletic Club,0,0,DRAW,1498.0,Estadio de la Cerámica,Mario Melero
+140,La Liga,Spain,2024,1208758,2025-04-07T19:00:00+00:00,UTC,1744052400,Match Finished,FT,90,Regular Season - 30,537,Leganes,727,Osasuna,1,1,DRAW,1464.0,Estadio Municipal de Butarque,Víctor García
+140,La Liga,Spain,2024,1208772,2025-04-11T19:00:00+00:00,UTC,1744398000,Match Finished,FT,90,Regular Season - 31,532,Valencia,536,Sevilla,1,0,HOME,1497.0,Estadio de Mestalla,José Sánchez
+140,La Liga,Spain,2024,1208771,2025-04-12T12:00:00+00:00,UTC,1744459200,Match Finished,FT,90,Regular Season - 31,548,Real Sociedad,798,Mallorca,0,2,AWAY,1491.0,Reale Arena,José Munuera
+140,La Liga,Spain,2024,1208767,2025-04-12T14:15:00+00:00,UTC,1744467300,Match Finished,FT,90,Regular Season - 31,546,Getafe,534,Las Palmas,1,3,AWAY,20422.0,Estadio Coliseum,Javier Alberola
+140,La Liga,Spain,2024,1212940,2025-04-12T16:30:00+00:00,UTC,1744475400,Match Finished,FT,90,Regular Season - 31,538,Celta Vigo,540,Espanyol,0,2,AWAY,,Estadio Abanca-Balaídos,Mateo Busquets
+140,La Liga,Spain,2024,1208769,2025-04-12T19:00:00+00:00,UTC,1744484400,Match Finished,FT,90,Regular Season - 31,537,Leganes,529,Barcelona,0,1,AWAY,1464.0,Estadio Municipal de Butarque,Francisco Hernández
+140,La Liga,Spain,2024,1208770,2025-04-13T12:00:00+00:00,UTC,1744545600,Match Finished,FT,90,Regular Season - 31,727,Osasuna,547,Girona,2,1,HOME,1486.0,Estadio El Sadar,Pablo González
+140,La Liga,Spain,2024,1208768,2025-04-13T14:15:00+00:00,UTC,1744553700,Match Finished,FT,90,Regular Season - 31,542,Alaves,541,Real Madrid,0,1,AWAY,1470.0,Estadio de Mendizorroza,César Soto
+140,La Liga,Spain,2024,1208766,2025-04-13T16:30:00+00:00,UTC,1744561800,Match Finished,FT,90,Regular Season - 31,543,Real Betis,533,Villarreal,1,2,AWAY,1489.0,Estadio Benito Villamarín,Juan Pulido
+140,La Liga,Spain,2024,1208764,2025-04-13T19:00:00+00:00,UTC,1744570800,Match Finished,FT,90,Regular Season - 31,531,Athletic Club,728,Rayo Vallecano,3,1,HOME,1460.0,San Mamés Barria,Adrián Cordero
+140,La Liga,Spain,2024,1208765,2025-04-14T19:00:00+00:00,UTC,1744657200,Match Finished,FT,90,Regular Season - 31,530,Atletico Madrid,720,Valladolid,4,2,HOME,19217.0,Riyadh Air Metropolitano,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1212941,2025-04-18T19:00:00+00:00,UTC,1745002800,Match Finished,FT,90,Regular Season - 32,540,Espanyol,546,Getafe,1,0,HOME,1474.0,RCDE Stadium,Ricardo De Burgos
+140,La Liga,Spain,2024,1208774,2025-04-19T12:00:00+00:00,UTC,1745064000,Match Finished,FT,90,Regular Season - 32,728,Rayo Vallecano,532,Valencia,1,1,DRAW,1488.0,Estadio de Vallecas,Alejandro Quintero
+140,La Liga,Spain,2024,1208773,2025-04-19T14:15:00+00:00,UTC,1745072100,Match Finished,FT,90,Regular Season - 32,529,Barcelona,538,Celta Vigo,4,3,HOME,19939.0,Estadi Olímpic Lluís Companys,Mario Melero
+140,La Liga,Spain,2024,1208781,2025-04-19T16:30:00+00:00,UTC,1745080200,Match Finished,FT,90,Regular Season - 32,798,Mallorca,537,Leganes,0,0,DRAW,19940.0,Estadi Mallorca Son Moix,Alejandro Muñiz
+140,La Liga,Spain,2024,1208776,2025-04-19T19:00:00+00:00,UTC,1745089200,Match Finished,FT,90,Regular Season - 32,534,Las Palmas,530,Atletico Madrid,1,0,HOME,1481.0,Estadio de Gran Canaria,Víctor García
+140,La Liga,Spain,2024,1208778,2025-04-20T12:00:00+00:00,UTC,1745150400,Match Finished,FT,90,Regular Season - 32,720,Valladolid,727,Osasuna,2,3,AWAY,1492.0,Estadio Municipal José Zorrilla,Gil Manzano
+140,La Liga,Spain,2024,1208779,2025-04-20T14:15:00+00:00,UTC,1745158500,Match Finished,FT,90,Regular Season - 32,533,Villarreal,548,Real Sociedad,2,2,DRAW,1498.0,Estadio de la Cerámica,Guillermo Cuadra
+140,La Liga,Spain,2024,1208780,2025-04-20T16:30:00+00:00,UTC,1745166600,Match Finished,FT,90,Regular Season - 32,536,Sevilla,542,Alaves,1,1,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,Miguel Ortiz
+140,La Liga,Spain,2024,1208775,2025-04-20T19:00:00+00:00,UTC,1745175600,Match Finished,FT,90,Regular Season - 32,541,Real Madrid,531,Athletic Club,1,0,HOME,1456.0,Estadio Santiago Bernabéu,Juan Martínez
+140,La Liga,Spain,2024,1208777,2025-04-21T19:00:00+00:00,UTC,1745262000,Match Finished,FT,90,Regular Season - 32,547,Girona,543,Real Betis,1,3,AWAY,1478.0,Estadi Municipal de Montilivi,Alejandro Hernández
+140,La Liga,Spain,2024,1212942,2025-04-22T17:00:00+00:00,UTC,1745341200,Match Finished,FT,90,Regular Season - 33,532,Valencia,540,Espanyol,1,1,DRAW,1497.0,Estadio de Mestalla,Juan Pulido
+140,La Liga,Spain,2024,1208784,2025-04-22T19:30:00+00:00,UTC,1745350200,Match Finished,FT,90,Regular Season - 33,529,Barcelona,798,Mallorca,1,0,HOME,19939.0,Estadi Olímpic Lluís Companys,Miguel Ortiz
+140,La Liga,Spain,2024,1208782,2025-04-23T17:00:00+00:00,UTC,1745427600,Match Finished,FT,90,Regular Season - 33,531,Athletic Club,534,Las Palmas,1,0,HOME,1460.0,San Mamés Barria,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208786,2025-04-23T17:00:00+00:00,UTC,1745427600,Match Finished,FT,90,Regular Season - 33,538,Celta Vigo,533,Villarreal,3,0,HOME,,Estadio Abanca-Balaídos,Javier Alberola
+140,La Liga,Spain,2024,1208789,2025-04-23T19:30:00+00:00,UTC,1745436600,Match Finished,FT,90,Regular Season - 33,542,Alaves,548,Real Sociedad,1,0,HOME,1470.0,Estadio de Mendizorroza,Mateo Busquets
+140,La Liga,Spain,2024,1208787,2025-04-23T19:30:00+00:00,UTC,1745436600,Match Finished,FT,90,Regular Season - 33,546,Getafe,541,Real Madrid,0,1,AWAY,20422.0,Estadio Coliseum,José Sánchez
+140,La Liga,Spain,2024,1208790,2025-04-24T17:00:00+00:00,UTC,1745514000,Match Finished,FT,90,Regular Season - 33,537,Leganes,547,Girona,1,1,DRAW,1464.0,Estadio Municipal de Butarque,José Munuera
+140,La Liga,Spain,2024,1208788,2025-04-24T17:00:00+00:00,UTC,1745514000,Match Finished,FT,90,Regular Season - 33,727,Osasuna,536,Sevilla,1,0,HOME,1486.0,Estadio El Sadar,Adrián Cordero
+140,La Liga,Spain,2024,1208783,2025-04-24T19:30:00+00:00,UTC,1745523000,Match Finished,FT,90,Regular Season - 33,530,Atletico Madrid,728,Rayo Vallecano,3,0,HOME,19217.0,Riyadh Air Metropolitano,Pablo González
+140,La Liga,Spain,2024,1208785,2025-04-24T19:30:00+00:00,UTC,1745523000,Match Finished,FT,90,Regular Season - 33,543,Real Betis,720,Valladolid,5,1,HOME,1489.0,Estadio Benito Villamarín,Francisco Hernández
+140,La Liga,Spain,2024,1212935,2025-04-27T14:15:00+00:00,UTC,1745763300,Match Finished,FT,90,Regular Season - 26,533,Villarreal,540,Espanyol,1,0,HOME,1498.0,Estadio de la Cerámica,José Munuera
+140,La Liga,Spain,2024,1208797,2025-05-02T19:00:00+00:00,UTC,1746212400,Match Finished,FT,90,Regular Season - 34,728,Rayo Vallecano,546,Getafe,1,0,HOME,1488.0,Estadio de Vallecas,Víctor García
+140,La Liga,Spain,2024,1208793,2025-05-03T12:00:00+00:00,UTC,1746273600,Match Finished,FT,90,Regular Season - 34,542,Alaves,530,Atletico Madrid,0,0,DRAW,1470.0,Estadio de Mendizorroza,Juan Martínez
+140,La Liga,Spain,2024,1208798,2025-05-03T14:15:00+00:00,UTC,1746281700,Match Finished,FT,90,Regular Season - 34,533,Villarreal,727,Osasuna,4,2,HOME,1498.0,Estadio de la Cerámica,Alejandro Quintero
+140,La Liga,Spain,2024,1208792,2025-05-03T16:30:00+00:00,UTC,1746289800,Match Finished,FT,90,Regular Season - 34,534,Las Palmas,532,Valencia,2,3,AWAY,1481.0,Estadio de Gran Canaria,Ricardo De Burgos
+140,La Liga,Spain,2024,1208795,2025-05-03T19:00:00+00:00,UTC,1746298800,Match Finished,FT,90,Regular Season - 34,720,Valladolid,529,Barcelona,1,2,AWAY,1492.0,Estadio Municipal José Zorrilla,Alejandro Muñiz
+140,La Liga,Spain,2024,1208796,2025-05-04T12:00:00+00:00,UTC,1746360000,Match Finished,FT,90,Regular Season - 34,541,Real Madrid,538,Celta Vigo,3,2,HOME,1456.0,Estadio Santiago Bernabéu,Gil Manzano
+140,La Liga,Spain,2024,1208799,2025-05-04T14:15:00+00:00,UTC,1746368100,Match Finished,FT,90,Regular Season - 34,536,Sevilla,537,Leganes,2,2,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+140,La Liga,Spain,2024,1212943,2025-05-04T16:30:00+00:00,UTC,1746376200,Match Finished,FT,90,Regular Season - 34,540,Espanyol,543,Real Betis,1,2,AWAY,1474.0,RCDE Stadium,Guillermo Cuadra
+140,La Liga,Spain,2024,1208794,2025-05-04T19:00:00+00:00,UTC,1746385200,Match Finished,FT,90,Regular Season - 34,548,Real Sociedad,531,Athletic Club,0,0,DRAW,1491.0,Reale Arena,César Soto
+140,La Liga,Spain,2024,1208791,2025-05-05T19:00:00+00:00,UTC,1746471600,Match Finished,FT,90,Regular Season - 34,547,Girona,798,Mallorca,1,0,HOME,1478.0,Estadi Municipal de Montilivi,Mario Melero
+140,La Liga,Spain,2024,1208806,2025-05-09T19:00:00+00:00,UTC,1746817200,Match Finished,FT,90,Regular Season - 35,534,Las Palmas,728,Rayo Vallecano,0,1,AWAY,1481.0,Estadio de Gran Canaria,Francisco Hernández
+140,La Liga,Spain,2024,1208807,2025-05-10T12:00:00+00:00,UTC,1746878400,Match Finished,FT,90,Regular Season - 35,532,Valencia,546,Getafe,3,0,HOME,1497.0,Estadio de Mestalla,Adrián Cordero
+140,La Liga,Spain,2024,1208803,2025-05-10T14:15:00+00:00,UTC,1746886500,Match Finished,FT,90,Regular Season - 35,538,Celta Vigo,536,Sevilla,3,2,HOME,,Estadio Abanca-Balaídos,Pablo González
+140,La Liga,Spain,2024,1208804,2025-05-10T16:30:00+00:00,UTC,1746894600,Match Finished,FT,90,Regular Season - 35,547,Girona,533,Villarreal,0,1,AWAY,1478.0,Estadi Municipal de Montilivi,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1208805,2025-05-10T16:30:00+00:00,UTC,1746894600,Match Finished,FT,90,Regular Season - 35,798,Mallorca,720,Valladolid,2,1,HOME,19940.0,Estadi Mallorca Son Moix,Juan Pulido
+140,La Liga,Spain,2024,1208800,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 35,530,Atletico Madrid,548,Real Sociedad,4,0,HOME,19217.0,Riyadh Air Metropolitano,José Sánchez
+140,La Liga,Spain,2024,1212944,2025-05-11T12:00:00+00:00,UTC,1746964800,Match Finished,FT,90,Regular Season - 35,537,Leganes,540,Espanyol,3,2,HOME,1464.0,Estadio Municipal de Butarque,Javier Alberola
+140,La Liga,Spain,2024,1208801,2025-05-11T14:15:00+00:00,UTC,1746972900,Match Finished,FT,90,Regular Season - 35,529,Barcelona,541,Real Madrid,4,3,HOME,19939.0,Estadi Olímpic Lluís Companys,Alejandro Hernández
+140,La Liga,Spain,2024,1208808,2025-05-11T16:30:00+00:00,UTC,1746981000,Match Finished,FT,90,Regular Season - 35,531,Athletic Club,542,Alaves,1,0,HOME,1460.0,San Mamés Barria,José Munuera
+140,La Liga,Spain,2024,1208802,2025-05-11T19:00:00+00:00,UTC,1746990000,Match Finished,FT,90,Regular Season - 35,543,Real Betis,727,Osasuna,1,1,DRAW,1489.0,Estadio Benito Villamarín,Miguel Ortiz
+140,La Liga,Spain,2024,1208814,2025-05-13T17:00:00+00:00,UTC,1747155600,Match Finished,FT,90,Regular Season - 36,720,Valladolid,547,Girona,0,1,AWAY,1492.0,Estadio Municipal José Zorrilla,Alejandro Quintero
+140,La Liga,Spain,2024,1208813,2025-05-13T18:00:00+00:00,UTC,1747159200,Match Finished,FT,90,Regular Season - 36,548,Real Sociedad,538,Celta Vigo,0,1,AWAY,1491.0,Reale Arena,Víctor García
+140,La Liga,Spain,2024,1208816,2025-05-13T19:30:00+00:00,UTC,1747164600,Match Finished,FT,90,Regular Season - 36,536,Sevilla,534,Las Palmas,1,0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+140,La Liga,Spain,2024,1208817,2025-05-14T17:00:00+00:00,UTC,1747242000,Match Finished,FT,90,Regular Season - 36,533,Villarreal,537,Leganes,3,0,HOME,1498.0,Estadio de la Cerámica,Ricardo De Burgos
+140,La Liga,Spain,2024,1208809,2025-05-14T17:00:00+00:00,UTC,1747242000,Match Finished,FT,90,Regular Season - 36,542,Alaves,532,Valencia,1,0,HOME,1470.0,Estadio de Mendizorroza,Gil Manzano
+140,La Liga,Spain,2024,1208815,2025-05-14T19:30:00+00:00,UTC,1747251000,Match Finished,FT,90,Regular Season - 36,541,Real Madrid,798,Mallorca,2,1,HOME,1456.0,Estadio Santiago Bernabéu,Javier Alberola
+140,La Liga,Spain,2024,1208811,2025-05-15T17:00:00+00:00,UTC,1747328400,Match Finished,FT,90,Regular Season - 36,727,Osasuna,530,Atletico Madrid,2,0,HOME,1486.0,Estadio El Sadar,Mario Melero
+140,La Liga,Spain,2024,1208812,2025-05-15T17:00:00+00:00,UTC,1747328400,Match Finished,FT,90,Regular Season - 36,728,Rayo Vallecano,543,Real Betis,2,2,DRAW,1488.0,Estadio de Vallecas,Pablo González
+140,La Liga,Spain,2024,1212945,2025-05-15T19:30:00+00:00,UTC,1747337400,Match Finished,FT,90,Regular Season - 36,540,Espanyol,529,Barcelona,0,2,AWAY,1474.0,RCDE Stadium,César Soto
+140,La Liga,Spain,2024,1208810,2025-05-15T19:30:00+00:00,UTC,1747337400,Match Finished,FT,90,Regular Season - 36,546,Getafe,531,Athletic Club,0,2,AWAY,20422.0,Estadio Coliseum,Guillermo Cuadra
+140,La Liga,Spain,2024,1208819,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,529,Barcelona,533,Villarreal,2,3,AWAY,19939.0,Estadi Olímpic Lluís Companys,José Munuera
+140,La Liga,Spain,2024,1208818,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,530,Atletico Madrid,543,Real Betis,4,1,HOME,19217.0,Riyadh Air Metropolitano,Adrián Cordero
+140,La Liga,Spain,2024,1208821,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,532,Valencia,531,Athletic Club,0,1,AWAY,1497.0,Estadio de Mestalla,Alejandro Muñiz
+140,La Liga,Spain,2024,1208826,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,534,Las Palmas,537,Leganes,0,1,AWAY,1481.0,Estadio de Gran Canaria,José Sánchez
+140,La Liga,Spain,2024,1208824,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,536,Sevilla,541,Real Madrid,0,2,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets
+140,La Liga,Spain,2024,1208820,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,538,Celta Vigo,728,Rayo Vallecano,1,2,AWAY,,Estadio Abanca-Balaídos,Juan Pulido
+140,La Liga,Spain,2024,1208823,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,548,Real Sociedad,547,Girona,3,2,HOME,1491.0,Reale Arena,Miguel Ortiz
+140,La Liga,Spain,2024,1208825,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,720,Valladolid,542,Alaves,0,1,AWAY,1492.0,Estadio Municipal José Zorrilla,Isidro Díaz de Mera
+140,La Liga,Spain,2024,1212946,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,727,Osasuna,540,Espanyol,2,0,HOME,1486.0,Estadio El Sadar,Francisco Hernández
+140,La Liga,Spain,2024,1208822,2025-05-18T17:00:00+00:00,UTC,1747587600,Match Finished,FT,90,Regular Season - 37,798,Mallorca,546,Getafe,1,2,AWAY,19940.0,Estadi Mallorca Son Moix,Alejandro Hernández
+140,La Liga,Spain,2024,1208828,2025-05-23T19:00:00+00:00,UTC,1748026800,Match Finished,FT,90,Regular Season - 38,543,Real Betis,532,Valencia,1,1,DRAW,1489.0,Estadio Benito Villamarín,Víctor García
+140,La Liga,Spain,2024,1208829,2025-05-24T14:15:00+00:00,UTC,1748096100,Match Finished,FT,90,Regular Season - 38,541,Real Madrid,548,Real Sociedad,2,0,HOME,1456.0,Estadio Santiago Bernabéu,Mario Melero
+140,La Liga,Spain,2024,1208831,2025-05-24T16:30:00+00:00,UTC,1748104200,Match Finished,FT,90,Regular Season - 38,537,Leganes,720,Valladolid,3,0,HOME,1464.0,Estadio Municipal de Butarque,César Soto
+140,La Liga,Spain,2024,1212947,2025-05-24T16:30:00+00:00,UTC,1748104200,Match Finished,FT,90,Regular Season - 38,540,Espanyol,534,Las Palmas,2,0,HOME,1474.0,RCDE Stadium,Alejandro Muñiz
+140,La Liga,Spain,2024,1208830,2025-05-24T19:00:00+00:00,UTC,1748113200,Match Finished,FT,90,Regular Season - 38,542,Alaves,727,Osasuna,1,1,DRAW,1470.0,Estadio de Mendizorroza,Guillermo Cuadra
+140,La Liga,Spain,2024,1208833,2025-05-24T19:00:00+00:00,UTC,1748113200,Match Finished,FT,90,Regular Season - 38,546,Getafe,538,Celta Vigo,1,2,AWAY,20422.0,Estadio Coliseum,Juan Martínez
+140,La Liga,Spain,2024,1208834,2025-05-24T19:00:00+00:00,UTC,1748113200,Match Finished,FT,90,Regular Season - 38,728,Rayo Vallecano,798,Mallorca,0,0,DRAW,1488.0,Estadio de Vallecas,Ricardo De Burgos
+140,La Liga,Spain,2024,1208832,2025-05-25T12:00:00+00:00,UTC,1748174400,Match Finished,FT,90,Regular Season - 38,547,Girona,530,Atletico Madrid,0,4,AWAY,1478.0,Estadi Municipal de Montilivi,Gil Manzano
+140,La Liga,Spain,2024,1208835,2025-05-25T14:15:00+00:00,UTC,1748182500,Match Finished,FT,90,Regular Season - 38,533,Villarreal,536,Sevilla,4,2,HOME,1498.0,Estadio de la Cerámica,Javier Alberola
+140,La Liga,Spain,2024,1208827,2025-05-25T19:00:00+00:00,UTC,1748199600,Match Finished,FT,90,Regular Season - 38,531,Athletic Club,529,Barcelona,0,3,AWAY,1460.0,San Mamés Barria,Pablo González

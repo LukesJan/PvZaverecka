@@ -1,0 +1,381 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+135,Serie A,Italy,2020,608481,2020-09-19T16:00:00+00:00,UTC,1600531200,Match Finished,FT,90,Regular Season - 1,502,Fiorentina,503,Torino,1,0,HOME,902.0,Stadio Artemio Franchi,R. Abisso
+135,Serie A,Italy,2020,608489,2020-09-19T18:45:00+00:00,UTC,1600541100,Match Finished,FT,90,Regular Season - 1,504,Hellas Verona,497,AS Roma,3,0,HOME,890.0,Stadio Marc'Antonio Bentegodi,D. Chiffi
+135,Serie A,Italy,2020,608486,2020-09-20T10:30:00+00:00,UTC,1600597800,Match Finished,FT,90,Regular Season - 1,523,Parma,492,Napoli,0,2,AWAY,921.0,Stadio Ennio Tardini,M. Mariani
+135,Serie A,Italy,2020,608482,2020-09-20T13:00:00+00:00,UTC,1600606800,Match Finished,FT,90,Regular Season - 1,495,Genoa,501,Crotone,4,1,HOME,905.0,Stadio Comunale Luigi Ferraris,G. Ayroldi
+135,Serie A,Italy,2020,608487,2020-09-20T16:00:00+00:00,UTC,1600617600,Match Finished,FT,90,Regular Season - 1,488,Sassuolo,490,Cagliari,1,1,DRAW,935.0,MAPEI Stadium - Città del Tricolore,L. Marinelli
+135,Serie A,Italy,2020,608483,2020-09-20T18:45:00+00:00,UTC,1600627500,Match Finished,FT,90,Regular Season - 1,496,Juventus,498,Sampdoria,3,0,HOME,909.0,Allianz Stadium,M. Piccinini
+135,Serie A,Italy,2020,608485,2020-09-21T18:45:00+00:00,UTC,1600713900,Match Finished,FT,90,Regular Season - 1,489,AC Milan,500,Bologna,2,0,HOME,907.0,Stadio Giuseppe Meazza,F. La Penna
+135,Serie A,Italy,2020,608498,2020-09-26T13:00:00+00:00,UTC,1601125200,Match Finished,FT,90,Regular Season - 2,503,Torino,499,Atalanta,2,4,AWAY,943.0,Stadio Olimpico Grande Torino,M. Irrati
+135,Serie A,Italy,2020,608491,2020-09-26T16:00:00+00:00,UTC,1601136000,Match Finished,FT,90,Regular Season - 2,490,Cagliari,487,Lazio,0,2,AWAY,883.0,Sardegna Arena,D. Massa
+135,Serie A,Italy,2020,608496,2020-09-26T16:00:00+00:00,UTC,1601136000,Match Finished,FT,90,Regular Season - 2,498,Sampdoria,506,Benevento,2,3,AWAY,905.0,Stadio Comunale Luigi Ferraris,F. Dionisi
+135,Serie A,Italy,2020,608493,2020-09-26T18:45:00+00:00,UTC,1601145900,Match Finished,FT,90,Regular Season - 2,505,Inter,502,Fiorentina,4,3,HOME,907.0,Stadio Giuseppe Meazza,G. Calvarese
+135,Serie A,Italy,2020,608497,2020-09-27T10:30:00+00:00,UTC,1601202600,Match Finished,FT,90,Regular Season - 2,515,Spezia,488,Sassuolo,1,4,AWAY,2758.0,Orogel Stadium-Dino Manuzzi,D. Ghersini
+135,Serie A,Italy,2020,608499,2020-09-27T13:00:00+00:00,UTC,1601211600,Match Finished,FT,90,Regular Season - 2,504,Hellas Verona,494,Udinese,1,0,HOME,890.0,Stadio Marc'Antonio Bentegodi,M. Volpi
+135,Serie A,Italy,2020,608494,2020-09-27T16:00:00+00:00,UTC,1601222400,Match Finished,FT,90,Regular Season - 2,492,Napoli,495,Genoa,6,0,HOME,11904.0,Stadio Diego Armando Maradona,J. Sacchi
+135,Serie A,Italy,2020,608492,2020-09-27T16:00:00+00:00,UTC,1601222400,Match Finished,FT,90,Regular Season - 2,501,Crotone,489,AC Milan,0,2,AWAY,895.0,Stadio Ezio Scida,L. Pairetto
+135,Serie A,Italy,2020,608495,2020-09-27T18:45:00+00:00,UTC,1601232300,Match Finished,FT,90,Regular Season - 2,497,AS Roma,496,Juventus,2,2,DRAW,910.0,Stadio Olimpico,M. Di Bello
+135,Serie A,Italy,2020,608490,2020-09-28T18:45:00+00:00,UTC,1601318700,Match Finished,FT,90,Regular Season - 2,500,Bologna,523,Parma,4,1,HOME,881.0,Stadio Renato Dall'Ara,P. Valeri
+135,Serie A,Italy,2020,608488,2020-09-30T16:00:00+00:00,UTC,1601481600,Match Finished,FT,90,Regular Season - 1,494,Udinese,515,Spezia,0,2,AWAY,928.0,Dacia Arena,A. Prontera
+135,Serie A,Italy,2020,608480,2020-09-30T16:00:00+00:00,UTC,1601481600,Match Finished,FT,90,Regular Season - 1,506,Benevento,505,Inter,2,5,AWAY,880.0,Stadio Ciro Vigorito,M. Piccinini
+135,Serie A,Italy,2020,608484,2020-09-30T18:45:00+00:00,UTC,1601491500,Match Finished,FT,90,Regular Season - 1,487,Lazio,499,Atalanta,1,4,AWAY,910.0,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2020,608502,2020-10-02T18:45:00+00:00,UTC,1601664300,Match Finished,FT,90,Regular Season - 3,502,Fiorentina,498,Sampdoria,1,2,AWAY,902.0,Stadio Artemio Franchi,P. Giacomelli
+135,Serie A,Italy,2020,608508,2020-10-03T13:00:00+00:00,UTC,1601730000,Match Finished,FT,90,Regular Season - 3,488,Sassuolo,501,Crotone,4,1,HOME,935.0,MAPEI Stadium - Città del Tricolore,I. Pezzuto
+135,Serie A,Italy,2020,608509,2020-10-03T18:45:00+00:00,UTC,1601750700,Match Finished,FT,90,Regular Season - 3,494,Udinese,497,AS Roma,0,1,AWAY,928.0,Dacia Arena,R. Abisso
+135,Serie A,Italy,2020,608500,2020-10-04T10:30:00+00:00,UTC,1601807400,Match Finished,FT,90,Regular Season - 3,499,Atalanta,490,Cagliari,5,2,HOME,879.0,Gewiss Stadium,F. Pasqua
+135,Serie A,Italy,2020,608505,2020-10-04T13:00:00+00:00,UTC,1601816400,Match Finished,FT,90,Regular Season - 3,487,Lazio,505,Inter,1,1,DRAW,910.0,Stadio Olimpico,M. Guida
+135,Serie A,Italy,2020,608501,2020-10-04T13:00:00+00:00,UTC,1601816400,Match Finished,FT,90,Regular Season - 3,506,Benevento,500,Bologna,1,0,HOME,880.0,Stadio Ciro Vigorito,S. Sozza
+135,Serie A,Italy,2020,608507,2020-10-04T13:00:00+00:00,UTC,1601816400,Match Finished,FT,90,Regular Season - 3,523,Parma,504,Hellas Verona,1,0,HOME,921.0,Stadio Ennio Tardini,A. Giua
+135,Serie A,Italy,2020,608506,2020-10-04T16:00:00+00:00,UTC,1601827200,Match Finished,FT,90,Regular Season - 3,489,AC Milan,515,Spezia,3,0,HOME,907.0,Stadio Giuseppe Meazza,M. Serra
+135,Serie A,Italy,2020,608513,2020-10-17T13:00:00+00:00,UTC,1602939600,Match Finished,FT,90,Regular Season - 4,492,Napoli,499,Atalanta,4,1,HOME,11904.0,Stadio Diego Armando Maradona,M. Di Bello
+135,Serie A,Italy,2020,608515,2020-10-17T16:00:00+00:00,UTC,1602950400,Match Finished,FT,90,Regular Season - 4,498,Sampdoria,487,Lazio,3,0,HOME,905.0,Stadio Comunale Luigi Ferraris,D. Orsato
+135,Serie A,Italy,2020,608512,2020-10-17T16:00:00+00:00,UTC,1602950400,Match Finished,FT,90,Regular Season - 4,505,Inter,489,AC Milan,1,2,AWAY,907.0,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2020,608511,2020-10-17T18:45:00+00:00,UTC,1602960300,Match Finished,FT,90,Regular Season - 4,501,Crotone,496,Juventus,1,1,DRAW,895.0,Stadio Ezio Scida,F. Fourneau
+135,Serie A,Italy,2020,608510,2020-10-18T10:30:00+00:00,UTC,1603017000,Match Finished,FT,90,Regular Season - 4,500,Bologna,488,Sassuolo,3,4,AWAY,881.0,Stadio Renato Dall'Ara,D. Doveri
+135,Serie A,Italy,2020,608517,2020-10-18T13:00:00+00:00,UTC,1603026000,Match Finished,FT,90,Regular Season - 4,503,Torino,490,Cagliari,2,3,AWAY,943.0,Stadio Olimpico Grande Torino,F. La Penna
+135,Serie A,Italy,2020,608516,2020-10-18T13:00:00+00:00,UTC,1603026000,Match Finished,FT,90,Regular Season - 4,515,Spezia,502,Fiorentina,2,2,DRAW,2758.0,Orogel Stadium-Dino Manuzzi,G. Manganiello
+135,Serie A,Italy,2020,608518,2020-10-18T16:00:00+00:00,UTC,1603036800,Match Finished,FT,90,Regular Season - 4,494,Udinese,523,Parma,3,2,HOME,928.0,Dacia Arena,M. Fabbri
+135,Serie A,Italy,2020,608514,2020-10-18T18:45:00+00:00,UTC,1603046700,Match Finished,FT,90,Regular Season - 4,497,AS Roma,506,Benevento,5,2,HOME,910.0,Stadio Olimpico,G. Ayroldi
+135,Serie A,Italy,2020,608519,2020-10-19T18:45:00+00:00,UTC,1603133100,Match Finished,FT,90,Regular Season - 4,504,Hellas Verona,495,Genoa,0,0,DRAW,890.0,Stadio Marc'Antonio Bentegodi,A. Rapuano
+135,Serie A,Italy,2020,608529,2020-10-23T18:45:00+00:00,UTC,1603478700,Match Finished,FT,90,Regular Season - 5,488,Sassuolo,503,Torino,3,3,DRAW,935.0,MAPEI Stadium - Città del Tricolore,M. Guida
+135,Serie A,Italy,2020,608520,2020-10-24T13:00:00+00:00,UTC,1603544400,Match Finished,FT,90,Regular Season - 5,499,Atalanta,498,Sampdoria,1,3,AWAY,879.0,Gewiss Stadium,G. Calvarese
+135,Serie A,Italy,2020,608524,2020-10-24T16:00:00+00:00,UTC,1603555200,Match Finished,FT,90,Regular Season - 5,495,Genoa,505,Inter,0,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,D. Massa
+135,Serie A,Italy,2020,608526,2020-10-24T18:45:00+00:00,UTC,1603565100,Match Finished,FT,90,Regular Season - 5,487,Lazio,500,Bologna,2,1,HOME,910.0,Stadio Olimpico,M. Irrati
+135,Serie A,Italy,2020,608522,2020-10-25T11:30:00+00:00,UTC,1603625400,Match Finished,FT,90,Regular Season - 5,490,Cagliari,501,Crotone,4,2,HOME,883.0,Sardegna Arena,A. Di Martino
+135,Serie A,Italy,2020,608521,2020-10-25T14:00:00+00:00,UTC,1603634400,Match Finished,FT,90,Regular Season - 5,506,Benevento,492,Napoli,1,2,AWAY,880.0,Stadio Ciro Vigorito,D. Doveri
+135,Serie A,Italy,2020,608528,2020-10-25T14:00:00+00:00,UTC,1603634400,Match Finished,FT,90,Regular Season - 5,523,Parma,515,Spezia,2,2,DRAW,921.0,Stadio Ennio Tardini,V. Marini
+135,Serie A,Italy,2020,608523,2020-10-25T17:00:00+00:00,UTC,1603645200,Match Finished,FT,90,Regular Season - 5,502,Fiorentina,494,Udinese,3,2,HOME,902.0,Stadio Artemio Franchi,F. Fourneau
+135,Serie A,Italy,2020,608525,2020-10-25T19:45:00+00:00,UTC,1603655100,Match Finished,FT,90,Regular Season - 5,496,Juventus,504,Hellas Verona,1,1,DRAW,909.0,Allianz Stadium,F. Pasqua
+135,Serie A,Italy,2020,608527,2020-10-26T19:45:00+00:00,UTC,1603741500,Match Finished,FT,90,Regular Season - 5,489,AC Milan,497,AS Roma,3,3,DRAW,907.0,Stadio Giuseppe Meazza,P. Giacomelli
+135,Serie A,Italy,2020,608531,2020-10-31T14:00:00+00:00,UTC,1604152800,Match Finished,FT,90,Regular Season - 6,501,Crotone,499,Atalanta,1,2,AWAY,895.0,Stadio Ezio Scida,F. Dionisi
+135,Serie A,Italy,2020,608532,2020-10-31T17:00:00+00:00,UTC,1604163600,Match Finished,FT,90,Regular Season - 6,505,Inter,523,Parma,2,2,DRAW,907.0,Stadio Giuseppe Meazza,M. Piccinini
+135,Serie A,Italy,2020,608530,2020-10-31T19:45:00+00:00,UTC,1604173500,Match Finished,FT,90,Regular Season - 6,500,Bologna,490,Cagliari,3,2,HOME,881.0,Stadio Renato Dall'Ara,M. Fabbri
+135,Serie A,Italy,2020,608538,2020-11-01T11:30:00+00:00,UTC,1604230200,Match Finished,FT,90,Regular Season - 6,494,Udinese,489,AC Milan,1,2,AWAY,928.0,Dacia Arena,M. Di Bello
+135,Serie A,Italy,2020,608537,2020-11-01T14:00:00+00:00,UTC,1604239200,Match Finished,FT,90,Regular Season - 6,503,Torino,487,Lazio,3,4,AWAY,943.0,Stadio Olimpico Grande Torino,D. Chiffi
+135,Serie A,Italy,2020,608536,2020-11-01T14:00:00+00:00,UTC,1604239200,Match Finished,FT,90,Regular Season - 6,515,Spezia,496,Juventus,1,4,AWAY,2758.0,Orogel Stadium-Dino Manuzzi,R. Abisso
+135,Serie A,Italy,2020,608533,2020-11-01T17:00:00+00:00,UTC,1604250000,Match Finished,FT,90,Regular Season - 6,492,Napoli,488,Sassuolo,0,2,AWAY,11904.0,Stadio Diego Armando Maradona,M. Mariani
+135,Serie A,Italy,2020,608534,2020-11-01T17:00:00+00:00,UTC,1604250000,Match Finished,FT,90,Regular Season - 6,497,AS Roma,502,Fiorentina,2,0,HOME,910.0,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2020,608535,2020-11-01T19:45:00+00:00,UTC,1604259900,Match Finished,FT,90,Regular Season - 6,498,Sampdoria,495,Genoa,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,F. La Penna
+135,Serie A,Italy,2020,608539,2020-11-02T19:45:00+00:00,UTC,1604346300,Match Finished,FT,90,Regular Season - 6,504,Hellas Verona,506,Benevento,3,1,HOME,890.0,Stadio Marc'Antonio Bentegodi,J. Sacchi
+135,Serie A,Italy,2020,608503,2020-11-04T16:00:00+00:00,UTC,1604505600,Match Finished,FT,90,Regular Season - 3,495,Genoa,503,Torino,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,P. Valeri
+135,Serie A,Italy,2020,608603,2020-11-06T19:45:00+00:00,UTC,1604691900,Match Finished,FT,90,Regular Season - 7,488,Sassuolo,494,Udinese,0,0,DRAW,935.0,MAPEI Stadium - Città del Tricolore,E. Abbattista
+135,Serie A,Italy,2020,608598,2020-11-07T14:00:00+00:00,UTC,1604757600,Match Finished,FT,90,Regular Season - 7,490,Cagliari,498,Sampdoria,2,0,HOME,883.0,Sardegna Arena,G. Ayroldi
+135,Serie A,Italy,2020,608596,2020-11-07T17:00:00+00:00,UTC,1604768400,Match Finished,FT,90,Regular Season - 7,506,Benevento,515,Spezia,0,3,AWAY,880.0,Stadio Ciro Vigorito,G. Aureliano
+135,Serie A,Italy,2020,608602,2020-11-07T19:45:00+00:00,UTC,1604778300,Match Finished,FT,90,Regular Season - 7,523,Parma,502,Fiorentina,0,0,DRAW,921.0,Stadio Ennio Tardini,F. La Penna
+135,Serie A,Italy,2020,608600,2020-11-08T11:30:00+00:00,UTC,1604835000,Match Finished,FT,90,Regular Season - 7,487,Lazio,496,Juventus,1,1,DRAW,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2020,608599,2020-11-08T14:00:00+00:00,UTC,1604844000,Match Finished,FT,90,Regular Season - 7,495,Genoa,497,AS Roma,1,3,AWAY,905.0,Stadio Comunale Luigi Ferraris,M. Irrati
+135,Serie A,Italy,2020,608595,2020-11-08T14:00:00+00:00,UTC,1604844000,Match Finished,FT,90,Regular Season - 7,499,Atalanta,505,Inter,1,1,DRAW,879.0,Gewiss Stadium,D. Doveri
+135,Serie A,Italy,2020,608604,2020-11-08T14:00:00+00:00,UTC,1604844000,Match Finished,FT,90,Regular Season - 7,503,Torino,501,Crotone,0,0,DRAW,943.0,Stadio Olimpico Grande Torino,F. Fourneau
+135,Serie A,Italy,2020,608597,2020-11-08T17:00:00+00:00,UTC,1604854800,Match Finished,FT,90,Regular Season - 7,500,Bologna,492,Napoli,0,1,AWAY,881.0,Stadio Renato Dall'Ara,F. Pasqua
+135,Serie A,Italy,2020,608601,2020-11-08T19:45:00+00:00,UTC,1604864700,Match Finished,FT,90,Regular Season - 7,489,AC Milan,504,Hellas Verona,2,2,DRAW,907.0,Stadio Giuseppe Meazza,M. Guida
+135,Serie A,Italy,2020,608605,2020-11-21T14:00:00+00:00,UTC,1605967200,Match Finished,FT,90,Regular Season - 8,501,Crotone,487,Lazio,0,2,AWAY,895.0,Stadio Ezio Scida,J. Sacchi
+135,Serie A,Italy,2020,608612,2020-11-21T17:00:00+00:00,UTC,1605978000,Match Finished,FT,90,Regular Season - 8,515,Spezia,499,Atalanta,0,0,DRAW,2758.0,Orogel Stadium-Dino Manuzzi,A. Rapuano
+135,Serie A,Italy,2020,608608,2020-11-21T19:45:00+00:00,UTC,1605987900,Match Finished,FT,90,Regular Season - 8,496,Juventus,490,Cagliari,2,0,HOME,909.0,Allianz Stadium,F. Maresca
+135,Serie A,Italy,2020,608606,2020-11-22T11:30:00+00:00,UTC,1606044600,Match Finished,FT,90,Regular Season - 8,502,Fiorentina,506,Benevento,0,1,AWAY,902.0,Stadio Artemio Franchi,D. Ghersini
+135,Serie A,Italy,2020,608610,2020-11-22T14:00:00+00:00,UTC,1606053600,Match Finished,FT,90,Regular Season - 8,497,AS Roma,523,Parma,3,0,HOME,910.0,Stadio Olimpico,G. Manganiello
+135,Serie A,Italy,2020,608611,2020-11-22T14:00:00+00:00,UTC,1606053600,Match Finished,FT,90,Regular Season - 8,498,Sampdoria,500,Bologna,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,L. Marinelli
+135,Serie A,Italy,2020,608614,2020-11-22T14:00:00+00:00,UTC,1606053600,Match Finished,FT,90,Regular Season - 8,504,Hellas Verona,488,Sassuolo,0,2,AWAY,890.0,Stadio Marc'Antonio Bentegodi,D. Chiffi
+135,Serie A,Italy,2020,608607,2020-11-22T14:00:00+00:00,UTC,1606053600,Match Finished,FT,90,Regular Season - 8,505,Inter,503,Torino,4,2,HOME,907.0,Stadio Giuseppe Meazza,F. La Penna
+135,Serie A,Italy,2020,608613,2020-11-22T17:00:00+00:00,UTC,1606064400,Match Finished,FT,90,Regular Season - 8,494,Udinese,495,Genoa,1,0,HOME,928.0,Dacia Arena,G. Calvarese
+135,Serie A,Italy,2020,608609,2020-11-22T19:45:00+00:00,UTC,1606074300,Match Finished,FT,90,Regular Season - 8,492,Napoli,489,AC Milan,1,3,AWAY,11904.0,Stadio Diego Armando Maradona,P. Valeri
+135,Serie A,Italy,2020,608623,2020-11-28T14:00:00+00:00,UTC,1606572000,Match Finished,FT,90,Regular Season - 9,488,Sassuolo,505,Inter,0,3,AWAY,935.0,MAPEI Stadium - Città del Tricolore,M. Irrati
+135,Serie A,Italy,2020,608616,2020-11-28T17:00:00+00:00,UTC,1606582800,Match Finished,FT,90,Regular Season - 9,506,Benevento,496,Juventus,1,1,DRAW,880.0,Stadio Ciro Vigorito,F. Pasqua
+135,Serie A,Italy,2020,608615,2020-11-28T19:45:00+00:00,UTC,1606592700,Match Finished,FT,90,Regular Season - 9,499,Atalanta,504,Hellas Verona,0,2,AWAY,879.0,Gewiss Stadium,D. Massa
+135,Serie A,Italy,2020,608620,2020-11-29T11:30:00+00:00,UTC,1606649400,Match Finished,FT,90,Regular Season - 9,487,Lazio,494,Udinese,1,3,AWAY,910.0,Stadio Olimpico,G. Aureliano
+135,Serie A,Italy,2020,608621,2020-11-29T14:00:00+00:00,UTC,1606658400,Match Finished,FT,90,Regular Season - 9,489,AC Milan,502,Fiorentina,2,0,HOME,907.0,Stadio Giuseppe Meazza,R. Abisso
+135,Serie A,Italy,2020,608617,2020-11-29T14:00:00+00:00,UTC,1606658400,Match Finished,FT,90,Regular Season - 9,500,Bologna,501,Crotone,1,0,HOME,881.0,Stadio Renato Dall'Ara,M. Serra
+135,Serie A,Italy,2020,608618,2020-11-29T17:00:00+00:00,UTC,1606669200,Match Finished,FT,90,Regular Season - 9,490,Cagliari,515,Spezia,2,2,DRAW,883.0,Sardegna Arena,V. Marini
+135,Serie A,Italy,2020,608622,2020-11-29T19:45:00+00:00,UTC,1606679100,Match Finished,FT,90,Regular Season - 9,492,Napoli,497,AS Roma,4,0,HOME,11904.0,Stadio Diego Armando Maradona,M. Di Bello
+135,Serie A,Italy,2020,608624,2020-11-30T17:30:00+00:00,UTC,1606757400,Match Finished,FT,90,Regular Season - 9,503,Torino,498,Sampdoria,2,2,DRAW,943.0,Stadio Olimpico Grande Torino,D. Doveri
+135,Serie A,Italy,2020,608619,2020-11-30T19:45:00+00:00,UTC,1606765500,Match Finished,FT,90,Regular Season - 9,495,Genoa,523,Parma,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,M. Mariani
+135,Serie A,Italy,2020,608632,2020-12-05T14:00:00+00:00,UTC,1607176800,Match Finished,FT,90,Regular Season - 10,515,Spezia,487,Lazio,1,2,AWAY,2758.0,Orogel Stadium-Dino Manuzzi,D. Chiffi
+135,Serie A,Italy,2020,608628,2020-12-05T17:00:00+00:00,UTC,1607187600,Match Finished,FT,90,Regular Season - 10,496,Juventus,503,Torino,2,1,HOME,909.0,Allianz Stadium,D. Orsato
+135,Serie A,Italy,2020,608627,2020-12-05T19:45:00+00:00,UTC,1607197500,Match Finished,FT,90,Regular Season - 10,505,Inter,500,Bologna,3,1,HOME,907.0,Stadio Giuseppe Meazza,P. Valeri
+135,Serie A,Italy,2020,608634,2020-12-06T11:30:00+00:00,UTC,1607254200,Match Finished,FT,90,Regular Season - 10,504,Hellas Verona,490,Cagliari,1,1,DRAW,890.0,Stadio Marc'Antonio Bentegodi,G. Manganiello
+135,Serie A,Italy,2020,608630,2020-12-06T14:00:00+00:00,UTC,1607263200,Match Finished,FT,90,Regular Season - 10,497,AS Roma,488,Sassuolo,0,0,DRAW,910.0,Stadio Olimpico,F. Maresca
+135,Serie A,Italy,2020,608629,2020-12-06T14:00:00+00:00,UTC,1607263200,Match Finished,FT,90,Regular Season - 10,523,Parma,506,Benevento,0,0,DRAW,921.0,Stadio Ennio Tardini,J. Sacchi
+135,Serie A,Italy,2020,608625,2020-12-06T17:00:00+00:00,UTC,1607274000,Match Finished,FT,90,Regular Season - 10,501,Crotone,492,Napoli,0,4,AWAY,895.0,Stadio Ezio Scida,L. Marinelli
+135,Serie A,Italy,2020,608631,2020-12-06T19:45:00+00:00,UTC,1607283900,Match Finished,FT,90,Regular Season - 10,498,Sampdoria,489,AC Milan,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,G. Calvarese
+135,Serie A,Italy,2020,608626,2020-12-07T19:45:00+00:00,UTC,1607370300,Match Finished,FT,90,Regular Season - 10,502,Fiorentina,495,Genoa,1,1,DRAW,902.0,Stadio Artemio Franchi,D. Doveri
+135,Serie A,Italy,2020,608643,2020-12-11T19:45:00+00:00,UTC,1607715900,Match Finished,FT,90,Regular Season - 11,488,Sassuolo,506,Benevento,1,0,HOME,935.0,MAPEI Stadium - Città del Tricolore,S. Sozza
+135,Serie A,Italy,2020,608638,2020-12-12T14:00:00+00:00,UTC,1607781600,Match Finished,FT,90,Regular Season - 11,501,Crotone,515,Spezia,4,1,HOME,895.0,Stadio Ezio Scida,A. Giua
+135,Serie A,Italy,2020,608644,2020-12-12T17:00:00+00:00,UTC,1607792400,Match Finished,FT,90,Regular Season - 11,503,Torino,494,Udinese,2,3,AWAY,943.0,Stadio Olimpico Grande Torino,D. Massa
+135,Serie A,Italy,2020,608640,2020-12-12T19:45:00+00:00,UTC,1607802300,Match Finished,FT,90,Regular Season - 11,487,Lazio,504,Hellas Verona,1,2,AWAY,910.0,Stadio Olimpico,R. Abisso
+135,Serie A,Italy,2020,608637,2020-12-13T11:45:00+00:00,UTC,1607859900,Match Finished,FT,90,Regular Season - 11,490,Cagliari,505,Inter,1,3,AWAY,883.0,Sardegna Arena,F. Pasqua
+135,Serie A,Italy,2020,608642,2020-12-13T14:00:00+00:00,UTC,1607868000,Match Finished,FT,90,Regular Season - 11,492,Napoli,498,Sampdoria,2,1,HOME,11904.0,Stadio Diego Armando Maradona,F. La Penna
+135,Serie A,Italy,2020,608635,2020-12-13T14:00:00+00:00,UTC,1607868000,Match Finished,FT,90,Regular Season - 11,499,Atalanta,502,Fiorentina,3,0,HOME,879.0,Gewiss Stadium,M. Mariani
+135,Serie A,Italy,2020,608636,2020-12-13T14:00:00+00:00,UTC,1607868000,Match Finished,FT,90,Regular Season - 11,500,Bologna,497,AS Roma,1,5,AWAY,881.0,Stadio Renato Dall'Ara,G. Calvarese
+135,Serie A,Italy,2020,608639,2020-12-13T17:00:00+00:00,UTC,1607878800,Match Finished,FT,90,Regular Season - 11,495,Genoa,496,Juventus,1,3,AWAY,905.0,Stadio Comunale Luigi Ferraris,M. Di Bello
+135,Serie A,Italy,2020,608641,2020-12-13T19:45:00+00:00,UTC,1607888700,Match Finished,FT,90,Regular Season - 11,489,AC Milan,523,Parma,2,2,DRAW,907.0,Stadio Giuseppe Meazza,F. Fourneau
+135,Serie A,Italy,2020,608653,2020-12-15T17:30:00+00:00,UTC,1608053400,Match Finished,FT,90,Regular Season - 12,494,Udinese,501,Crotone,0,0,DRAW,928.0,Dacia Arena,A. Di Martino
+135,Serie A,Italy,2020,608645,2020-12-15T19:45:00+00:00,UTC,1608061500,Match Finished,FT,90,Regular Season - 12,506,Benevento,487,Lazio,1,1,DRAW,880.0,Stadio Ciro Vigorito,L. Pairetto
+135,Serie A,Italy,2020,608649,2020-12-16T17:30:00+00:00,UTC,1608139800,Match Finished,FT,90,Regular Season - 12,496,Juventus,499,Atalanta,1,1,DRAW,909.0,Allianz Stadium,D. Doveri
+135,Serie A,Italy,2020,608647,2020-12-16T19:45:00+00:00,UTC,1608147900,Match Finished,FT,90,Regular Season - 12,495,Genoa,489,AC Milan,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,D. Orsato
+135,Serie A,Italy,2020,608646,2020-12-16T19:45:00+00:00,UTC,1608147900,Match Finished,FT,90,Regular Season - 12,502,Fiorentina,488,Sassuolo,1,1,DRAW,902.0,Stadio Artemio Franchi,P. Valeri
+135,Serie A,Italy,2020,608654,2020-12-16T19:45:00+00:00,UTC,1608147900,Match Finished,FT,90,Regular Season - 12,504,Hellas Verona,498,Sampdoria,1,2,AWAY,890.0,Stadio Marc'Antonio Bentegodi,R. Ros
+135,Serie A,Italy,2020,608648,2020-12-16T19:45:00+00:00,UTC,1608147900,Match Finished,FT,90,Regular Season - 12,505,Inter,492,Napoli,1,0,HOME,907.0,Stadio Giuseppe Meazza,D. Massa
+135,Serie A,Italy,2020,608652,2020-12-16T19:45:00+00:00,UTC,1608147900,Match Finished,FT,90,Regular Season - 12,515,Spezia,500,Bologna,2,2,DRAW,939.0,Stadio Alberto Picco,P. Giacomelli
+135,Serie A,Italy,2020,608650,2020-12-16T19:45:00+00:00,UTC,1608147900,Match Finished,FT,90,Regular Season - 12,523,Parma,490,Cagliari,0,0,DRAW,921.0,Stadio Ennio Tardini,I. Pezzuto
+135,Serie A,Italy,2020,608651,2020-12-17T19:45:00+00:00,UTC,1608234300,Match Finished,FT,90,Regular Season - 12,497,AS Roma,503,Torino,3,1,HOME,910.0,Stadio Olimpico,R. Abisso
+135,Serie A,Italy,2020,608658,2020-12-19T14:00:00+00:00,UTC,1608386400,Match Finished,FT,90,Regular Season - 13,502,Fiorentina,504,Hellas Verona,1,1,DRAW,902.0,Stadio Artemio Franchi,F. Fourneau
+135,Serie A,Italy,2020,608662,2020-12-19T17:00:00+00:00,UTC,1608397200,Match Finished,FT,90,Regular Season - 13,498,Sampdoria,501,Crotone,3,1,HOME,905.0,Stadio Comunale Luigi Ferraris,G. Manganiello
+135,Serie A,Italy,2020,608661,2020-12-19T19:45:00+00:00,UTC,1608407100,Match Finished,FT,90,Regular Season - 13,523,Parma,496,Juventus,0,4,AWAY,921.0,Stadio Ennio Tardini,G. Calvarese
+135,Serie A,Italy,2020,608664,2020-12-20T11:30:00+00:00,UTC,1608463800,Match Finished,FT,90,Regular Season - 13,503,Torino,500,Bologna,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,F. Pasqua
+135,Serie A,Italy,2020,608663,2020-12-20T14:00:00+00:00,UTC,1608472800,Match Finished,FT,90,Regular Season - 13,488,Sassuolo,489,AC Milan,1,2,AWAY,935.0,MAPEI Stadium - Città del Tricolore,M. Mariani
+135,Serie A,Italy,2020,608657,2020-12-20T14:00:00+00:00,UTC,1608472800,Match Finished,FT,90,Regular Season - 13,490,Cagliari,494,Udinese,1,1,DRAW,883.0,Sardegna Arena,M. Piccinini
+135,Serie A,Italy,2020,608659,2020-12-20T14:00:00+00:00,UTC,1608472800,Match Finished,FT,90,Regular Season - 13,505,Inter,515,Spezia,2,1,HOME,907.0,Stadio Giuseppe Meazza,M. Fabbri
+135,Serie A,Italy,2020,608656,2020-12-20T14:00:00+00:00,UTC,1608472800,Match Finished,FT,90,Regular Season - 13,506,Benevento,495,Genoa,2,0,HOME,880.0,Stadio Ciro Vigorito,A. Giua
+135,Serie A,Italy,2020,608655,2020-12-20T17:00:00+00:00,UTC,1608483600,Match Finished,FT,90,Regular Season - 13,499,Atalanta,497,AS Roma,4,1,HOME,879.0,Gewiss Stadium,M. Di Bello
+135,Serie A,Italy,2020,608660,2020-12-20T19:45:00+00:00,UTC,1608493500,Match Finished,FT,90,Regular Season - 13,487,Lazio,492,Napoli,2,0,HOME,910.0,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2020,608666,2020-12-22T17:30:00+00:00,UTC,1608658200,Match Finished,FT,90,Regular Season - 14,501,Crotone,523,Parma,2,1,HOME,895.0,Stadio Ezio Scida,F. Maresca
+135,Serie A,Italy,2020,608667,2020-12-22T19:45:00+00:00,UTC,1608666300,Match Finished,FT,90,Regular Season - 14,496,Juventus,502,Fiorentina,0,3,AWAY,909.0,Allianz Stadium,F. La Penna
+135,Serie A,Italy,2020,608674,2020-12-23T17:30:00+00:00,UTC,1608744600,Match Finished,FT,90,Regular Season - 14,504,Hellas Verona,505,Inter,1,2,AWAY,890.0,Stadio Marc'Antonio Bentegodi,P. Giacomelli
+135,Serie A,Italy,2020,608668,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,489,AC Milan,487,Lazio,3,2,HOME,907.0,Stadio Giuseppe Meazza,M. Di Bello
+135,Serie A,Italy,2020,608669,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,492,Napoli,503,Torino,1,1,DRAW,11904.0,Stadio Diego Armando Maradona,P. Valeri
+135,Serie A,Italy,2020,608673,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,494,Udinese,506,Benevento,0,2,AWAY,928.0,Dacia Arena,M. Volpi
+135,Serie A,Italy,2020,608670,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,497,AS Roma,490,Cagliari,3,2,HOME,910.0,Stadio Olimpico,L. Pairetto
+135,Serie A,Italy,2020,608671,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,498,Sampdoria,488,Sassuolo,2,3,AWAY,905.0,Stadio Comunale Luigi Ferraris,G. Ayroldi
+135,Serie A,Italy,2020,608665,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,500,Bologna,499,Atalanta,2,2,DRAW,881.0,Stadio Renato Dall'Ara,D. Chiffi
+135,Serie A,Italy,2020,608672,2020-12-23T19:45:00+00:00,UTC,1608752700,Match Finished,FT,90,Regular Season - 14,515,Spezia,495,Genoa,1,2,AWAY,939.0,Stadio Alberto Picco,D. Massa
+135,Serie A,Italy,2020,608680,2021-01-03T11:30:00+00:00,UTC,1609673400,Match Finished,FT,90,Regular Season - 15,505,Inter,501,Crotone,6,2,HOME,907.0,Stadio Giuseppe Meazza,G. Aureliano
+135,Serie A,Italy,2020,608677,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,490,Cagliari,492,Napoli,1,4,AWAY,883.0,Sardegna Arena,G. Manganiello
+135,Serie A,Italy,2020,608679,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,495,Genoa,487,Lazio,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,G. Calvarese
+135,Serie A,Italy,2020,608683,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,497,AS Roma,498,Sampdoria,1,0,HOME,910.0,Stadio Olimpico,D. Chiffi
+135,Serie A,Italy,2020,608675,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,499,Atalanta,488,Sassuolo,5,1,HOME,879.0,Gewiss Stadium,F. Maresca
+135,Serie A,Italy,2020,608678,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,502,Fiorentina,500,Bologna,0,0,DRAW,902.0,Stadio Artemio Franchi,D. Orsato
+135,Serie A,Italy,2020,608684,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,515,Spezia,504,Hellas Verona,0,1,AWAY,939.0,Stadio Alberto Picco,L. Pairetto
+135,Serie A,Italy,2020,608682,2021-01-03T14:00:00+00:00,UTC,1609682400,Match Finished,FT,90,Regular Season - 15,523,Parma,503,Torino,0,3,AWAY,921.0,Stadio Ennio Tardini,D. Doveri
+135,Serie A,Italy,2020,608676,2021-01-03T17:00:00+00:00,UTC,1609693200,Match Finished,FT,90,Regular Season - 15,506,Benevento,489,AC Milan,0,2,AWAY,880.0,Stadio Ciro Vigorito,F. Pasqua
+135,Serie A,Italy,2020,608681,2021-01-03T19:45:00+00:00,UTC,1609703100,Match Finished,FT,90,Regular Season - 15,496,Juventus,494,Udinese,4,1,HOME,909.0,Allianz Stadium,P. Giacomelli
+135,Serie A,Italy,2020,608687,2021-01-06T11:30:00+00:00,UTC,1609932600,Match Finished,FT,90,Regular Season - 16,490,Cagliari,506,Benevento,1,2,AWAY,883.0,Sardegna Arena,E. Abbattista
+135,Serie A,Italy,2020,608689,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,487,Lazio,502,Fiorentina,2,1,HOME,910.0,Stadio Olimpico,R. Abisso
+135,Serie A,Italy,2020,608693,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,488,Sassuolo,495,Genoa,2,1,HOME,935.0,MAPEI Stadium - Città del Tricolore,M. Fabbri
+135,Serie A,Italy,2020,608692,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,498,Sampdoria,505,Inter,2,1,HOME,905.0,Stadio Comunale Luigi Ferraris,P. Valeri
+135,Serie A,Italy,2020,608685,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,499,Atalanta,523,Parma,3,0,HOME,879.0,Gewiss Stadium,J. Sacchi
+135,Serie A,Italy,2020,608686,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,500,Bologna,494,Udinese,2,2,DRAW,881.0,Stadio Renato Dall'Ara,G. Ayroldi
+135,Serie A,Italy,2020,608688,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,501,Crotone,497,AS Roma,1,3,AWAY,895.0,Stadio Ezio Scida,M. Piccinini
+135,Serie A,Italy,2020,608694,2021-01-06T14:00:00+00:00,UTC,1609941600,Match Finished,FT,90,Regular Season - 16,503,Torino,504,Hellas Verona,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,M. Di Bello
+135,Serie A,Italy,2020,608691,2021-01-06T17:00:00+00:00,UTC,1609952400,Match Finished,FT,90,Regular Season - 16,492,Napoli,515,Spezia,1,2,AWAY,11904.0,Stadio Diego Armando Maradona,M. Mariani
+135,Serie A,Italy,2020,608690,2021-01-06T19:45:00+00:00,UTC,1609962300,Match Finished,FT,90,Regular Season - 16,489,AC Milan,496,Juventus,1,3,AWAY,907.0,Stadio Giuseppe Meazza,M. Irrati
+135,Serie A,Italy,2020,608695,2021-01-09T14:00:00+00:00,UTC,1610200800,Match Finished,FT,90,Regular Season - 17,506,Benevento,499,Atalanta,1,4,AWAY,880.0,Stadio Ciro Vigorito,G. Manganiello
+135,Serie A,Italy,2020,608697,2021-01-09T17:00:00+00:00,UTC,1610211600,Match Finished,FT,90,Regular Season - 17,495,Genoa,500,Bologna,2,0,HOME,905.0,Stadio Comunale Luigi Ferraris,D. Doveri
+135,Serie A,Italy,2020,608699,2021-01-09T19:45:00+00:00,UTC,1610221500,Match Finished,FT,90,Regular Season - 17,489,AC Milan,503,Torino,2,0,HOME,907.0,Stadio Giuseppe Meazza,F. Maresca
+135,Serie A,Italy,2020,608701,2021-01-10T11:30:00+00:00,UTC,1610278200,Match Finished,FT,90,Regular Season - 17,497,AS Roma,505,Inter,2,2,DRAW,910.0,Stadio Olimpico,M. Di Bello
+135,Serie A,Italy,2020,608703,2021-01-10T14:00:00+00:00,UTC,1610287200,Match Finished,FT,90,Regular Season - 17,494,Udinese,492,Napoli,1,2,AWAY,928.0,Dacia Arena,F. Pasqua
+135,Serie A,Italy,2020,608704,2021-01-10T14:00:00+00:00,UTC,1610287200,Match Finished,FT,90,Regular Season - 17,504,Hellas Verona,501,Crotone,2,1,HOME,890.0,Stadio Marc'Antonio Bentegodi,L. Massimi
+135,Serie A,Italy,2020,608700,2021-01-10T14:00:00+00:00,UTC,1610287200,Match Finished,FT,90,Regular Season - 17,523,Parma,487,Lazio,0,2,AWAY,921.0,Stadio Ennio Tardini,L. Pairetto
+135,Serie A,Italy,2020,608696,2021-01-10T17:00:00+00:00,UTC,1610298000,Match Finished,FT,90,Regular Season - 17,502,Fiorentina,490,Cagliari,1,0,HOME,902.0,Stadio Artemio Franchi,P. Giacomelli
+135,Serie A,Italy,2020,608698,2021-01-10T19:45:00+00:00,UTC,1610307900,Match Finished,FT,90,Regular Season - 17,496,Juventus,488,Sassuolo,3,1,HOME,909.0,Allianz Stadium,D. Massa
+135,Serie A,Italy,2020,608702,2021-01-11T19:45:00+00:00,UTC,1610394300,Match Finished,FT,90,Regular Season - 17,515,Spezia,498,Sampdoria,2,1,HOME,939.0,Stadio Alberto Picco,M. Piccinini
+135,Serie A,Italy,2020,608710,2021-01-15T19:45:00+00:00,UTC,1610739900,Match Finished,FT,90,Regular Season - 18,487,Lazio,497,AS Roma,3,0,HOME,910.0,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2020,608706,2021-01-16T14:00:00+00:00,UTC,1610805600,Match Finished,FT,90,Regular Season - 18,500,Bologna,504,Hellas Verona,1,0,HOME,881.0,Stadio Renato Dall'Ara,M. Mariani
+135,Serie A,Italy,2020,608714,2021-01-16T17:00:00+00:00,UTC,1610816400,Match Finished,FT,90,Regular Season - 18,503,Torino,515,Spezia,0,0,DRAW,943.0,Stadio Olimpico Grande Torino,M. Fabbri
+135,Serie A,Italy,2020,608712,2021-01-16T19:45:00+00:00,UTC,1610826300,Match Finished,FT,90,Regular Season - 18,498,Sampdoria,494,Udinese,2,1,HOME,905.0,Stadio Comunale Luigi Ferraris,J. Sacchi
+135,Serie A,Italy,2020,608711,2021-01-17T11:30:00+00:00,UTC,1610883000,Match Finished,FT,90,Regular Season - 18,492,Napoli,502,Fiorentina,6,0,HOME,11904.0,Stadio Diego Armando Maradona,D. Chiffi
+135,Serie A,Italy,2020,608713,2021-01-17T14:00:00+00:00,UTC,1610892000,Match Finished,FT,90,Regular Season - 18,488,Sassuolo,523,Parma,1,1,DRAW,935.0,MAPEI Stadium - Città del Tricolore,I. Pezzuto
+135,Serie A,Italy,2020,608708,2021-01-17T14:00:00+00:00,UTC,1610892000,Match Finished,FT,90,Regular Season - 18,501,Crotone,506,Benevento,4,1,HOME,895.0,Stadio Ezio Scida,S. Sozza
+135,Serie A,Italy,2020,608705,2021-01-17T17:00:00+00:00,UTC,1610902800,Match Finished,FT,90,Regular Season - 18,499,Atalanta,495,Genoa,0,0,DRAW,879.0,Gewiss Stadium,L. Marinelli
+135,Serie A,Italy,2020,608709,2021-01-17T19:45:00+00:00,UTC,1610912700,Match Finished,FT,90,Regular Season - 18,505,Inter,496,Juventus,2,0,HOME,907.0,Stadio Giuseppe Meazza,D. Doveri
+135,Serie A,Italy,2020,608707,2021-01-18T19:45:00+00:00,UTC,1610999100,Match Finished,FT,90,Regular Season - 18,490,Cagliari,489,AC Milan,0,2,AWAY,883.0,Sardegna Arena,R. Abisso
+135,Serie A,Italy,2020,608633,2021-01-20T14:00:00+00:00,UTC,1611151200,Match Finished,FT,90,Regular Season - 10,494,Udinese,499,Atalanta,1,1,DRAW,928.0,Dacia Arena,G. Calvarese
+135,Serie A,Italy,2020,608715,2021-01-22T19:45:00+00:00,UTC,1611344700,Match Finished,FT,90,Regular Season - 19,506,Benevento,503,Torino,2,2,DRAW,880.0,Stadio Ciro Vigorito,P. Giacomelli
+135,Serie A,Italy,2020,608722,2021-01-23T14:00:00+00:00,UTC,1611410400,Match Finished,FT,90,Regular Season - 19,497,AS Roma,515,Spezia,4,3,HOME,910.0,Stadio Olimpico,L. Pairetto
+135,Serie A,Italy,2020,608720,2021-01-23T17:00:00+00:00,UTC,1611421200,Match Finished,FT,90,Regular Season - 19,489,AC Milan,499,Atalanta,0,3,AWAY,907.0,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2020,608723,2021-01-23T17:00:00+00:00,UTC,1611421200,Match Finished,FT,90,Regular Season - 19,494,Udinese,505,Inter,0,0,DRAW,928.0,Dacia Arena,F. Maresca
+135,Serie A,Italy,2020,608716,2021-01-23T19:45:00+00:00,UTC,1611431100,Match Finished,FT,90,Regular Season - 19,502,Fiorentina,501,Crotone,2,1,HOME,902.0,Stadio Artemio Franchi,M. Piccinini
+135,Serie A,Italy,2020,608718,2021-01-24T11:30:00+00:00,UTC,1611487800,Match Finished,FT,90,Regular Season - 19,496,Juventus,500,Bologna,2,0,HOME,909.0,Allianz Stadium,J. Sacchi
+135,Serie A,Italy,2020,608717,2021-01-24T14:00:00+00:00,UTC,1611496800,Match Finished,FT,90,Regular Season - 19,495,Genoa,490,Cagliari,1,0,HOME,905.0,Stadio Comunale Luigi Ferraris,M. Di Bello
+135,Serie A,Italy,2020,608724,2021-01-24T14:00:00+00:00,UTC,1611496800,Match Finished,FT,90,Regular Season - 19,504,Hellas Verona,492,Napoli,3,1,HOME,890.0,Stadio Marc'Antonio Bentegodi,M. Fabbri
+135,Serie A,Italy,2020,608719,2021-01-24T17:00:00+00:00,UTC,1611507600,Match Finished,FT,90,Regular Season - 19,487,Lazio,488,Sassuolo,2,1,HOME,910.0,Stadio Olimpico,A. Giua
+135,Serie A,Italy,2020,608721,2021-01-24T19:45:00+00:00,UTC,1611517500,Match Finished,FT,90,Regular Season - 19,523,Parma,498,Sampdoria,0,2,AWAY,921.0,Stadio Ennio Tardini,G. Manganiello
+135,Serie A,Italy,2020,608726,2021-01-29T19:45:00+00:00,UTC,1611949500,Match Finished,FT,90,Regular Season - 20,503,Torino,502,Fiorentina,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,M. Di Bello
+135,Serie A,Italy,2020,608730,2021-01-30T14:00:00+00:00,UTC,1612015200,Match Finished,FT,90,Regular Season - 20,500,Bologna,489,AC Milan,1,2,AWAY,881.0,Stadio Renato Dall'Ara,D. Doveri
+135,Serie A,Italy,2020,608728,2021-01-30T17:00:00+00:00,UTC,1612026000,Match Finished,FT,90,Regular Season - 20,498,Sampdoria,496,Juventus,0,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,M. Fabbri
+135,Serie A,Italy,2020,608725,2021-01-30T19:45:00+00:00,UTC,1612035900,Match Finished,FT,90,Regular Season - 20,505,Inter,506,Benevento,4,0,HOME,907.0,Stadio Giuseppe Meazza,F. Pasqua
+135,Serie A,Italy,2020,608733,2021-01-31T11:30:00+00:00,UTC,1612092600,Match Finished,FT,90,Regular Season - 20,515,Spezia,494,Udinese,0,1,AWAY,939.0,Stadio Alberto Picco,A. Di Martino
+135,Serie A,Italy,2020,608732,2021-01-31T14:00:00+00:00,UTC,1612101600,Match Finished,FT,90,Regular Season - 20,490,Cagliari,488,Sassuolo,1,1,DRAW,883.0,Sardegna Arena,M. Mariani
+135,Serie A,Italy,2020,608729,2021-01-31T14:00:00+00:00,UTC,1612101600,Match Finished,FT,90,Regular Season - 20,499,Atalanta,487,Lazio,1,3,AWAY,879.0,Gewiss Stadium,D. Chiffi
+135,Serie A,Italy,2020,608727,2021-01-31T14:00:00+00:00,UTC,1612101600,Match Finished,FT,90,Regular Season - 20,501,Crotone,495,Genoa,0,3,AWAY,895.0,Stadio Ezio Scida,P. Giacomelli
+135,Serie A,Italy,2020,608731,2021-01-31T17:00:00+00:00,UTC,1612112400,Match Finished,FT,90,Regular Season - 20,492,Napoli,523,Parma,2,0,HOME,11904.0,Stadio Diego Armando Maradona,F. La Penna
+135,Serie A,Italy,2020,608734,2021-01-31T19:45:00+00:00,UTC,1612122300,Match Finished,FT,90,Regular Season - 20,497,AS Roma,504,Hellas Verona,3,1,HOME,910.0,Stadio Olimpico,M. Piccinini
+135,Serie A,Italy,2020,608738,2021-02-05T19:45:00+00:00,UTC,1612554300,Match Finished,FT,90,Regular Season - 21,502,Fiorentina,505,Inter,0,2,AWAY,902.0,Stadio Artemio Franchi,F. La Penna
+135,Serie A,Italy,2020,608742,2021-02-06T14:00:00+00:00,UTC,1612620000,Match Finished,FT,90,Regular Season - 21,488,Sassuolo,515,Spezia,1,2,AWAY,935.0,MAPEI Stadium - Città del Tricolore,J. Sacchi
+135,Serie A,Italy,2020,608743,2021-02-06T14:00:00+00:00,UTC,1612620000,Match Finished,FT,90,Regular Season - 21,499,Atalanta,503,Torino,3,3,DRAW,879.0,Gewiss Stadium,F. Fourneau
+135,Serie A,Italy,2020,608740,2021-02-06T17:00:00+00:00,UTC,1612630800,Match Finished,FT,90,Regular Season - 21,496,Juventus,497,AS Roma,2,0,HOME,909.0,Allianz Stadium,D. Orsato
+135,Serie A,Italy,2020,608739,2021-02-06T19:45:00+00:00,UTC,1612640700,Match Finished,FT,90,Regular Season - 21,495,Genoa,492,Napoli,2,1,HOME,905.0,Stadio Comunale Luigi Ferraris,G. Manganiello
+135,Serie A,Italy,2020,608741,2021-02-07T11:30:00+00:00,UTC,1612697400,Match Finished,FT,90,Regular Season - 21,506,Benevento,498,Sampdoria,1,1,DRAW,880.0,Stadio Ciro Vigorito,G. Aureliano
+135,Serie A,Italy,2020,608737,2021-02-07T14:00:00+00:00,UTC,1612706400,Match Finished,FT,90,Regular Season - 21,489,AC Milan,501,Crotone,4,0,HOME,907.0,Stadio Giuseppe Meazza,L. Pairetto
+135,Serie A,Italy,2020,608744,2021-02-07T14:00:00+00:00,UTC,1612706400,Match Finished,FT,90,Regular Season - 21,494,Udinese,504,Hellas Verona,2,0,HOME,928.0,Dacia Arena,A. Santoro
+135,Serie A,Italy,2020,608735,2021-02-07T17:00:00+00:00,UTC,1612717200,Match Finished,FT,90,Regular Season - 21,523,Parma,500,Bologna,0,3,AWAY,921.0,Stadio Ennio Tardini,M. Guida
+135,Serie A,Italy,2020,608736,2021-02-07T19:45:00+00:00,UTC,1612727100,Match Finished,FT,90,Regular Season - 21,487,Lazio,490,Cagliari,1,0,HOME,910.0,Stadio Olimpico,M. Irrati
+135,Serie A,Italy,2020,608746,2021-02-12T19:45:00+00:00,UTC,1613159100,Match Finished,FT,90,Regular Season - 22,500,Bologna,506,Benevento,1,1,DRAW,881.0,Stadio Renato Dall'Ara,D. Ghersini
+135,Serie A,Italy,2020,608748,2021-02-13T14:00:00+00:00,UTC,1613224800,Match Finished,FT,90,Regular Season - 22,503,Torino,495,Genoa,0,0,DRAW,943.0,Stadio Olimpico Grande Torino,F. Pasqua
+135,Serie A,Italy,2020,608749,2021-02-13T17:00:00+00:00,UTC,1613235600,Match Finished,FT,90,Regular Season - 22,492,Napoli,496,Juventus,1,0,HOME,11904.0,Stadio Diego Armando Maradona,D. Doveri
+135,Serie A,Italy,2020,608751,2021-02-13T19:45:00+00:00,UTC,1613245500,Match Finished,FT,90,Regular Season - 22,515,Spezia,489,AC Milan,2,0,HOME,939.0,Stadio Alberto Picco,D. Chiffi
+135,Serie A,Italy,2020,608754,2021-02-14T11:30:00+00:00,UTC,1613302200,Match Finished,FT,90,Regular Season - 22,497,AS Roma,494,Udinese,3,0,HOME,910.0,Stadio Olimpico,P. Giacomelli
+135,Serie A,Italy,2020,608745,2021-02-14T14:00:00+00:00,UTC,1613311200,Match Finished,FT,90,Regular Season - 22,490,Cagliari,499,Atalanta,0,1,AWAY,883.0,Sardegna Arena,M. Piccinini
+135,Serie A,Italy,2020,608747,2021-02-14T14:00:00+00:00,UTC,1613311200,Match Finished,FT,90,Regular Season - 22,498,Sampdoria,502,Fiorentina,2,1,HOME,905.0,Stadio Comunale Luigi Ferraris,F. Maresca
+135,Serie A,Italy,2020,608753,2021-02-14T17:00:00+00:00,UTC,1613322000,Match Finished,FT,90,Regular Season - 22,501,Crotone,488,Sassuolo,1,2,AWAY,895.0,Stadio Ezio Scida,I. Pezzuto
+135,Serie A,Italy,2020,608750,2021-02-14T19:45:00+00:00,UTC,1613331900,Match Finished,FT,90,Regular Season - 22,505,Inter,487,Lazio,3,1,HOME,907.0,Stadio Giuseppe Meazza,M. Fabbri
+135,Serie A,Italy,2020,608752,2021-02-15T19:45:00+00:00,UTC,1613418300,Match Finished,FT,90,Regular Season - 22,504,Hellas Verona,523,Parma,2,1,HOME,890.0,Stadio Marc'Antonio Bentegodi,L. Massimi
+135,Serie A,Italy,2020,608761,2021-02-19T17:30:00+00:00,UTC,1613755800,Match Finished,FT,90,Regular Season - 23,502,Fiorentina,515,Spezia,3,0,HOME,902.0,Stadio Artemio Franchi,G. Calvarese
+135,Serie A,Italy,2020,608762,2021-02-19T19:45:00+00:00,UTC,1613763900,Match Finished,FT,90,Regular Season - 23,490,Cagliari,503,Torino,0,1,AWAY,883.0,Sardegna Arena,D. Orsato
+135,Serie A,Italy,2020,608760,2021-02-20T14:00:00+00:00,UTC,1613829600,Match Finished,FT,90,Regular Season - 23,487,Lazio,498,Sampdoria,1,0,HOME,910.0,Stadio Olimpico,D. Massa
+135,Serie A,Italy,2020,608764,2021-02-20T17:00:00+00:00,UTC,1613840400,Match Finished,FT,90,Regular Season - 23,495,Genoa,504,Hellas Verona,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,M. Marchetti
+135,Serie A,Italy,2020,608755,2021-02-20T19:45:00+00:00,UTC,1613850300,Match Finished,FT,90,Regular Season - 23,488,Sassuolo,500,Bologna,1,1,DRAW,935.0,MAPEI Stadium - Città del Tricolore,F. La Penna
+135,Serie A,Italy,2020,608763,2021-02-21T11:30:00+00:00,UTC,1613907000,Match Finished,FT,90,Regular Season - 23,523,Parma,494,Udinese,2,2,DRAW,921.0,Stadio Ennio Tardini,M. Irrati
+135,Serie A,Italy,2020,608757,2021-02-21T14:00:00+00:00,UTC,1613916000,Match Finished,FT,90,Regular Season - 23,489,AC Milan,505,Inter,0,3,AWAY,907.0,Stadio Giuseppe Meazza,D. Doveri
+135,Serie A,Italy,2020,608758,2021-02-21T17:00:00+00:00,UTC,1613926800,Match Finished,FT,90,Regular Season - 23,499,Atalanta,492,Napoli,4,2,HOME,879.0,Gewiss Stadium,M. Di Bello
+135,Serie A,Italy,2020,608759,2021-02-21T19:45:00+00:00,UTC,1613936700,Match Finished,FT,90,Regular Season - 23,506,Benevento,497,AS Roma,0,0,DRAW,880.0,Stadio Ciro Vigorito,L. Pairetto
+135,Serie A,Italy,2020,608756,2021-02-22T19:45:00+00:00,UTC,1614023100,Match Finished,FT,90,Regular Season - 23,496,Juventus,501,Crotone,3,0,HOME,909.0,Allianz Stadium,V. Marini
+135,Serie A,Italy,2020,608773,2021-02-27T14:00:00+00:00,UTC,1614434400,Match Finished,FT,90,Regular Season - 24,515,Spezia,523,Parma,2,2,DRAW,939.0,Stadio Alberto Picco,D. Orsato
+135,Serie A,Italy,2020,608771,2021-02-27T17:00:00+00:00,UTC,1614445200,Match Finished,FT,90,Regular Season - 24,500,Bologna,487,Lazio,2,0,HOME,881.0,Stadio Renato Dall'Ara,P. Giacomelli
+135,Serie A,Italy,2020,608770,2021-02-27T19:45:00+00:00,UTC,1614455100,Match Finished,FT,90,Regular Season - 24,504,Hellas Verona,496,Juventus,1,1,DRAW,890.0,Stadio Marc'Antonio Bentegodi,F. Maresca
+135,Serie A,Italy,2020,608765,2021-02-28T11:30:00+00:00,UTC,1614511800,Match Finished,FT,90,Regular Season - 24,498,Sampdoria,499,Atalanta,0,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,L. Marinelli
+135,Serie A,Italy,2020,608768,2021-02-28T14:00:00+00:00,UTC,1614520800,Match Finished,FT,90,Regular Season - 24,494,Udinese,502,Fiorentina,1,0,HOME,928.0,Dacia Arena,M. Volpi
+135,Serie A,Italy,2020,608767,2021-02-28T14:00:00+00:00,UTC,1614520800,Match Finished,FT,90,Regular Season - 24,501,Crotone,490,Cagliari,0,2,AWAY,895.0,Stadio Ezio Scida,M. Fabbri
+135,Serie A,Italy,2020,608769,2021-02-28T14:00:00+00:00,UTC,1614520800,Match Finished,FT,90,Regular Season - 24,505,Inter,495,Genoa,3,0,HOME,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2020,608766,2021-02-28T17:00:00+00:00,UTC,1614531600,Match Finished,FT,90,Regular Season - 24,492,Napoli,506,Benevento,2,0,HOME,11904.0,Stadio Diego Armando Maradona,R. Abisso
+135,Serie A,Italy,2020,608772,2021-02-28T19:45:00+00:00,UTC,1614541500,Match Finished,FT,90,Regular Season - 24,497,AS Roma,489,AC Milan,1,2,AWAY,910.0,Stadio Olimpico,M. Guida
+135,Serie A,Italy,2020,608781,2021-03-02T19:45:00+00:00,UTC,1614714300,Match Finished,FT,90,Regular Season - 25,496,Juventus,515,Spezia,3,0,HOME,909.0,Allianz Stadium,J. Sacchi
+135,Serie A,Italy,2020,608778,2021-03-03T17:30:00+00:00,UTC,1614792600,Match Finished,FT,90,Regular Season - 25,488,Sassuolo,492,Napoli,3,3,DRAW,935.0,MAPEI Stadium - Città del Tricolore,V. Marini
+135,Serie A,Italy,2020,608783,2021-03-03T19:45:00+00:00,UTC,1614800700,Match Finished,FT,90,Regular Season - 25,489,AC Milan,494,Udinese,1,1,DRAW,907.0,Stadio Giuseppe Meazza,D. Massa
+135,Serie A,Italy,2020,608775,2021-03-03T19:45:00+00:00,UTC,1614800700,Match Finished,FT,90,Regular Season - 25,490,Cagliari,500,Bologna,1,0,HOME,883.0,Sardegna Arena,M. Di Bello
+135,Serie A,Italy,2020,608780,2021-03-03T19:45:00+00:00,UTC,1614800700,Match Finished,FT,90,Regular Season - 25,495,Genoa,498,Sampdoria,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,L. Pairetto
+135,Serie A,Italy,2020,608776,2021-03-03T19:45:00+00:00,UTC,1614800700,Match Finished,FT,90,Regular Season - 25,499,Atalanta,501,Crotone,5,1,HOME,879.0,Gewiss Stadium,S. Sozza
+135,Serie A,Italy,2020,608779,2021-03-03T19:45:00+00:00,UTC,1614800700,Match Finished,FT,90,Regular Season - 25,502,Fiorentina,497,AS Roma,1,2,AWAY,902.0,Stadio Artemio Franchi,G. Calvarese
+135,Serie A,Italy,2020,608784,2021-03-03T19:45:00+00:00,UTC,1614800700,Match Finished,FT,90,Regular Season - 25,506,Benevento,504,Hellas Verona,0,3,AWAY,880.0,Stadio Ciro Vigorito,G. Ayroldi
+135,Serie A,Italy,2020,608777,2021-03-04T19:45:00+00:00,UTC,1614887100,Match Finished,FT,90,Regular Season - 25,523,Parma,505,Inter,1,2,AWAY,921.0,Stadio Ennio Tardini,F. Pasqua
+135,Serie A,Italy,2020,608786,2021-03-06T14:00:00+00:00,UTC,1615039200,Match Finished,FT,90,Regular Season - 26,515,Spezia,506,Benevento,1,1,DRAW,939.0,Stadio Alberto Picco,F. Fourneau
+135,Serie A,Italy,2020,608793,2021-03-06T17:00:00+00:00,UTC,1615050000,Match Finished,FT,90,Regular Season - 26,494,Udinese,488,Sassuolo,2,0,HOME,928.0,Dacia Arena,L. Maggioni
+135,Serie A,Italy,2020,608790,2021-03-06T19:45:00+00:00,UTC,1615059900,Match Finished,FT,90,Regular Season - 26,496,Juventus,487,Lazio,3,1,HOME,909.0,Allianz Stadium,D. Massa
+135,Serie A,Italy,2020,608789,2021-03-07T11:30:00+00:00,UTC,1615116600,Match Finished,FT,90,Regular Season - 26,497,AS Roma,495,Genoa,1,0,HOME,910.0,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2020,608794,2021-03-07T14:00:00+00:00,UTC,1615125600,Match Finished,FT,90,Regular Season - 26,501,Crotone,503,Torino,4,2,HOME,895.0,Stadio Ezio Scida,M. Guida
+135,Serie A,Italy,2020,608792,2021-03-07T14:00:00+00:00,UTC,1615125600,Match Finished,FT,90,Regular Season - 26,502,Fiorentina,523,Parma,3,3,DRAW,902.0,Stadio Artemio Franchi,R. Abisso
+135,Serie A,Italy,2020,608791,2021-03-07T14:00:00+00:00,UTC,1615125600,Match Finished,FT,90,Regular Season - 26,504,Hellas Verona,489,AC Milan,0,2,AWAY,890.0,Stadio Marc'Antonio Bentegodi,D. Orsato
+135,Serie A,Italy,2020,608788,2021-03-07T17:00:00+00:00,UTC,1615136400,Match Finished,FT,90,Regular Season - 26,498,Sampdoria,490,Cagliari,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,P. Giacomelli
+135,Serie A,Italy,2020,608787,2021-03-07T19:45:00+00:00,UTC,1615146300,Match Finished,FT,90,Regular Season - 26,492,Napoli,500,Bologna,3,1,HOME,11904.0,Stadio Diego Armando Maradona,D. Chiffi
+135,Serie A,Italy,2020,608785,2021-03-08T19:45:00+00:00,UTC,1615232700,Match Finished,FT,90,Regular Season - 26,505,Inter,499,Atalanta,1,0,HOME,907.0,Stadio Giuseppe Meazza,M. Mariani
+135,Serie A,Italy,2020,608795,2021-03-12T14:00:00+00:00,UTC,1615557600,Match Finished,FT,90,Regular Season - 27,487,Lazio,501,Crotone,3,2,HOME,910.0,Stadio Olimpico,A. Rapuano
+135,Serie A,Italy,2020,608802,2021-03-12T19:45:00+00:00,UTC,1615578300,Match Finished,FT,90,Regular Season - 27,499,Atalanta,515,Spezia,3,1,HOME,879.0,Gewiss Stadium,V. Marini
+135,Serie A,Italy,2020,608804,2021-03-13T14:00:00+00:00,UTC,1615644000,Match Finished,FT,90,Regular Season - 27,488,Sassuolo,504,Hellas Verona,3,2,HOME,935.0,MAPEI Stadium - Città del Tricolore,A. Prontera
+135,Serie A,Italy,2020,608796,2021-03-13T17:00:00+00:00,UTC,1615654800,Match Finished,FT,90,Regular Season - 27,506,Benevento,502,Fiorentina,1,4,AWAY,880.0,Stadio Ciro Vigorito,P. Giacomelli
+135,Serie A,Italy,2020,608803,2021-03-13T19:45:00+00:00,UTC,1615664700,Match Finished,FT,90,Regular Season - 27,495,Genoa,494,Udinese,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,G. Camplone
+135,Serie A,Italy,2020,608801,2021-03-14T11:30:00+00:00,UTC,1615721400,Match Finished,FT,90,Regular Season - 27,500,Bologna,498,Sampdoria,3,1,HOME,881.0,Stadio Renato Dall'Ara,M. Irrati
+135,Serie A,Italy,2020,608797,2021-03-14T14:00:00+00:00,UTC,1615730400,Match Finished,FT,90,Regular Season - 27,503,Torino,505,Inter,1,2,AWAY,943.0,Stadio Olimpico Grande Torino,P. Valeri
+135,Serie A,Italy,2020,608800,2021-03-14T14:00:00+00:00,UTC,1615730400,Match Finished,FT,90,Regular Season - 27,523,Parma,497,AS Roma,2,0,HOME,921.0,Stadio Ennio Tardini,M. Piccinini
+135,Serie A,Italy,2020,608798,2021-03-14T17:00:00+00:00,UTC,1615741200,Match Finished,FT,90,Regular Season - 27,490,Cagliari,496,Juventus,1,3,AWAY,883.0,Sardegna Arena,G. Calvarese
+135,Serie A,Italy,2020,608799,2021-03-14T19:45:00+00:00,UTC,1615751100,Match Finished,FT,90,Regular Season - 27,489,AC Milan,492,Napoli,0,1,AWAY,907.0,Stadio Giuseppe Meazza,F. Pasqua
+135,Serie A,Italy,2020,608774,2021-03-17T14:00:00+00:00,UTC,1615989600,Match Finished,FT,90,Regular Season - 24,503,Torino,488,Sassuolo,3,2,HOME,943.0,Stadio Olimpico Grande Torino,M. Mariani
+135,Serie A,Italy,2020,608809,2021-03-19T19:45:00+00:00,UTC,1616183100,Match Finished,FT,90,Regular Season - 28,523,Parma,495,Genoa,1,2,AWAY,921.0,Stadio Ennio Tardini,D. Doveri
+135,Serie A,Italy,2020,608807,2021-03-20T14:00:00+00:00,UTC,1616248800,Match Finished,FT,90,Regular Season - 28,501,Crotone,500,Bologna,2,3,AWAY,895.0,Stadio Ezio Scida,F. Fourneau
+135,Serie A,Italy,2020,608808,2021-03-20T17:00:00+00:00,UTC,1616259600,Match Finished,FT,90,Regular Season - 28,515,Spezia,490,Cagliari,2,1,HOME,939.0,Stadio Alberto Picco,M. Mariani
+135,Serie A,Italy,2020,608805,2021-03-21T11:30:00+00:00,UTC,1616326200,Match Finished,FT,90,Regular Season - 28,504,Hellas Verona,499,Atalanta,0,2,AWAY,890.0,Stadio Marc'Antonio Bentegodi,L. Pairetto
+135,Serie A,Italy,2020,608810,2021-03-21T14:00:00+00:00,UTC,1616335200,Match Finished,FT,90,Regular Season - 28,494,Udinese,487,Lazio,0,1,AWAY,928.0,Dacia Arena,F. Maresca
+135,Serie A,Italy,2020,608806,2021-03-21T14:00:00+00:00,UTC,1616335200,Match Finished,FT,90,Regular Season - 28,496,Juventus,506,Benevento,0,1,AWAY,909.0,Allianz Stadium,R. Abisso
+135,Serie A,Italy,2020,608814,2021-03-21T14:00:00+00:00,UTC,1616335200,Match Finished,FT,90,Regular Season - 28,498,Sampdoria,503,Torino,1,0,HOME,905.0,Stadio Comunale Luigi Ferraris,D. Orsato
+135,Serie A,Italy,2020,608811,2021-03-21T17:00:00+00:00,UTC,1616346000,Match Finished,FT,90,Regular Season - 28,502,Fiorentina,489,AC Milan,2,3,AWAY,902.0,Stadio Artemio Franchi,M. Guida
+135,Serie A,Italy,2020,608812,2021-03-21T19:45:00+00:00,UTC,1616355900,Match Finished,FT,90,Regular Season - 28,497,AS Roma,492,Napoli,0,2,AWAY,910.0,Stadio Olimpico,M. Di Bello
+135,Serie A,Italy,2020,608821,2021-04-03T10:30:00+00:00,UTC,1617445800,Match Finished,FT,90,Regular Season - 29,489,AC Milan,498,Sampdoria,1,1,DRAW,907.0,Stadio Giuseppe Meazza,M. Piccinini
+135,Serie A,Italy,2020,608822,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,487,Lazio,515,Spezia,2,1,HOME,910.0,Stadio Olimpico,A. Giua
+135,Serie A,Italy,2020,608820,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,488,Sassuolo,497,AS Roma,2,2,DRAW,935.0,MAPEI Stadium - Città del Tricolore,L. Pairetto
+135,Serie A,Italy,2020,608824,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,490,Cagliari,504,Hellas Verona,0,2,AWAY,883.0,Sardegna Arena,D. Doveri
+135,Serie A,Italy,2020,608815,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,492,Napoli,501,Crotone,4,3,HOME,11904.0,Stadio Diego Armando Maradona,A. Di Martino
+135,Serie A,Italy,2020,608816,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,495,Genoa,502,Fiorentina,1,1,DRAW,905.0,Stadio Comunale Luigi Ferraris,F. Maresca
+135,Serie A,Italy,2020,608823,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,499,Atalanta,494,Udinese,3,2,HOME,879.0,Gewiss Stadium,G. Manganiello
+135,Serie A,Italy,2020,608819,2021-04-03T13:00:00+00:00,UTC,1617454800,Match Finished,FT,90,Regular Season - 29,506,Benevento,523,Parma,2,2,DRAW,880.0,Stadio Ciro Vigorito,D. Massa
+135,Serie A,Italy,2020,608818,2021-04-03T16:00:00+00:00,UTC,1617465600,Match Finished,FT,90,Regular Season - 29,503,Torino,496,Juventus,2,2,DRAW,943.0,Stadio Olimpico Grande Torino,M. Fabbri
+135,Serie A,Italy,2020,608817,2021-04-03T18:45:00+00:00,UTC,1617475500,Match Finished,FT,90,Regular Season - 29,500,Bologna,505,Inter,0,1,AWAY,881.0,Stadio Renato Dall'Ara,P. Giacomelli
+135,Serie A,Italy,2020,608504,2021-04-07T16:45:00+00:00,UTC,1617813900,Match Finished,FT,90,Regular Season - 3,496,Juventus,492,Napoli,2,1,HOME,909.0,Allianz Stadium,M. Mariani
+135,Serie A,Italy,2020,608813,2021-04-07T16:45:00+00:00,UTC,1617813900,Match Finished,FT,90,Regular Season - 28,505,Inter,488,Sassuolo,2,1,HOME,907.0,Stadio Giuseppe Meazza,M. Irrati
+135,Serie A,Italy,2020,608828,2021-04-10T13:00:00+00:00,UTC,1618059600,Match Finished,FT,90,Regular Season - 30,515,Spezia,501,Crotone,3,2,HOME,939.0,Stadio Alberto Picco,S. Sozza
+135,Serie A,Italy,2020,608831,2021-04-10T16:00:00+00:00,UTC,1618070400,Match Finished,FT,90,Regular Season - 30,523,Parma,489,AC Milan,1,3,AWAY,921.0,Stadio Ennio Tardini,F. Maresca
+135,Serie A,Italy,2020,608834,2021-04-10T18:45:00+00:00,UTC,1618080300,Match Finished,FT,90,Regular Season - 30,494,Udinese,503,Torino,0,1,AWAY,928.0,Dacia Arena,D. Doveri
+135,Serie A,Italy,2020,608827,2021-04-11T10:30:00+00:00,UTC,1618137000,Match Finished,FT,90,Regular Season - 30,505,Inter,490,Cagliari,1,0,HOME,907.0,Stadio Giuseppe Meazza,L. Pairetto
+135,Serie A,Italy,2020,608829,2021-04-11T13:00:00+00:00,UTC,1618146000,Match Finished,FT,90,Regular Season - 30,496,Juventus,495,Genoa,3,1,HOME,909.0,Allianz Stadium,M. Di Bello
+135,Serie A,Italy,2020,608832,2021-04-11T13:00:00+00:00,UTC,1618146000,Match Finished,FT,90,Regular Season - 30,498,Sampdoria,492,Napoli,0,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,P. Valeri
+135,Serie A,Italy,2020,608830,2021-04-11T13:00:00+00:00,UTC,1618146000,Match Finished,FT,90,Regular Season - 30,504,Hellas Verona,487,Lazio,0,1,AWAY,890.0,Stadio Marc'Antonio Bentegodi,D. Chiffi
+135,Serie A,Italy,2020,608826,2021-04-11T16:00:00+00:00,UTC,1618156800,Match Finished,FT,90,Regular Season - 30,497,AS Roma,500,Bologna,1,0,HOME,910.0,Stadio Olimpico,M. Guida
+135,Serie A,Italy,2020,608825,2021-04-11T18:45:00+00:00,UTC,1618166700,Match Finished,FT,90,Regular Season - 30,502,Fiorentina,499,Atalanta,2,3,AWAY,902.0,Stadio Artemio Franchi,J. Sacchi
+135,Serie A,Italy,2020,608833,2021-04-12T18:45:00+00:00,UTC,1618253100,Match Finished,FT,90,Regular Season - 30,506,Benevento,488,Sassuolo,0,1,AWAY,880.0,Stadio Ciro Vigorito,V. Marini
+135,Serie A,Italy,2020,608844,2021-04-17T13:00:00+00:00,UTC,1618664400,Match Finished,FT,90,Regular Season - 31,498,Sampdoria,504,Hellas Verona,3,1,HOME,905.0,Stadio Comunale Luigi Ferraris,F. Dionisi
+135,Serie A,Italy,2020,608843,2021-04-17T13:00:00+00:00,UTC,1618664400,Match Finished,FT,90,Regular Season - 31,501,Crotone,494,Udinese,1,2,AWAY,895.0,Stadio Ezio Scida,L. Massimi
+135,Serie A,Italy,2020,608836,2021-04-17T16:00:00+00:00,UTC,1618675200,Match Finished,FT,90,Regular Season - 31,488,Sassuolo,502,Fiorentina,3,1,HOME,935.0,MAPEI Stadium - Città del Tricolore,G. Aureliano
+135,Serie A,Italy,2020,608840,2021-04-17T18:45:00+00:00,UTC,1618685100,Match Finished,FT,90,Regular Season - 31,490,Cagliari,523,Parma,4,3,HOME,883.0,Sardegna Arena,P. Valeri
+135,Serie A,Italy,2020,608837,2021-04-18T10:30:00+00:00,UTC,1618741800,Match Finished,FT,90,Regular Season - 31,489,AC Milan,495,Genoa,2,1,HOME,907.0,Stadio Giuseppe Meazza,G. Calvarese
+135,Serie A,Italy,2020,608835,2021-04-18T13:00:00+00:00,UTC,1618750800,Match Finished,FT,90,Regular Season - 31,487,Lazio,506,Benevento,5,3,HOME,910.0,Stadio Olimpico,D. Ghersini
+135,Serie A,Italy,2020,608839,2021-04-18T13:00:00+00:00,UTC,1618750800,Match Finished,FT,90,Regular Season - 31,499,Atalanta,496,Juventus,1,0,HOME,879.0,Gewiss Stadium,D. Orsato
+135,Serie A,Italy,2020,608842,2021-04-18T13:00:00+00:00,UTC,1618750800,Match Finished,FT,90,Regular Season - 31,500,Bologna,515,Spezia,4,1,HOME,881.0,Stadio Renato Dall'Ara,M. Piccinini
+135,Serie A,Italy,2020,608841,2021-04-18T16:00:00+00:00,UTC,1618761600,Match Finished,FT,90,Regular Season - 31,503,Torino,497,AS Roma,3,1,HOME,943.0,Stadio Olimpico Grande Torino,D. Massa
+135,Serie A,Italy,2020,608838,2021-04-18T18:45:00+00:00,UTC,1618771500,Match Finished,FT,90,Regular Season - 31,492,Napoli,505,Inter,1,1,DRAW,11904.0,Stadio Diego Armando Maradona,D. Doveri
+135,Serie A,Italy,2020,608848,2021-04-20T18:45:00+00:00,UTC,1618944300,Match Finished,FT,90,Regular Season - 32,504,Hellas Verona,502,Fiorentina,1,2,AWAY,890.0,Stadio Marc'Antonio Bentegodi,A. Prontera
+135,Serie A,Italy,2020,608853,2021-04-21T16:30:00+00:00,UTC,1619022600,Match Finished,FT,90,Regular Season - 32,489,AC Milan,488,Sassuolo,1,2,AWAY,907.0,Stadio Giuseppe Meazza,J. Sacchi
+135,Serie A,Italy,2020,608847,2021-04-21T18:45:00+00:00,UTC,1619030700,Match Finished,FT,90,Regular Season - 32,494,Udinese,490,Cagliari,0,1,AWAY,928.0,Dacia Arena,M. Guida
+135,Serie A,Italy,2020,608846,2021-04-21T18:45:00+00:00,UTC,1619030700,Match Finished,FT,90,Regular Season - 32,495,Genoa,506,Benevento,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,L. Pairetto
+135,Serie A,Italy,2020,608851,2021-04-21T18:45:00+00:00,UTC,1619030700,Match Finished,FT,90,Regular Season - 32,496,Juventus,523,Parma,3,1,HOME,909.0,Allianz Stadium,P. Giacomelli
+135,Serie A,Italy,2020,608854,2021-04-21T18:45:00+00:00,UTC,1619030700,Match Finished,FT,90,Regular Season - 32,500,Bologna,503,Torino,1,1,DRAW,881.0,Stadio Renato Dall'Ara,V. Marini
+135,Serie A,Italy,2020,608852,2021-04-21T18:45:00+00:00,UTC,1619030700,Match Finished,FT,90,Regular Season - 32,501,Crotone,498,Sampdoria,0,1,AWAY,895.0,Stadio Ezio Scida,D. Paterna
+135,Serie A,Italy,2020,608849,2021-04-21T18:45:00+00:00,UTC,1619030700,Match Finished,FT,90,Regular Season - 32,515,Spezia,505,Inter,1,1,DRAW,939.0,Stadio Alberto Picco,D. Chiffi
+135,Serie A,Italy,2020,608845,2021-04-22T16:30:00+00:00,UTC,1619109000,Match Finished,FT,90,Regular Season - 32,497,AS Roma,499,Atalanta,1,1,DRAW,910.0,Stadio Olimpico,G. Calvarese
+135,Serie A,Italy,2020,608850,2021-04-22T18:45:00+00:00,UTC,1619117100,Match Finished,FT,90,Regular Season - 32,492,Napoli,487,Lazio,5,2,HOME,11904.0,Stadio Diego Armando Maradona,M. Di Bello
+135,Serie A,Italy,2020,608862,2021-04-24T13:00:00+00:00,UTC,1619269200,Match Finished,FT,90,Regular Season - 33,495,Genoa,515,Spezia,2,0,HOME,905.0,Stadio Comunale Luigi Ferraris,G. Manganiello
+135,Serie A,Italy,2020,608856,2021-04-24T16:00:00+00:00,UTC,1619280000,Match Finished,FT,90,Regular Season - 33,523,Parma,501,Crotone,3,4,AWAY,921.0,Stadio Ennio Tardini,A. Rapuano
+135,Serie A,Italy,2020,608861,2021-04-24T18:45:00+00:00,UTC,1619289900,Match Finished,FT,90,Regular Season - 33,488,Sassuolo,498,Sampdoria,1,0,HOME,935.0,MAPEI Stadium - Città del Tricolore,M. Gariglio
+135,Serie A,Italy,2020,608863,2021-04-25T10:30:00+00:00,UTC,1619346600,Match Finished,FT,90,Regular Season - 33,506,Benevento,494,Udinese,2,4,AWAY,880.0,Stadio Ciro Vigorito,M. Mariani
+135,Serie A,Italy,2020,608857,2021-04-25T13:00:00+00:00,UTC,1619355600,Match Finished,FT,90,Regular Season - 33,502,Fiorentina,496,Juventus,1,1,DRAW,902.0,Stadio Artemio Franchi,D. Massa
+135,Serie A,Italy,2020,608864,2021-04-25T13:00:00+00:00,UTC,1619355600,Match Finished,FT,90,Regular Season - 33,505,Inter,504,Hellas Verona,1,0,HOME,907.0,Stadio Giuseppe Meazza,R. Abisso
+135,Serie A,Italy,2020,608860,2021-04-25T16:00:00+00:00,UTC,1619366400,Match Finished,FT,90,Regular Season - 33,490,Cagliari,497,AS Roma,3,2,HOME,883.0,Sardegna Arena,M. Irrati
+135,Serie A,Italy,2020,608855,2021-04-25T18:45:00+00:00,UTC,1619376300,Match Finished,FT,90,Regular Season - 33,499,Atalanta,500,Bologna,5,0,HOME,879.0,Gewiss Stadium,M. Fabbri
+135,Serie A,Italy,2020,608859,2021-04-26T16:30:00+00:00,UTC,1619454600,Match Finished,FT,90,Regular Season - 33,503,Torino,492,Napoli,0,2,AWAY,943.0,Stadio Olimpico Grande Torino,P. Valeri
+135,Serie A,Italy,2020,608858,2021-04-26T18:45:00+00:00,UTC,1619462700,Match Finished,FT,90,Regular Season - 33,487,Lazio,489,AC Milan,3,0,HOME,910.0,Stadio Olimpico,D. Orsato
+135,Serie A,Italy,2020,608874,2021-05-01T13:00:00+00:00,UTC,1619874000,Match Finished,FT,90,Regular Season - 34,504,Hellas Verona,515,Spezia,1,1,DRAW,890.0,Stadio Marc'Antonio Bentegodi,M. Volpi
+135,Serie A,Italy,2020,608870,2021-05-01T16:00:00+00:00,UTC,1619884800,Match Finished,FT,90,Regular Season - 34,501,Crotone,505,Inter,0,2,AWAY,895.0,Stadio Ezio Scida,A. Prontera
+135,Serie A,Italy,2020,608866,2021-05-01T18:45:00+00:00,UTC,1619894700,Match Finished,FT,90,Regular Season - 34,489,AC Milan,506,Benevento,2,0,HOME,907.0,Stadio Giuseppe Meazza,G. Calvarese
+135,Serie A,Italy,2020,608869,2021-05-02T10:30:00+00:00,UTC,1619951400,Match Finished,FT,90,Regular Season - 34,487,Lazio,495,Genoa,4,3,HOME,910.0,Stadio Olimpico,P. Giacomelli
+135,Serie A,Italy,2020,608865,2021-05-02T13:00:00+00:00,UTC,1619960400,Match Finished,FT,90,Regular Season - 34,488,Sassuolo,499,Atalanta,1,1,DRAW,935.0,MAPEI Stadium - Città del Tricolore,L. Pairetto
+135,Serie A,Italy,2020,608867,2021-05-02T13:00:00+00:00,UTC,1619960400,Match Finished,FT,90,Regular Season - 34,492,Napoli,490,Cagliari,1,1,DRAW,11904.0,Stadio Diego Armando Maradona,M. Fabbri
+135,Serie A,Italy,2020,608868,2021-05-02T13:00:00+00:00,UTC,1619960400,Match Finished,FT,90,Regular Season - 34,500,Bologna,502,Fiorentina,3,3,DRAW,881.0,Stadio Renato Dall'Ara,F. Dionisi
+135,Serie A,Italy,2020,608871,2021-05-02T16:00:00+00:00,UTC,1619971200,Match Finished,FT,90,Regular Season - 34,494,Udinese,496,Juventus,1,2,AWAY,928.0,Dacia Arena,D. Chiffi
+135,Serie A,Italy,2020,608873,2021-05-02T18:45:00+00:00,UTC,1619981100,Match Finished,FT,90,Regular Season - 34,498,Sampdoria,497,AS Roma,2,0,HOME,905.0,Stadio Comunale Luigi Ferraris,J. Sacchi
+135,Serie A,Italy,2020,608872,2021-05-03T18:45:00+00:00,UTC,1620067500,Match Finished,FT,90,Regular Season - 34,503,Torino,523,Parma,1,0,HOME,943.0,Stadio Olimpico Grande Torino,G. Aureliano
+135,Serie A,Italy,2020,608876,2021-05-08T13:00:00+00:00,UTC,1620478800,Match Finished,FT,90,Regular Season - 35,494,Udinese,500,Bologna,1,1,DRAW,928.0,Dacia Arena,A. Santoro
+135,Serie A,Italy,2020,608881,2021-05-08T13:00:00+00:00,UTC,1620478800,Match Finished,FT,90,Regular Season - 35,515,Spezia,492,Napoli,1,4,AWAY,939.0,Stadio Alberto Picco,M. Irrati
+135,Serie A,Italy,2020,608882,2021-05-08T16:00:00+00:00,UTC,1620489600,Match Finished,FT,90,Regular Season - 35,505,Inter,498,Sampdoria,5,1,HOME,907.0,Stadio Giuseppe Meazza,G. Ayroldi
+135,Serie A,Italy,2020,608879,2021-05-08T18:45:00+00:00,UTC,1620499500,Match Finished,FT,90,Regular Season - 35,502,Fiorentina,487,Lazio,2,0,HOME,902.0,Stadio Artemio Franchi,F. Maresca
+135,Serie A,Italy,2020,608883,2021-05-09T10:30:00+00:00,UTC,1620556200,Match Finished,FT,90,Regular Season - 35,495,Genoa,488,Sassuolo,1,2,AWAY,905.0,Stadio Comunale Luigi Ferraris,M. Mariani
+135,Serie A,Italy,2020,608884,2021-05-09T13:00:00+00:00,UTC,1620565200,Match Finished,FT,90,Regular Season - 35,504,Hellas Verona,503,Torino,1,1,DRAW,890.0,Stadio Marc'Antonio Bentegodi,D. Massa
+135,Serie A,Italy,2020,608877,2021-05-09T13:00:00+00:00,UTC,1620565200,Match Finished,FT,90,Regular Season - 35,506,Benevento,490,Cagliari,1,3,AWAY,880.0,Stadio Ciro Vigorito,D. Doveri
+135,Serie A,Italy,2020,608875,2021-05-09T13:00:00+00:00,UTC,1620565200,Match Finished,FT,90,Regular Season - 35,523,Parma,499,Atalanta,2,5,AWAY,921.0,Stadio Ennio Tardini,A. Giua
+135,Serie A,Italy,2020,608878,2021-05-09T16:00:00+00:00,UTC,1620576000,Match Finished,FT,90,Regular Season - 35,497,AS Roma,501,Crotone,5,0,HOME,910.0,Stadio Olimpico,S. Sozza
+135,Serie A,Italy,2020,608880,2021-05-09T18:45:00+00:00,UTC,1620585900,Match Finished,FT,90,Regular Season - 35,496,Juventus,489,AC Milan,0,3,AWAY,909.0,Allianz Stadium,P. Valeri
+135,Serie A,Italy,2020,608893,2021-05-11T18:45:00+00:00,UTC,1620758700,Match Finished,FT,90,Regular Season - 36,492,Napoli,494,Udinese,5,1,HOME,11904.0,Stadio Diego Armando Maradona,G. Calvarese
+135,Serie A,Italy,2020,608886,2021-05-12T16:30:00+00:00,UTC,1620837000,Match Finished,FT,90,Regular Season - 36,490,Cagliari,502,Fiorentina,0,0,DRAW,883.0,Sardegna Arena,M. Mariani
+135,Serie A,Italy,2020,608890,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,487,Lazio,523,Parma,1,0,HOME,910.0,Stadio Olimpico,F. Dionisi
+135,Serie A,Italy,2020,608888,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,488,Sassuolo,496,Juventus,1,3,AWAY,935.0,MAPEI Stadium - Città del Tricolore,P. Giacomelli
+135,Serie A,Italy,2020,608892,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,498,Sampdoria,515,Spezia,2,2,DRAW,905.0,Stadio Comunale Luigi Ferraris,F. Maresca
+135,Serie A,Italy,2020,608885,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,499,Atalanta,506,Benevento,2,0,HOME,879.0,Gewiss Stadium,D. Massa
+135,Serie A,Italy,2020,608887,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,500,Bologna,495,Genoa,0,2,AWAY,881.0,Stadio Renato Dall'Ara,F. Fourneau
+135,Serie A,Italy,2020,608889,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,503,Torino,489,AC Milan,0,7,AWAY,943.0,Stadio Olimpico Grande Torino,M. Guida
+135,Serie A,Italy,2020,608891,2021-05-12T18:45:00+00:00,UTC,1620845100,Match Finished,FT,90,Regular Season - 36,505,Inter,497,AS Roma,3,1,HOME,907.0,Stadio Giuseppe Meazza,D. Chiffi
+135,Serie A,Italy,2020,608894,2021-05-13T18:45:00+00:00,UTC,1620931500,Match Finished,FT,90,Regular Season - 36,501,Crotone,504,Hellas Verona,2,1,HOME,895.0,Stadio Ezio Scida,L. Massimi
+135,Serie A,Italy,2020,608895,2021-05-15T13:00:00+00:00,UTC,1621083600,Match Finished,FT,90,Regular Season - 37,495,Genoa,499,Atalanta,3,4,AWAY,905.0,Stadio Comunale Luigi Ferraris,L. Marinelli
+135,Serie A,Italy,2020,608904,2021-05-15T13:00:00+00:00,UTC,1621083600,Match Finished,FT,90,Regular Season - 37,515,Spezia,503,Torino,4,1,HOME,939.0,Stadio Alberto Picco,D. Orsato
+135,Serie A,Italy,2020,608899,2021-05-15T16:00:00+00:00,UTC,1621094400,Match Finished,FT,90,Regular Season - 37,496,Juventus,505,Inter,3,2,HOME,909.0,Allianz Stadium,G. Calvarese
+135,Serie A,Italy,2020,608900,2021-05-15T18:45:00+00:00,UTC,1621104300,Match Finished,FT,90,Regular Season - 37,497,AS Roma,487,Lazio,2,0,HOME,910.0,Stadio Olimpico,L. Pairetto
+135,Serie A,Italy,2020,608901,2021-05-16T10:30:00+00:00,UTC,1621161000,Match Finished,FT,90,Regular Season - 37,502,Fiorentina,492,Napoli,0,2,AWAY,902.0,Stadio Artemio Franchi,R. Abisso
+135,Serie A,Italy,2020,608902,2021-05-16T13:00:00+00:00,UTC,1621170000,Match Finished,FT,90,Regular Season - 37,494,Udinese,498,Sampdoria,0,1,AWAY,928.0,Dacia Arena,M. Gariglio
+135,Serie A,Italy,2020,608898,2021-05-16T13:00:00+00:00,UTC,1621170000,Match Finished,FT,90,Regular Season - 37,506,Benevento,501,Crotone,1,1,DRAW,880.0,Stadio Ciro Vigorito,P. Giacomelli
+135,Serie A,Italy,2020,608903,2021-05-16T16:00:00+00:00,UTC,1621180800,Match Finished,FT,90,Regular Season - 37,523,Parma,488,Sassuolo,1,3,AWAY,921.0,Stadio Ennio Tardini,M. Piccinini
+135,Serie A,Italy,2020,608897,2021-05-16T18:45:00+00:00,UTC,1621190700,Match Finished,FT,90,Regular Season - 37,489,AC Milan,490,Cagliari,0,0,DRAW,907.0,Stadio Giuseppe Meazza,D. Massa
+135,Serie A,Italy,2020,608896,2021-05-17T18:45:00+00:00,UTC,1621277100,Match Finished,FT,90,Regular Season - 37,504,Hellas Verona,500,Bologna,2,2,DRAW,890.0,Stadio Marc'Antonio Bentegodi,M. Marchetti
+135,Serie A,Italy,2020,608782,2021-05-18T18:30:00+00:00,UTC,1621362600,Match Finished,FT,90,Regular Season - 25,487,Lazio,503,Torino,0,0,DRAW,910.0,Stadio Olimpico,M. Fabbri
+135,Serie A,Italy,2020,608907,2021-05-22T18:45:00+00:00,UTC,1621709100,Match Finished,FT,90,Regular Season - 38,490,Cagliari,495,Genoa,0,1,AWAY,883.0,Sardegna Arena,"Francesco Meraviglia, Italy"
+135,Serie A,Italy,2020,608911,2021-05-22T18:45:00+00:00,UTC,1621709100,Match Finished,FT,90,Regular Season - 38,498,Sampdoria,523,Parma,3,0,HOME,905.0,Stadio Comunale Luigi Ferraris,"Daniele Paterna, Italy"
+135,Serie A,Italy,2020,608906,2021-05-22T18:45:00+00:00,UTC,1621709100,Match Finished,FT,90,Regular Season - 38,501,Crotone,502,Fiorentina,0,0,DRAW,895.0,Stadio Ezio Scida,"Eugenio Abbattista, Italy"
+135,Serie A,Italy,2020,608913,2021-05-23T13:00:00+00:00,UTC,1621774800,Match Finished,FT,90,Regular Season - 38,505,Inter,494,Udinese,5,1,HOME,907.0,Stadio Giuseppe Meazza,"Manuel Volpi, Italy"
+135,Serie A,Italy,2020,608909,2021-05-23T18:45:00+00:00,UTC,1621795500,Match Finished,FT,90,Regular Season - 38,488,Sassuolo,487,Lazio,2,0,HOME,935.0,MAPEI Stadium - Città del Tricolore,"Alessandro Prontera, Italy"
+135,Serie A,Italy,2020,608914,2021-05-23T18:45:00+00:00,UTC,1621795500,Match Finished,FT,90,Regular Season - 38,492,Napoli,504,Hellas Verona,1,1,DRAW,,Stadio Diego Armando Maradona,"Daniele Chiffi, Italy"
+135,Serie A,Italy,2020,608910,2021-05-23T18:45:00+00:00,UTC,1621795500,Match Finished,FT,90,Regular Season - 38,499,Atalanta,489,AC Milan,0,2,AWAY,879.0,Gewiss Stadium,"Maurizio Mariani, Italy"
+135,Serie A,Italy,2020,608908,2021-05-23T18:45:00+00:00,UTC,1621795500,Match Finished,FT,90,Regular Season - 38,500,Bologna,496,Juventus,1,4,AWAY,881.0,Stadio Renato Dall'Ara,"Paolo Valeri, Italy"
+135,Serie A,Italy,2020,608905,2021-05-23T18:45:00+00:00,UTC,1621795500,Match Finished,FT,90,Regular Season - 38,503,Torino,506,Benevento,1,1,DRAW,943.0,Stadio Olimpico Grande Torino,"Marco Di Bello, Italy"
+135,Serie A,Italy,2020,608912,2021-05-23T18:45:00+00:00,UTC,1621795500,Match Finished,FT,90,Regular Season - 38,515,Spezia,497,AS Roma,2,2,DRAW,939.0,Stadio Alberto Picco,"Ivano Pezzuto, Italy"

@@ -1,0 +1,381 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+140,La Liga,Spain,2021,720746,2021-08-13T19:00:00+00:00,UTC,1628881200,Match Finished,FT,90,Regular Season - 1,532,Valencia,546,Getafe,1,0,HOME,1497,Estadio de Mestalla,Jesús Gil
+140,La Liga,Spain,2021,720743,2021-08-14T17:30:00+00:00,UTC,1628962200,Match Finished,FT,90,Regular Season - 1,724,Cadiz,539,Levante,1,1,DRAW,11915,Estadio Nuevo Mirandilla,Santiago Jaime
+140,La Liga,Spain,2021,720742,2021-08-14T17:30:00+00:00,UTC,1628962200,Match Finished,FT,90,Regular Season - 1,798,Mallorca,543,Real Betis,1,1,DRAW,1484,Iberostar Estadi,Antonio Mateu
+140,La Liga,Spain,2021,720739,2021-08-14T20:00:00+00:00,UTC,1628971200,Match Finished,FT,90,Regular Season - 1,542,Alaves,541,Real Madrid,1,4,AWAY,1470,Estadio de Mendizorroza,César Soto
+140,La Liga,Spain,2021,720744,2021-08-14T20:00:00+00:00,UTC,1628971200,Match Finished,FT,90,Regular Season - 1,727,Osasuna,540,Espanyol,0,0,DRAW,1486,Estadio El Sadar,Miguel Ortiz
+140,La Liga,Spain,2021,720741,2021-08-15T15:30:00+00:00,UTC,1629041400,Match Finished,FT,90,Regular Season - 1,538,Celta Vigo,530,Atletico Madrid,1,2,AWAY,1467,Abanca-Balaídos,José Munuera
+140,La Liga,Spain,2021,720740,2021-08-15T18:00:00+00:00,UTC,1629050400,Match Finished,FT,90,Regular Season - 1,529,Barcelona,548,Real Sociedad,4,2,HOME,1462,Camp Nou,Alejandro Hernández
+140,La Liga,Spain,2021,720745,2021-08-15T20:15:00+00:00,UTC,1629058500,Match Finished,FT,90,Regular Season - 1,536,Sevilla,728,Rayo Vallecano,3,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720747,2021-08-16T18:00:00+00:00,UTC,1629136800,Match Finished,FT,90,Regular Season - 1,533,Villarreal,715,Granada CF,0,0,DRAW,1498,Estadio de la Cerámica,Pablo González
+140,La Liga,Spain,2021,720748,2021-08-16T20:00:00+00:00,UTC,1629144000,Match Finished,FT,90,Regular Season - 1,797,Elche,531,Athletic Club,0,0,DRAW,1473,Estadio Manuel Martínez Valero,Adrián Cordero
+140,La Liga,Spain,2021,720752,2021-08-20T19:00:00+00:00,UTC,1629486000,Match Finished,FT,90,Regular Season - 2,543,Real Betis,724,Cadiz,1,1,DRAW,1489,Estadio Benito Villamarín,Valentín Pizarro
+140,La Liga,Spain,2021,720749,2021-08-21T15:00:00+00:00,UTC,1629558000,Match Finished,FT,90,Regular Season - 2,542,Alaves,798,Mallorca,0,1,AWAY,1470,Estadio de Mendizorroza,Alejandro Muñiz
+140,La Liga,Spain,2021,720755,2021-08-21T17:30:00+00:00,UTC,1629567000,Match Finished,FT,90,Regular Season - 2,540,Espanyol,533,Villarreal,0,0,DRAW,1474,RCDE Stadium,Jorge Figueroa
+140,La Liga,Spain,2021,720754,2021-08-21T17:30:00+00:00,UTC,1629567000,Match Finished,FT,90,Regular Season - 2,715,Granada CF,532,Valencia,1,1,DRAW,1479,Estadio Nuevo Los Cármenes,Carlos del Cerro
+140,La Liga,Spain,2021,720750,2021-08-21T20:00:00+00:00,UTC,1629576000,Match Finished,FT,90,Regular Season - 2,531,Athletic Club,529,Barcelona,1,1,DRAW,1460,San Mamés Barria,Juan Martínez
+140,La Liga,Spain,2021,720758,2021-08-22T15:00:00+00:00,UTC,1629644400,Match Finished,FT,90,Regular Season - 2,548,Real Sociedad,728,Rayo Vallecano,1,0,HOME,1491,Reale Arena,Santiago Jaime
+140,La Liga,Spain,2021,720751,2021-08-22T17:30:00+00:00,UTC,1629653400,Match Finished,FT,90,Regular Season - 2,530,Atletico Madrid,797,Elche,1,0,HOME,1461,Estadio Wanda Metropolitano,Ricardo De Burgos
+140,La Liga,Spain,2021,720756,2021-08-22T20:00:00+00:00,UTC,1629662400,Match Finished,FT,90,Regular Season - 2,539,Levante,541,Real Madrid,3,3,DRAW,1482,Estadio Ciudad de Valencia,Guillermo Cuadra
+140,La Liga,Spain,2021,720753,2021-08-23T18:00:00+00:00,UTC,1629741600,Match Finished,FT,90,Regular Season - 2,546,Getafe,536,Sevilla,0,1,AWAY,1476,Coliseum Alfonso Pérez,José Sánchez
+140,La Liga,Spain,2021,720757,2021-08-23T20:00:00+00:00,UTC,1629748800,Match Finished,FT,90,Regular Season - 2,727,Osasuna,538,Celta Vigo,0,0,DRAW,1486,Estadio El Sadar,Javier Alberola
+140,La Liga,Spain,2021,720763,2021-08-27T18:00:00+00:00,UTC,1630087200,Match Finished,FT,90,Regular Season - 3,798,Mallorca,540,Espanyol,1,0,HOME,1484,Iberostar Estadi,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720766,2021-08-27T20:15:00+00:00,UTC,1630095300,Match Finished,FT,90,Regular Season - 3,532,Valencia,542,Alaves,3,0,HOME,1497,Estadio de Mestalla,Miguel Ortiz
+140,La Liga,Spain,2021,720762,2021-08-28T15:00:00+00:00,UTC,1630162800,Match Finished,FT,90,Regular Season - 3,538,Celta Vigo,531,Athletic Club,0,1,AWAY,1467,Abanca-Balaídos,Antonio Mateu
+140,La Liga,Spain,2021,720765,2021-08-28T17:30:00+00:00,UTC,1630171800,Match Finished,FT,90,Regular Season - 3,548,Real Sociedad,539,Levante,1,0,HOME,1491,Reale Arena,José Munuera
+140,La Liga,Spain,2021,720768,2021-08-28T17:30:00+00:00,UTC,1630171800,Match Finished,FT,90,Regular Season - 3,797,Elche,536,Sevilla,1,1,DRAW,1473,Estadio Manuel Martínez Valero,Valentín Pizarro
+140,La Liga,Spain,2021,720761,2021-08-28T20:00:00+00:00,UTC,1630180800,Match Finished,FT,90,Regular Season - 3,543,Real Betis,541,Real Madrid,0,1,AWAY,1489,Estadio Benito Villamarín,Alejandro Hernández
+140,La Liga,Spain,2021,720760,2021-08-29T15:00:00+00:00,UTC,1630249200,Match Finished,FT,90,Regular Season - 3,529,Barcelona,546,Getafe,2,1,HOME,1462,Camp Nou,Pablo González
+140,La Liga,Spain,2021,720764,2021-08-29T17:30:00+00:00,UTC,1630258200,Match Finished,FT,90,Regular Season - 3,724,Cadiz,727,Osasuna,2,3,AWAY,11915,Estadio Nuevo Mirandilla,Adrián Cordero
+140,La Liga,Spain,2021,720767,2021-08-29T17:30:00+00:00,UTC,1630258200,Match Finished,FT,90,Regular Season - 3,728,Rayo Vallecano,715,Granada CF,4,0,HOME,1488,Estadio de Vallecas,Jesús Gil
+140,La Liga,Spain,2021,720759,2021-08-29T20:00:00+00:00,UTC,1630267200,Match Finished,FT,90,Regular Season - 3,530,Atletico Madrid,533,Villarreal,2,2,DRAW,1461,Estadio Wanda Metropolitano,César Soto
+140,La Liga,Spain,2021,720774,2021-09-11T16:30:00+00:00,UTC,1631377800,Match Finished,FT,90,Regular Season - 4,539,Levante,728,Rayo Vallecano,1,1,DRAW,1482,Estadio Ciudad de Valencia,Javier Alberola
+140,La Liga,Spain,2021,720769,2021-09-11T19:00:00+00:00,UTC,1631386800,Match Finished,FT,90,Regular Season - 4,531,Athletic Club,798,Mallorca,2,0,HOME,1460,San Mamés Barria,Jorge Figueroa
+140,La Liga,Spain,2021,720773,2021-09-12T12:00:00+00:00,UTC,1631448000,Match Finished,FT,90,Regular Season - 4,540,Espanyol,530,Atletico Madrid,1,2,AWAY,1474,RCDE Stadium,Juan Martínez
+140,La Liga,Spain,2021,720775,2021-09-12T14:15:00+00:00,UTC,1631456100,Match Finished,FT,90,Regular Season - 4,727,Osasuna,532,Valencia,1,4,AWAY,1486,Estadio El Sadar,Ricardo De Burgos
+140,La Liga,Spain,2021,720771,2021-09-12T16:30:00+00:00,UTC,1631464200,Match Finished,FT,90,Regular Season - 4,724,Cadiz,548,Real Sociedad,0,2,AWAY,11915,Estadio Nuevo Mirandilla,Alejandro Muñiz
+140,La Liga,Spain,2021,720776,2021-09-12T19:00:00+00:00,UTC,1631473200,Match Finished,FT,90,Regular Season - 4,541,Real Madrid,538,Celta Vigo,5,2,HOME,1456,Estadio Santiago Bernabéu,José Sánchez
+140,La Liga,Spain,2021,720770,2021-09-13T18:00:00+00:00,UTC,1631556000,Match Finished,FT,90,Regular Season - 4,546,Getafe,797,Elche,0,1,AWAY,1476,Coliseum Alfonso Pérez,Mario Melero
+140,La Liga,Spain,2021,720772,2021-09-13T20:00:00+00:00,UTC,1631563200,Match Finished,FT,90,Regular Season - 4,715,Granada CF,543,Real Betis,1,2,AWAY,1479,Estadio Nuevo Los Cármenes,Guillermo Cuadra
+140,La Liga,Spain,2021,720783,2021-09-17T19:00:00+00:00,UTC,1631905200,Match Finished,FT,90,Regular Season - 5,538,Celta Vigo,724,Cadiz,1,2,AWAY,1467,Abanca-Balaídos,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720787,2021-09-18T12:00:00+00:00,UTC,1631966400,Match Finished,FT,90,Regular Season - 5,728,Rayo Vallecano,546,Getafe,3,0,HOME,1488,Estadio de Vallecas,Adrián Cordero
+140,La Liga,Spain,2021,720780,2021-09-18T14:15:00+00:00,UTC,1631974500,Match Finished,FT,90,Regular Season - 5,530,Atletico Madrid,531,Athletic Club,0,0,DRAW,1461,Estadio Wanda Metropolitano,Jesús Gil
+140,La Liga,Spain,2021,720788,2021-09-18T16:30:00+00:00,UTC,1631982600,Match Finished,FT,90,Regular Season - 5,797,Elche,539,Levante,1,1,DRAW,1473,Estadio Manuel Martínez Valero,Miguel Ortiz
+140,La Liga,Spain,2021,720779,2021-09-18T19:00:00+00:00,UTC,1631991600,Match Finished,FT,90,Regular Season - 5,542,Alaves,727,Osasuna,0,2,AWAY,1470,Estadio de Mendizorroza,Alejandro Hernández
+140,La Liga,Spain,2021,720784,2021-09-19T12:00:00+00:00,UTC,1632052800,Match Finished,FT,90,Regular Season - 5,798,Mallorca,533,Villarreal,0,0,DRAW,1484,Iberostar Estadi,Carlos del Cerro
+140,La Liga,Spain,2021,720785,2021-09-19T14:15:00+00:00,UTC,1632060900,Match Finished,FT,90,Regular Season - 5,548,Real Sociedad,536,Sevilla,0,0,DRAW,1491,Reale Arena,Antonio Mateu
+140,La Liga,Spain,2021,720782,2021-09-19T16:30:00+00:00,UTC,1632069000,Match Finished,FT,90,Regular Season - 5,543,Real Betis,540,Espanyol,2,2,DRAW,1489,Estadio Benito Villamarín,César Soto
+140,La Liga,Spain,2021,720786,2021-09-19T19:00:00+00:00,UTC,1632078000,Match Finished,FT,90,Regular Season - 5,532,Valencia,541,Real Madrid,1,2,AWAY,1497,Estadio de Mestalla,Pablo González
+140,La Liga,Spain,2021,720781,2021-09-20T19:00:00+00:00,UTC,1632164400,Match Finished,FT,90,Regular Season - 5,529,Barcelona,715,Granada CF,1,1,DRAW,1462,Camp Nou,Santiago Jaime
+140,La Liga,Spain,2021,720790,2021-09-21T17:30:00+00:00,UTC,1632245400,Match Finished,FT,90,Regular Season - 6,546,Getafe,530,Atletico Madrid,1,2,AWAY,1476,Coliseum Alfonso Pérez,Guillermo Cuadra
+140,La Liga,Spain,2021,720789,2021-09-21T20:00:00+00:00,UTC,1632254400,Match Finished,FT,90,Regular Season - 6,531,Athletic Club,728,Rayo Vallecano,1,2,AWAY,1460,San Mamés Barria,José Munuera
+140,La Liga,Spain,2021,720794,2021-09-21T20:00:00+00:00,UTC,1632254400,Match Finished,FT,90,Regular Season - 6,539,Levante,538,Celta Vigo,0,2,AWAY,1482,Estadio Ciudad de Valencia,Jorge Figueroa
+140,La Liga,Spain,2021,720797,2021-09-22T17:30:00+00:00,UTC,1632331800,Match Finished,FT,90,Regular Season - 6,536,Sevilla,532,Valencia,3,1,HOME,1494,Estadio Ramón Sánchez Pizjuán,José Sánchez
+140,La Liga,Spain,2021,720793,2021-09-22T17:30:00+00:00,UTC,1632331800,Match Finished,FT,90,Regular Season - 6,540,Espanyol,542,Alaves,1,0,HOME,1474,RCDE Stadium,Mario Melero
+140,La Liga,Spain,2021,720798,2021-09-22T20:00:00+00:00,UTC,1632340800,Match Finished,FT,90,Regular Season - 6,533,Villarreal,797,Elche,4,1,HOME,1498,Estadio de la Cerámica,Alejandro Muñiz
+140,La Liga,Spain,2021,720796,2021-09-22T20:00:00+00:00,UTC,1632340800,Match Finished,FT,90,Regular Season - 6,541,Real Madrid,798,Mallorca,6,1,HOME,1456,Estadio Santiago Bernabéu,Javier Alberola
+140,La Liga,Spain,2021,720792,2021-09-23T17:30:00+00:00,UTC,1632418200,Match Finished,FT,90,Regular Season - 6,715,Granada CF,548,Real Sociedad,2,3,AWAY,1479,Estadio Nuevo Los Cármenes,Valentín Pizarro
+140,La Liga,Spain,2021,720795,2021-09-23T17:30:00+00:00,UTC,1632418200,Match Finished,FT,90,Regular Season - 6,727,Osasuna,543,Real Betis,1,3,AWAY,1486,Estadio El Sadar,Juan Martínez
+140,La Liga,Spain,2021,720791,2021-09-23T20:00:00+00:00,UTC,1632427200,Match Finished,FT,90,Regular Season - 6,724,Cadiz,529,Barcelona,0,0,DRAW,11915,Estadio Nuevo Mirandilla,Carlos del Cerro
+140,La Liga,Spain,2021,720799,2021-09-25T12:00:00+00:00,UTC,1632571200,Match Finished,FT,90,Regular Season - 7,542,Alaves,530,Atletico Madrid,1,0,HOME,1470,Estadio de Mendizorroza,Antonio Mateu
+140,La Liga,Spain,2021,720807,2021-09-25T14:15:00+00:00,UTC,1632579300,Match Finished,FT,90,Regular Season - 7,532,Valencia,531,Athletic Club,1,1,DRAW,1497,Estadio de Mestalla,Alejandro Hernández
+140,La Liga,Spain,2021,720806,2021-09-25T16:30:00+00:00,UTC,1632587400,Match Finished,FT,90,Regular Season - 7,536,Sevilla,540,Espanyol,2,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Pablo González
+140,La Liga,Spain,2021,720804,2021-09-25T19:00:00+00:00,UTC,1632596400,Match Finished,FT,90,Regular Season - 7,541,Real Madrid,533,Villarreal,0,0,DRAW,1456,Estadio Santiago Bernabéu,Jesús Gil
+140,La Liga,Spain,2021,720803,2021-09-26T12:00:00+00:00,UTC,1632657600,Match Finished,FT,90,Regular Season - 7,798,Mallorca,727,Osasuna,2,3,AWAY,1484,Iberostar Estadi,Miguel Ortiz
+140,La Liga,Spain,2021,720800,2021-09-26T14:15:00+00:00,UTC,1632665700,Match Finished,FT,90,Regular Season - 7,529,Barcelona,539,Levante,3,0,HOME,1462,Camp Nou,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720805,2021-09-26T16:30:00+00:00,UTC,1632673800,Match Finished,FT,90,Regular Season - 7,548,Real Sociedad,797,Elche,1,0,HOME,1491,Reale Arena,Adrián Cordero
+140,La Liga,Spain,2021,720808,2021-09-26T16:30:00+00:00,UTC,1632673800,Match Finished,FT,90,Regular Season - 7,728,Rayo Vallecano,724,Cadiz,3,1,HOME,1488,Estadio de Vallecas,Ricardo De Burgos
+140,La Liga,Spain,2021,720801,2021-09-26T19:00:00+00:00,UTC,1632682800,Match Finished,FT,90,Regular Season - 7,543,Real Betis,546,Getafe,2,0,HOME,1489,Estadio Benito Villamarín,Santiago Jaime
+140,La Liga,Spain,2021,720802,2021-09-27T19:00:00+00:00,UTC,1632769200,Match Finished,FT,90,Regular Season - 7,538,Celta Vigo,715,Granada CF,1,0,HOME,1467,Abanca-Balaídos,César Soto
+140,La Liga,Spain,2021,720809,2021-10-01T19:00:00+00:00,UTC,1633114800,Match Finished,FT,90,Regular Season - 8,531,Athletic Club,542,Alaves,1,0,HOME,1460,San Mamés Barria,Carlos del Cerro
+140,La Liga,Spain,2021,720816,2021-10-02T12:00:00+00:00,UTC,1633176000,Match Finished,FT,90,Regular Season - 8,727,Osasuna,728,Rayo Vallecano,1,0,HOME,1486,Estadio El Sadar,Mario Melero
+140,La Liga,Spain,2021,720811,2021-10-02T14:15:00+00:00,UTC,1633184100,Match Finished,FT,90,Regular Season - 8,798,Mallorca,539,Levante,1,0,HOME,1484,Iberostar Estadi,Alejandro Muñiz
+140,La Liga,Spain,2021,720813,2021-10-02T16:30:00+00:00,UTC,1633192200,Match Finished,FT,90,Regular Season - 8,724,Cadiz,532,Valencia,0,0,DRAW,11915,Estadio Nuevo Mirandilla,Valentín Pizarro
+140,La Liga,Spain,2021,720810,2021-10-02T19:00:00+00:00,UTC,1633201200,Match Finished,FT,90,Regular Season - 8,530,Atletico Madrid,529,Barcelona,2,0,HOME,1461,Estadio Wanda Metropolitano,César Soto
+140,La Liga,Spain,2021,720818,2021-10-03T12:00:00+00:00,UTC,1633262400,Match Finished,FT,90,Regular Season - 8,797,Elche,538,Celta Vigo,1,0,HOME,1473,Estadio Manuel Martínez Valero,José Munuera
+140,La Liga,Spain,2021,720815,2021-10-03T14:15:00+00:00,UTC,1633270500,Match Finished,FT,90,Regular Season - 8,540,Espanyol,541,Real Madrid,2,1,HOME,1474,RCDE Stadium,Guillermo Cuadra
+140,La Liga,Spain,2021,720817,2021-10-03T16:30:00+00:00,UTC,1633278600,Match Finished,FT,90,Regular Season - 8,533,Villarreal,543,Real Betis,2,0,HOME,1498,Estadio de la Cerámica,José Sánchez
+140,La Liga,Spain,2021,720812,2021-10-03T16:30:00+00:00,UTC,1633278600,Match Finished,FT,90,Regular Season - 8,546,Getafe,548,Real Sociedad,1,1,DRAW,1476,Coliseum Alfonso Pérez,Jorge Figueroa
+140,La Liga,Spain,2021,720814,2021-10-03T19:00:00+00:00,UTC,1633287600,Match Finished,FT,90,Regular Season - 8,715,Granada CF,536,Sevilla,1,0,HOME,1479,Estadio Nuevo Los Cármenes,Javier Alberola
+140,La Liga,Spain,2021,720824,2021-10-16T16:30:00+00:00,UTC,1634401800,Match Finished,FT,90,Regular Season - 9,539,Levante,546,Getafe,0,0,DRAW,1482,Estadio Ciudad de Valencia,Mario Melero
+140,La Liga,Spain,2021,720826,2021-10-16T19:00:00+00:00,UTC,1634410800,Match Finished,FT,90,Regular Season - 9,548,Real Sociedad,798,Mallorca,1,0,HOME,1491,Reale Arena,Pablo González
+140,La Liga,Spain,2021,720827,2021-10-17T12:00:00+00:00,UTC,1634472000,Match Finished,FT,90,Regular Season - 9,728,Rayo Vallecano,797,Elche,2,1,HOME,1488,Estadio de Vallecas,Santiago Jaime
+140,La Liga,Spain,2021,720821,2021-10-17T14:15:00+00:00,UTC,1634480100,Match Finished,FT,90,Regular Season - 9,538,Celta Vigo,536,Sevilla,0,1,AWAY,1467,Abanca-Balaídos,Ricardo De Burgos
+140,La Liga,Spain,2021,720828,2021-10-17T16:30:00+00:00,UTC,1634488200,Match Finished,FT,90,Regular Season - 9,533,Villarreal,727,Osasuna,1,2,AWAY,1498,Estadio de la Cerámica,Adrián Cordero
+140,La Liga,Spain,2021,720820,2021-10-17T19:00:00+00:00,UTC,1634497200,Match Finished,FT,90,Regular Season - 9,529,Barcelona,532,Valencia,3,1,HOME,1462,Camp Nou,Jesús Gil
+140,La Liga,Spain,2021,720819,2021-10-18T17:00:00+00:00,UTC,1634576400,Match Finished,FT,90,Regular Season - 9,542,Alaves,543,Real Betis,0,1,AWAY,1470,Estadio de Mendizorroza,Miguel Ortiz
+140,La Liga,Spain,2021,720823,2021-10-18T19:00:00+00:00,UTC,1634583600,Match Finished,FT,90,Regular Season - 9,540,Espanyol,724,Cadiz,2,0,HOME,1474,RCDE Stadium,Antonio Mateu
+140,La Liga,Spain,2021,720835,2021-10-22T19:00:00+00:00,UTC,1634929200,Match Finished,FT,90,Regular Season - 10,727,Osasuna,715,Granada CF,1,1,DRAW,1486,Estadio El Sadar,Alejandro Muñiz
+140,La Liga,Spain,2021,720837,2021-10-23T12:00:00+00:00,UTC,1634990400,Match Finished,FT,90,Regular Season - 10,532,Valencia,798,Mallorca,2,2,DRAW,1497,Estadio de Mestalla,Carlos del Cerro
+140,La Liga,Spain,2021,720834,2021-10-23T14:15:00+00:00,UTC,1634998500,Match Finished,FT,90,Regular Season - 10,724,Cadiz,542,Alaves,0,2,AWAY,11915,Estadio Nuevo Mirandilla,Javier Alberola
+140,La Liga,Spain,2021,720838,2021-10-23T16:30:00+00:00,UTC,1635006600,Match Finished,FT,90,Regular Season - 10,797,Elche,540,Espanyol,2,2,DRAW,1473,Estadio Manuel Martínez Valero,Jorge Figueroa
+140,La Liga,Spain,2021,720829,2021-10-23T19:00:00+00:00,UTC,1635015600,Match Finished,FT,90,Regular Season - 10,531,Athletic Club,533,Villarreal,2,1,HOME,1460,San Mamés Barria,Guillermo Cuadra
+140,La Liga,Spain,2021,720836,2021-10-24T12:00:00+00:00,UTC,1635076800,Match Finished,FT,90,Regular Season - 10,536,Sevilla,539,Levante,5,3,HOME,1494,Estadio Ramón Sánchez Pizjuán,Valentín Pizarro
+140,La Liga,Spain,2021,720831,2021-10-24T14:15:00+00:00,UTC,1635084900,Match Finished,FT,90,Regular Season - 10,529,Barcelona,541,Real Madrid,1,2,AWAY,1462,Camp Nou,José Sánchez
+140,La Liga,Spain,2021,720832,2021-10-24T16:30:00+00:00,UTC,1635093000,Match Finished,FT,90,Regular Season - 10,543,Real Betis,728,Rayo Vallecano,3,2,HOME,1489,Estadio Benito Villamarín,Ricardo De Burgos
+140,La Liga,Spain,2021,720830,2021-10-24T19:00:00+00:00,UTC,1635102000,Match Finished,FT,90,Regular Season - 10,530,Atletico Madrid,548,Real Sociedad,2,2,DRAW,1461,Estadio Wanda Metropolitano,José Munuera
+140,La Liga,Spain,2021,720833,2021-10-25T19:00:00+00:00,UTC,1635188400,Match Finished,FT,90,Regular Season - 10,546,Getafe,538,Celta Vigo,0,3,AWAY,1476,Coliseum Alfonso Pérez,Juan Martínez
+140,La Liga,Spain,2021,720839,2021-10-26T17:00:00+00:00,UTC,1635267600,Match Finished,FT,90,Regular Season - 11,542,Alaves,797,Elche,1,0,HOME,1470,Estadio de Mendizorroza,Jesús Gil
+140,La Liga,Spain,2021,720844,2021-10-26T19:00:00+00:00,UTC,1635274800,Match Finished,FT,90,Regular Season - 11,540,Espanyol,531,Athletic Club,1,1,DRAW,1474,RCDE Stadium,Miguel Ortiz
+140,La Liga,Spain,2021,720848,2021-10-26T19:30:00+00:00,UTC,1635276600,Match Finished,FT,90,Regular Season - 11,533,Villarreal,724,Cadiz,3,3,DRAW,1498,Estadio de la Cerámica,Alejandro Hernández
+140,La Liga,Spain,2021,720847,2021-10-27T17:00:00+00:00,UTC,1635354000,Match Finished,FT,90,Regular Season - 11,728,Rayo Vallecano,529,Barcelona,1,0,HOME,1488,Estadio de Vallecas,Antonio Mateu
+140,La Liga,Spain,2021,720842,2021-10-27T17:00:00+00:00,UTC,1635354000,Match Finished,FT,90,Regular Season - 11,798,Mallorca,536,Sevilla,1,1,DRAW,12597,Visit Mallorca Estadi,Santiago Jaime
+140,La Liga,Spain,2021,720840,2021-10-27T18:00:00+00:00,UTC,1635357600,Match Finished,FT,90,Regular Season - 11,543,Real Betis,532,Valencia,4,1,HOME,1489,Estadio Benito Villamarín,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720846,2021-10-27T19:30:00+00:00,UTC,1635363000,Match Finished,FT,90,Regular Season - 11,541,Real Madrid,727,Osasuna,0,0,DRAW,1456,Estadio Santiago Bernabéu,César Soto
+140,La Liga,Spain,2021,720841,2021-10-28T17:00:00+00:00,UTC,1635440400,Match Finished,FT,90,Regular Season - 11,538,Celta Vigo,548,Real Sociedad,0,2,AWAY,1467,Abanca-Balaídos,Mario Melero
+140,La Liga,Spain,2021,720843,2021-10-28T18:00:00+00:00,UTC,1635444000,Match Finished,FT,90,Regular Season - 11,715,Granada CF,546,Getafe,1,1,DRAW,1479,Estadio Nuevo Los Cármenes,Adrián Cordero
+140,La Liga,Spain,2021,720845,2021-10-28T19:30:00+00:00,UTC,1635449400,Match Finished,FT,90,Regular Season - 11,539,Levante,530,Atletico Madrid,2,2,DRAW,1482,Estadio Ciudad de Valencia,Pablo González
+140,La Liga,Spain,2021,720858,2021-10-30T12:00:00+00:00,UTC,1635595200,Match Finished,FT,90,Regular Season - 12,797,Elche,541,Real Madrid,1,2,AWAY,1473,Estadio Manuel Martínez Valero,Ricardo De Burgos
+140,La Liga,Spain,2021,720855,2021-10-30T14:15:00+00:00,UTC,1635603300,Match Finished,FT,90,Regular Season - 12,536,Sevilla,727,Osasuna,2,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+140,La Liga,Spain,2021,720856,2021-10-30T16:30:00+00:00,UTC,1635611400,Match Finished,FT,90,Regular Season - 12,532,Valencia,533,Villarreal,2,0,HOME,1497,Estadio de Mestalla,José Munuera
+140,La Liga,Spain,2021,720850,2021-10-30T19:00:00+00:00,UTC,1635620400,Match Finished,FT,90,Regular Season - 12,529,Barcelona,542,Alaves,1,1,DRAW,1462,Camp Nou,Jorge Figueroa
+140,La Liga,Spain,2021,720852,2021-10-31T13:00:00+00:00,UTC,1635685200,Match Finished,FT,90,Regular Season - 12,724,Cadiz,798,Mallorca,1,1,DRAW,11915,Estadio Nuevo Mirandilla,Valentín Pizarro
+140,La Liga,Spain,2021,720849,2021-10-31T15:15:00+00:00,UTC,1635693300,Match Finished,FT,90,Regular Season - 12,530,Atletico Madrid,543,Real Betis,3,0,HOME,1461,Estadio Wanda Metropolitano,Javier Alberola
+140,La Liga,Spain,2021,720851,2021-10-31T17:30:00+00:00,UTC,1635701400,Match Finished,FT,90,Regular Season - 12,546,Getafe,540,Espanyol,2,1,HOME,1476,Coliseum Alfonso Pérez,Alejandro Muñiz
+140,La Liga,Spain,2021,720854,2021-10-31T20:00:00+00:00,UTC,1635710400,Match Finished,FT,90,Regular Season - 12,548,Real Sociedad,531,Athletic Club,1,1,DRAW,1491,Reale Arena,Juan Martínez
+140,La Liga,Spain,2021,720857,2021-11-01T17:30:00+00:00,UTC,1635787800,Match Finished,FT,90,Regular Season - 12,728,Rayo Vallecano,538,Celta Vigo,0,0,DRAW,1488,Estadio de Vallecas,Adrián Cordero
+140,La Liga,Spain,2021,720853,2021-11-01T20:00:00+00:00,UTC,1635796800,Match Finished,FT,90,Regular Season - 12,539,Levante,715,Granada CF,0,3,AWAY,1482,Estadio Ciudad de Valencia,José Sánchez
+140,La Liga,Spain,2021,720860,2021-11-05T20:00:00+00:00,UTC,1636142400,Match Finished,FT,90,Regular Season - 13,531,Athletic Club,724,Cadiz,0,1,AWAY,1460,San Mamés Barria,Santiago Jaime
+140,La Liga,Spain,2021,720864,2021-11-06T13:00:00+00:00,UTC,1636203600,Match Finished,FT,90,Regular Season - 13,540,Espanyol,715,Granada CF,2,0,HOME,1474,RCDE Stadium,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720862,2021-11-06T15:15:00+00:00,UTC,1636211700,Match Finished,FT,90,Regular Season - 13,538,Celta Vigo,529,Barcelona,3,3,DRAW,1467,Abanca-Balaídos,Alejandro Hernández
+140,La Liga,Spain,2021,720859,2021-11-06T17:30:00+00:00,UTC,1636219800,Match Finished,FT,90,Regular Season - 13,542,Alaves,539,Levante,2,1,HOME,1470,Estadio de Mendizorroza,Adrián Cordero
+140,La Liga,Spain,2021,720866,2021-11-06T20:00:00+00:00,UTC,1636228800,Match Finished,FT,90,Regular Season - 13,541,Real Madrid,728,Rayo Vallecano,2,1,HOME,1456,Estadio Santiago Bernabéu,Pablo González
+140,La Liga,Spain,2021,720868,2021-11-07T13:00:00+00:00,UTC,1636290000,Match Finished,FT,90,Regular Season - 13,533,Villarreal,546,Getafe,1,0,HOME,1498,Estadio de la Cerámica,Jesús Gil
+140,La Liga,Spain,2021,720867,2021-11-07T15:15:00+00:00,UTC,1636298100,Match Finished,FT,90,Regular Season - 13,532,Valencia,530,Atletico Madrid,3,3,DRAW,1497,Estadio de Mestalla,César Soto
+140,La Liga,Spain,2021,720865,2021-11-07T17:30:00+00:00,UTC,1636306200,Match Finished,FT,90,Regular Season - 13,727,Osasuna,548,Real Sociedad,0,2,AWAY,1486,Estadio El Sadar,Miguel Ortiz
+140,La Liga,Spain,2021,720863,2021-11-07T17:30:00+00:00,UTC,1636306200,Match Finished,FT,90,Regular Season - 13,798,Mallorca,797,Elche,2,2,DRAW,12597,Visit Mallorca Estadi,Mario Melero
+140,La Liga,Spain,2021,720861,2021-11-07T20:00:00+00:00,UTC,1636315200,Match Finished,FT,90,Regular Season - 13,543,Real Betis,536,Sevilla,0,2,AWAY,1489,Estadio Benito Villamarín,Antonio Mateu
+140,La Liga,Spain,2021,720874,2021-11-19T20:00:00+00:00,UTC,1637352000,Match Finished,FT,90,Regular Season - 14,539,Levante,531,Athletic Club,0,0,DRAW,1482,Estadio Ciudad de Valencia,José Munuera
+140,La Liga,Spain,2021,720871,2021-11-20T13:00:00+00:00,UTC,1637413200,Match Finished,FT,90,Regular Season - 14,538,Celta Vigo,533,Villarreal,1,1,DRAW,1467,Abanca-Balaídos,Javier Alberola
+140,La Liga,Spain,2021,720876,2021-11-20T15:15:00+00:00,UTC,1637421300,Match Finished,FT,90,Regular Season - 14,536,Sevilla,542,Alaves,2,2,DRAW,1494,Estadio Ramón Sánchez Pizjuán,Alejandro Muñiz
+140,La Liga,Spain,2021,720869,2021-11-20T17:30:00+00:00,UTC,1637429400,Match Finished,FT,90,Regular Season - 14,530,Atletico Madrid,727,Osasuna,1,0,HOME,1461,Estadio Wanda Metropolitano,José Sánchez
+140,La Liga,Spain,2021,720870,2021-11-20T20:00:00+00:00,UTC,1637438400,Match Finished,FT,90,Regular Season - 14,529,Barcelona,540,Espanyol,1,0,HOME,1462,Camp Nou,Carlos del Cerro
+140,La Liga,Spain,2021,720872,2021-11-21T13:00:00+00:00,UTC,1637499600,Match Finished,FT,90,Regular Season - 14,546,Getafe,724,Cadiz,4,0,HOME,1476,Coliseum Alfonso Pérez,Ricardo De Burgos
+140,La Liga,Spain,2021,720873,2021-11-21T15:15:00+00:00,UTC,1637507700,Match Finished,FT,90,Regular Season - 14,715,Granada CF,541,Real Madrid,1,4,AWAY,1479,Estadio Nuevo Los Cármenes,Juan Martínez
+140,La Liga,Spain,2021,720878,2021-11-21T17:30:00+00:00,UTC,1637515800,Match Finished,FT,90,Regular Season - 14,797,Elche,543,Real Betis,0,3,AWAY,1473,Estadio Manuel Martínez Valero,Valentín Pizarro
+140,La Liga,Spain,2021,720875,2021-11-21T20:00:00+00:00,UTC,1637524800,Match Finished,FT,90,Regular Season - 14,548,Real Sociedad,532,Valencia,0,0,DRAW,1491,Reale Arena,Mario Melero
+140,La Liga,Spain,2021,720877,2021-11-22T20:00:00+00:00,UTC,1637611200,Match Finished,FT,90,Regular Season - 14,728,Rayo Vallecano,798,Mallorca,3,1,HOME,1488,Estadio de Vallecas,Jorge Figueroa
+140,La Liga,Spain,2021,720880,2021-11-26T20:00:00+00:00,UTC,1637956800,Match Finished,FT,90,Regular Season - 15,531,Athletic Club,715,Granada CF,2,2,DRAW,1460,San Mamés Barria,Adrián Cordero
+140,La Liga,Spain,2021,720879,2021-11-27T13:00:00+00:00,UTC,1638018000,Match Finished,FT,90,Regular Season - 15,542,Alaves,538,Celta Vigo,1,2,AWAY,1470,Estadio de Mendizorroza,Pablo González
+140,La Liga,Spain,2021,720887,2021-11-27T15:15:00+00:00,UTC,1638026100,Match Finished,FT,90,Regular Season - 15,532,Valencia,728,Rayo Vallecano,1,1,DRAW,1497,Estadio de Mestalla,Alejandro Hernández
+140,La Liga,Spain,2021,720882,2021-11-27T17:30:00+00:00,UTC,1638034200,Match Finished,FT,90,Regular Season - 15,798,Mallorca,546,Getafe,0,0,DRAW,12597,Visit Mallorca Estadi,Santiago Jaime
+140,La Liga,Spain,2021,720888,2021-11-27T20:00:00+00:00,UTC,1638043200,Match Finished,FT,90,Regular Season - 15,533,Villarreal,529,Barcelona,1,3,AWAY,1498,Estadio de la Cerámica,César Soto
+140,La Liga,Spain,2021,720881,2021-11-28T13:00:00+00:00,UTC,1638104400,Match Finished,FT,90,Regular Season - 15,543,Real Betis,539,Levante,3,1,HOME,1489,Estadio Benito Villamarín,Miguel Ortiz
+140,La Liga,Spain,2021,720884,2021-11-28T15:15:00+00:00,UTC,1638112500,Match Finished,FT,90,Regular Season - 15,540,Espanyol,548,Real Sociedad,1,0,HOME,1474,RCDE Stadium,Antonio Mateu
+140,La Liga,Spain,2021,720883,2021-11-28T17:30:00+00:00,UTC,1638120600,Match Finished,FT,90,Regular Season - 15,724,Cadiz,530,Atletico Madrid,1,4,AWAY,11915,Estadio Nuevo Mirandilla,Jesús Gil
+140,La Liga,Spain,2021,720886,2021-11-28T20:00:00+00:00,UTC,1638129600,Match Finished,FT,90,Regular Season - 15,541,Real Madrid,536,Sevilla,2,1,HOME,1456,Estadio Santiago Bernabéu,José Sánchez
+140,La Liga,Spain,2021,720885,2021-11-29T20:00:00+00:00,UTC,1638216000,Match Finished,FT,90,Regular Season - 15,727,Osasuna,797,Elche,1,1,DRAW,1486,Estadio El Sadar,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720825,2021-12-01T20:00:00+00:00,UTC,1638388800,Match Finished,FT,90,Regular Season - 9,541,Real Madrid,531,Athletic Club,1,0,HOME,1456,Estadio Santiago Bernabéu,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720893,2021-12-03T20:00:00+00:00,UTC,1638561600,Match Finished,FT,90,Regular Season - 16,715,Granada CF,542,Alaves,2,1,HOME,1479,Estadio Nuevo Los Cármenes,Javier Alberola
+140,La Liga,Spain,2021,720896,2021-12-04T13:00:00+00:00,UTC,1638622800,Match Finished,FT,90,Regular Season - 16,536,Sevilla,533,Villarreal,1,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+140,La Liga,Spain,2021,720890,2021-12-04T15:15:00+00:00,UTC,1638630900,Match Finished,FT,90,Regular Season - 16,529,Barcelona,543,Real Betis,0,1,AWAY,1462,Camp Nou,Pablo González
+140,La Liga,Spain,2021,720889,2021-12-04T17:30:00+00:00,UTC,1638639000,Match Finished,FT,90,Regular Season - 16,530,Atletico Madrid,798,Mallorca,1,2,AWAY,1461,Estadio Wanda Metropolitano,Juan Martínez
+140,La Liga,Spain,2021,720895,2021-12-04T20:00:00+00:00,UTC,1638648000,Match Finished,FT,90,Regular Season - 16,548,Real Sociedad,541,Real Madrid,0,2,AWAY,1491,Reale Arena,Jesús Gil
+140,La Liga,Spain,2021,720897,2021-12-05T13:00:00+00:00,UTC,1638709200,Match Finished,FT,90,Regular Season - 16,728,Rayo Vallecano,540,Espanyol,1,0,HOME,1488,Estadio de Vallecas,José Munuera
+140,La Liga,Spain,2021,720898,2021-12-05T15:15:00+00:00,UTC,1638717300,Match Finished,FT,90,Regular Season - 16,797,Elche,724,Cadiz,3,1,HOME,1473,Estadio Manuel Martínez Valero,Alejandro Muñiz
+140,La Liga,Spain,2021,720894,2021-12-05T17:30:00+00:00,UTC,1638725400,Match Finished,FT,90,Regular Season - 16,539,Levante,727,Osasuna,0,0,DRAW,1482,Estadio Ciudad de Valencia,Valentín Pizarro
+140,La Liga,Spain,2021,720891,2021-12-05T20:00:00+00:00,UTC,1638734400,Match Finished,FT,90,Regular Season - 16,538,Celta Vigo,532,Valencia,1,2,AWAY,1467,Abanca-Balaídos,Ricardo De Burgos
+140,La Liga,Spain,2021,720892,2021-12-06T20:00:00+00:00,UTC,1638820800,Match Finished,FT,90,Regular Season - 16,546,Getafe,531,Athletic Club,0,0,DRAW,1476,Coliseum Alfonso Pérez,Jorge Figueroa
+140,La Liga,Spain,2021,720902,2021-12-10T20:00:00+00:00,UTC,1639166400,Match Finished,FT,90,Regular Season - 17,798,Mallorca,538,Celta Vigo,0,0,DRAW,12597,Visit Mallorca Estadi,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720904,2021-12-11T13:00:00+00:00,UTC,1639227600,Match Finished,FT,90,Regular Season - 17,540,Espanyol,539,Levante,4,3,HOME,1474,RCDE Stadium,Adrián Cordero
+140,La Liga,Spain,2021,720899,2021-12-11T15:15:00+00:00,UTC,1639235700,Match Finished,FT,90,Regular Season - 17,542,Alaves,546,Getafe,1,1,DRAW,1470,Estadio de Mendizorroza,César Soto
+140,La Liga,Spain,2021,720907,2021-12-11T17:30:00+00:00,UTC,1639243800,Match Finished,FT,90,Regular Season - 17,532,Valencia,797,Elche,2,1,HOME,1497,Estadio de Mestalla,Santiago Jaime
+140,La Liga,Spain,2021,720900,2021-12-11T20:00:00+00:00,UTC,1639252800,Match Finished,FT,90,Regular Season - 17,531,Athletic Club,536,Sevilla,0,1,AWAY,1460,San Mamés Barria,Alejandro Hernández
+140,La Liga,Spain,2021,720908,2021-12-12T13:00:00+00:00,UTC,1639314000,Match Finished,FT,90,Regular Season - 17,533,Villarreal,728,Rayo Vallecano,2,0,HOME,1498,Estadio de la Cerámica,Mario Melero
+140,La Liga,Spain,2021,720905,2021-12-12T15:15:00+00:00,UTC,1639322100,Match Finished,FT,90,Regular Season - 17,727,Osasuna,529,Barcelona,2,2,DRAW,1486,Estadio El Sadar,Juan Martínez
+140,La Liga,Spain,2021,720901,2021-12-12T17:30:00+00:00,UTC,1639330200,Match Finished,FT,90,Regular Season - 17,543,Real Betis,548,Real Sociedad,4,0,HOME,1489,Estadio Benito Villamarín,José Sánchez
+140,La Liga,Spain,2021,720906,2021-12-12T20:00:00+00:00,UTC,1639339200,Match Finished,FT,90,Regular Season - 17,541,Real Madrid,530,Atletico Madrid,2,0,HOME,1456,Estadio Santiago Bernabéu,Antonio Mateu
+140,La Liga,Spain,2021,720903,2021-12-13T20:00:00+00:00,UTC,1639425600,Match Finished,FT,90,Regular Season - 17,724,Cadiz,715,Granada CF,1,1,DRAW,11915,Estadio Nuevo Mirandilla,Miguel Ortiz
+140,La Liga,Spain,2021,720911,2021-12-17T20:00:00+00:00,UTC,1639771200,Match Finished,FT,90,Regular Season - 18,538,Celta Vigo,540,Espanyol,3,1,HOME,1467,Abanca-Balaídos,Valentín Pizarro
+140,La Liga,Spain,2021,720918,2021-12-18T13:00:00+00:00,UTC,1639832400,Match Finished,FT,90,Regular Season - 18,728,Rayo Vallecano,542,Alaves,2,0,HOME,1488,Estadio de Vallecas,Antonio Mateu
+140,La Liga,Spain,2021,720916,2021-12-18T15:15:00+00:00,UTC,1639840500,Match Finished,FT,90,Regular Season - 18,548,Real Sociedad,533,Villarreal,1,3,AWAY,1491,Reale Arena,Jorge Figueroa
+140,La Liga,Spain,2021,720910,2021-12-18T17:30:00+00:00,UTC,1639848600,Match Finished,FT,90,Regular Season - 18,529,Barcelona,797,Elche,3,2,HOME,1462,Camp Nou,Javier Alberola
+140,La Liga,Spain,2021,720917,2021-12-18T20:00:00+00:00,UTC,1639857600,Match Finished,FT,90,Regular Season - 18,536,Sevilla,530,Atletico Madrid,2,1,HOME,1494,Estadio Ramón Sánchez Pizjuán,Ricardo De Burgos
+140,La Liga,Spain,2021,720913,2021-12-19T13:00:00+00:00,UTC,1639918800,Match Finished,FT,90,Regular Season - 18,715,Granada CF,798,Mallorca,4,1,HOME,1479,Estadio Nuevo Los Cármenes,Alejandro Muñiz
+140,La Liga,Spain,2021,720909,2021-12-19T15:15:00+00:00,UTC,1639926900,Match Finished,FT,90,Regular Season - 18,531,Athletic Club,543,Real Betis,3,2,HOME,1460,San Mamés Barria,Jesús Gil
+140,La Liga,Spain,2021,720912,2021-12-19T17:30:00+00:00,UTC,1639935000,Match Finished,FT,90,Regular Season - 18,546,Getafe,727,Osasuna,1,0,HOME,1476,Coliseum Alfonso Pérez,José Munuera
+140,La Liga,Spain,2021,720915,2021-12-19T20:00:00+00:00,UTC,1639944000,Match Finished,FT,90,Regular Season - 18,541,Real Madrid,724,Cadiz,0,0,DRAW,1456,Estadio Santiago Bernabéu,Santiago Jaime
+140,La Liga,Spain,2021,720914,2021-12-20T20:00:00+00:00,UTC,1640030400,Match Finished,FT,90,Regular Season - 18,539,Levante,532,Valencia,3,4,AWAY,1482,Estadio Ciudad de Valencia,Pablo González
+140,La Liga,Spain,2021,720778,2021-12-21T18:00:00+00:00,UTC,1640109600,Match Finished,FT,90,Regular Season - 4,533,Villarreal,542,Alaves,5,2,HOME,1498,Estadio de la Cerámica,Valentín Pizarro
+140,La Liga,Spain,2021,720777,2021-12-21T20:30:00+00:00,UTC,1640118600,Match Finished,FT,90,Regular Season - 4,536,Sevilla,529,Barcelona,1,1,DRAW,1494,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+140,La Liga,Spain,2021,720822,2021-12-22T18:00:00+00:00,UTC,1640196000,Match Finished,FT,90,Regular Season - 9,715,Granada CF,530,Atletico Madrid,2,1,HOME,1479,Estadio Nuevo Los Cármenes,Alejandro Hernández
+140,La Liga,Spain,2021,720939,2021-12-22T20:30:00+00:00,UTC,1640205000,Match Finished,FT,90,Regular Season - 21,531,Athletic Club,541,Real Madrid,1,2,AWAY,1460,San Mamés Barria,César Soto
+140,La Liga,Spain,2021,720926,2021-12-31T15:15:00+00:00,UTC,1640963700,Match Finished,FT,90,Regular Season - 19,532,Valencia,540,Espanyol,1,2,AWAY,1497,Estadio de Mestalla,José Sánchez
+140,La Liga,Spain,2021,720923,2022-01-02T13:00:00+00:00,UTC,1641128400,Match Finished,FT,90,Regular Season - 19,546,Getafe,541,Real Madrid,1,0,HOME,1476,Coliseum Alfonso Pérez,Mario Melero
+140,La Liga,Spain,2021,720920,2022-01-02T15:15:00+00:00,UTC,1641136500,Match Finished,FT,90,Regular Season - 19,530,Atletico Madrid,728,Rayo Vallecano,2,0,HOME,1461,Estadio Wanda Metropolitano,Jorge Figueroa
+140,La Liga,Spain,2021,720928,2022-01-02T15:15:00+00:00,UTC,1641136500,Match Finished,FT,90,Regular Season - 19,797,Elche,715,Granada CF,0,0,DRAW,1473,Estadio Manuel Martínez Valero,Adrián Cordero
+140,La Liga,Spain,2021,720919,2022-01-02T17:30:00+00:00,UTC,1641144600,Match Finished,FT,90,Regular Season - 19,542,Alaves,548,Real Sociedad,1,1,DRAW,1470,Estadio de Mendizorroza,Carlos del Cerro
+140,La Liga,Spain,2021,720921,2022-01-02T17:30:00+00:00,UTC,1641144600,Match Finished,FT,90,Regular Season - 19,543,Real Betis,538,Celta Vigo,0,2,AWAY,1489,Estadio Benito Villamarín,César Soto
+140,La Liga,Spain,2021,720922,2022-01-02T20:00:00+00:00,UTC,1641153600,Match Finished,FT,90,Regular Season - 19,798,Mallorca,529,Barcelona,0,1,AWAY,12597,Visit Mallorca Estadi,Antonio Mateu
+140,La Liga,Spain,2021,720927,2022-01-03T18:00:00+00:00,UTC,1641232800,Match Finished,FT,90,Regular Season - 19,533,Villarreal,539,Levante,5,0,HOME,1498,Estadio de la Cerámica,Alejandro Hernández
+140,La Liga,Spain,2021,720925,2022-01-03T20:00:00+00:00,UTC,1641240000,Match Finished,FT,90,Regular Season - 19,727,Osasuna,531,Athletic Club,1,3,AWAY,1486,Estadio El Sadar,Miguel Ortiz
+140,La Liga,Spain,2021,720924,2022-01-03T20:15:00+00:00,UTC,1641240900,Match Finished,FT,90,Regular Season - 19,724,Cadiz,536,Sevilla,0,1,AWAY,11915,Estadio Nuevo Mirandilla,Javier Alberola
+140,La Liga,Spain,2021,720932,2022-01-08T13:00:00+00:00,UTC,1641646800,Match Finished,FT,90,Regular Season - 20,539,Levante,798,Mallorca,2,0,HOME,1482,Estadio Ciudad de Valencia,Jorge Figueroa
+140,La Liga,Spain,2021,720935,2022-01-08T15:15:00+00:00,UTC,1641654900,Match Finished,FT,90,Regular Season - 20,548,Real Sociedad,538,Celta Vigo,1,0,HOME,1491,Reale Arena,Guillermo Cuadra
+140,La Liga,Spain,2021,720930,2022-01-08T17:30:00+00:00,UTC,1641663000,Match Finished,FT,90,Regular Season - 20,715,Granada CF,529,Barcelona,1,1,DRAW,1479,Estadio Nuevo Los Cármenes,Pablo González
+140,La Liga,Spain,2021,720934,2022-01-08T20:00:00+00:00,UTC,1641672000,Match Finished,FT,90,Regular Season - 20,541,Real Madrid,532,Valencia,4,1,HOME,1456,Estadio Santiago Bernabéu,Alejandro Hernández
+140,La Liga,Spain,2021,720937,2022-01-09T13:00:00+00:00,UTC,1641733200,Match Finished,FT,90,Regular Season - 20,728,Rayo Vallecano,543,Real Betis,1,1,DRAW,1488,Estadio de Vallecas,Alejandro Muñiz
+140,La Liga,Spain,2021,720936,2022-01-09T15:15:00+00:00,UTC,1641741300,Match Finished,FT,90,Regular Season - 20,536,Sevilla,546,Getafe,1,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+140,La Liga,Spain,2021,720929,2022-01-09T17:30:00+00:00,UTC,1641749400,Match Finished,FT,90,Regular Season - 20,542,Alaves,531,Athletic Club,0,0,DRAW,1470,Estadio de Mendizorroza,Santiago Jaime
+140,La Liga,Spain,2021,720933,2022-01-09T17:30:00+00:00,UTC,1641749400,Match Finished,FT,90,Regular Season - 20,727,Osasuna,724,Cadiz,2,0,HOME,1486,Estadio El Sadar,Ricardo De Burgos
+140,La Liga,Spain,2021,720938,2022-01-09T20:00:00+00:00,UTC,1641758400,Match Finished,FT,90,Regular Season - 20,533,Villarreal,530,Atletico Madrid,2,2,DRAW,1498,Estadio de la Cerámica,Javier Alberola
+140,La Liga,Spain,2021,720931,2022-01-10T20:00:00+00:00,UTC,1641844800,Match Finished,FT,90,Regular Season - 20,540,Espanyol,797,Elche,1,2,AWAY,1474,RCDE Stadium,Jesús Gil
+140,La Liga,Spain,2021,720948,2022-01-16T13:00:00+00:00,UTC,1642338000,Match Finished,FT,90,Regular Season - 21,797,Elche,533,Villarreal,1,0,HOME,1473,Estadio Manuel Martínez Valero,Valentín Pizarro
+140,La Liga,Spain,2021,720942,2022-01-18T19:00:00+00:00,UTC,1642532400,Match Finished,FT,90,Regular Season - 21,543,Real Betis,542,Alaves,4,0,HOME,1489,Estadio Benito Villamarín,José Sánchez
+140,La Liga,Spain,2021,720946,2022-01-18T20:30:00+00:00,UTC,1642537800,Match Finished,FT,90,Regular Season - 21,724,Cadiz,540,Espanyol,2,2,DRAW,11915,Estadio Nuevo Mirandilla,Alejandro Muñiz
+140,La Liga,Spain,2021,720943,2022-01-19T18:00:00+00:00,UTC,1642615200,Match Finished,FT,90,Regular Season - 21,538,Celta Vigo,727,Osasuna,2,0,HOME,1467,Abanca-Balaídos,Adrián Cordero
+140,La Liga,Spain,2021,720947,2022-01-19T20:30:00+00:00,UTC,1642624200,Match Finished,FT,90,Regular Season - 21,532,Valencia,536,Sevilla,1,1,DRAW,1497,Estadio de Mestalla,César Soto
+140,La Liga,Spain,2021,720945,2022-01-20T18:00:00+00:00,UTC,1642701600,Match Finished,FT,90,Regular Season - 21,546,Getafe,715,Granada CF,4,2,HOME,1476,Coliseum Alfonso Pérez,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720952,2022-01-21T20:00:00+00:00,UTC,1642795200,Match Finished,FT,90,Regular Season - 22,540,Espanyol,543,Real Betis,1,4,AWAY,1474,RCDE Stadium,Javier Alberola
+140,La Liga,Spain,2021,720953,2022-01-22T13:00:00+00:00,UTC,1642856400,Match Finished,FT,90,Regular Season - 22,539,Levante,724,Cadiz,0,2,AWAY,1482,Estadio Ciudad de Valencia,César Soto
+140,La Liga,Spain,2021,720958,2022-01-22T15:15:00+00:00,UTC,1642864500,Match Finished,FT,90,Regular Season - 22,533,Villarreal,798,Mallorca,3,0,HOME,1498,Estadio de la Cerámica,Miguel Ortiz
+140,La Liga,Spain,2021,720956,2022-01-22T17:30:00+00:00,UTC,1642872600,Match Finished,FT,90,Regular Season - 22,536,Sevilla,538,Celta Vigo,2,2,DRAW,1494,Estadio Ramón Sánchez Pizjuán,José Sánchez
+140,La Liga,Spain,2021,720950,2022-01-22T20:00:00+00:00,UTC,1642881600,Match Finished,FT,90,Regular Season - 22,530,Atletico Madrid,532,Valencia,3,2,HOME,1461,Estadio Wanda Metropolitano,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720951,2022-01-23T13:00:00+00:00,UTC,1642942800,Match Finished,FT,90,Regular Season - 22,715,Granada CF,727,Osasuna,0,2,AWAY,1479,Estadio Nuevo Los Cármenes,Santiago Jaime
+140,La Liga,Spain,2021,720954,2022-01-23T15:15:00+00:00,UTC,1642950900,Match Finished,FT,90,Regular Season - 22,541,Real Madrid,797,Elche,2,2,DRAW,1456,Estadio Santiago Bernabéu,Ricardo De Burgos
+140,La Liga,Spain,2021,720955,2022-01-23T17:30:00+00:00,UTC,1642959000,Match Finished,FT,90,Regular Season - 22,548,Real Sociedad,546,Getafe,0,0,DRAW,1491,Reale Arena,José Munuera
+140,La Liga,Spain,2021,720957,2022-01-23T17:30:00+00:00,UTC,1642959000,Match Finished,FT,90,Regular Season - 22,728,Rayo Vallecano,531,Athletic Club,0,1,AWAY,1488,Estadio de Vallecas,Adrián Cordero
+140,La Liga,Spain,2021,720949,2022-01-23T20:00:00+00:00,UTC,1642968000,Match Finished,FT,90,Regular Season - 22,542,Alaves,529,Barcelona,0,1,AWAY,1470,Estadio de Mendizorroza,Jorge Figueroa
+140,La Liga,Spain,2021,720964,2022-02-04T20:00:00+00:00,UTC,1644004800,Match Finished,FT,90,Regular Season - 23,546,Getafe,539,Levante,3,0,HOME,1476,Coliseum Alfonso Pérez,Alejandro Muñiz
+140,La Liga,Spain,2021,720968,2022-02-05T13:00:00+00:00,UTC,1644066000,Match Finished,FT,90,Regular Season - 23,797,Elche,542,Alaves,3,1,HOME,1473,Estadio Manuel Martínez Valero,Mario Melero
+140,La Liga,Spain,2021,720963,2022-02-05T15:15:00+00:00,UTC,1644074100,Match Finished,FT,90,Regular Season - 23,798,Mallorca,724,Cadiz,2,1,HOME,12597,Visit Mallorca Estadi,Carlos del Cerro
+140,La Liga,Spain,2021,720962,2022-02-05T17:30:00+00:00,UTC,1644082200,Match Finished,FT,90,Regular Season - 23,538,Celta Vigo,728,Rayo Vallecano,2,0,HOME,1467,Abanca-Balaídos,José Munuera
+140,La Liga,Spain,2021,720965,2022-02-05T20:00:00+00:00,UTC,1644091200,Match Finished,FT,90,Regular Season - 23,727,Osasuna,536,Sevilla,0,0,DRAW,1486,Estadio El Sadar,Valentín Pizarro
+140,La Liga,Spain,2021,720967,2022-02-06T13:00:00+00:00,UTC,1644152400,Match Finished,FT,90,Regular Season - 23,532,Valencia,548,Real Sociedad,0,0,DRAW,1497,Estadio de Mestalla,José Sánchez
+140,La Liga,Spain,2021,720960,2022-02-06T15:15:00+00:00,UTC,1644160500,Match Finished,FT,90,Regular Season - 23,529,Barcelona,530,Atletico Madrid,4,2,HOME,1462,Camp Nou,Jesús Gil
+140,La Liga,Spain,2021,720961,2022-02-06T17:30:00+00:00,UTC,1644168600,Match Finished,FT,90,Regular Season - 23,543,Real Betis,533,Villarreal,0,2,AWAY,1489,Estadio Benito Villamarín,Pablo González
+140,La Liga,Spain,2021,720966,2022-02-06T20:00:00+00:00,UTC,1644177600,Match Finished,FT,90,Regular Season - 23,541,Real Madrid,715,Granada CF,1,0,HOME,1456,Estadio Santiago Bernabéu,Antonio Mateu
+140,La Liga,Spain,2021,720959,2022-02-07T20:00:00+00:00,UTC,1644264000,Match Finished,FT,90,Regular Season - 23,531,Athletic Club,540,Espanyol,2,1,HOME,1460,San Mamés Barria,César Soto
+140,La Liga,Spain,2021,720976,2022-02-11T20:00:00+00:00,UTC,1644609600,Match Finished,FT,90,Regular Season - 24,536,Sevilla,797,Elche,2,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Miguel Ortiz
+140,La Liga,Spain,2021,720972,2022-02-12T13:00:00+00:00,UTC,1644670800,Match Finished,FT,90,Regular Season - 24,724,Cadiz,538,Celta Vigo,0,0,DRAW,11915,Estadio Nuevo Mirandilla,Antonio Mateu
+140,La Liga,Spain,2021,720978,2022-02-12T15:15:00+00:00,UTC,1644678900,Match Finished,FT,90,Regular Season - 24,533,Villarreal,541,Real Madrid,0,0,DRAW,1498,Estadio de la Cerámica,José Sánchez
+140,La Liga,Spain,2021,720977,2022-02-12T17:30:00+00:00,UTC,1644687000,Match Finished,FT,90,Regular Season - 24,728,Rayo Vallecano,727,Osasuna,0,3,AWAY,1488,Estadio de Vallecas,Jorge Figueroa
+140,La Liga,Spain,2021,720970,2022-02-12T20:00:00+00:00,UTC,1644696000,Match Finished,FT,90,Regular Season - 24,530,Atletico Madrid,546,Getafe,4,3,HOME,1461,Estadio Wanda Metropolitano,Ricardo De Burgos
+140,La Liga,Spain,2021,720969,2022-02-13T13:00:00+00:00,UTC,1644757200,Match Finished,FT,90,Regular Season - 24,542,Alaves,532,Valencia,2,1,HOME,1470,Estadio de Mendizorroza,Adrián Cordero
+140,La Liga,Spain,2021,720974,2022-02-13T15:15:00+00:00,UTC,1644765300,Match Finished,FT,90,Regular Season - 24,539,Levante,543,Real Betis,2,4,AWAY,1482,Estadio Ciudad de Valencia,Santiago Jaime
+140,La Liga,Spain,2021,720975,2022-02-13T17:30:00+00:00,UTC,1644773400,Match Finished,FT,90,Regular Season - 24,548,Real Sociedad,715,Granada CF,2,0,HOME,1491,Reale Arena,Javier Alberola
+140,La Liga,Spain,2021,720973,2022-02-13T20:00:00+00:00,UTC,1644782400,Match Finished,FT,90,Regular Season - 24,540,Espanyol,529,Barcelona,2,2,DRAW,1474,RCDE Stadium,Alejandro Hernández
+140,La Liga,Spain,2021,720971,2022-02-14T20:00:00+00:00,UTC,1644868800,Match Finished,FT,90,Regular Season - 24,798,Mallorca,531,Athletic Club,3,2,HOME,12597,Visit Mallorca Estadi,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720940,2022-02-16T18:00:00+00:00,UTC,1645034400,Match Finished,FT,90,Regular Season - 21,530,Atletico Madrid,539,Levante,0,1,AWAY,1461,Estadio Wanda Metropolitano,José Munuera
+140,La Liga,Spain,2021,720988,2022-02-18T20:00:00+00:00,UTC,1645214400,Match Finished,FT,90,Regular Season - 25,797,Elche,728,Rayo Vallecano,2,1,HOME,1473,Estadio Manuel Martínez Valero,Alejandro Muñiz
+140,La Liga,Spain,2021,720983,2022-02-19T13:00:00+00:00,UTC,1645275600,Match Finished,FT,90,Regular Season - 25,715,Granada CF,533,Villarreal,1,4,AWAY,1479,Estadio Nuevo Los Cármenes,Jesús Gil
+140,La Liga,Spain,2021,720985,2022-02-19T15:15:00+00:00,UTC,1645283700,Match Finished,FT,90,Regular Season - 25,727,Osasuna,530,Atletico Madrid,0,3,AWAY,1486,Estadio El Sadar,Mario Melero
+140,La Liga,Spain,2021,720982,2022-02-19T17:30:00+00:00,UTC,1645291800,Match Finished,FT,90,Regular Season - 25,724,Cadiz,546,Getafe,1,1,DRAW,11915,Estadio Nuevo Mirandilla,Javier Alberola
+140,La Liga,Spain,2021,720986,2022-02-19T20:00:00+00:00,UTC,1645300800,Match Finished,FT,90,Regular Season - 25,541,Real Madrid,542,Alaves,3,0,HOME,1456,Estadio Santiago Bernabéu,José Munuera
+140,La Liga,Spain,2021,720984,2022-02-20T13:00:00+00:00,UTC,1645362000,Match Finished,FT,90,Regular Season - 25,540,Espanyol,536,Sevilla,1,1,DRAW,1474,RCDE Stadium,Pablo González
+140,La Liga,Spain,2021,720987,2022-02-20T15:15:00+00:00,UTC,1645370100,Match Finished,FT,90,Regular Season - 25,532,Valencia,529,Barcelona,1,4,AWAY,1497,Estadio de Mestalla,Carlos del Cerro
+140,La Liga,Spain,2021,720980,2022-02-20T17:30:00+00:00,UTC,1645378200,Match Finished,FT,90,Regular Season - 25,543,Real Betis,798,Mallorca,2,1,HOME,1489,Estadio Benito Villamarín,César Soto
+140,La Liga,Spain,2021,720979,2022-02-20T20:00:00+00:00,UTC,1645387200,Match Finished,FT,90,Regular Season - 25,531,Athletic Club,548,Real Sociedad,4,0,HOME,1460,San Mamés Barria,Juan Martínez
+140,La Liga,Spain,2021,720981,2022-02-21T20:00:00+00:00,UTC,1645473600,Match Finished,FT,90,Regular Season - 25,538,Celta Vigo,539,Levante,1,1,DRAW,1467,Abanca-Balaídos,Valentín Pizarro
+140,La Liga,Spain,2021,720994,2022-02-25T20:00:00+00:00,UTC,1645819200,Match Finished,FT,90,Regular Season - 26,539,Levante,797,Elche,3,0,HOME,1482,Estadio Ciudad de Valencia,Pablo González
+140,La Liga,Spain,2021,720991,2022-02-26T13:00:00+00:00,UTC,1645880400,Match Finished,FT,90,Regular Season - 26,798,Mallorca,532,Valencia,0,1,AWAY,12597,Visit Mallorca Estadi,Jorge Figueroa
+140,La Liga,Spain,2021,720992,2022-02-26T15:15:00+00:00,UTC,1645888500,Match Finished,FT,90,Regular Season - 26,546,Getafe,542,Alaves,2,2,DRAW,1476,Coliseum Alfonso Pérez,Santiago Jaime
+140,La Liga,Spain,2021,720997,2022-02-26T17:30:00+00:00,UTC,1645896600,Match Finished,FT,90,Regular Season - 26,728,Rayo Vallecano,541,Real Madrid,0,1,AWAY,1488,Estadio de Vallecas,Isidro Díaz de Mera
+140,La Liga,Spain,2021,720989,2022-02-26T20:00:00+00:00,UTC,1645905600,Match Finished,FT,90,Regular Season - 26,530,Atletico Madrid,538,Celta Vigo,2,0,HOME,1461,Estadio Wanda Metropolitano,Alejandro Hernández
+140,La Liga,Spain,2021,720998,2022-02-27T13:00:00+00:00,UTC,1645966800,Match Finished,FT,90,Regular Season - 26,533,Villarreal,540,Espanyol,5,1,HOME,1498,Estadio de la Cerámica,Ricardo De Burgos
+140,La Liga,Spain,2021,720996,2022-02-27T15:15:00+00:00,UTC,1645974900,Match Finished,FT,90,Regular Season - 26,536,Sevilla,543,Real Betis,2,1,HOME,1494,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+140,La Liga,Spain,2021,720995,2022-02-27T17:30:00+00:00,UTC,1645983000,Match Finished,FT,90,Regular Season - 26,548,Real Sociedad,727,Osasuna,1,0,HOME,1491,Reale Arena,Antonio Mateu
+140,La Liga,Spain,2021,720990,2022-02-27T20:00:00+00:00,UTC,1645992000,Match Finished,FT,90,Regular Season - 26,529,Barcelona,531,Athletic Club,4,0,HOME,1462,Camp Nou,Guillermo Cuadra
+140,La Liga,Spain,2021,720993,2022-02-28T20:00:00+00:00,UTC,1646078400,Match Finished,FT,90,Regular Season - 26,715,Granada CF,724,Cadiz,0,0,DRAW,1479,Estadio Nuevo Los Cármenes,José Sánchez
+140,La Liga,Spain,2021,720944,2022-03-02T20:00:00+00:00,UTC,1646251200,Match Finished,FT,90,Regular Season - 21,798,Mallorca,548,Real Sociedad,0,2,AWAY,12597,Visit Mallorca Estadi,Mario Melero
+140,La Liga,Spain,2021,720999,2022-03-04T20:00:00+00:00,UTC,1646424000,Match Finished,FT,90,Regular Season - 27,542,Alaves,536,Sevilla,0,0,DRAW,1470,Estadio de Mendizorroza,Javier Alberola
+140,La Liga,Spain,2021,721005,2022-03-05T13:00:00+00:00,UTC,1646485200,Match Finished,FT,90,Regular Season - 27,727,Osasuna,533,Villarreal,1,0,HOME,1486,Estadio El Sadar,José Munuera
+140,La Liga,Spain,2021,721004,2022-03-05T15:15:00+00:00,UTC,1646493300,Match Finished,FT,90,Regular Season - 27,540,Espanyol,546,Getafe,2,0,HOME,1474,RCDE Stadium,Adrián Cordero
+140,La Liga,Spain,2021,721007,2022-03-05T17:30:00+00:00,UTC,1646501400,Match Finished,FT,90,Regular Season - 27,532,Valencia,715,Granada CF,3,1,HOME,1497,Estadio de Mestalla,Valentín Pizarro
+140,La Liga,Spain,2021,721006,2022-03-05T20:00:00+00:00,UTC,1646510400,Match Finished,FT,90,Regular Season - 27,541,Real Madrid,548,Real Sociedad,4,1,HOME,1456,Estadio Santiago Bernabéu,Jesús Gil
+140,La Liga,Spain,2021,721003,2022-03-06T13:00:00+00:00,UTC,1646571600,Match Finished,FT,90,Regular Season - 27,724,Cadiz,728,Rayo Vallecano,2,0,HOME,11915,Estadio Nuevo Mirandilla,César Soto
+140,La Liga,Spain,2021,721008,2022-03-06T15:15:00+00:00,UTC,1646579700,Match Finished,FT,90,Regular Season - 27,797,Elche,529,Barcelona,1,2,AWAY,1473,Estadio Manuel Martínez Valero,Alejandro Hernández
+140,La Liga,Spain,2021,721002,2022-03-06T17:30:00+00:00,UTC,1646587800,Match Finished,FT,90,Regular Season - 27,538,Celta Vigo,798,Mallorca,4,3,HOME,1467,Abanca-Balaídos,Miguel Ortiz
+140,La Liga,Spain,2021,721001,2022-03-06T20:00:00+00:00,UTC,1646596800,Match Finished,FT,90,Regular Season - 27,543,Real Betis,530,Atletico Madrid,1,3,AWAY,1489,Estadio Benito Villamarín,Guillermo Cuadra
+140,La Liga,Spain,2021,721000,2022-03-07T20:00:00+00:00,UTC,1646683200,Match Finished,FT,90,Regular Season - 27,531,Athletic Club,539,Levante,3,1,HOME,1460,San Mamés Barria,Alejandro Muñiz
+140,La Liga,Spain,2021,721009,2022-03-11T20:00:00+00:00,UTC,1647028800,Match Finished,FT,90,Regular Season - 28,530,Atletico Madrid,724,Cadiz,2,1,HOME,1461,Estadio Wanda Metropolitano,Pablo González
+140,La Liga,Spain,2021,721015,2022-03-12T13:00:00+00:00,UTC,1647090000,Match Finished,FT,90,Regular Season - 28,539,Levante,540,Espanyol,1,1,DRAW,1482,Estadio Ciudad de Valencia,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721014,2022-03-12T15:15:00+00:00,UTC,1647098100,Match Finished,FT,90,Regular Season - 28,715,Granada CF,797,Elche,0,1,AWAY,1479,Estadio Nuevo Los Cármenes,Carlos del Cerro
+140,La Liga,Spain,2021,721018,2022-03-12T17:30:00+00:00,UTC,1647106200,Match Finished,FT,90,Regular Season - 28,533,Villarreal,538,Celta Vigo,1,0,HOME,1498,Estadio de la Cerámica,Santiago Jaime
+140,La Liga,Spain,2021,721013,2022-03-12T20:00:00+00:00,UTC,1647115200,Match Finished,FT,90,Regular Season - 28,546,Getafe,532,Valencia,0,0,DRAW,1476,Coliseum Alfonso Pérez,Guillermo Cuadra
+140,La Liga,Spain,2021,721017,2022-03-13T13:00:00+00:00,UTC,1647176400,Match Finished,FT,90,Regular Season - 28,728,Rayo Vallecano,536,Sevilla,1,1,DRAW,1488,Estadio de Vallecas,Juan Martínez
+140,La Liga,Spain,2021,721011,2022-03-13T15:15:00+00:00,UTC,1647184500,Match Finished,FT,90,Regular Season - 28,543,Real Betis,531,Athletic Club,1,0,HOME,1489,Estadio Benito Villamarín,Antonio Mateu
+140,La Liga,Spain,2021,721016,2022-03-13T17:30:00+00:00,UTC,1647192600,Match Finished,FT,90,Regular Season - 28,548,Real Sociedad,542,Alaves,1,0,HOME,1491,Reale Arena,Jorge Figueroa
+140,La Liga,Spain,2021,721010,2022-03-13T20:00:00+00:00,UTC,1647201600,Match Finished,FT,90,Regular Season - 28,529,Barcelona,727,Osasuna,4,0,HOME,1462,Camp Nou,Ricardo De Burgos
+140,La Liga,Spain,2021,721012,2022-03-14T20:00:00+00:00,UTC,1647288000,Match Finished,FT,90,Regular Season - 28,798,Mallorca,541,Real Madrid,0,3,AWAY,12597,Visit Mallorca Estadi,José Sánchez
+140,La Liga,Spain,2021,721020,2022-03-18T20:00:00+00:00,UTC,1647633600,Match Finished,FT,90,Regular Season - 29,531,Athletic Club,546,Getafe,1,1,DRAW,1460,San Mamés Barria,Jesús Gil
+140,La Liga,Spain,2021,721019,2022-03-19T13:00:00+00:00,UTC,1647694800,Match Finished,FT,90,Regular Season - 29,542,Alaves,715,Granada CF,2,3,AWAY,1470,Estadio de Mendizorroza,Guillermo Cuadra
+140,La Liga,Spain,2021,721028,2022-03-19T15:15:00+00:00,UTC,1647702900,Match Finished,FT,90,Regular Season - 29,797,Elche,532,Valencia,0,1,AWAY,1473,Estadio Manuel Martínez Valero,Miguel Ortiz
+140,La Liga,Spain,2021,721024,2022-03-19T17:30:00+00:00,UTC,1647711000,Match Finished,FT,90,Regular Season - 29,727,Osasuna,539,Levante,3,1,HOME,1486,Estadio El Sadar,Javier Alberola
+140,La Liga,Spain,2021,721027,2022-03-19T20:00:00+00:00,UTC,1647720000,Match Finished,FT,90,Regular Season - 29,728,Rayo Vallecano,530,Atletico Madrid,0,1,AWAY,1488,Estadio de Vallecas,José Munuera
+140,La Liga,Spain,2021,721023,2022-03-20T13:00:00+00:00,UTC,1647781200,Match Finished,FT,90,Regular Season - 29,540,Espanyol,798,Mallorca,1,0,HOME,1474,RCDE Stadium,Alejandro Muñiz
+140,La Liga,Spain,2021,721021,2022-03-20T15:15:00+00:00,UTC,1647789300,Match Finished,FT,90,Regular Season - 29,538,Celta Vigo,543,Real Betis,0,0,DRAW,1467,Abanca-Balaídos,Ricardo De Burgos
+140,La Liga,Spain,2021,721022,2022-03-20T15:15:00+00:00,UTC,1647789300,Match Finished,FT,90,Regular Season - 29,724,Cadiz,533,Villarreal,1,0,HOME,11915,Estadio Nuevo Mirandilla,Alejandro Hernández
+140,La Liga,Spain,2021,721026,2022-03-20T17:30:00+00:00,UTC,1647797400,Match Finished,FT,90,Regular Season - 29,536,Sevilla,548,Real Sociedad,0,0,DRAW,1494,Estadio Ramón Sánchez Pizjuán,César Soto
+140,La Liga,Spain,2021,721025,2022-03-20T20:00:00+00:00,UTC,1647806400,Match Finished,FT,90,Regular Season - 29,541,Real Madrid,529,Barcelona,0,4,AWAY,1456,Estadio Santiago Bernabéu,Juan Martínez
+140,La Liga,Spain,2021,721034,2022-04-02T12:00:00+00:00,UTC,1648900800,Match Finished,FT,90,Regular Season - 30,546,Getafe,798,Mallorca,1,0,HOME,1476,Coliseum Alfonso Pérez,Antonio Mateu
+140,La Liga,Spain,2021,721036,2022-04-02T14:15:00+00:00,UTC,1648908900,Match Finished,FT,90,Regular Season - 30,539,Levante,533,Villarreal,2,0,HOME,1482,Estadio Ciudad de Valencia,Adrián Cordero
+140,La Liga,Spain,2021,721033,2022-04-02T16:30:00+00:00,UTC,1648917000,Match Finished,FT,90,Regular Season - 30,538,Celta Vigo,541,Real Madrid,1,2,AWAY,1467,Abanca-Balaídos,Pablo González
+140,La Liga,Spain,2021,721030,2022-04-02T19:00:00+00:00,UTC,1648926000,Match Finished,FT,90,Regular Season - 30,530,Atletico Madrid,542,Alaves,4,1,HOME,1461,Estadio Wanda Metropolitano,Mario Melero
+140,La Liga,Spain,2021,721029,2022-04-03T12:00:00+00:00,UTC,1648987200,Match Finished,FT,90,Regular Season - 30,531,Athletic Club,797,Elche,2,1,HOME,1460,San Mamés Barria,Jorge Figueroa
+140,La Liga,Spain,2021,721032,2022-04-03T14:15:00+00:00,UTC,1648995300,Match Finished,FT,90,Regular Season - 30,543,Real Betis,727,Osasuna,4,1,HOME,1489,Estadio Benito Villamarín,Valentín Pizarro
+140,La Liga,Spain,2021,721038,2022-04-03T16:30:00+00:00,UTC,1649003400,Match Finished,FT,90,Regular Season - 30,532,Valencia,724,Cadiz,0,0,DRAW,1497,Estadio de Mestalla,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721035,2022-04-03T16:30:00+00:00,UTC,1649003400,Match Finished,FT,90,Regular Season - 30,715,Granada CF,728,Rayo Vallecano,2,2,DRAW,1479,Estadio Nuevo Los Cármenes,Alejandro Hernández
+140,La Liga,Spain,2021,721031,2022-04-03T19:00:00+00:00,UTC,1649012400,Match Finished,FT,90,Regular Season - 30,529,Barcelona,536,Sevilla,1,0,HOME,1462,Camp Nou,José Sánchez
+140,La Liga,Spain,2021,721037,2022-04-04T19:00:00+00:00,UTC,1649098800,Match Finished,FT,90,Regular Season - 30,548,Real Sociedad,540,Espanyol,1,0,HOME,1491,Reale Arena,Santiago Jaime
+140,La Liga,Spain,2021,721045,2022-04-08T19:00:00+00:00,UTC,1649444400,Match Finished,FT,90,Regular Season - 31,536,Sevilla,715,Granada CF,4,2,HOME,1494,Estadio Ramón Sánchez Pizjuán,Miguel Ortiz
+140,La Liga,Spain,2021,721040,2022-04-09T12:00:00+00:00,UTC,1649505600,Match Finished,FT,90,Regular Season - 31,724,Cadiz,543,Real Betis,1,2,AWAY,11915,Estadio Nuevo Mirandilla,Jesús Gil
+140,La Liga,Spain,2021,721039,2022-04-09T14:15:00+00:00,UTC,1649513700,Match Finished,FT,90,Regular Season - 31,798,Mallorca,530,Atletico Madrid,1,0,HOME,12597,Visit Mallorca Estadi,Juan Martínez
+140,La Liga,Spain,2021,721047,2022-04-09T16:30:00+00:00,UTC,1649521800,Match Finished,FT,90,Regular Season - 31,533,Villarreal,531,Athletic Club,1,1,DRAW,1498,Estadio de la Cerámica,Carlos del Cerro
+140,La Liga,Spain,2021,721044,2022-04-09T19:00:00+00:00,UTC,1649530800,Match Finished,FT,90,Regular Season - 31,541,Real Madrid,546,Getafe,2,0,HOME,1456,Estadio Santiago Bernabéu,César Soto
+140,La Liga,Spain,2021,721043,2022-04-10T12:00:00+00:00,UTC,1649592000,Match Finished,FT,90,Regular Season - 31,727,Osasuna,542,Alaves,1,0,HOME,1486,Estadio El Sadar,Alejandro Muñiz
+140,La Liga,Spain,2021,721041,2022-04-10T14:15:00+00:00,UTC,1649600100,Match Finished,FT,90,Regular Season - 31,540,Espanyol,538,Celta Vigo,1,0,HOME,1474,RCDE Stadium,Javier Alberola
+140,La Liga,Spain,2021,721048,2022-04-10T16:30:00+00:00,UTC,1649608200,Match Finished,FT,90,Regular Season - 31,797,Elche,548,Real Sociedad,1,2,AWAY,1473,Estadio Manuel Martínez Valero,Guillermo Cuadra
+140,La Liga,Spain,2021,721042,2022-04-10T19:00:00+00:00,UTC,1649617200,Match Finished,FT,90,Regular Season - 31,539,Levante,529,Barcelona,2,3,AWAY,1482,Estadio Ciudad de Valencia,José Munuera
+140,La Liga,Spain,2021,721046,2022-04-11T19:00:00+00:00,UTC,1649703600,Match Finished,FT,90,Regular Season - 31,728,Rayo Vallecano,532,Valencia,1,1,DRAW,1488,Estadio de Vallecas,Ricardo De Burgos
+140,La Liga,Spain,2021,721055,2022-04-15T19:00:00+00:00,UTC,1650049200,Match Finished,FT,90,Regular Season - 32,548,Real Sociedad,543,Real Betis,0,0,DRAW,1491,Reale Arena,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721058,2022-04-16T12:00:00+00:00,UTC,1650110400,Match Finished,FT,90,Regular Season - 32,797,Elche,798,Mallorca,3,0,HOME,1473,Estadio Manuel Martínez Valero,José Sánchez
+140,La Liga,Spain,2021,721049,2022-04-16T14:15:00+00:00,UTC,1650118500,Match Finished,FT,90,Regular Season - 32,542,Alaves,728,Rayo Vallecano,1,0,HOME,1470,Estadio de Mendizorroza,Juan Martínez
+140,La Liga,Spain,2021,721057,2022-04-16T16:30:00+00:00,UTC,1650126600,Match Finished,FT,90,Regular Season - 32,532,Valencia,727,Osasuna,1,2,AWAY,1497,Estadio de Mestalla,Mario Melero
+140,La Liga,Spain,2021,721053,2022-04-16T19:00:00+00:00,UTC,1650135600,Match Finished,FT,90,Regular Season - 32,546,Getafe,533,Villarreal,1,2,AWAY,1476,Coliseum Alfonso Pérez,Pablo González
+140,La Liga,Spain,2021,721054,2022-04-17T12:00:00+00:00,UTC,1650196800,Match Finished,FT,90,Regular Season - 32,715,Granada CF,539,Levante,1,4,AWAY,1479,Estadio Nuevo Los Cármenes,Valentín Pizarro
+140,La Liga,Spain,2021,721051,2022-04-17T14:15:00+00:00,UTC,1650204900,Match Finished,FT,90,Regular Season - 32,530,Atletico Madrid,540,Espanyol,2,1,HOME,1461,Estadio Wanda Metropolitano,Jorge Figueroa
+140,La Liga,Spain,2021,721050,2022-04-17T16:30:00+00:00,UTC,1650213000,Match Finished,FT,90,Regular Season - 32,531,Athletic Club,538,Celta Vigo,0,2,AWAY,1460,San Mamés Barria,Alejandro Hernández
+140,La Liga,Spain,2021,721056,2022-04-17T19:00:00+00:00,UTC,1650222000,Match Finished,FT,90,Regular Season - 32,536,Sevilla,541,Real Madrid,2,3,AWAY,1494,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra
+140,La Liga,Spain,2021,721052,2022-04-18T19:00:00+00:00,UTC,1650308400,Match Finished,FT,90,Regular Season - 32,529,Barcelona,724,Cadiz,0,1,AWAY,1462,Camp Nou,Santiago Jaime
+140,La Liga,Spain,2021,721062,2022-04-19T17:00:00+00:00,UTC,1650387600,Match Finished,FT,90,Regular Season - 33,798,Mallorca,542,Alaves,2,1,HOME,12597,Visit Mallorca Estadi,César Soto
+140,La Liga,Spain,2021,721060,2022-04-19T19:00:00+00:00,UTC,1650394800,Match Finished,FT,90,Regular Season - 33,543,Real Betis,797,Elche,0,1,AWAY,1489,Estadio Benito Villamarín,Javier Alberola
+140,La Liga,Spain,2021,721068,2022-04-19T19:30:00+00:00,UTC,1650396600,Match Finished,FT,90,Regular Season - 33,533,Villarreal,532,Valencia,2,0,HOME,1498,Estadio de la Cerámica,José Munuera
+140,La Liga,Spain,2021,721059,2022-04-20T17:00:00+00:00,UTC,1650474000,Match Finished,FT,90,Regular Season - 33,530,Atletico Madrid,715,Granada CF,0,0,DRAW,1461,Estadio Wanda Metropolitano,Jesús Gil
+140,La Liga,Spain,2021,721061,2022-04-20T18:00:00+00:00,UTC,1650477600,Match Finished,FT,90,Regular Season - 33,538,Celta Vigo,546,Getafe,0,2,AWAY,1467,Abanca-Balaídos,Santiago Jaime
+140,La Liga,Spain,2021,721066,2022-04-20T19:30:00+00:00,UTC,1650483000,Match Finished,FT,90,Regular Season - 33,727,Osasuna,541,Real Madrid,1,3,AWAY,1486,Estadio El Sadar,Ricardo De Burgos
+140,La Liga,Spain,2021,721065,2022-04-21T17:00:00+00:00,UTC,1650560400,Match Finished,FT,90,Regular Season - 33,539,Levante,536,Sevilla,2,3,AWAY,1482,Estadio Ciudad de Valencia,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721064,2022-04-21T17:00:00+00:00,UTC,1650560400,Match Finished,FT,90,Regular Season - 33,540,Espanyol,728,Rayo Vallecano,0,1,AWAY,1474,RCDE Stadium,Antonio Mateu
+140,La Liga,Spain,2021,721063,2022-04-21T18:00:00+00:00,UTC,1650564000,Match Finished,FT,90,Regular Season - 33,724,Cadiz,531,Athletic Club,2,3,AWAY,11915,Estadio Nuevo Mirandilla,Valentín Pizarro
+140,La Liga,Spain,2021,721067,2022-04-21T19:30:00+00:00,UTC,1650569400,Match Finished,FT,90,Regular Season - 33,548,Real Sociedad,529,Barcelona,0,1,AWAY,1491,Reale Arena,Carlos del Cerro
+140,La Liga,Spain,2021,720941,2022-04-24T19:00:00+00:00,UTC,1650826800,Match Finished,FT,90,Regular Season - 21,529,Barcelona,728,Rayo Vallecano,0,1,AWAY,1462,Camp Nou,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721075,2022-04-29T19:00:00+00:00,UTC,1651258800,Match Finished,FT,90,Regular Season - 34,536,Sevilla,724,Cadiz,1,1,DRAW,1494,Estadio Ramón Sánchez Pizjuán,José Sánchez
+140,La Liga,Spain,2021,721069,2022-04-30T12:00:00+00:00,UTC,1651320000,Match Finished,FT,90,Regular Season - 34,542,Alaves,533,Villarreal,2,1,HOME,1470,Estadio de Mendizorroza,Miguel Ortiz
+140,La Liga,Spain,2021,721074,2022-04-30T14:15:00+00:00,UTC,1651328100,Match Finished,FT,90,Regular Season - 34,541,Real Madrid,540,Espanyol,4,0,HOME,1456,Estadio Santiago Bernabéu,José Munuera
+140,La Liga,Spain,2021,721076,2022-04-30T16:30:00+00:00,UTC,1651336200,Match Finished,FT,90,Regular Season - 34,532,Valencia,539,Levante,1,1,DRAW,1497,Estadio de Mestalla,Jorge Figueroa
+140,La Liga,Spain,2021,721070,2022-04-30T19:00:00+00:00,UTC,1651345200,Match Finished,FT,90,Regular Season - 34,531,Athletic Club,530,Atletico Madrid,2,0,HOME,1460,San Mamés Barria,Antonio Mateu
+140,La Liga,Spain,2021,721078,2022-05-01T12:00:00+00:00,UTC,1651406400,Match Finished,FT,90,Regular Season - 34,797,Elche,727,Osasuna,1,1,DRAW,1473,Estadio Manuel Martínez Valero,Carlos del Cerro
+140,La Liga,Spain,2021,721073,2022-05-01T14:15:00+00:00,UTC,1651414500,Match Finished,FT,90,Regular Season - 34,715,Granada CF,538,Celta Vigo,1,1,DRAW,1479,Estadio Nuevo Los Cármenes,Juan Martínez
+140,La Liga,Spain,2021,721077,2022-05-01T16:30:00+00:00,UTC,1651422600,Match Finished,FT,90,Regular Season - 34,728,Rayo Vallecano,548,Real Sociedad,1,1,DRAW,1488,Estadio de Vallecas,Alejandro Muñiz
+140,La Liga,Spain,2021,721071,2022-05-01T19:00:00+00:00,UTC,1651431600,Match Finished,FT,90,Regular Season - 34,529,Barcelona,798,Mallorca,2,1,HOME,1462,Camp Nou,Pablo González
+140,La Liga,Spain,2021,721072,2022-05-02T19:00:00+00:00,UTC,1651518000,Match Finished,FT,90,Regular Season - 34,546,Getafe,543,Real Betis,0,0,DRAW,1476,Coliseum Alfonso Pérez,Adrián Cordero
+140,La Liga,Spain,2021,721087,2022-05-06T19:00:00+00:00,UTC,1651863600,Match Finished,FT,90,Regular Season - 35,539,Levante,548,Real Sociedad,2,1,HOME,1482,Estadio Ciudad de Valencia,Javier Alberola
+140,La Liga,Spain,2021,721083,2022-05-07T12:00:00+00:00,UTC,1651924800,Match Finished,FT,90,Regular Season - 35,798,Mallorca,715,Granada CF,2,6,AWAY,12597,Visit Mallorca Estadi,Ricardo De Burgos
+140,La Liga,Spain,2021,721079,2022-05-07T14:15:00+00:00,UTC,1651932900,Match Finished,FT,90,Regular Season - 35,531,Athletic Club,532,Valencia,0,0,DRAW,1460,San Mamés Barria,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721082,2022-05-07T16:30:00+00:00,UTC,1651941000,Match Finished,FT,90,Regular Season - 35,538,Celta Vigo,542,Alaves,4,0,HOME,1467,Abanca-Balaídos,Guillermo Cuadra
+140,La Liga,Spain,2021,721085,2022-05-07T16:30:00+00:00,UTC,1651941000,Match Finished,FT,90,Regular Season - 35,724,Cadiz,797,Elche,3,0,HOME,11915,Estadio Nuevo Mirandilla,Alejandro Hernández
+140,La Liga,Spain,2021,721081,2022-05-07T19:00:00+00:00,UTC,1651950000,Match Finished,FT,90,Regular Season - 35,543,Real Betis,529,Barcelona,1,2,AWAY,1489,Estadio Benito Villamarín,Antonio Mateu
+140,La Liga,Spain,2021,721084,2022-05-08T12:00:00+00:00,UTC,1652011200,Match Finished,FT,90,Regular Season - 35,546,Getafe,728,Rayo Vallecano,0,0,DRAW,1476,Coliseum Alfonso Pérez,Mario Melero
+140,La Liga,Spain,2021,721088,2022-05-08T14:15:00+00:00,UTC,1652019300,Match Finished,FT,90,Regular Season - 35,533,Villarreal,536,Sevilla,1,1,DRAW,1498,Estadio de la Cerámica,Jesús Gil
+140,La Liga,Spain,2021,721086,2022-05-08T16:30:00+00:00,UTC,1652027400,Match Finished,FT,90,Regular Season - 35,540,Espanyol,727,Osasuna,1,1,DRAW,1474,RCDE Stadium,Santiago Jaime
+140,La Liga,Spain,2021,721080,2022-05-08T19:00:00+00:00,UTC,1652036400,Match Finished,FT,90,Regular Season - 35,530,Atletico Madrid,541,Real Madrid,1,0,HOME,1461,Estadio Wanda Metropolitano,César Soto
+140,La Liga,Spain,2021,721096,2022-05-10T17:00:00+00:00,UTC,1652202000,Match Finished,FT,90,Regular Season - 36,532,Valencia,543,Real Betis,0,3,AWAY,1497,Estadio de Mestalla,Carlos del Cerro
+140,La Liga,Spain,2021,721091,2022-05-10T18:00:00+00:00,UTC,1652205600,Match Finished,FT,90,Regular Season - 36,715,Granada CF,531,Athletic Club,1,0,HOME,1479,Estadio Nuevo Los Cármenes,José Sánchez
+140,La Liga,Spain,2021,721090,2022-05-10T19:30:00+00:00,UTC,1652211000,Match Finished,FT,90,Regular Season - 36,529,Barcelona,538,Celta Vigo,3,1,HOME,1462,Camp Nou,Miguel Ortiz
+140,La Liga,Spain,2021,721089,2022-05-11T17:00:00+00:00,UTC,1652288400,Match Finished,FT,90,Regular Season - 36,542,Alaves,540,Espanyol,2,1,HOME,1470,Estadio de Mendizorroza,Valentín Pizarro
+140,La Liga,Spain,2021,721092,2022-05-11T17:00:00+00:00,UTC,1652288400,Match Finished,FT,90,Regular Season - 36,727,Osasuna,546,Getafe,1,1,DRAW,1486,Estadio El Sadar,Alejandro Muñiz
+140,La Liga,Spain,2021,721095,2022-05-11T18:30:00+00:00,UTC,1652293800,Match Finished,FT,90,Regular Season - 36,536,Sevilla,798,Mallorca,0,0,DRAW,1494,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+140,La Liga,Spain,2021,721098,2022-05-11T19:30:00+00:00,UTC,1652297400,Match Finished,FT,90,Regular Season - 36,797,Elche,530,Atletico Madrid,0,2,AWAY,1473,Estadio Manuel Martínez Valero,Pablo González
+140,La Liga,Spain,2021,721094,2022-05-12T17:00:00+00:00,UTC,1652374800,Match Finished,FT,90,Regular Season - 36,548,Real Sociedad,724,Cadiz,3,0,HOME,1491,Reale Arena,Juan Martínez
+140,La Liga,Spain,2021,721097,2022-05-12T18:00:00+00:00,UTC,1652378400,Match Finished,FT,90,Regular Season - 36,728,Rayo Vallecano,533,Villarreal,1,5,AWAY,1488,Estadio de Vallecas,Isidro Díaz de Mera
+140,La Liga,Spain,2021,721093,2022-05-12T19:30:00+00:00,UTC,1652383800,Match Finished,FT,90,Regular Season - 36,541,Real Madrid,539,Levante,6,0,HOME,1456,Estadio Santiago Bernabéu,Adrián Cordero
+140,La Liga,Spain,2021,721106,2022-05-14T16:30:00+00:00,UTC,1652545800,Match Finished,FT,90,Regular Season - 37,540,Espanyol,532,Valencia,1,1,DRAW,1474,RCDE Stadium,Alejandro Muñiz
+140,La Liga,Spain,2021,721100,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,530,Atletico Madrid,536,Sevilla,1,1,DRAW,1461,Estadio Wanda Metropolitano,José Sánchez
+140,La Liga,Spain,2021,721099,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,531,Athletic Club,727,Osasuna,2,0,HOME,1460,San Mamés Barria,Jorge Figueroa
+140,La Liga,Spain,2021,721108,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,533,Villarreal,548,Real Sociedad,1,2,AWAY,1498,Estadio de la Cerámica,Pablo González
+140,La Liga,Spain,2021,721102,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,538,Celta Vigo,797,Elche,1,0,HOME,1467,Abanca-Balaídos,Mario Melero
+140,La Liga,Spain,2021,721107,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,539,Levante,542,Alaves,3,1,HOME,1482,Estadio Ciudad de Valencia,Guillermo Cuadra
+140,La Liga,Spain,2021,721101,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,543,Real Betis,715,Granada CF,2,0,HOME,1489,Estadio Benito Villamarín,Ricardo De Burgos
+140,La Liga,Spain,2021,721104,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,546,Getafe,529,Barcelona,0,0,DRAW,1476,Coliseum Alfonso Pérez,Jesús Gil
+140,La Liga,Spain,2021,721105,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,724,Cadiz,541,Real Madrid,1,1,DRAW,11915,Estadio Nuevo Mirandilla,Antonio Mateu
+140,La Liga,Spain,2021,721103,2022-05-15T17:30:00+00:00,UTC,1652635800,Match Finished,FT,90,Regular Season - 37,798,Mallorca,728,Rayo Vallecano,2,1,HOME,12597,Visit Mallorca Estadi,José Munuera
+140,La Liga,Spain,2021,721113,2022-05-20T19:00:00+00:00,UTC,1653073200,Match Finished,FT,90,Regular Season - 38,541,Real Madrid,543,Real Betis,0,0,DRAW,1456,Estadio Santiago Bernabéu,Santiago Jaime
+140,La Liga,Spain,2021,721117,2022-05-20T19:00:00+00:00,UTC,1653073200,Match Finished,FT,90,Regular Season - 38,728,Rayo Vallecano,539,Levante,2,4,AWAY,1488,Estadio de Vallecas,Mario Melero
+140,La Liga,Spain,2021,721116,2022-05-21T15:30:00+00:00,UTC,1653147000,Match Finished,FT,90,Regular Season - 38,532,Valencia,538,Celta Vigo,2,0,HOME,1497,Estadio de Mestalla,Adrián Cordero
+140,La Liga,Spain,2021,721118,2022-05-22T15:30:00+00:00,UTC,1653233400,Match Finished,FT,90,Regular Season - 38,797,Elche,546,Getafe,3,1,HOME,1473,Estadio Manuel Martínez Valero,Guillermo Cuadra
+140,La Liga,Spain,2021,721109,2022-05-22T18:00:00+00:00,UTC,1653242400,Match Finished,FT,90,Regular Season - 38,542,Alaves,724,Cadiz,0,1,AWAY,1470,Estadio de Mendizorroza,José Sánchez
+140,La Liga,Spain,2021,721111,2022-05-22T18:00:00+00:00,UTC,1653242400,Match Finished,FT,90,Regular Season - 38,715,Granada CF,540,Espanyol,0,0,DRAW,1479,Estadio Nuevo Los Cármenes,Alejandro Hernández
+140,La Liga,Spain,2021,721112,2022-05-22T18:00:00+00:00,UTC,1653242400,Match Finished,FT,90,Regular Season - 38,727,Osasuna,798,Mallorca,0,2,AWAY,1486,Estadio El Sadar,César Soto
+140,La Liga,Spain,2021,721110,2022-05-22T20:00:00+00:00,UTC,1653249600,Match Finished,FT,90,Regular Season - 38,529,Barcelona,533,Villarreal,0,2,AWAY,1462,Camp Nou,José Munuera
+140,La Liga,Spain,2021,721115,2022-05-22T20:00:00+00:00,UTC,1653249600,Match Finished,FT,90,Regular Season - 38,536,Sevilla,531,Athletic Club,1,0,HOME,1494,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+140,La Liga,Spain,2021,721114,2022-05-22T20:00:00+00:00,UTC,1653249600,Match Finished,FT,90,Regular Season - 38,548,Real Sociedad,530,Atletico Madrid,1,2,AWAY,1491,Reale Arena,Jesús Gil

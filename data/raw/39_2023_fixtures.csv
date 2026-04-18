@@ -1,0 +1,381 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+39,Premier League,England,2023,1035037,2023-08-11T19:00:00+00:00,UTC,1691780400,Match Finished,FT,90,Regular Season - 1,44,Burnley,50,Manchester City,0,3,AWAY,512,Turf Moor,C. Pawson
+39,Premier League,England,2023,1035038,2023-08-12T11:30:00+00:00,UTC,1691839800,Match Finished,FT,90,Regular Season - 1,42,Arsenal,65,Nottingham Forest,2,1,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2023,1035039,2023-08-12T14:00:00+00:00,UTC,1691848800,Match Finished,FT,90,Regular Season - 1,35,Bournemouth,48,West Ham,1,1,DRAW,504,Vitality Stadium,P. Bankes
+39,Premier League,England,2023,1035041,2023-08-12T14:00:00+00:00,UTC,1691848800,Match Finished,FT,90,Regular Season - 1,45,Everton,36,Fulham,0,1,AWAY,8560,Goodison Park,S. Attwell
+39,Premier League,England,2023,1035040,2023-08-12T14:00:00+00:00,UTC,1691848800,Match Finished,FT,90,Regular Season - 1,51,Brighton,1359,Luton,4,1,HOME,508,The American Express Community Stadium,D. Coote
+39,Premier League,England,2023,1035042,2023-08-12T14:00:00+00:00,UTC,1691848800,Match Finished,FT,90,Regular Season - 1,62,Sheffield Utd,52,Crystal Palace,0,1,AWAY,581,Bramall Lane,J. Brooks
+39,Premier League,England,2023,1035043,2023-08-12T16:30:00+00:00,UTC,1691857800,Match Finished,FT,90,Regular Season - 1,34,Newcastle,66,Aston Villa,5,1,HOME,562,St. James' Park,A. Madley
+39,Premier League,England,2023,1035044,2023-08-13T13:00:00+00:00,UTC,1691931600,Match Finished,FT,90,Regular Season - 1,55,Brentford,47,Tottenham,2,2,DRAW,10503,Gtech Community Stadium,R. Jones
+39,Premier League,England,2023,1035045,2023-08-13T15:30:00+00:00,UTC,1691940600,Match Finished,FT,90,Regular Season - 1,49,Chelsea,40,Liverpool,1,1,DRAW,519,Stamford Bridge,A. Taylor
+39,Premier League,England,2023,1035046,2023-08-14T19:00:00+00:00,UTC,1692039600,Match Finished,FT,90,Regular Season - 1,33,Manchester United,39,Wolves,1,0,HOME,556,Old Trafford,S. Hooper
+39,Premier League,England,2023,1035053,2023-08-18T18:45:00+00:00,UTC,1692384300,Match Finished,FT,90,Regular Season - 2,65,Nottingham Forest,62,Sheffield Utd,2,1,HOME,566,The City Ground,P. Bankes
+39,Premier League,England,2023,1035049,2023-08-19T14:00:00+00:00,UTC,1692453600,Match Finished,FT,90,Regular Season - 2,36,Fulham,55,Brentford,0,3,AWAY,535,Craven Cottage,D. Bond
+39,Premier League,England,2023,1035056,2023-08-19T14:00:00+00:00,UTC,1692453600,Match Finished,FT,90,Regular Season - 2,39,Wolves,51,Brighton,1,4,AWAY,600,Molineux Stadium,A. Madley
+39,Premier League,England,2023,1035050,2023-08-19T14:00:00+00:00,UTC,1692453600,Match Finished,FT,90,Regular Season - 2,40,Liverpool,35,Bournemouth,3,1,HOME,550,Anfield,T. Bramall
+39,Premier League,England,2023,1035054,2023-08-19T16:30:00+00:00,UTC,1692462600,Match Finished,FT,90,Regular Season - 2,47,Tottenham,33,Manchester United,2,0,HOME,593,Tottenham Hotspur Stadium,M. Oliver
+39,Premier League,England,2023,1035052,2023-08-19T19:00:00+00:00,UTC,1692471600,Match Finished,FT,90,Regular Season - 2,50,Manchester City,34,Newcastle,1,0,HOME,555,Etihad Stadium,R. Jones
+39,Premier League,England,2023,1035047,2023-08-20T13:00:00+00:00,UTC,1692536400,Match Finished,FT,90,Regular Season - 2,66,Aston Villa,45,Everton,4,0,HOME,495,Villa Park,A. Taylor
+39,Premier League,England,2023,1035055,2023-08-20T15:30:00+00:00,UTC,1692545400,Match Finished,FT,90,Regular Season - 2,48,West Ham,49,Chelsea,3,1,HOME,598,London Stadium,J. Brooks
+39,Premier League,England,2023,1035048,2023-08-21T19:00:00+00:00,UTC,1692644400,Match Finished,FT,90,Regular Season - 2,52,Crystal Palace,42,Arsenal,0,1,AWAY,525,Selhurst Park,D. Coote
+39,Premier League,England,2023,1035062,2023-08-25T19:00:00+00:00,UTC,1692990000,Match Finished,FT,90,Regular Season - 3,49,Chelsea,1359,Luton,3,0,HOME,519,Stamford Bridge,R. Jones
+39,Premier League,England,2023,1035057,2023-08-26T11:30:00+00:00,UTC,1693049400,Match Finished,FT,90,Regular Season - 3,35,Bournemouth,47,Tottenham,0,2,AWAY,504,Vitality Stadium,T. Robinson
+39,Premier League,England,2023,1035064,2023-08-26T14:00:00+00:00,UTC,1693058400,Match Finished,FT,90,Regular Season - 3,33,Manchester United,65,Nottingham Forest,3,2,HOME,556,Old Trafford,S. Attwell
+39,Premier League,England,2023,1035058,2023-08-26T14:00:00+00:00,UTC,1693058400,Match Finished,FT,90,Regular Season - 3,42,Arsenal,36,Fulham,2,2,DRAW,494,Emirates Stadium,P. Tierney
+39,Premier League,England,2023,1035063,2023-08-26T14:00:00+00:00,UTC,1693058400,Match Finished,FT,90,Regular Season - 3,45,Everton,39,Wolves,0,1,AWAY,8560,Goodison Park,C. Pawson
+39,Premier League,England,2023,1035059,2023-08-26T14:00:00+00:00,UTC,1693058400,Match Finished,FT,90,Regular Season - 3,55,Brentford,52,Crystal Palace,1,1,DRAW,10503,Gtech Community Stadium,P. Bankes
+39,Premier League,England,2023,1035060,2023-08-26T16:30:00+00:00,UTC,1693067400,Match Finished,FT,90,Regular Season - 3,51,Brighton,48,West Ham,1,3,AWAY,508,The American Express Community Stadium,A. Taylor
+39,Premier League,England,2023,1035061,2023-08-27T13:00:00+00:00,UTC,1693141200,Match Finished,FT,90,Regular Season - 3,44,Burnley,66,Aston Villa,1,3,AWAY,512,Turf Moor,M. Salisbury
+39,Premier League,England,2023,1035066,2023-08-27T13:00:00+00:00,UTC,1693141200,Match Finished,FT,90,Regular Season - 3,62,Sheffield Utd,50,Manchester City,1,2,AWAY,581,Bramall Lane,J. Gillett
+39,Premier League,England,2023,1035065,2023-08-27T15:30:00+00:00,UTC,1693150200,Match Finished,FT,90,Regular Season - 3,34,Newcastle,40,Liverpool,1,2,AWAY,562,St. James' Park,J. Brooks
+39,Premier League,England,2023,1035074,2023-09-01T19:00:00+00:00,UTC,1693594800,Match Finished,FT,90,Regular Season - 4,1359,Luton,48,West Ham,1,2,AWAY,551,Kenilworth Road,P. Tierney
+39,Premier League,England,2023,1035076,2023-09-02T11:30:00+00:00,UTC,1693654200,Match Finished,FT,90,Regular Season - 4,62,Sheffield Utd,45,Everton,2,2,DRAW,581,Bramall Lane,A. Madley
+39,Premier League,England,2023,1035070,2023-09-02T14:00:00+00:00,UTC,1693663200,Match Finished,FT,90,Regular Season - 4,44,Burnley,47,Tottenham,2,5,AWAY,512,Turf Moor,D. England
+39,Premier League,England,2023,1035071,2023-09-02T14:00:00+00:00,UTC,1693663200,Match Finished,FT,90,Regular Season - 4,49,Chelsea,65,Nottingham Forest,0,1,AWAY,519,Stamford Bridge,T. Robinson
+39,Premier League,England,2023,1035075,2023-09-02T14:00:00+00:00,UTC,1693663200,Match Finished,FT,90,Regular Season - 4,50,Manchester City,36,Fulham,5,1,HOME,555,Etihad Stadium,M. Oliver
+39,Premier League,England,2023,1035068,2023-09-02T14:00:00+00:00,UTC,1693663200,Match Finished,FT,90,Regular Season - 4,55,Brentford,35,Bournemouth,2,2,DRAW,10503,Gtech Community Stadium,R. Madley
+39,Premier League,England,2023,1035069,2023-09-02T16:30:00+00:00,UTC,1693672200,Match Finished,FT,90,Regular Season - 4,51,Brighton,34,Newcastle,3,1,HOME,508,The American Express Community Stadium,S. Attwell
+39,Premier League,England,2023,1035073,2023-09-03T13:00:00+00:00,UTC,1693746000,Match Finished,FT,90,Regular Season - 4,40,Liverpool,66,Aston Villa,3,0,HOME,550,Anfield,S. Hooper
+39,Premier League,England,2023,1035072,2023-09-03T13:00:00+00:00,UTC,1693746000,Match Finished,FT,90,Regular Season - 4,52,Crystal Palace,39,Wolves,3,2,HOME,525,Selhurst Park,R. Jones
+39,Premier League,England,2023,1035067,2023-09-03T15:30:00+00:00,UTC,1693755000,Match Finished,FT,90,Regular Season - 4,42,Arsenal,33,Manchester United,3,1,HOME,494,Emirates Stadium,A. Taylor
+39,Premier League,England,2023,1035086,2023-09-16T11:30:00+00:00,UTC,1694863800,Match Finished,FT,90,Regular Season - 5,39,Wolves,40,Liverpool,1,3,AWAY,600,Molineux Stadium,M. Oliver
+39,Premier League,England,2023,1035081,2023-09-16T14:00:00+00:00,UTC,1694872800,Match Finished,FT,90,Regular Season - 5,33,Manchester United,51,Brighton,1,3,AWAY,556,Old Trafford,J. Gillett
+39,Premier League,England,2023,1035080,2023-09-16T14:00:00+00:00,UTC,1694872800,Match Finished,FT,90,Regular Season - 5,36,Fulham,1359,Luton,1,0,HOME,535,Craven Cottage,M. Salisbury
+39,Premier League,England,2023,1035084,2023-09-16T14:00:00+00:00,UTC,1694872800,Match Finished,FT,90,Regular Season - 5,47,Tottenham,62,Sheffield Utd,2,1,HOME,593,Tottenham Hotspur Stadium,P. Bankes
+39,Premier League,England,2023,1035085,2023-09-16T14:00:00+00:00,UTC,1694872800,Match Finished,FT,90,Regular Season - 5,48,West Ham,50,Manchester City,1,3,AWAY,598,London Stadium,A. Madley
+39,Premier League,England,2023,1035078,2023-09-16T14:00:00+00:00,UTC,1694872800,Match Finished,FT,90,Regular Season - 5,66,Aston Villa,52,Crystal Palace,3,1,HOME,495,Villa Park,D. England
+39,Premier League,England,2023,1035082,2023-09-16T16:30:00+00:00,UTC,1694881800,Match Finished,FT,90,Regular Season - 5,34,Newcastle,55,Brentford,1,0,HOME,562,St. James' Park,C. Pawson
+39,Premier League,England,2023,1035077,2023-09-17T13:00:00+00:00,UTC,1694955600,Match Finished,FT,90,Regular Season - 5,35,Bournemouth,49,Chelsea,0,0,DRAW,504,Vitality Stadium,D. Coote
+39,Premier League,England,2023,1035079,2023-09-17T15:30:00+00:00,UTC,1694964600,Match Finished,FT,90,Regular Season - 5,45,Everton,42,Arsenal,0,1,AWAY,8560,Goodison Park,S. Hooper
+39,Premier League,England,2023,1035083,2023-09-18T18:45:00+00:00,UTC,1695062700,Match Finished,FT,90,Regular Season - 5,65,Nottingham Forest,44,Burnley,1,1,DRAW,566,The City Ground,R. Jones
+39,Premier League,England,2023,1035095,2023-09-23T14:00:00+00:00,UTC,1695477600,Match Finished,FT,90,Regular Season - 6,50,Manchester City,65,Nottingham Forest,2,0,HOME,555,Etihad Stadium,A. Taylor
+39,Premier League,England,2023,1035092,2023-09-23T14:00:00+00:00,UTC,1695477600,Match Finished,FT,90,Regular Season - 6,52,Crystal Palace,36,Fulham,0,0,DRAW,525,Selhurst Park,P. Tierney
+39,Premier League,England,2023,1035094,2023-09-23T14:00:00+00:00,UTC,1695477600,Match Finished,FT,90,Regular Season - 6,1359,Luton,39,Wolves,1,1,DRAW,551,Kenilworth Road,J. Smith
+39,Premier League,England,2023,1035088,2023-09-23T16:30:00+00:00,UTC,1695486600,Match Finished,FT,90,Regular Season - 6,55,Brentford,45,Everton,1,3,AWAY,10503,Gtech Community Stadium,M. Oliver
+39,Premier League,England,2023,1035090,2023-09-23T19:00:00+00:00,UTC,1695495600,Match Finished,FT,90,Regular Season - 6,44,Burnley,33,Manchester United,0,1,AWAY,512,Turf Moor,T. Harrington
+39,Premier League,England,2023,1035093,2023-09-24T13:00:00+00:00,UTC,1695560400,Match Finished,FT,90,Regular Season - 6,40,Liverpool,48,West Ham,3,1,HOME,550,Anfield,C. Kavanagh
+39,Premier League,England,2023,1035087,2023-09-24T13:00:00+00:00,UTC,1695560400,Match Finished,FT,90,Regular Season - 6,42,Arsenal,47,Tottenham,2,2,DRAW,494,Emirates Stadium,R. Jones
+39,Premier League,England,2023,1035091,2023-09-24T13:00:00+00:00,UTC,1695560400,Match Finished,FT,90,Regular Season - 6,49,Chelsea,66,Aston Villa,0,1,AWAY,519,Stamford Bridge,J. Gillett
+39,Premier League,England,2023,1035089,2023-09-24T13:00:00+00:00,UTC,1695560400,Match Finished,FT,90,Regular Season - 6,51,Brighton,35,Bournemouth,3,1,HOME,508,The American Express Community Stadium,J. Brooks
+39,Premier League,England,2023,1035096,2023-09-24T15:30:00+00:00,UTC,1695569400,Match Finished,FT,90,Regular Season - 6,62,Sheffield Utd,34,Newcastle,0,8,AWAY,581,Bramall Lane,S. Attwell
+39,Premier League,England,2023,1035098,2023-09-30T11:30:00+00:00,UTC,1696073400,Match Finished,FT,90,Regular Season - 7,66,Aston Villa,51,Brighton,6,1,HOME,495,Villa Park,A. Madley
+39,Premier League,England,2023,1035101,2023-09-30T14:00:00+00:00,UTC,1696082400,Match Finished,FT,90,Regular Season - 7,33,Manchester United,52,Crystal Palace,0,1,AWAY,556,Old Trafford,C. Kavanagh
+39,Premier League,England,2023,1035102,2023-09-30T14:00:00+00:00,UTC,1696082400,Match Finished,FT,90,Regular Season - 7,34,Newcastle,44,Burnley,2,0,HOME,562,St. James' Park,T. Bramall
+39,Premier League,England,2023,1035097,2023-09-30T14:00:00+00:00,UTC,1696082400,Match Finished,FT,90,Regular Season - 7,35,Bournemouth,42,Arsenal,0,4,AWAY,504,Vitality Stadium,M. Salisbury
+39,Premier League,England,2023,1035106,2023-09-30T14:00:00+00:00,UTC,1696082400,Match Finished,FT,90,Regular Season - 7,39,Wolves,50,Manchester City,2,1,HOME,600,Molineux Stadium,C. Pawson
+39,Premier League,England,2023,1035099,2023-09-30T14:00:00+00:00,UTC,1696082400,Match Finished,FT,90,Regular Season - 7,45,Everton,1359,Luton,1,2,AWAY,8560,Goodison Park,A. Taylor
+39,Premier League,England,2023,1035105,2023-09-30T14:00:00+00:00,UTC,1696082400,Match Finished,FT,90,Regular Season - 7,48,West Ham,62,Sheffield Utd,2,0,HOME,598,London Stadium,G. Scott
+39,Premier League,England,2023,1035104,2023-09-30T16:30:00+00:00,UTC,1696091400,Match Finished,FT,90,Regular Season - 7,47,Tottenham,40,Liverpool,2,1,HOME,593,Tottenham Hotspur Stadium,S. Hooper
+39,Premier League,England,2023,1035103,2023-10-01T13:00:00+00:00,UTC,1696165200,Match Finished,FT,90,Regular Season - 7,65,Nottingham Forest,55,Brentford,1,1,DRAW,566,The City Ground,P. Tierney
+39,Premier League,England,2023,1035100,2023-10-02T19:00:00+00:00,UTC,1696273200,Match Finished,FT,90,Regular Season - 7,36,Fulham,49,Chelsea,0,2,AWAY,535,Craven Cottage,T. Robinson
+39,Premier League,England,2023,1035051,2023-10-03T18:30:00+00:00,UTC,1696357800,Match Finished,FT,90,Regular Season - 2,1359,Luton,44,Burnley,1,2,AWAY,551,Kenilworth Road,P. Bankes
+39,Premier League,England,2023,1035113,2023-10-07T11:30:00+00:00,UTC,1696678200,Match Finished,FT,90,Regular Season - 8,1359,Luton,47,Tottenham,0,1,AWAY,551,Kenilworth Road,J. Brooks
+39,Premier League,England,2023,1035114,2023-10-07T14:00:00+00:00,UTC,1696687200,Match Finished,FT,90,Regular Season - 8,33,Manchester United,55,Brentford,2,1,HOME,556,Old Trafford,A. Madley
+39,Premier League,England,2023,1035112,2023-10-07T14:00:00+00:00,UTC,1696687200,Match Finished,FT,90,Regular Season - 8,36,Fulham,62,Sheffield Utd,3,1,HOME,535,Craven Cottage,S. Barrott
+39,Premier League,England,2023,1035109,2023-10-07T14:00:00+00:00,UTC,1696687200,Match Finished,FT,90,Regular Season - 8,44,Burnley,49,Chelsea,1,4,AWAY,512,Turf Moor,S. Attwell
+39,Premier League,England,2023,1035111,2023-10-07T14:00:00+00:00,UTC,1696687200,Match Finished,FT,90,Regular Season - 8,45,Everton,35,Bournemouth,3,0,HOME,8560,Goodison Park,D. Coote
+39,Premier League,England,2023,1035110,2023-10-07T16:30:00+00:00,UTC,1696696200,Match Finished,FT,90,Regular Season - 8,52,Crystal Palace,65,Nottingham Forest,0,0,DRAW,525,Selhurst Park,C. Pawson
+39,Premier League,England,2023,1035116,2023-10-08T13:00:00+00:00,UTC,1696770000,Match Finished,FT,90,Regular Season - 8,39,Wolves,66,Aston Villa,1,1,DRAW,600,Molineux Stadium,R. Jones
+39,Premier League,England,2023,1035115,2023-10-08T13:00:00+00:00,UTC,1696770000,Match Finished,FT,90,Regular Season - 8,48,West Ham,34,Newcastle,2,2,DRAW,598,London Stadium,P. Bankes
+39,Premier League,England,2023,1035108,2023-10-08T13:00:00+00:00,UTC,1696770000,Match Finished,FT,90,Regular Season - 8,51,Brighton,40,Liverpool,2,2,DRAW,508,The American Express Community Stadium,A. Taylor
+39,Premier League,England,2023,1035107,2023-10-08T15:30:00+00:00,UTC,1696779000,Match Finished,FT,90,Regular Season - 8,42,Arsenal,50,Manchester City,1,0,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2023,1035121,2023-10-21T11:30:00+00:00,UTC,1697887800,Match Finished,FT,90,Regular Season - 9,40,Liverpool,45,Everton,2,0,HOME,550,Anfield,C. Pawson
+39,Premier League,England,2023,1035123,2023-10-21T14:00:00+00:00,UTC,1697896800,Match Finished,FT,90,Regular Season - 9,34,Newcastle,52,Crystal Palace,4,0,HOME,562,St. James' Park,T. Robinson
+39,Premier League,England,2023,1035117,2023-10-21T14:00:00+00:00,UTC,1697896800,Match Finished,FT,90,Regular Season - 9,35,Bournemouth,39,Wolves,1,2,AWAY,504,Vitality Stadium,P. Tierney
+39,Premier League,England,2023,1035122,2023-10-21T14:00:00+00:00,UTC,1697896800,Match Finished,FT,90,Regular Season - 9,50,Manchester City,51,Brighton,2,1,HOME,555,Etihad Stadium,R. Jones
+39,Premier League,England,2023,1035119,2023-10-21T14:00:00+00:00,UTC,1697896800,Match Finished,FT,90,Regular Season - 9,55,Brentford,44,Burnley,3,0,HOME,10503,Gtech Community Stadium,J. Smith
+39,Premier League,England,2023,1035124,2023-10-21T14:00:00+00:00,UTC,1697896800,Match Finished,FT,90,Regular Season - 9,65,Nottingham Forest,1359,Luton,2,2,DRAW,566,The City Ground,S. Barrott
+39,Premier League,England,2023,1035120,2023-10-21T16:30:00+00:00,UTC,1697905800,Match Finished,FT,90,Regular Season - 9,49,Chelsea,42,Arsenal,2,2,DRAW,519,Stamford Bridge,C. Kavanagh
+39,Premier League,England,2023,1035125,2023-10-21T19:00:00+00:00,UTC,1697914800,Match Finished,FT,90,Regular Season - 9,62,Sheffield Utd,33,Manchester United,1,2,AWAY,581,Bramall Lane,M. Oliver
+39,Premier League,England,2023,1035118,2023-10-22T15:30:00+00:00,UTC,1697988600,Match Finished,FT,90,Regular Season - 9,66,Aston Villa,48,West Ham,4,1,HOME,495,Villa Park,D. Coote
+39,Premier League,England,2023,1035126,2023-10-23T19:00:00+00:00,UTC,1698087600,Match Finished,FT,90,Regular Season - 9,47,Tottenham,36,Fulham,2,0,HOME,593,Tottenham Hotspur Stadium,A. Taylor
+39,Premier League,England,2023,1035132,2023-10-27T19:00:00+00:00,UTC,1698433200,Match Finished,FT,90,Regular Season - 10,52,Crystal Palace,47,Tottenham,1,2,AWAY,525,Selhurst Park,A. Madley
+39,Premier League,England,2023,1035131,2023-10-28T11:30:00+00:00,UTC,1698492600,Match Finished,FT,90,Regular Season - 10,49,Chelsea,55,Brentford,0,2,AWAY,519,Stamford Bridge,S. Hooper
+39,Premier League,England,2023,1035127,2023-10-28T14:00:00+00:00,UTC,1698501600,Match Finished,FT,90,Regular Season - 10,35,Bournemouth,44,Burnley,2,1,HOME,504,Vitality Stadium,S. Barrott
+39,Premier League,England,2023,1035128,2023-10-28T14:00:00+00:00,UTC,1698501600,Match Finished,FT,90,Regular Season - 10,42,Arsenal,62,Sheffield Utd,5,0,HOME,494,Emirates Stadium,T. Robinson
+39,Premier League,England,2023,1035136,2023-10-28T16:30:00+00:00,UTC,1698510600,Match Finished,FT,90,Regular Season - 10,39,Wolves,34,Newcastle,2,2,DRAW,600,Molineux Stadium,A. Taylor
+39,Premier League,England,2023,1035135,2023-10-29T13:00:00+00:00,UTC,1698584400,Match Finished,FT,90,Regular Season - 10,48,West Ham,45,Everton,0,1,AWAY,598,London Stadium,S. Attwell
+39,Premier League,England,2023,1035133,2023-10-29T14:00:00+00:00,UTC,1698588000,Match Finished,FT,90,Regular Season - 10,40,Liverpool,65,Nottingham Forest,3,0,HOME,550,Anfield,C. Kavanagh
+39,Premier League,England,2023,1035130,2023-10-29T14:00:00+00:00,UTC,1698588000,Match Finished,FT,90,Regular Season - 10,51,Brighton,36,Fulham,1,1,DRAW,508,The American Express Community Stadium,M. Salisbury
+39,Premier League,England,2023,1035129,2023-10-29T14:00:00+00:00,UTC,1698588000,Match Finished,FT,90,Regular Season - 10,66,Aston Villa,1359,Luton,3,1,HOME,495,Villa Park,J. Brooks
+39,Premier League,England,2023,1035134,2023-10-29T15:30:00+00:00,UTC,1698593400,Match Finished,FT,90,Regular Season - 10,33,Manchester United,50,Manchester City,0,3,AWAY,556,Old Trafford,P. Tierney
+39,Premier League,England,2023,1035140,2023-11-04T12:30:00+00:00,UTC,1699101000,Match Finished,FT,90,Regular Season - 11,36,Fulham,33,Manchester United,0,1,AWAY,535,Craven Cottage,J. Brooks
+39,Premier League,England,2023,1035138,2023-11-04T15:00:00+00:00,UTC,1699110000,Match Finished,FT,90,Regular Season - 11,44,Burnley,52,Crystal Palace,0,2,AWAY,512,Turf Moor,P. Bankes
+39,Premier League,England,2023,1035139,2023-11-04T15:00:00+00:00,UTC,1699110000,Match Finished,FT,90,Regular Season - 11,45,Everton,51,Brighton,1,1,DRAW,8560,Goodison Park,T. Robinson
+39,Premier League,England,2023,1035142,2023-11-04T15:00:00+00:00,UTC,1699110000,Match Finished,FT,90,Regular Season - 11,50,Manchester City,35,Bournemouth,6,1,HOME,555,Etihad Stadium,C. Pawson
+39,Premier League,England,2023,1035137,2023-11-04T15:00:00+00:00,UTC,1699110000,Match Finished,FT,90,Regular Season - 11,55,Brentford,48,West Ham,3,2,HOME,10503,Gtech Community Stadium,T. Bramall
+39,Premier League,England,2023,1035145,2023-11-04T15:00:00+00:00,UTC,1699110000,Match Finished,FT,90,Regular Season - 11,62,Sheffield Utd,39,Wolves,2,1,HOME,581,Bramall Lane,R. Jones
+39,Premier League,England,2023,1035143,2023-11-04T17:30:00+00:00,UTC,1699119000,Match Finished,FT,90,Regular Season - 11,34,Newcastle,42,Arsenal,1,0,HOME,562,St. James' Park,S. Attwell
+39,Premier League,England,2023,1035144,2023-11-05T14:00:00+00:00,UTC,1699192800,Match Finished,FT,90,Regular Season - 11,65,Nottingham Forest,66,Aston Villa,2,0,HOME,566,The City Ground,J. Gillett
+39,Premier League,England,2023,1035141,2023-11-05T16:30:00+00:00,UTC,1699201800,Match Finished,FT,90,Regular Season - 11,1359,Luton,40,Liverpool,1,1,DRAW,551,Kenilworth Road,A. Madley
+39,Premier League,England,2023,1035146,2023-11-06T20:00:00+00:00,UTC,1699300800,Match Finished,FT,90,Regular Season - 11,47,Tottenham,49,Chelsea,1,4,AWAY,593,Tottenham Hotspur Stadium,M. Oliver
+39,Premier League,England,2023,1035156,2023-11-11T12:30:00+00:00,UTC,1699705800,Match Finished,FT,90,Regular Season - 12,39,Wolves,47,Tottenham,2,1,HOME,600,Molineux Stadium,T. Robinson
+39,Premier League,England,2023,1035154,2023-11-11T15:00:00+00:00,UTC,1699714800,Match Finished,FT,90,Regular Season - 12,33,Manchester United,1359,Luton,1,0,HOME,556,Old Trafford,G. Scott
+39,Premier League,England,2023,1035148,2023-11-11T15:00:00+00:00,UTC,1699714800,Match Finished,FT,90,Regular Season - 12,42,Arsenal,44,Burnley,3,1,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2023,1035152,2023-11-11T15:00:00+00:00,UTC,1699714800,Match Finished,FT,90,Regular Season - 12,52,Crystal Palace,45,Everton,2,3,AWAY,525,Selhurst Park,S. Barrott
+39,Premier League,England,2023,1035147,2023-11-11T17:30:00+00:00,UTC,1699723800,Match Finished,FT,90,Regular Season - 12,35,Bournemouth,34,Newcastle,2,0,HOME,504,Vitality Stadium,C. Kavanagh
+39,Premier League,England,2023,1035153,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,40,Liverpool,55,Brentford,3,0,HOME,550,Anfield,P. Tierney
+39,Premier League,England,2023,1035155,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,48,West Ham,65,Nottingham Forest,3,2,HOME,598,London Stadium,M. Salisbury
+39,Premier League,England,2023,1035150,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,51,Brighton,62,Sheffield Utd,1,1,DRAW,508,The American Express Community Stadium,J. Brooks
+39,Premier League,England,2023,1035149,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,66,Aston Villa,36,Fulham,3,1,HOME,495,Villa Park,S. Hooper
+39,Premier League,England,2023,1035151,2023-11-12T16:30:00+00:00,UTC,1699806600,Match Finished,FT,90,Regular Season - 12,49,Chelsea,50,Manchester City,4,4,DRAW,519,Stamford Bridge,A. Taylor
+39,Premier League,England,2023,1035299,2023-11-25T12:30:00+00:00,UTC,1700915400,Match Finished,FT,90,Regular Season - 13,50,Manchester City,40,Liverpool,1,1,DRAW,555,Etihad Stadium,C. Kavanagh
+39,Premier League,England,2023,1035300,2023-11-25T15:00:00+00:00,UTC,1700924400,Match Finished,FT,90,Regular Season - 13,34,Newcastle,49,Chelsea,4,1,HOME,562,St. James' Park,S. Hooper
+39,Premier League,England,2023,1035295,2023-11-25T15:00:00+00:00,UTC,1700924400,Match Finished,FT,90,Regular Season - 13,44,Burnley,48,West Ham,1,2,AWAY,512,Turf Moor,S. Barrott
+39,Premier League,England,2023,1035302,2023-11-25T15:00:00+00:00,UTC,1700924400,Match Finished,FT,90,Regular Season - 13,62,Sheffield Utd,35,Bournemouth,1,3,AWAY,581,Bramall Lane,A. Madley
+39,Premier League,England,2023,1035301,2023-11-25T15:00:00+00:00,UTC,1700924400,Match Finished,FT,90,Regular Season - 13,65,Nottingham Forest,51,Brighton,2,3,AWAY,566,The City Ground,A. Taylor
+39,Premier League,England,2023,1035298,2023-11-25T15:00:00+00:00,UTC,1700924400,Match Finished,FT,90,Regular Season - 13,1359,Luton,52,Crystal Palace,2,1,HOME,551,Kenilworth Road,J. Gillett
+39,Premier League,England,2023,1035294,2023-11-25T17:30:00+00:00,UTC,1700933400,Match Finished,FT,90,Regular Season - 13,55,Brentford,42,Arsenal,0,1,AWAY,10503,Gtech Community Stadium,T. Robinson
+39,Premier League,England,2023,1035303,2023-11-26T14:00:00+00:00,UTC,1701007200,Match Finished,FT,90,Regular Season - 13,47,Tottenham,66,Aston Villa,1,2,AWAY,593,Tottenham Hotspur Stadium,R. Jones
+39,Premier League,England,2023,1035296,2023-11-26T16:30:00+00:00,UTC,1701016200,Match Finished,FT,90,Regular Season - 13,45,Everton,33,Manchester United,0,3,AWAY,8560,Goodison Park,J. Brooks
+39,Premier League,England,2023,1035297,2023-11-27T20:00:00+00:00,UTC,1701115200,Match Finished,FT,90,Regular Season - 13,36,Fulham,39,Wolves,3,2,HOME,535,Craven Cottage,M. Salisbury
+39,Premier League,England,2023,1035305,2023-12-02T15:00:00+00:00,UTC,1701529200,Match Finished,FT,90,Regular Season - 14,42,Arsenal,39,Wolves,2,1,HOME,494,Emirates Stadium,P. Bankes
+39,Premier League,England,2023,1035307,2023-12-02T15:00:00+00:00,UTC,1701529200,Match Finished,FT,90,Regular Season - 14,44,Burnley,62,Sheffield Utd,5,0,HOME,512,Turf Moor,C. Kavanagh
+39,Premier League,England,2023,1035306,2023-12-02T15:00:00+00:00,UTC,1701529200,Match Finished,FT,90,Regular Season - 14,55,Brentford,1359,Luton,3,1,HOME,10503,Gtech Community Stadium,A. Taylor
+39,Premier League,England,2023,1035312,2023-12-02T17:30:00+00:00,UTC,1701538200,Match Finished,FT,90,Regular Season - 14,65,Nottingham Forest,45,Everton,0,1,AWAY,566,The City Ground,P. Tierney
+39,Premier League,England,2023,1035311,2023-12-02T20:00:00+00:00,UTC,1701547200,Match Finished,FT,90,Regular Season - 14,34,Newcastle,33,Manchester United,1,0,HOME,562,St. James' Park,R. Jones
+39,Premier League,England,2023,1035304,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,35,Bournemouth,66,Aston Villa,2,2,DRAW,504,Vitality Stadium,T. Bramall
+39,Premier League,England,2023,1035309,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,40,Liverpool,36,Fulham,4,3,HOME,550,Anfield,S. Attwell
+39,Premier League,England,2023,1035313,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,48,West Ham,52,Crystal Palace,1,1,DRAW,598,London Stadium,M. Oliver
+39,Premier League,England,2023,1035308,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,49,Chelsea,51,Brighton,3,2,HOME,519,Stamford Bridge,C. Pawson
+39,Premier League,England,2023,1035310,2023-12-03T16:30:00+00:00,UTC,1701621000,Match Finished,FT,90,Regular Season - 14,50,Manchester City,47,Tottenham,3,3,DRAW,555,Etihad Stadium,S. Hooper
+39,Premier League,England,2023,1035321,2023-12-05T19:30:00+00:00,UTC,1701804600,Match Finished,FT,90,Regular Season - 15,39,Wolves,44,Burnley,1,0,HOME,600,Molineux Stadium,J. Gillett
+39,Premier League,England,2023,1035318,2023-12-05T20:15:00+00:00,UTC,1701807300,Match Finished,FT,90,Regular Season - 15,1359,Luton,42,Arsenal,3,4,AWAY,551,Kenilworth Road,S. Barrott
+39,Premier League,England,2023,1035317,2023-12-06T19:30:00+00:00,UTC,1701891000,Match Finished,FT,90,Regular Season - 15,36,Fulham,65,Nottingham Forest,5,0,HOME,535,Craven Cottage,J. Smith
+39,Premier League,England,2023,1035315,2023-12-06T19:30:00+00:00,UTC,1701891000,Match Finished,FT,90,Regular Season - 15,51,Brighton,55,Brentford,2,1,HOME,508,The American Express Community Stadium,P. Bankes
+39,Premier League,England,2023,1035322,2023-12-06T19:30:00+00:00,UTC,1701891000,Match Finished,FT,90,Regular Season - 15,52,Crystal Palace,35,Bournemouth,0,2,AWAY,525,Selhurst Park,C. Pawson
+39,Premier League,England,2023,1035319,2023-12-06T19:30:00+00:00,UTC,1701891000,Match Finished,FT,90,Regular Season - 15,62,Sheffield Utd,40,Liverpool,0,2,AWAY,581,Bramall Lane,S. Hooper
+39,Premier League,England,2023,1035323,2023-12-06T20:15:00+00:00,UTC,1701893700,Match Finished,FT,90,Regular Season - 15,33,Manchester United,49,Chelsea,2,1,HOME,556,Old Trafford,C. Kavanagh
+39,Premier League,England,2023,1035314,2023-12-06T20:15:00+00:00,UTC,1701893700,Match Finished,FT,90,Regular Season - 15,66,Aston Villa,50,Manchester City,1,0,HOME,495,Villa Park,J. Brooks
+39,Premier League,England,2023,1035316,2023-12-07T19:30:00+00:00,UTC,1701977400,Match Finished,FT,90,Regular Season - 15,45,Everton,34,Newcastle,3,0,HOME,8560,Goodison Park,T. Robinson
+39,Premier League,England,2023,1035320,2023-12-07T20:15:00+00:00,UTC,1701980100,Match Finished,FT,90,Regular Season - 15,47,Tottenham,48,West Ham,1,2,AWAY,593,Tottenham Hotspur Stadium,M. Salisbury
+39,Premier League,England,2023,1035326,2023-12-09T12:30:00+00:00,UTC,1702125000,Match Finished,FT,90,Regular Season - 16,52,Crystal Palace,40,Liverpool,1,2,AWAY,525,Selhurst Park,A. Madley
+39,Premier League,England,2023,1035330,2023-12-09T15:00:00+00:00,UTC,1702134000,Match Finished,FT,90,Regular Season - 16,33,Manchester United,35,Bournemouth,0,3,AWAY,556,Old Trafford,P. Bankes
+39,Premier League,England,2023,1035333,2023-12-09T15:00:00+00:00,UTC,1702134000,Match Finished,FT,90,Regular Season - 16,39,Wolves,65,Nottingham Forest,1,1,DRAW,600,Molineux Stadium,S. Barrott
+39,Premier League,England,2023,1035325,2023-12-09T15:00:00+00:00,UTC,1702134000,Match Finished,FT,90,Regular Season - 16,51,Brighton,44,Burnley,1,1,DRAW,508,The American Express Community Stadium,S. Hooper
+39,Premier League,England,2023,1035331,2023-12-09T15:00:00+00:00,UTC,1702134000,Match Finished,FT,90,Regular Season - 16,62,Sheffield Utd,55,Brentford,1,0,HOME,581,Bramall Lane,S. Attwell
+39,Premier League,England,2023,1035324,2023-12-09T17:30:00+00:00,UTC,1702143000,Match Finished,FT,90,Regular Season - 16,66,Aston Villa,42,Arsenal,1,0,HOME,495,Villa Park,J. Gillett
+39,Premier League,England,2023,1035328,2023-12-10T14:00:00+00:00,UTC,1702216800,Match Finished,FT,90,Regular Season - 16,36,Fulham,48,West Ham,5,0,HOME,535,Craven Cottage,P. Tierney
+39,Premier League,England,2023,1035327,2023-12-10T14:00:00+00:00,UTC,1702216800,Match Finished,FT,90,Regular Season - 16,45,Everton,49,Chelsea,2,0,HOME,8560,Goodison Park,M. Oliver
+39,Premier League,England,2023,1035329,2023-12-10T14:00:00+00:00,UTC,1702216800,Match Finished,FT,90,Regular Season - 16,1359,Luton,50,Manchester City,1,2,AWAY,551,Kenilworth Road,T. Robinson
+39,Premier League,England,2023,1035332,2023-12-10T16:30:00+00:00,UTC,1702225800,Match Finished,FT,90,Regular Season - 16,47,Tottenham,34,Newcastle,4,1,HOME,593,Tottenham Hotspur Stadium,C. Kavanagh
+39,Premier League,England,2023,1035342,2023-12-15T20:00:00+00:00,UTC,1702670400,Match Finished,FT,90,Regular Season - 17,65,Nottingham Forest,47,Tottenham,0,2,AWAY,566,The City Ground,J. Gillett
+39,Premier League,England,2023,1035341,2023-12-16T15:00:00+00:00,UTC,1702738800,Match Finished,FT,90,Regular Season - 17,34,Newcastle,36,Fulham,3,0,HOME,562,St. James' Park,S. Barrott
+39,Premier League,England,2023,1035338,2023-12-16T15:00:00+00:00,UTC,1702738800,Match Finished,FT,90,Regular Season - 17,49,Chelsea,62,Sheffield Utd,2,0,HOME,519,Stamford Bridge,A. Madley
+39,Premier League,England,2023,1035340,2023-12-16T15:00:00+00:00,UTC,1702738800,Match Finished,FT,90,Regular Season - 17,50,Manchester City,52,Crystal Palace,2,2,DRAW,555,Etihad Stadium,P. Tierney
+39,Premier League,England,2023,1035337,2023-12-16T17:30:00+00:00,UTC,1702747800,Match Finished,FT,90,Regular Season - 17,44,Burnley,45,Everton,0,2,AWAY,512,Turf Moor,A. Taylor
+39,Premier League,England,2023,1035335,2023-12-17T14:00:00+00:00,UTC,1702821600,Match Finished,FT,90,Regular Season - 17,42,Arsenal,51,Brighton,2,0,HOME,494,Emirates Stadium,T. Robinson
+39,Premier League,England,2023,1035343,2023-12-17T14:00:00+00:00,UTC,1702821600,Match Finished,FT,90,Regular Season - 17,48,West Ham,39,Wolves,3,0,HOME,598,London Stadium,C. Kavanagh
+39,Premier League,England,2023,1035336,2023-12-17T14:00:00+00:00,UTC,1702821600,Match Finished,FT,90,Regular Season - 17,55,Brentford,66,Aston Villa,1,2,AWAY,10503,Gtech Community Stadium,D. Coote
+39,Premier League,England,2023,1035339,2023-12-17T16:30:00+00:00,UTC,1702830600,Match Finished,FT,90,Regular Season - 17,40,Liverpool,33,Manchester United,0,0,DRAW,550,Anfield,M. Oliver
+39,Premier League,England,2023,1035345,2023-12-21T20:00:00+00:00,UTC,1703188800,Match Finished,FT,90,Regular Season - 18,52,Crystal Palace,51,Brighton,1,1,DRAW,525,Selhurst Park,J. Brooks
+39,Premier League,England,2023,1035344,2023-12-22T20:00:00+00:00,UTC,1703275200,Match Finished,FT,90,Regular Season - 18,66,Aston Villa,62,Sheffield Utd,1,1,DRAW,495,Villa Park,A. Taylor
+39,Premier League,England,2023,1035352,2023-12-23T12:30:00+00:00,UTC,1703334600,Match Finished,FT,90,Regular Season - 18,48,West Ham,33,Manchester United,2,0,HOME,598,London Stadium,S. Hooper
+39,Premier League,England,2023,1035346,2023-12-23T15:00:00+00:00,UTC,1703343600,Match Finished,FT,90,Regular Season - 18,36,Fulham,44,Burnley,0,2,AWAY,535,Craven Cottage,R. Welch
+39,Premier League,England,2023,1035351,2023-12-23T15:00:00+00:00,UTC,1703343600,Match Finished,FT,90,Regular Season - 18,47,Tottenham,45,Everton,2,1,HOME,593,Tottenham Hotspur Stadium,S. Attwell
+39,Premier League,England,2023,1035350,2023-12-23T15:00:00+00:00,UTC,1703343600,Match Finished,FT,90,Regular Season - 18,65,Nottingham Forest,35,Bournemouth,2,3,AWAY,566,The City Ground,R. Jones
+39,Premier League,England,2023,1035348,2023-12-23T15:00:00+00:00,UTC,1703343600,Match Finished,FT,90,Regular Season - 18,1359,Luton,34,Newcastle,1,0,HOME,551,Kenilworth Road,D. England
+39,Premier League,England,2023,1035347,2023-12-23T17:30:00+00:00,UTC,1703352600,Match Finished,FT,90,Regular Season - 18,40,Liverpool,42,Arsenal,1,1,DRAW,550,Anfield,C. Kavanagh
+39,Premier League,England,2023,1035353,2023-12-24T13:00:00+00:00,UTC,1703422800,Match Finished,FT,90,Regular Season - 18,39,Wolves,49,Chelsea,2,1,HOME,600,Molineux Stadium,D. Coote
+39,Premier League,England,2023,1035362,2023-12-26T12:30:00+00:00,UTC,1703593800,Match Finished,FT,90,Regular Season - 19,34,Newcastle,65,Nottingham Forest,1,3,AWAY,562,St. James' Park,C. Kavanagh
+39,Premier League,England,2023,1035354,2023-12-26T15:00:00+00:00,UTC,1703602800,Match Finished,FT,90,Regular Season - 19,35,Bournemouth,36,Fulham,3,0,HOME,504,Vitality Stadium,T. Robinson
+39,Premier League,England,2023,1035363,2023-12-26T15:00:00+00:00,UTC,1703602800,Match Finished,FT,90,Regular Season - 19,62,Sheffield Utd,1359,Luton,2,3,AWAY,581,Bramall Lane,S. Allison
+39,Premier League,England,2023,1035358,2023-12-26T17:30:00+00:00,UTC,1703611800,Match Finished,FT,90,Regular Season - 19,44,Burnley,40,Liverpool,0,2,AWAY,512,Turf Moor,P. Tierney
+39,Premier League,England,2023,1035361,2023-12-26T20:00:00+00:00,UTC,1703620800,Match Finished,FT,90,Regular Season - 19,33,Manchester United,66,Aston Villa,3,2,HOME,556,Old Trafford,C. Pawson
+39,Premier League,England,2023,1035359,2023-12-27T19:30:00+00:00,UTC,1703705400,Match Finished,FT,90,Regular Season - 19,49,Chelsea,52,Crystal Palace,2,1,HOME,519,Stamford Bridge,M. Salisbury
+39,Premier League,England,2023,1035356,2023-12-27T19:30:00+00:00,UTC,1703705400,Match Finished,FT,90,Regular Season - 19,55,Brentford,39,Wolves,1,4,AWAY,10503,Gtech Community Stadium,A. Madley
+39,Premier League,England,2023,1035360,2023-12-27T20:15:00+00:00,UTC,1703708100,Match Finished,FT,90,Regular Season - 19,45,Everton,50,Manchester City,1,3,AWAY,8560,Goodison Park,J. Brooks
+39,Premier League,England,2023,1035357,2023-12-28T19:30:00+00:00,UTC,1703791800,Match Finished,FT,90,Regular Season - 19,51,Brighton,47,Tottenham,4,2,HOME,508,American Express Stadium,J. Gillett
+39,Premier League,England,2023,1035355,2023-12-28T20:15:00+00:00,UTC,1703794500,Match Finished,FT,90,Regular Season - 19,42,Arsenal,48,West Ham,0,2,AWAY,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2023,1035368,2023-12-30T12:30:00+00:00,UTC,1703939400,Match Finished,FT,90,Regular Season - 20,1359,Luton,49,Chelsea,2,3,AWAY,551,Kenilworth Road,P. Tierney
+39,Premier League,England,2023,1035373,2023-12-30T15:00:00+00:00,UTC,1703948400,Match Finished,FT,90,Regular Season - 20,39,Wolves,45,Everton,3,0,HOME,600,Molineux Stadium,T. Bramall
+39,Premier League,England,2023,1035369,2023-12-30T15:00:00+00:00,UTC,1703948400,Match Finished,FT,90,Regular Season - 20,50,Manchester City,62,Sheffield Utd,2,0,HOME,555,Etihad Stadium,D. Coote
+39,Premier League,England,2023,1035365,2023-12-30T15:00:00+00:00,UTC,1703948400,Match Finished,FT,90,Regular Season - 20,52,Crystal Palace,55,Brentford,3,1,HOME,525,Selhurst Park,R. Jones
+39,Premier League,England,2023,1035364,2023-12-30T15:00:00+00:00,UTC,1703948400,Match Finished,FT,90,Regular Season - 20,66,Aston Villa,44,Burnley,3,2,HOME,495,Villa Park,S. Attwell
+39,Premier League,England,2023,1035370,2023-12-30T17:30:00+00:00,UTC,1703957400,Match Finished,FT,90,Regular Season - 20,65,Nottingham Forest,33,Manchester United,2,1,HOME,566,The City Ground,T. Robinson
+39,Premier League,England,2023,1035366,2023-12-31T14:00:00+00:00,UTC,1704031200,Match Finished,FT,90,Regular Season - 20,36,Fulham,42,Arsenal,2,1,HOME,535,Craven Cottage,J. Smith
+39,Premier League,England,2023,1035371,2023-12-31T14:00:00+00:00,UTC,1704031200,Match Finished,FT,90,Regular Season - 20,47,Tottenham,35,Bournemouth,3,1,HOME,593,Tottenham Hotspur Stadium,S. Hooper
+39,Premier League,England,2023,1035367,2024-01-01T20:00:00+00:00,UTC,1704139200,Match Finished,FT,90,Regular Season - 20,40,Liverpool,34,Newcastle,4,2,HOME,550,Anfield,A. Taylor
+39,Premier League,England,2023,1035372,2024-01-02T19:30:00+00:00,UTC,1704223800,Match Finished,FT,90,Regular Season - 20,48,West Ham,51,Brighton,0,0,DRAW,598,London Stadium,S. Barrott
+39,Premier League,England,2023,1035378,2024-01-12T19:45:00+00:00,UTC,1705088700,Match Finished,FT,90,Regular Season - 21,44,Burnley,1359,Luton,1,1,DRAW,512,Turf Moor,T. Harrington
+39,Premier League,England,2023,1035379,2024-01-13T12:30:00+00:00,UTC,1705149000,Match Finished,FT,90,Regular Season - 21,49,Chelsea,36,Fulham,1,0,HOME,519,Stamford Bridge,A. Taylor
+39,Premier League,England,2023,1035382,2024-01-13T17:30:00+00:00,UTC,1705167000,Match Finished,FT,90,Regular Season - 21,34,Newcastle,50,Manchester City,2,3,AWAY,562,St. James' Park,C. Kavanagh
+39,Premier League,England,2023,1035380,2024-01-14T14:00:00+00:00,UTC,1705240800,Match Finished,FT,90,Regular Season - 21,45,Everton,66,Aston Villa,0,0,DRAW,8560,Goodison Park,D. Coote
+39,Premier League,England,2023,1035381,2024-01-14T16:30:00+00:00,UTC,1705249800,Match Finished,FT,90,Regular Season - 21,33,Manchester United,47,Tottenham,2,2,DRAW,556,Old Trafford,J. Brooks
+39,Premier League,England,2023,1035375,2024-01-20T12:30:00+00:00,UTC,1705753800,Match Finished,FT,90,Regular Season - 21,42,Arsenal,52,Crystal Palace,5,0,HOME,494,Emirates Stadium,P. Tierney
+39,Premier League,England,2023,1035376,2024-01-20T17:30:00+00:00,UTC,1705771800,Match Finished,FT,90,Regular Season - 21,55,Brentford,65,Nottingham Forest,3,2,HOME,10503,Gtech Community Stadium,D. England
+39,Premier League,England,2023,1035383,2024-01-21T14:00:00+00:00,UTC,1705845600,Match Finished,FT,90,Regular Season - 21,62,Sheffield Utd,48,West Ham,2,2,DRAW,581,Bramall Lane,M. Salisbury
+39,Premier League,England,2023,1035374,2024-01-21T16:30:00+00:00,UTC,1705854600,Match Finished,FT,90,Regular Season - 21,35,Bournemouth,40,Liverpool,0,4,AWAY,504,Vitality Stadium,A. Madley
+39,Premier League,England,2023,1035377,2024-01-22T19:45:00+00:00,UTC,1705952700,Match Finished,FT,90,Regular Season - 21,51,Brighton,39,Wolves,0,0,DRAW,508,American Express Stadium,C. Pawson
+39,Premier League,England,2023,1035387,2024-01-30T19:30:00+00:00,UTC,1706643000,Match Finished,FT,90,Regular Season - 22,65,Nottingham Forest,42,Arsenal,1,2,AWAY,566,The City Ground,S. Hooper
+39,Premier League,England,2023,1035385,2024-01-30T19:45:00+00:00,UTC,1706643900,Match Finished,FT,90,Regular Season - 22,36,Fulham,45,Everton,0,0,DRAW,535,Craven Cottage,T. Bramall
+39,Premier League,England,2023,1035386,2024-01-30T19:45:00+00:00,UTC,1706643900,Match Finished,FT,90,Regular Season - 22,1359,Luton,51,Brighton,4,0,HOME,551,Kenilworth Road,R. Jones
+39,Premier League,England,2023,1035391,2024-01-30T20:00:00+00:00,UTC,1706644800,Match Finished,FT,90,Regular Season - 22,52,Crystal Palace,62,Sheffield Utd,3,2,HOME,525,Selhurst Park,T. Harrington
+39,Premier League,England,2023,1035384,2024-01-30T20:15:00+00:00,UTC,1706645700,Match Finished,FT,90,Regular Season - 22,66,Aston Villa,34,Newcastle,1,3,AWAY,495,Villa Park,J. Brooks
+39,Premier League,England,2023,1035388,2024-01-31T19:30:00+00:00,UTC,1706729400,Match Finished,FT,90,Regular Season - 22,47,Tottenham,55,Brentford,3,2,HOME,593,Tottenham Hotspur Stadium,D. Coote
+39,Premier League,England,2023,1035393,2024-01-31T19:30:00+00:00,UTC,1706729400,Match Finished,FT,90,Regular Season - 22,50,Manchester City,44,Burnley,3,1,HOME,555,Etihad Stadium,S. Barrott
+39,Premier League,England,2023,1035392,2024-01-31T20:15:00+00:00,UTC,1706732100,Match Finished,FT,90,Regular Season - 22,40,Liverpool,49,Chelsea,4,1,HOME,550,Anfield,P. Tierney
+39,Premier League,England,2023,1035389,2024-02-01T19:30:00+00:00,UTC,1706815800,Match Finished,FT,90,Regular Season - 22,48,West Ham,35,Bournemouth,1,1,DRAW,598,London Stadium,T. Robinson
+39,Premier League,England,2023,1035390,2024-02-01T20:15:00+00:00,UTC,1706818500,Match Finished,FT,90,Regular Season - 22,39,Wolves,33,Manchester United,3,4,AWAY,600,Molineux Stadium,J. Gillett
+39,Premier League,England,2023,1035400,2024-02-03T12:30:00+00:00,UTC,1706963400,Match Finished,FT,90,Regular Season - 23,45,Everton,47,Tottenham,2,2,DRAW,8560,Goodison Park,M. Oliver
+39,Premier League,England,2023,1035402,2024-02-03T15:00:00+00:00,UTC,1706972400,Match Finished,FT,90,Regular Season - 23,34,Newcastle,1359,Luton,4,4,DRAW,562,St. James' Park,T. Bramall
+39,Premier League,England,2023,1035398,2024-02-03T15:00:00+00:00,UTC,1706972400,Match Finished,FT,90,Regular Season - 23,44,Burnley,36,Fulham,2,2,DRAW,512,Turf Moor,D. Bond
+39,Premier League,England,2023,1035397,2024-02-03T15:00:00+00:00,UTC,1706972400,Match Finished,FT,90,Regular Season - 23,51,Brighton,52,Crystal Palace,4,1,HOME,508,American Express Stadium,S. Hooper
+39,Premier League,England,2023,1035403,2024-02-03T17:30:00+00:00,UTC,1706981400,Match Finished,FT,90,Regular Season - 23,62,Sheffield Utd,66,Aston Villa,0,5,AWAY,581,Bramall Lane,P. Tierney
+39,Premier League,England,2023,1035401,2024-02-04T14:00:00+00:00,UTC,1707055200,Match Finished,FT,90,Regular Season - 23,33,Manchester United,48,West Ham,3,0,HOME,556,Old Trafford,A. Madley
+39,Premier League,England,2023,1035394,2024-02-04T14:00:00+00:00,UTC,1707055200,Match Finished,FT,90,Regular Season - 23,35,Bournemouth,65,Nottingham Forest,1,1,DRAW,504,Vitality Stadium,R. Welch
+39,Premier League,England,2023,1035399,2024-02-04T14:00:00+00:00,UTC,1707055200,Match Finished,FT,90,Regular Season - 23,49,Chelsea,39,Wolves,2,4,AWAY,519,Stamford Bridge,T. Robinson
+39,Premier League,England,2023,1035395,2024-02-04T16:30:00+00:00,UTC,1707064200,Match Finished,FT,90,Regular Season - 23,42,Arsenal,40,Liverpool,3,1,HOME,494,Emirates Stadium,A. Taylor
+39,Premier League,England,2023,1035396,2024-02-05T20:00:00+00:00,UTC,1707163200,Match Finished,FT,90,Regular Season - 23,55,Brentford,50,Manchester City,1,3,AWAY,10503,Gtech Community Stadium,J. Gillett
+39,Premier League,England,2023,1035409,2024-02-10T12:30:00+00:00,UTC,1707568200,Match Finished,FT,90,Regular Season - 24,50,Manchester City,45,Everton,2,0,HOME,555,Etihad Stadium,J. Brooks
+39,Premier League,England,2023,1035406,2024-02-10T15:00:00+00:00,UTC,1707577200,Match Finished,FT,90,Regular Season - 24,36,Fulham,35,Bournemouth,3,1,HOME,535,Craven Cottage,D. England
+39,Premier League,England,2023,1035413,2024-02-10T15:00:00+00:00,UTC,1707577200,Match Finished,FT,90,Regular Season - 24,39,Wolves,55,Brentford,0,2,AWAY,600,Molineux Stadium,S. Hooper
+39,Premier League,England,2023,1035407,2024-02-10T15:00:00+00:00,UTC,1707577200,Match Finished,FT,90,Regular Season - 24,40,Liverpool,44,Burnley,3,1,HOME,550,Anfield,T. Robinson
+39,Premier League,England,2023,1035411,2024-02-10T15:00:00+00:00,UTC,1707577200,Match Finished,FT,90,Regular Season - 24,47,Tottenham,51,Brighton,2,1,HOME,593,Tottenham Hotspur Stadium,S. Barrott
+39,Premier League,England,2023,1035408,2024-02-10T15:00:00+00:00,UTC,1707577200,Match Finished,FT,90,Regular Season - 24,1359,Luton,62,Sheffield Utd,1,3,AWAY,551,Kenilworth Road,C. Kavanagh
+39,Premier League,England,2023,1035410,2024-02-10T17:30:00+00:00,UTC,1707586200,Match Finished,FT,90,Regular Season - 24,65,Nottingham Forest,34,Newcastle,2,3,AWAY,566,The City Ground,A. Taylor
+39,Premier League,England,2023,1035412,2024-02-11T14:00:00+00:00,UTC,1707660000,Match Finished,FT,90,Regular Season - 24,48,West Ham,42,Arsenal,0,6,AWAY,598,London Stadium,C. Pawson
+39,Premier League,England,2023,1035404,2024-02-11T16:30:00+00:00,UTC,1707669000,Match Finished,FT,90,Regular Season - 24,66,Aston Villa,33,Manchester United,1,2,AWAY,495,Villa Park,R. Jones
+39,Premier League,England,2023,1035405,2024-02-12T20:00:00+00:00,UTC,1707768000,Match Finished,FT,90,Regular Season - 24,52,Crystal Palace,49,Chelsea,1,3,AWAY,525,Selhurst Park,M. Oliver
+39,Premier League,England,2023,1035414,2024-02-17T12:30:00+00:00,UTC,1708173000,Match Finished,FT,90,Regular Season - 25,55,Brentford,40,Liverpool,1,4,AWAY,10503,Gtech Community Stadium,M. Oliver
+39,Premier League,England,2023,1035420,2024-02-17T15:00:00+00:00,UTC,1708182000,Match Finished,FT,90,Regular Season - 25,34,Newcastle,35,Bournemouth,2,2,DRAW,562,St. James' Park,M. Salisbury
+39,Premier League,England,2023,1035417,2024-02-17T15:00:00+00:00,UTC,1708182000,Match Finished,FT,90,Regular Season - 25,36,Fulham,66,Aston Villa,1,2,AWAY,535,Craven Cottage,L. Smith
+39,Premier League,England,2023,1035415,2024-02-17T15:00:00+00:00,UTC,1708182000,Match Finished,FT,90,Regular Season - 25,44,Burnley,42,Arsenal,0,5,AWAY,512,Turf Moor,J. Gillett
+39,Premier League,England,2023,1035423,2024-02-17T15:00:00+00:00,UTC,1708182000,Match Finished,FT,90,Regular Season - 25,47,Tottenham,39,Wolves,1,2,AWAY,593,Tottenham Hotspur Stadium,A. Taylor
+39,Premier League,England,2023,1035421,2024-02-17T15:00:00+00:00,UTC,1708182000,Match Finished,FT,90,Regular Season - 25,65,Nottingham Forest,48,West Ham,2,0,HOME,566,The City Ground,T. Bramall
+39,Premier League,England,2023,1035419,2024-02-17T17:30:00+00:00,UTC,1708191000,Match Finished,FT,90,Regular Season - 25,50,Manchester City,49,Chelsea,1,1,DRAW,555,Etihad Stadium,A. Madley
+39,Premier League,England,2023,1035422,2024-02-18T14:00:00+00:00,UTC,1708264800,Match Finished,FT,90,Regular Season - 25,62,Sheffield Utd,51,Brighton,0,5,AWAY,581,Bramall Lane,S. Attwell
+39,Premier League,England,2023,1035418,2024-02-18T16:30:00+00:00,UTC,1708273800,Match Finished,FT,90,Regular Season - 25,1359,Luton,33,Manchester United,1,2,AWAY,551,Kenilworth Road,D. Coote
+39,Premier League,England,2023,1035416,2024-02-19T20:00:00+00:00,UTC,1708372800,Match Finished,FT,90,Regular Season - 25,45,Everton,52,Crystal Palace,1,1,DRAW,8560,Goodison Park,P. Tierney
+39,Premier League,England,2023,1035349,2024-02-20T19:30:00+00:00,UTC,1708457400,Match Finished,FT,90,Regular Season - 18,50,Manchester City,55,Brentford,1,0,HOME,555,Etihad Stadium,D. England
+39,Premier League,England,2023,1035430,2024-02-21T19:30:00+00:00,UTC,1708543800,Match Finished,FT,90,Regular Season - 26,40,Liverpool,1359,Luton,4,1,HOME,550,Anfield,A. Madley
+39,Premier League,England,2023,1035431,2024-02-24T15:00:00+00:00,UTC,1708786800,Match Finished,FT,90,Regular Season - 26,33,Manchester United,36,Fulham,1,2,AWAY,556,Old Trafford,M. Oliver
+39,Premier League,England,2023,1035427,2024-02-24T15:00:00+00:00,UTC,1708786800,Match Finished,FT,90,Regular Season - 26,51,Brighton,45,Everton,1,1,DRAW,508,American Express Stadium,T. Harrington
+39,Premier League,England,2023,1035429,2024-02-24T15:00:00+00:00,UTC,1708786800,Match Finished,FT,90,Regular Season - 26,52,Crystal Palace,44,Burnley,3,0,HOME,525,Selhurst Park,L. Smith
+39,Premier League,England,2023,1035426,2024-02-24T15:00:00+00:00,UTC,1708786800,Match Finished,FT,90,Regular Season - 26,66,Aston Villa,65,Nottingham Forest,4,2,HOME,495,Villa Park,S. Barrott
+39,Premier League,England,2023,1035424,2024-02-24T17:30:00+00:00,UTC,1708795800,Match Finished,FT,90,Regular Season - 26,35,Bournemouth,50,Manchester City,0,1,AWAY,504,Vitality Stadium,J. Gillett
+39,Premier League,England,2023,1035425,2024-02-24T20:00:00+00:00,UTC,1708804800,Match Finished,FT,90,Regular Season - 26,42,Arsenal,34,Newcastle,4,1,HOME,494,Emirates Stadium,P. Tierney
+39,Premier League,England,2023,1035433,2024-02-25T13:30:00+00:00,UTC,1708867800,Match Finished,FT,90,Regular Season - 26,39,Wolves,62,Sheffield Utd,1,0,HOME,600,Molineux Stadium,D. Bond
+39,Premier League,England,2023,1035432,2024-02-26T20:00:00+00:00,UTC,1708977600,Match Finished,FT,90,Regular Season - 26,48,West Ham,55,Brentford,4,2,HOME,598,London Stadium,S. Hooper
+39,Premier League,England,2023,1035440,2024-03-02T15:00:00+00:00,UTC,1709391600,Match Finished,FT,90,Regular Season - 27,34,Newcastle,39,Wolves,3,0,HOME,562,St. James' Park,T. Robinson
+39,Premier League,England,2023,1035437,2024-03-02T15:00:00+00:00,UTC,1709391600,Match Finished,FT,90,Regular Season - 27,36,Fulham,51,Brighton,3,0,HOME,535,Craven Cottage,S. Hooper
+39,Premier League,England,2023,1035436,2024-03-02T15:00:00+00:00,UTC,1709391600,Match Finished,FT,90,Regular Season - 27,45,Everton,48,West Ham,1,3,AWAY,8560,Goodison Park,C. Pawson
+39,Premier League,England,2023,1035443,2024-03-02T15:00:00+00:00,UTC,1709391600,Match Finished,FT,90,Regular Season - 27,47,Tottenham,52,Crystal Palace,3,1,HOME,593,Tottenham Hotspur Stadium,J. Brooks
+39,Premier League,England,2023,1035434,2024-03-02T15:00:00+00:00,UTC,1709391600,Match Finished,FT,90,Regular Season - 27,55,Brentford,49,Chelsea,2,2,DRAW,10503,Gtech Community Stadium,J. Gillett
+39,Premier League,England,2023,1035441,2024-03-02T15:00:00+00:00,UTC,1709391600,Match Finished,FT,90,Regular Season - 27,65,Nottingham Forest,40,Liverpool,0,1,AWAY,566,The City Ground,P. Tierney
+39,Premier League,England,2023,1035438,2024-03-02T17:30:00+00:00,UTC,1709400600,Match Finished,FT,90,Regular Season - 27,1359,Luton,66,Aston Villa,2,3,AWAY,551,Kenilworth Road,M. Oliver
+39,Premier League,England,2023,1035435,2024-03-03T13:00:00+00:00,UTC,1709470800,Match Finished,FT,90,Regular Season - 27,44,Burnley,35,Bournemouth,0,2,AWAY,512,Turf Moor,D. Coote
+39,Premier League,England,2023,1035439,2024-03-03T15:30:00+00:00,UTC,1709479800,Match Finished,FT,90,Regular Season - 27,50,Manchester City,33,Manchester United,3,1,HOME,555,Etihad Stadium,A. Madley
+39,Premier League,England,2023,1035442,2024-03-04T20:00:00+00:00,UTC,1709582400,Match Finished,FT,90,Regular Season - 27,62,Sheffield Utd,42,Arsenal,0,6,AWAY,581,Bramall Lane,S. Barrott
+39,Premier League,England,2023,1035451,2024-03-09T12:30:00+00:00,UTC,1709987400,Match Finished,FT,90,Regular Season - 28,33,Manchester United,45,Everton,2,0,HOME,556,Old Trafford,S. Hooper
+39,Premier League,England,2023,1035444,2024-03-09T15:00:00+00:00,UTC,1709996400,Match Finished,FT,90,Regular Season - 28,35,Bournemouth,62,Sheffield Utd,2,2,DRAW,504,Vitality Stadium,A. Taylor
+39,Premier League,England,2023,1035453,2024-03-09T15:00:00+00:00,UTC,1709996400,Match Finished,FT,90,Regular Season - 28,39,Wolves,36,Fulham,2,1,HOME,600,Molineux Stadium,T. Harrington
+39,Premier League,England,2023,1035449,2024-03-09T15:00:00+00:00,UTC,1709996400,Match Finished,FT,90,Regular Season - 28,52,Crystal Palace,1359,Luton,1,1,DRAW,525,Selhurst Park,S. Singh
+39,Premier League,England,2023,1035445,2024-03-09T17:30:00+00:00,UTC,1710005400,Match Finished,FT,90,Regular Season - 28,42,Arsenal,55,Brentford,2,1,HOME,494,Emirates Stadium,R. Jones
+39,Premier League,England,2023,1035446,2024-03-10T13:00:00+00:00,UTC,1710075600,Match Finished,FT,90,Regular Season - 28,66,Aston Villa,47,Tottenham,0,4,AWAY,495,Villa Park,C. Kavanagh
+39,Premier League,England,2023,1035452,2024-03-10T14:00:00+00:00,UTC,1710079200,Match Finished,FT,90,Regular Season - 28,48,West Ham,44,Burnley,2,2,DRAW,598,London Stadium,D. England
+39,Premier League,England,2023,1035447,2024-03-10T14:00:00+00:00,UTC,1710079200,Match Finished,FT,90,Regular Season - 28,51,Brighton,65,Nottingham Forest,1,0,HOME,508,American Express Stadium,M. Salisbury
+39,Premier League,England,2023,1035450,2024-03-10T15:45:00+00:00,UTC,1710085500,Match Finished,FT,90,Regular Season - 28,40,Liverpool,50,Manchester City,1,1,DRAW,550,Anfield,M. Oliver
+39,Premier League,England,2023,1035448,2024-03-11T20:00:00+00:00,UTC,1710187200,Match Finished,FT,90,Regular Season - 28,49,Chelsea,34,Newcastle,3,2,HOME,519,Stamford Bridge,J. Brooks
+39,Premier League,England,2023,1035334,2024-03-13T19:30:00+00:00,UTC,1710358200,Match Finished,FT,90,Regular Season - 17,35,Bournemouth,1359,Luton,4,3,HOME,504,Vitality Stadium,S. Allison
+39,Premier League,England,2023,1035456,2024-03-16T15:00:00+00:00,UTC,1710601200,Match Finished,FT,90,Regular Season - 29,44,Burnley,55,Brentford,2,1,HOME,512,Turf Moor,D. Bond
+39,Premier League,England,2023,1035460,2024-03-16T15:00:00+00:00,UTC,1710601200,Match Finished,FT,90,Regular Season - 29,1359,Luton,65,Nottingham Forest,1,1,DRAW,551,Kenilworth Road,D. England
+39,Premier League,England,2023,1035459,2024-03-16T17:30:00+00:00,UTC,1710610200,Match Finished,FT,90,Regular Season - 29,36,Fulham,47,Tottenham,3,0,HOME,535,Craven Cottage,R. Jones
+39,Premier League,England,2023,1035462,2024-03-17T14:00:00+00:00,UTC,1710684000,Match Finished,FT,90,Regular Season - 29,48,West Ham,66,Aston Villa,1,1,DRAW,598,London Stadium,J. Gillett
+39,Premier League,England,2023,1035470,2024-03-30T12:30:00+00:00,UTC,1711801800,Match Finished,FT,90,Regular Season - 30,34,Newcastle,48,West Ham,4,3,HOME,562,St. James' Park,R. Jones
+39,Premier League,England,2023,1035464,2024-03-30T15:00:00+00:00,UTC,1711810800,Match Finished,FT,90,Regular Season - 30,35,Bournemouth,45,Everton,2,1,HOME,504,Vitality Stadium,S. Barrott
+39,Premier League,England,2023,1035473,2024-03-30T15:00:00+00:00,UTC,1711810800,Match Finished,FT,90,Regular Season - 30,47,Tottenham,1359,Luton,2,1,HOME,593,Tottenham Hotspur Stadium,J. Gillett
+39,Premier League,England,2023,1035467,2024-03-30T15:00:00+00:00,UTC,1711810800,Match Finished,FT,90,Regular Season - 30,49,Chelsea,44,Burnley,2,2,DRAW,519,Stamford Bridge,D. England
+39,Premier League,England,2023,1035472,2024-03-30T15:00:00+00:00,UTC,1711810800,Match Finished,FT,90,Regular Season - 30,62,Sheffield Utd,36,Fulham,3,3,DRAW,581,Bramall Lane,T. Robinson
+39,Premier League,England,2023,1035471,2024-03-30T15:00:00+00:00,UTC,1711810800,Match Finished,FT,90,Regular Season - 30,65,Nottingham Forest,52,Crystal Palace,1,1,DRAW,566,The City Ground,C. Kavanagh
+39,Premier League,England,2023,1035465,2024-03-30T17:30:00+00:00,UTC,1711819800,Match Finished,FT,90,Regular Season - 30,66,Aston Villa,39,Wolves,2,0,HOME,495,Villa Park,P. Tierney
+39,Premier League,England,2023,1035466,2024-03-30T20:00:00+00:00,UTC,1711828800,Match Finished,FT,90,Regular Season - 30,55,Brentford,33,Manchester United,1,1,DRAW,10503,Gtech Community Stadium,S. Hooper
+39,Premier League,England,2023,1035468,2024-03-31T13:00:00+00:00,UTC,1711890000,Match Finished,FT,90,Regular Season - 30,40,Liverpool,51,Brighton,2,1,HOME,550,Anfield,D. Coote
+39,Premier League,England,2023,1035469,2024-03-31T15:30:00+00:00,UTC,1711899000,Match Finished,FT,90,Regular Season - 30,50,Manchester City,42,Arsenal,0,0,DRAW,555,Etihad Stadium,A. Taylor
+39,Premier League,England,2023,1035481,2024-04-02T18:30:00+00:00,UTC,1712082600,Match Finished,FT,90,Regular Season - 31,34,Newcastle,45,Everton,1,1,DRAW,562,St. James' Park,T. Harrington
+39,Premier League,England,2023,1035478,2024-04-02T18:30:00+00:00,UTC,1712082600,Match Finished,FT,90,Regular Season - 31,65,Nottingham Forest,36,Fulham,3,1,HOME,566,The City Ground,M. Oliver
+39,Premier League,England,2023,1035474,2024-04-02T18:45:00+00:00,UTC,1712083500,Match Finished,FT,90,Regular Season - 31,35,Bournemouth,52,Crystal Palace,1,0,HOME,504,Vitality Stadium,G. Scott
+39,Premier League,England,2023,1035477,2024-04-02T18:45:00+00:00,UTC,1712083500,Match Finished,FT,90,Regular Season - 31,44,Burnley,39,Wolves,1,1,DRAW,512,Turf Moor,T. Bramall
+39,Premier League,England,2023,1035479,2024-04-02T19:15:00+00:00,UTC,1712085300,Match Finished,FT,90,Regular Season - 31,48,West Ham,47,Tottenham,1,1,DRAW,598,London Stadium,J. Brooks
+39,Premier League,England,2023,1035475,2024-04-03T18:30:00+00:00,UTC,1712169000,Match Finished,FT,90,Regular Season - 31,42,Arsenal,1359,Luton,2,0,HOME,494,Emirates Stadium,C. Pawson
+39,Premier League,England,2023,1035476,2024-04-03T18:30:00+00:00,UTC,1712169000,Match Finished,FT,90,Regular Season - 31,55,Brentford,51,Brighton,0,0,DRAW,10503,Gtech Community Stadium,A. Madley
+39,Premier League,England,2023,1035483,2024-04-03T19:15:00+00:00,UTC,1712171700,Match Finished,FT,90,Regular Season - 31,50,Manchester City,66,Aston Villa,4,1,HOME,555,Etihad Stadium,D. England
+39,Premier League,England,2023,1035482,2024-04-04T18:30:00+00:00,UTC,1712255400,Match Finished,FT,90,Regular Season - 31,40,Liverpool,62,Sheffield Utd,3,1,HOME,550,Anfield,S. Attwell
+39,Premier League,England,2023,1035480,2024-04-04T19:15:00+00:00,UTC,1712258100,Match Finished,FT,90,Regular Season - 31,49,Chelsea,33,Manchester United,4,3,HOME,519,Stamford Bridge,J. Gillett
+39,Premier League,England,2023,1035486,2024-04-06T11:30:00+00:00,UTC,1712403000,Match Finished,FT,90,Regular Season - 32,52,Crystal Palace,50,Manchester City,2,4,AWAY,525,Selhurst Park,P. Tierney
+39,Premier League,England,2023,1035488,2024-04-06T14:00:00+00:00,UTC,1712412000,Match Finished,FT,90,Regular Season - 32,36,Fulham,34,Newcastle,0,1,AWAY,535,Craven Cottage,S. Allison
+39,Premier League,England,2023,1035493,2024-04-06T14:00:00+00:00,UTC,1712412000,Match Finished,FT,90,Regular Season - 32,39,Wolves,48,West Ham,1,2,AWAY,600,Molineux Stadium,T. Harrington
+39,Premier League,England,2023,1035487,2024-04-06T14:00:00+00:00,UTC,1712412000,Match Finished,FT,90,Regular Season - 32,45,Everton,44,Burnley,1,0,HOME,8560,Goodison Park,M. Oliver
+39,Premier League,England,2023,1035484,2024-04-06T14:00:00+00:00,UTC,1712412000,Match Finished,FT,90,Regular Season - 32,66,Aston Villa,55,Brentford,3,3,DRAW,495,Villa Park,M. Salisbury
+39,Premier League,England,2023,1035489,2024-04-06T14:00:00+00:00,UTC,1712412000,Match Finished,FT,90,Regular Season - 32,1359,Luton,35,Bournemouth,2,1,HOME,551,Kenilworth Road,A. Madley
+39,Premier League,England,2023,1035485,2024-04-06T16:30:00+00:00,UTC,1712421000,Match Finished,FT,90,Regular Season - 32,51,Brighton,42,Arsenal,0,3,AWAY,508,American Express Stadium,J. Brooks
+39,Premier League,England,2023,1035490,2024-04-07T14:30:00+00:00,UTC,1712500200,Match Finished,FT,90,Regular Season - 32,33,Manchester United,40,Liverpool,2,2,DRAW,556,Old Trafford,A. Taylor
+39,Premier League,England,2023,1035491,2024-04-07T16:30:00+00:00,UTC,1712507400,Match Finished,FT,90,Regular Season - 32,62,Sheffield Utd,49,Chelsea,2,2,DRAW,581,Bramall Lane,R. Jones
+39,Premier League,England,2023,1035492,2024-04-07T17:00:00+00:00,UTC,1712509200,Match Finished,FT,90,Regular Season - 32,47,Tottenham,65,Nottingham Forest,3,1,HOME,593,Tottenham Hotspur Stadium,S. Hooper
+39,Premier League,England,2023,1035501,2024-04-13T11:30:00+00:00,UTC,1713007800,Match Finished,FT,90,Regular Season - 33,34,Newcastle,47,Tottenham,4,0,HOME,562,St. James' Park,T. Robinson
+39,Premier League,England,2023,1035497,2024-04-13T14:00:00+00:00,UTC,1713016800,Match Finished,FT,90,Regular Season - 33,44,Burnley,51,Brighton,1,1,DRAW,512,Turf Moor,S. Hooper
+39,Premier League,England,2023,1035500,2024-04-13T14:00:00+00:00,UTC,1713016800,Match Finished,FT,90,Regular Season - 33,50,Manchester City,1359,Luton,5,1,HOME,555,Etihad Stadium,J. Brooks
+39,Premier League,England,2023,1035496,2024-04-13T14:00:00+00:00,UTC,1713016800,Match Finished,FT,90,Regular Season - 33,55,Brentford,62,Sheffield Utd,2,0,HOME,10503,Gtech Community Stadium,S. Barrott
+39,Premier League,England,2023,1035502,2024-04-13T14:00:00+00:00,UTC,1713016800,Match Finished,FT,90,Regular Season - 33,65,Nottingham Forest,39,Wolves,2,2,DRAW,566,The City Ground,C. Pawson
+39,Premier League,England,2023,1035494,2024-04-13T16:30:00+00:00,UTC,1713025800,Match Finished,FT,90,Regular Season - 33,35,Bournemouth,33,Manchester United,2,2,DRAW,504,Vitality Stadium,T. Harrington
+39,Premier League,England,2023,1035499,2024-04-14T13:00:00+00:00,UTC,1713099600,Match Finished,FT,90,Regular Season - 33,40,Liverpool,52,Crystal Palace,0,1,AWAY,550,Anfield,C. Kavanagh
+39,Premier League,England,2023,1035503,2024-04-14T13:00:00+00:00,UTC,1713099600,Match Finished,FT,90,Regular Season - 33,48,West Ham,36,Fulham,0,2,AWAY,598,London Stadium,S. Attwell
+39,Premier League,England,2023,1035495,2024-04-14T15:30:00+00:00,UTC,1713108600,Match Finished,FT,90,Regular Season - 33,42,Arsenal,66,Aston Villa,0,2,AWAY,494,Emirates Stadium,D. Coote
+39,Premier League,England,2023,1035498,2024-04-15T19:00:00+00:00,UTC,1713207600,Match Finished,FT,90,Regular Season - 33,49,Chelsea,45,Everton,6,0,HOME,519,Stamford Bridge,P. Tierney
+39,Premier League,England,2023,1035511,2024-04-20T14:00:00+00:00,UTC,1713621600,Match Finished,FT,90,Regular Season - 34,62,Sheffield Utd,44,Burnley,1,4,AWAY,581,Bramall Lane,A. Madley
+39,Premier League,England,2023,1035509,2024-04-20T14:00:00+00:00,UTC,1713621600,Match Finished,FT,90,Regular Season - 34,1359,Luton,55,Brentford,1,5,AWAY,551,Kenilworth Road,J. Gillett
+39,Premier League,England,2023,1035513,2024-04-20T18:30:00+00:00,UTC,1713637800,Match Finished,FT,90,Regular Season - 34,39,Wolves,42,Arsenal,0,2,AWAY,600,Molineux Stadium,P. Tierney
+39,Premier League,England,2023,1035507,2024-04-21T12:30:00+00:00,UTC,1713702600,Match Finished,FT,90,Regular Season - 34,45,Everton,65,Nottingham Forest,2,0,HOME,8560,Goodison Park,A. Taylor
+39,Premier League,England,2023,1035506,2024-04-21T14:00:00+00:00,UTC,1713708000,Match Finished,FT,90,Regular Season - 34,52,Crystal Palace,48,West Ham,5,2,HOME,525,Selhurst Park,G. Scott
+39,Premier League,England,2023,1035504,2024-04-21T14:00:00+00:00,UTC,1713708000,Match Finished,FT,90,Regular Season - 34,66,Aston Villa,35,Bournemouth,3,1,HOME,495,Villa Park,T. Robinson
+39,Premier League,England,2023,1035508,2024-04-21T15:30:00+00:00,UTC,1713713400,Match Finished,FT,90,Regular Season - 34,36,Fulham,40,Liverpool,1,3,AWAY,535,Craven Cottage,C. Pawson
+39,Premier League,England,2023,1035454,2024-04-23T19:00:00+00:00,UTC,1713898800,Match Finished,FT,90,Regular Season - 29,42,Arsenal,49,Chelsea,5,0,HOME,494,Emirates Stadium,S. Hooper
+39,Premier League,England,2023,1035463,2024-04-24T18:45:00+00:00,UTC,1713984300,Match Finished,FT,90,Regular Season - 29,39,Wolves,35,Bournemouth,0,1,AWAY,600,Molineux Stadium,S. Attwell
+39,Premier League,England,2023,1035461,2024-04-24T19:00:00+00:00,UTC,1713985200,Match Finished,FT,90,Regular Season - 29,33,Manchester United,62,Sheffield Utd,4,2,HOME,556,Old Trafford,M. Salisbury
+39,Premier League,England,2023,1035458,2024-04-24T19:00:00+00:00,UTC,1713985200,Match Finished,FT,90,Regular Season - 29,45,Everton,40,Liverpool,2,0,HOME,8560,Goodison Park,A. Madley
+39,Premier League,England,2023,1035457,2024-04-24T19:00:00+00:00,UTC,1713985200,Match Finished,FT,90,Regular Season - 29,52,Crystal Palace,34,Newcastle,2,0,HOME,525,Selhurst Park,T. Bramall
+39,Premier League,England,2023,1035455,2024-04-25T19:00:00+00:00,UTC,1714071600,Match Finished,FT,90,Regular Season - 29,51,Brighton,50,Manchester City,0,4,AWAY,508,American Express Stadium,J. Gillett
+39,Premier League,England,2023,1035522,2024-04-27T11:30:00+00:00,UTC,1714217400,Match Finished,FT,90,Regular Season - 35,48,West Ham,40,Liverpool,2,2,DRAW,598,London Stadium,A. Taylor
+39,Premier League,England,2023,1035518,2024-04-27T14:00:00+00:00,UTC,1714226400,Match Finished,FT,90,Regular Season - 35,33,Manchester United,44,Burnley,1,1,DRAW,556,Old Trafford,J. Brooks
+39,Premier League,England,2023,1035519,2024-04-27T14:00:00+00:00,UTC,1714226400,Match Finished,FT,90,Regular Season - 35,34,Newcastle,62,Sheffield Utd,5,1,HOME,562,St. James' Park,T. Harrington
+39,Premier League,England,2023,1035517,2024-04-27T14:00:00+00:00,UTC,1714226400,Match Finished,FT,90,Regular Season - 35,36,Fulham,52,Crystal Palace,1,1,DRAW,535,Craven Cottage,S. Attwell
+39,Premier League,England,2023,1035523,2024-04-27T14:00:00+00:00,UTC,1714226400,Match Finished,FT,90,Regular Season - 35,39,Wolves,1359,Luton,2,1,HOME,600,Molineux Stadium,D. Coote
+39,Premier League,England,2023,1035516,2024-04-27T16:30:00+00:00,UTC,1714235400,Match Finished,FT,90,Regular Season - 35,45,Everton,55,Brentford,1,0,HOME,8560,Goodison Park,D. England
+39,Premier League,England,2023,1035515,2024-04-27T19:00:00+00:00,UTC,1714244400,Match Finished,FT,90,Regular Season - 35,66,Aston Villa,49,Chelsea,2,2,DRAW,495,Villa Park,C. Pawson
+39,Premier League,England,2023,1035514,2024-04-28T13:00:00+00:00,UTC,1714309200,Match Finished,FT,90,Regular Season - 35,35,Bournemouth,51,Brighton,3,0,HOME,504,Vitality Stadium,P. Tierney
+39,Premier League,England,2023,1035521,2024-04-28T13:00:00+00:00,UTC,1714309200,Match Finished,FT,90,Regular Season - 35,47,Tottenham,42,Arsenal,2,3,AWAY,593,Tottenham Hotspur Stadium,M. Oliver
+39,Premier League,England,2023,1035520,2024-04-28T15:30:00+00:00,UTC,1714318200,Match Finished,FT,90,Regular Season - 35,65,Nottingham Forest,50,Manchester City,0,2,AWAY,566,The City Ground,S. Hooper
+39,Premier League,England,2023,1035428,2024-05-02T18:30:00+00:00,UTC,1714674600,Match Finished,FT,90,Regular Season - 26,49,Chelsea,47,Tottenham,2,0,HOME,519,Stamford Bridge,R. Jones
+39,Premier League,England,2023,1035531,2024-05-03T19:00:00+00:00,UTC,1714762800,Match Finished,FT,90,Regular Season - 36,1359,Luton,45,Everton,1,1,DRAW,551,Kenilworth Road,T. Robinson
+39,Premier League,England,2023,1035524,2024-05-04T11:30:00+00:00,UTC,1714822200,Match Finished,FT,90,Regular Season - 36,42,Arsenal,35,Bournemouth,3,0,HOME,494,Emirates Stadium,D. Coote
+39,Premier League,England,2023,1035527,2024-05-04T14:00:00+00:00,UTC,1714831200,Match Finished,FT,90,Regular Season - 36,44,Burnley,34,Newcastle,1,4,AWAY,512,Turf Moor,A. Taylor
+39,Premier League,England,2023,1035525,2024-05-04T14:00:00+00:00,UTC,1714831200,Match Finished,FT,90,Regular Season - 36,55,Brentford,36,Fulham,0,0,DRAW,10503,Gtech Community Stadium,G. Scott
+39,Premier League,England,2023,1035533,2024-05-04T14:00:00+00:00,UTC,1714831200,Match Finished,FT,90,Regular Season - 36,62,Sheffield Utd,65,Nottingham Forest,1,3,AWAY,581,Bramall Lane,C. Kavanagh
+39,Premier League,England,2023,1035532,2024-05-04T16:30:00+00:00,UTC,1714840200,Match Finished,FT,90,Regular Season - 36,50,Manchester City,39,Wolves,5,1,HOME,555,Etihad Stadium,C. Pawson
+39,Premier League,England,2023,1035528,2024-05-05T13:00:00+00:00,UTC,1714914000,Match Finished,FT,90,Regular Season - 36,49,Chelsea,48,West Ham,5,0,HOME,519,Stamford Bridge,A. Madley
+39,Premier League,England,2023,1035526,2024-05-05T13:00:00+00:00,UTC,1714914000,Match Finished,FT,90,Regular Season - 36,51,Brighton,66,Aston Villa,1,0,HOME,508,American Express Stadium,R. Jones
+39,Premier League,England,2023,1035530,2024-05-05T15:30:00+00:00,UTC,1714923000,Match Finished,FT,90,Regular Season - 36,40,Liverpool,47,Tottenham,4,2,HOME,550,Anfield,P. Tierney
+39,Premier League,England,2023,1035529,2024-05-06T19:00:00+00:00,UTC,1715022000,Match Finished,FT,90,Regular Season - 36,52,Crystal Palace,33,Manchester United,4,0,HOME,525,Selhurst Park,J. Gillett
+39,Premier League,England,2023,1035537,2024-05-11T11:30:00+00:00,UTC,1715427000,Match Finished,FT,90,Regular Season - 37,36,Fulham,50,Manchester City,0,4,AWAY,535,Craven Cottage,A. Taylor
+39,Premier League,England,2023,1035539,2024-05-11T14:00:00+00:00,UTC,1715436000,Match Finished,FT,90,Regular Season - 37,34,Newcastle,51,Brighton,1,1,DRAW,562,St. James' Park,D. England
+39,Premier League,England,2023,1035534,2024-05-11T14:00:00+00:00,UTC,1715436000,Match Finished,FT,90,Regular Season - 37,35,Bournemouth,55,Brentford,1,2,AWAY,504,Vitality Stadium,M. Donohue
+39,Premier League,England,2023,1035543,2024-05-11T14:00:00+00:00,UTC,1715436000,Match Finished,FT,90,Regular Season - 37,39,Wolves,52,Crystal Palace,1,3,AWAY,600,Molineux Stadium,T. Bramall
+39,Premier League,England,2023,1035536,2024-05-11T14:00:00+00:00,UTC,1715436000,Match Finished,FT,90,Regular Season - 37,45,Everton,62,Sheffield Utd,1,0,HOME,8560,Goodison Park,S. Attwell
+39,Premier League,England,2023,1035541,2024-05-11T14:00:00+00:00,UTC,1715436000,Match Finished,FT,90,Regular Season - 37,47,Tottenham,44,Burnley,2,1,HOME,593,Tottenham Hotspur Stadium,J. Gillett
+39,Premier League,England,2023,1035542,2024-05-11T14:00:00+00:00,UTC,1715436000,Match Finished,FT,90,Regular Season - 37,48,West Ham,1359,Luton,3,1,HOME,598,London Stadium,M. Oliver
+39,Premier League,England,2023,1035540,2024-05-11T16:30:00+00:00,UTC,1715445000,Match Finished,FT,90,Regular Season - 37,65,Nottingham Forest,49,Chelsea,2,3,AWAY,566,The City Ground,T. Harrington
+39,Premier League,England,2023,1035538,2024-05-12T15:30:00+00:00,UTC,1715527800,Match Finished,FT,90,Regular Season - 37,33,Manchester United,42,Arsenal,0,1,AWAY,556,Old Trafford,P. Tierney
+39,Premier League,England,2023,1035535,2024-05-13T19:00:00+00:00,UTC,1715626800,Match Finished,FT,90,Regular Season - 37,66,Aston Villa,40,Liverpool,3,3,DRAW,495,Villa Park,S. Hooper
+39,Premier League,England,2023,1035512,2024-05-14T19:00:00+00:00,UTC,1715713200,Match Finished,FT,90,Regular Season - 34,47,Tottenham,50,Manchester City,0,2,AWAY,593,Tottenham Hotspur Stadium,C. Kavanagh
+39,Premier League,England,2023,1035505,2024-05-15T18:45:00+00:00,UTC,1715798700,Match Finished,FT,90,Regular Season - 34,51,Brighton,49,Chelsea,1,2,AWAY,508,American Express Stadium,M. Salisbury
+39,Premier League,England,2023,1035510,2024-05-15T19:00:00+00:00,UTC,1715799600,Match Finished,FT,90,Regular Season - 34,33,Manchester United,34,Newcastle,3,2,HOME,556,Old Trafford,R. Jones
+39,Premier League,England,2023,1035550,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,40,Liverpool,39,Wolves,2,0,HOME,550,Anfield,C. Kavanagh
+39,Premier League,England,2023,1035544,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,42,Arsenal,45,Everton,2,1,HOME,494,Emirates Stadium,M. Oliver
+39,Premier League,England,2023,1035547,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,44,Burnley,65,Nottingham Forest,1,2,AWAY,512,Turf Moor,G. Scott
+39,Premier League,England,2023,1035548,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,49,Chelsea,35,Bournemouth,2,1,HOME,519,Stamford Bridge,A. Taylor
+39,Premier League,England,2023,1035552,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,50,Manchester City,48,West Ham,3,1,HOME,555,Etihad Stadium,J. Brooks
+39,Premier League,England,2023,1035546,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,51,Brighton,33,Manchester United,0,2,AWAY,508,American Express Stadium,C. Pawson
+39,Premier League,England,2023,1035549,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,52,Crystal Palace,66,Aston Villa,5,0,HOME,525,Selhurst Park,D. Bond
+39,Premier League,England,2023,1035545,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,55,Brentford,34,Newcastle,2,4,AWAY,10503,Gtech Community Stadium,S. Hooper
+39,Premier League,England,2023,1035553,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,62,Sheffield Utd,47,Tottenham,0,3,AWAY,581,Bramall Lane,A. Madley
+39,Premier League,England,2023,1035551,2024-05-19T15:00:00+00:00,UTC,1716130800,Match Finished,FT,90,Regular Season - 38,1359,Luton,36,Fulham,2,4,AWAY,551,Kenilworth Road,M. Donohue

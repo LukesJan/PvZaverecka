@@ -1,0 +1,309 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+61,Ligue 1,France,2024,1213754,2024-08-16T18:45:00+00:00,UTC,1723833900,Match Finished,FT,90,Regular Season - 1,111,Le Havre,85,Paris Saint Germain,1,4,AWAY,652.0,Stade Océane,W. Delajod
+61,Ligue 1,France,2024,1213747,2024-08-17T15:00:00+00:00,UTC,1723906800,Match Finished,FT,90,Regular Season - 1,106,Stade Brestois 29,81,Marseille,1,5,AWAY,641.0,Stade Francis-Le Blé,B. Bastien
+61,Ligue 1,France,2024,1213752,2024-08-17T17:00:00+00:00,UTC,1723914000,Match Finished,FT,90,Regular Season - 1,93,Reims,79,Lille,0,2,AWAY,22707.0,Stade Auguste-Delaune,E. Wattellier
+61,Ligue 1,France,2024,1213751,2024-08-17T19:00:00+00:00,UTC,1723921200,Match Finished,FT,90,Regular Season - 1,91,Monaco,1063,Saint Etienne,1,0,HOME,20470.0,Stade Louis-II,C. Turpin
+61,Ligue 1,France,2024,1213753,2024-08-18T13:00:00+00:00,UTC,1723986000,Match Finished,FT,90,Regular Season - 1,108,Auxerre,84,Nice,2,1,HOME,636.0,Stade de l'Abbé Deschamps,R. Lissorgue
+61,Ligue 1,France,2024,1213750,2024-08-18T15:00:00+00:00,UTC,1723993200,Match Finished,FT,90,Regular Season - 1,77,Angers,116,Lens,0,1,AWAY,634.0,Stade Raymond Kopa,T. Léonard
+61,Ligue 1,France,2024,1213748,2024-08-18T15:00:00+00:00,UTC,1723993200,Match Finished,FT,90,Regular Season - 1,82,Montpellier,95,Strasbourg,1,1,DRAW,20107.0,Stade de la Mosson-Mondial 98,M. Vernice
+61,Ligue 1,France,2024,1213749,2024-08-18T15:00:00+00:00,UTC,1723993200,Match Finished,FT,90,Regular Season - 1,96,Toulouse,83,Nantes,0,0,DRAW,682.0,Stadium de Toulouse,J. Stinat
+61,Ligue 1,France,2024,1213755,2024-08-18T18:45:00+00:00,UTC,1724006700,Match Finished,FT,90,Regular Season - 1,94,Rennes,80,Lyon,3,0,HOME,680.0,Roazhon Park,B. Millot
+61,Ligue 1,France,2024,1213756,2024-08-23T18:45:00+00:00,UTC,1724438700,Match Finished,FT,90,Regular Season - 2,85,Paris Saint Germain,82,Montpellier,6,0,HOME,671.0,Parc des Princes,M. Bollengier
+61,Ligue 1,France,2024,1213763,2024-08-24T15:00:00+00:00,UTC,1724511600,Match Finished,FT,90,Regular Season - 2,80,Lyon,91,Monaco,0,2,AWAY,666.0,Groupama Stadium,S. Frappart
+61,Ligue 1,France,2024,1213760,2024-08-24T17:00:00+00:00,UTC,1724518800,Match Finished,FT,90,Regular Season - 2,79,Lille,77,Angers,2,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,A. Kherradji
+61,Ligue 1,France,2024,1213759,2024-08-24T19:00:00+00:00,UTC,1724526000,Match Finished,FT,90,Regular Season - 2,1063,Saint Etienne,111,Le Havre,0,2,AWAY,676.0,Stade Geoffroy-Guichard,F. Batta
+61,Ligue 1,France,2024,1213762,2024-08-25T13:00:00+00:00,UTC,1724590800,Match Finished,FT,90,Regular Season - 2,116,Lens,106,Stade Brestois 29,2,0,HOME,654.0,Stade Bollaert-Delelis,J. Pignard
+61,Ligue 1,France,2024,1213758,2024-08-25T15:00:00+00:00,UTC,1724598000,Match Finished,FT,90,Regular Season - 2,83,Nantes,108,Auxerre,2,0,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,G. Angoula
+61,Ligue 1,France,2024,1213761,2024-08-25T15:00:00+00:00,UTC,1724598000,Match Finished,FT,90,Regular Season - 2,84,Nice,96,Toulouse,1,1,DRAW,663.0,Allianz Riviera,B. Dechepy
+61,Ligue 1,France,2024,1213757,2024-08-25T15:00:00+00:00,UTC,1724598000,Match Finished,FT,90,Regular Season - 2,95,Strasbourg,94,Rennes,3,1,HOME,681.0,Stade de la Meinau,E. Wattellier
+61,Ligue 1,France,2024,1213764,2024-08-25T18:45:00+00:00,UTC,1724611500,Match Finished,FT,90,Regular Season - 2,81,Marseille,93,Reims,2,2,DRAW,667.0,Orange Vélodrome,H. Ben El Hadj
+61,Ligue 1,France,2024,1213766,2024-08-30T18:45:00+00:00,UTC,1725043500,Match Finished,FT,90,Regular Season - 3,80,Lyon,95,Strasbourg,4,3,HOME,666.0,Groupama Stadium,T. Léonard
+61,Ligue 1,France,2024,1213767,2024-08-31T15:00:00+00:00,UTC,1725116400,Match Finished,FT,90,Regular Season - 3,106,Stade Brestois 29,1063,Saint Etienne,4,0,HOME,641.0,Stade Francis-Le Blé,G. Angoula
+61,Ligue 1,France,2024,1213768,2024-08-31T17:00:00+00:00,UTC,1725123600,Match Finished,FT,90,Regular Season - 3,82,Montpellier,83,Nantes,1,3,AWAY,20107.0,Stade de la Mosson-Mondial 98,B. Millot
+61,Ligue 1,France,2024,1213773,2024-08-31T19:00:00+00:00,UTC,1725130800,Match Finished,FT,90,Regular Season - 3,96,Toulouse,81,Marseille,1,3,AWAY,682.0,Stadium de Toulouse,S. Frappart
+61,Ligue 1,France,2024,1213770,2024-09-01T13:00:00+00:00,UTC,1725195600,Match Finished,FT,90,Regular Season - 3,91,Monaco,116,Lens,1,1,DRAW,20470.0,Stade Louis-II,W. Delajod
+61,Ligue 1,France,2024,1213769,2024-09-01T15:00:00+00:00,UTC,1725202800,Match Finished,FT,90,Regular Season - 3,77,Angers,84,Nice,1,4,AWAY,634.0,Stade Raymond Kopa,J. Stinat
+61,Ligue 1,France,2024,1213772,2024-09-01T15:00:00+00:00,UTC,1725202800,Match Finished,FT,90,Regular Season - 3,93,Reims,94,Rennes,2,1,HOME,22707.0,Stade Auguste-Delaune,M. Vernice
+61,Ligue 1,France,2024,1213771,2024-09-01T15:00:00+00:00,UTC,1725202800,Match Finished,FT,90,Regular Season - 3,111,Le Havre,108,Auxerre,3,1,HOME,652.0,Stade Océane,M. Bollengier
+61,Ligue 1,France,2024,1213765,2024-09-01T18:45:00+00:00,UTC,1725216300,Match Finished,FT,90,Regular Season - 3,79,Lille,85,Paris Saint Germain,1,3,AWAY,,Decathlon Arena - Stade Pierre-Mauroy,B. Bastien
+61,Ligue 1,France,2024,1213780,2024-09-13T18:45:00+00:00,UTC,1726253100,Match Finished,FT,90,Regular Season - 4,1063,Saint Etienne,79,Lille,1,0,HOME,676.0,Stade Geoffroy-Guichard,F. Letexier
+61,Ligue 1,France,2024,1213781,2024-09-14T15:00:00+00:00,UTC,1726326000,Match Finished,FT,90,Regular Season - 4,81,Marseille,84,Nice,2,0,HOME,667.0,Orange Vélodrome,B. Millot
+61,Ligue 1,France,2024,1213774,2024-09-14T17:00:00+00:00,UTC,1726333200,Match Finished,FT,90,Regular Season - 4,108,Auxerre,91,Monaco,0,3,AWAY,636.0,Stade de l'Abbé Deschamps,A. Kherradji
+61,Ligue 1,France,2024,1213782,2024-09-14T19:00:00+00:00,UTC,1726340400,Match Finished,FT,90,Regular Season - 4,85,Paris Saint Germain,106,Stade Brestois 29,3,1,HOME,671.0,Parc des Princes,C. Turpin
+61,Ligue 1,France,2024,1213775,2024-09-15T13:00:00+00:00,UTC,1726405200,Match Finished,FT,90,Regular Season - 4,94,Rennes,82,Montpellier,3,0,HOME,680.0,Roazhon Park,J. Pignard
+61,Ligue 1,France,2024,1213777,2024-09-15T15:00:00+00:00,UTC,1726412400,Match Finished,FT,90,Regular Season - 4,83,Nantes,93,Reims,1,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,W. Delajod
+61,Ligue 1,France,2024,1213779,2024-09-15T15:00:00+00:00,UTC,1726412400,Match Finished,FT,90,Regular Season - 4,95,Strasbourg,77,Angers,1,1,DRAW,681.0,Stade de la Meinau,H. Ben El Hadj
+61,Ligue 1,France,2024,1213778,2024-09-15T15:00:00+00:00,UTC,1726412400,Match Finished,FT,90,Regular Season - 4,96,Toulouse,111,Le Havre,2,0,HOME,682.0,Stadium de Toulouse,E. Wattellier
+61,Ligue 1,France,2024,1213776,2024-09-15T18:45:00+00:00,UTC,1726425900,Match Finished,FT,90,Regular Season - 4,116,Lens,80,Lyon,0,0,DRAW,654.0,Stade Bollaert-Delelis,B. Dechepy
+61,Ligue 1,France,2024,1213784,2024-09-20T18:45:00+00:00,UTC,1726857900,Match Finished,FT,90,Regular Season - 5,84,Nice,1063,Saint Etienne,8,0,HOME,663.0,Allianz Riviera,T. Léonard
+61,Ligue 1,France,2024,1213789,2024-09-21T15:00:00+00:00,UTC,1726930800,Match Finished,FT,90,Regular Season - 5,79,Lille,95,Strasbourg,3,3,DRAW,,Decathlon Arena - Stade Pierre-Mauroy,J. Brisard
+61,Ligue 1,France,2024,1213790,2024-09-21T17:00:00+00:00,UTC,1726938000,Match Finished,FT,90,Regular Season - 5,94,Rennes,116,Lens,1,1,DRAW,680.0,Roazhon Park,J. Stinat
+61,Ligue 1,France,2024,1213785,2024-09-21T19:00:00+00:00,UTC,1726945200,Match Finished,FT,90,Regular Season - 5,93,Reims,85,Paris Saint Germain,1,1,DRAW,22707.0,Stade Auguste-Delaune,J. Pignard
+61,Ligue 1,France,2024,1213791,2024-09-22T13:00:00+00:00,UTC,1727010000,Match Finished,FT,90,Regular Season - 5,91,Monaco,111,Le Havre,3,1,HOME,20470.0,Stade Louis-II,S. Frappart
+61,Ligue 1,France,2024,1213787,2024-09-22T15:00:00+00:00,UTC,1727017200,Match Finished,FT,90,Regular Season - 5,77,Angers,83,Nantes,1,1,DRAW,634.0,Stade Raymond Kopa,M. Vernice
+61,Ligue 1,France,2024,1213788,2024-09-22T15:00:00+00:00,UTC,1727017200,Match Finished,FT,90,Regular Season - 5,82,Montpellier,108,Auxerre,3,2,HOME,20107.0,Stade de la Mosson-Mondial 98,H. Ben El Hadj
+61,Ligue 1,France,2024,1213786,2024-09-22T15:00:00+00:00,UTC,1727017200,Match Finished,FT,90,Regular Season - 5,106,Stade Brestois 29,96,Toulouse,2,0,HOME,641.0,Stade Francis-Le Blé,F. Batta
+61,Ligue 1,France,2024,1213783,2024-09-22T18:45:00+00:00,UTC,1727030700,Match Finished,FT,90,Regular Season - 5,80,Lyon,81,Marseille,2,3,AWAY,666.0,Groupama Stadium,B. Bastien
+61,Ligue 1,France,2024,1213794,2024-09-27T17:00:00+00:00,UTC,1727456400,Match Finished,FT,90,Regular Season - 6,108,Auxerre,106,Stade Brestois 29,3,0,HOME,636.0,Stade de l'Abbé Deschamps,J. Stinat
+61,Ligue 1,France,2024,1213793,2024-09-27T19:00:00+00:00,UTC,1727463600,Match Finished,FT,90,Regular Season - 6,85,Paris Saint Germain,94,Rennes,3,1,HOME,671.0,Parc des Princes,H. Ben El Hadj
+61,Ligue 1,France,2024,1213795,2024-09-28T15:00:00+00:00,UTC,1727535600,Match Finished,FT,90,Regular Season - 6,116,Lens,84,Nice,0,0,DRAW,654.0,Stade Bollaert-Delelis,F. Letexier
+61,Ligue 1,France,2024,1213797,2024-09-28T17:00:00+00:00,UTC,1727542800,Match Finished,FT,90,Regular Season - 6,111,Le Havre,79,Lille,0,3,AWAY,652.0,Stade Océane,B. Dechepy
+61,Ligue 1,France,2024,1213799,2024-09-28T19:00:00+00:00,UTC,1727550000,Match Finished,FT,90,Regular Season - 6,91,Monaco,82,Montpellier,2,1,HOME,20470.0,Stade Louis-II,M. Bollengier
+61,Ligue 1,France,2024,1213798,2024-09-29T13:00:00+00:00,UTC,1727614800,Match Finished,FT,90,Regular Season - 6,96,Toulouse,80,Lyon,1,2,AWAY,682.0,Stadium de Toulouse,G. Angoula
+61,Ligue 1,France,2024,1213800,2024-09-29T15:00:00+00:00,UTC,1727622000,Match Finished,FT,90,Regular Season - 6,77,Angers,93,Reims,1,3,AWAY,634.0,Stade Raymond Kopa,E. Wattellier
+61,Ligue 1,France,2024,1213796,2024-09-29T15:00:00+00:00,UTC,1727622000,Match Finished,FT,90,Regular Season - 6,83,Nantes,1063,Saint Etienne,2,2,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,A. Kherradji
+61,Ligue 1,France,2024,1213792,2024-09-29T18:45:00+00:00,UTC,1727635500,Match Finished,FT,90,Regular Season - 6,95,Strasbourg,81,Marseille,1,0,HOME,681.0,Stade de la Meinau,W. Delajod
+61,Ligue 1,France,2024,1213806,2024-10-04T18:45:00+00:00,UTC,1728067500,Match Finished,FT,90,Regular Season - 7,81,Marseille,77,Angers,1,1,DRAW,667.0,Orange Vélodrome,R. Lissorgue
+61,Ligue 1,France,2024,1213804,2024-10-05T15:00:00+00:00,UTC,1728140400,Match Finished,FT,90,Regular Season - 7,1063,Saint Etienne,108,Auxerre,3,1,HOME,676.0,Stade Geoffroy-Guichard,M. Vernice
+61,Ligue 1,France,2024,1213803,2024-10-05T17:00:00+00:00,UTC,1728147600,Match Finished,FT,90,Regular Season - 7,79,Lille,96,Toulouse,2,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,C. Turpin
+61,Ligue 1,France,2024,1213807,2024-10-05T19:00:00+00:00,UTC,1728154800,Match Finished,FT,90,Regular Season - 7,94,Rennes,91,Monaco,1,2,AWAY,680.0,Roazhon Park,T. Léonard
+61,Ligue 1,France,2024,1213801,2024-10-06T13:00:00+00:00,UTC,1728219600,Match Finished,FT,90,Regular Season - 7,80,Lyon,83,Nantes,2,0,HOME,666.0,Groupama Stadium,M. Bollengier
+61,Ligue 1,France,2024,1213809,2024-10-06T15:00:00+00:00,UTC,1728226800,Match Finished,FT,90,Regular Season - 7,93,Reims,82,Montpellier,4,2,HOME,22707.0,Stade Auguste-Delaune,B. Bastien
+61,Ligue 1,France,2024,1213808,2024-10-06T15:00:00+00:00,UTC,1728226800,Match Finished,FT,90,Regular Season - 7,95,Strasbourg,116,Lens,2,2,DRAW,681.0,Stade de la Meinau,S. Frappart
+61,Ligue 1,France,2024,1213805,2024-10-06T15:00:00+00:00,UTC,1728226800,Match Finished,FT,90,Regular Season - 7,106,Stade Brestois 29,111,Le Havre,2,0,HOME,641.0,Stade Francis-Le Blé,B. Millot
+61,Ligue 1,France,2024,1213802,2024-10-06T18:45:00+00:00,UTC,1728240300,Match Finished,FT,90,Regular Season - 7,84,Nice,85,Paris Saint Germain,1,1,DRAW,663.0,Allianz Riviera,J. Brisard
+61,Ligue 1,France,2024,1213815,2024-10-18T18:45:00+00:00,UTC,1729277100,Match Finished,FT,90,Regular Season - 8,91,Monaco,79,Lille,0,0,DRAW,20470.0,Stade Louis-II,E. Wattellier
+61,Ligue 1,France,2024,1213817,2024-10-19T15:00:00+00:00,UTC,1729350000,Match Finished,FT,90,Regular Season - 8,106,Stade Brestois 29,94,Rennes,1,1,DRAW,641.0,Stade Francis-Le Blé,B. Dechepy
+61,Ligue 1,France,2024,1213816,2024-10-19T17:00:00+00:00,UTC,1729357200,Match Finished,FT,90,Regular Season - 8,1063,Saint Etienne,116,Lens,0,2,AWAY,676.0,Stade Geoffroy-Guichard,R. Lissorgue
+61,Ligue 1,France,2024,1213818,2024-10-19T19:00:00+00:00,UTC,1729364400,Match Finished,FT,90,Regular Season - 8,85,Paris Saint Germain,95,Strasbourg,4,2,HOME,671.0,Parc des Princes,J. Stinat
+61,Ligue 1,France,2024,1213812,2024-10-20T13:00:00+00:00,UTC,1729429200,Match Finished,FT,90,Regular Season - 8,111,Le Havre,80,Lyon,0,4,AWAY,652.0,Stade Océane,A. Kherradji
+61,Ligue 1,France,2024,1213813,2024-10-20T15:00:00+00:00,UTC,1729436400,Match Finished,FT,90,Regular Season - 8,83,Nantes,84,Nice,1,1,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,G. Angoula
+61,Ligue 1,France,2024,1213811,2024-10-20T15:00:00+00:00,UTC,1729436400,Match Finished,FT,90,Regular Season - 8,96,Toulouse,77,Angers,1,1,DRAW,682.0,Stadium de Toulouse,W. Delajod
+61,Ligue 1,France,2024,1213810,2024-10-20T15:00:00+00:00,UTC,1729436400,Match Finished,FT,90,Regular Season - 8,108,Auxerre,93,Reims,2,1,HOME,636.0,Stade de l'Abbé Deschamps,F. Batta
+61,Ligue 1,France,2024,1213814,2024-10-20T18:45:00+00:00,UTC,1729449900,Match Finished,FT,90,Regular Season - 8,82,Montpellier,81,Marseille,0,5,AWAY,20107.0,Stade de la Mosson-Mondial 98,C. Turpin
+61,Ligue 1,France,2024,1213825,2024-10-25T18:45:00+00:00,UTC,1729881900,Match Finished,FT,90,Regular Season - 9,94,Rennes,111,Le Havre,1,0,HOME,680.0,Roazhon Park,F. Batta
+61,Ligue 1,France,2024,1213826,2024-10-26T15:00:00+00:00,UTC,1729954800,Match Finished,FT,90,Regular Season - 9,77,Angers,1063,Saint Etienne,4,2,HOME,634.0,Stade Raymond Kopa,M. Bollengier
+61,Ligue 1,France,2024,1213827,2024-10-26T17:00:00+00:00,UTC,1729962000,Match Finished,FT,90,Regular Season - 9,93,Reims,106,Stade Brestois 29,1,2,AWAY,22707.0,Stade Auguste-Delaune,J. Brisard
+61,Ligue 1,France,2024,1213820,2024-10-26T19:00:00+00:00,UTC,1729969200,Match Finished,FT,90,Regular Season - 9,116,Lens,79,Lille,0,2,AWAY,654.0,Stade Bollaert-Delelis,B. Bastien
+61,Ligue 1,France,2024,1213822,2024-10-27T13:00:00+00:00,UTC,1730034000,Match Finished,FT,90,Regular Season - 9,80,Lyon,108,Auxerre,2,2,DRAW,666.0,Groupama Stadium,J. Stinat
+61,Ligue 1,France,2024,1213823,2024-10-27T15:00:00+00:00,UTC,1730041200,Match Finished,FT,90,Regular Season - 9,82,Montpellier,96,Toulouse,0,3,AWAY,20107.0,Stade de la Mosson-Mondial 98,T. Léonard
+61,Ligue 1,France,2024,1213819,2024-10-27T15:00:00+00:00,UTC,1730041200,Match Finished,FT,90,Regular Season - 9,84,Nice,91,Monaco,2,1,HOME,663.0,Allianz Riviera,J. Pignard
+61,Ligue 1,France,2024,1213824,2024-10-27T15:00:00+00:00,UTC,1730041200,Match Finished,FT,90,Regular Season - 9,95,Strasbourg,83,Nantes,3,1,HOME,681.0,Stade de la Meinau,H. Ben El Hadj
+61,Ligue 1,France,2024,1213821,2024-10-27T19:45:00+00:00,UTC,1730058300,Match Finished,FT,90,Regular Season - 9,81,Marseille,85,Paris Saint Germain,0,3,AWAY,667.0,Orange Vélodrome,F. Letexier
+61,Ligue 1,France,2024,1213830,2024-11-01T18:00:00+00:00,UTC,1730484000,Match Finished,FT,90,Regular Season - 10,91,Monaco,77,Angers,0,1,AWAY,20470.0,Stade Louis-II,A. Kherradji
+61,Ligue 1,France,2024,1213833,2024-11-01T20:00:00+00:00,UTC,1730491200,Match Finished,FT,90,Regular Season - 10,79,Lille,80,Lyon,1,1,DRAW,,Decathlon Arena - Stade Pierre-Mauroy,J. Brisard
+61,Ligue 1,France,2024,1213836,2024-11-02T16:00:00+00:00,UTC,1730563200,Match Finished,FT,90,Regular Season - 10,85,Paris Saint Germain,116,Lens,1,0,HOME,671.0,Parc des Princes,W. Delajod
+61,Ligue 1,France,2024,1213835,2024-11-02T18:00:00+00:00,UTC,1730570400,Match Finished,FT,90,Regular Season - 10,106,Stade Brestois 29,84,Nice,0,1,AWAY,641.0,Stade Francis-Le Blé,C. Turpin
+61,Ligue 1,France,2024,1213834,2024-11-02T20:00:00+00:00,UTC,1730577600,Match Finished,FT,90,Regular Season - 10,1063,Saint Etienne,95,Strasbourg,2,0,HOME,676.0,Stade Geoffroy-Guichard,E. Wattellier
+61,Ligue 1,France,2024,1213829,2024-11-03T14:00:00+00:00,UTC,1730642400,Match Finished,FT,90,Regular Season - 10,96,Toulouse,93,Reims,1,0,HOME,682.0,Stadium de Toulouse,M. Vernice
+61,Ligue 1,France,2024,1213828,2024-11-03T16:00:00+00:00,UTC,1730649600,Match Finished,FT,90,Regular Season - 10,108,Auxerre,94,Rennes,4,0,HOME,636.0,Stade de l'Abbé Deschamps,G. Angoula
+61,Ligue 1,France,2024,1213831,2024-11-03T16:00:00+00:00,UTC,1730649600,Match Finished,FT,90,Regular Season - 10,111,Le Havre,82,Montpellier,1,0,HOME,652.0,Stade Océane,S. Frappart
+61,Ligue 1,France,2024,1213832,2024-11-03T19:45:00+00:00,UTC,1730663100,Match Finished,FT,90,Regular Season - 10,83,Nantes,81,Marseille,1,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,B. Dechepy
+61,Ligue 1,France,2024,1213837,2024-11-08T19:45:00+00:00,UTC,1731095100,Match Finished,FT,90,Regular Season - 11,81,Marseille,108,Auxerre,1,3,AWAY,667.0,Orange Vélodrome,M. Bollengier
+61,Ligue 1,France,2024,1213841,2024-11-09T16:00:00+00:00,UTC,1731168000,Match Finished,FT,90,Regular Season - 11,95,Strasbourg,91,Monaco,1,3,AWAY,681.0,Stade de la Meinau,B. Dechepy
+61,Ligue 1,France,2024,1213842,2024-11-09T18:00:00+00:00,UTC,1731175200,Match Finished,FT,90,Regular Season - 11,116,Lens,83,Nantes,3,2,HOME,654.0,Stade Bollaert-Delelis,C. Turpin
+61,Ligue 1,France,2024,1213845,2024-11-09T20:00:00+00:00,UTC,1731182400,Match Finished,FT,90,Regular Season - 11,77,Angers,85,Paris Saint Germain,2,4,AWAY,634.0,Stade Raymond Kopa,B. Millot
+61,Ligue 1,France,2024,1213844,2024-11-10T14:00:00+00:00,UTC,1731247200,Match Finished,FT,90,Regular Season - 11,84,Nice,79,Lille,2,2,DRAW,663.0,Allianz Riviera,J. Stinat
+61,Ligue 1,France,2024,1213839,2024-11-10T16:00:00+00:00,UTC,1731254400,Match Finished,FT,90,Regular Season - 11,82,Montpellier,106,Stade Brestois 29,3,1,HOME,20107.0,Stade de la Mosson-Mondial 98,J. Pignard
+61,Ligue 1,France,2024,1213843,2024-11-10T16:00:00+00:00,UTC,1731254400,Match Finished,FT,90,Regular Season - 11,94,Rennes,96,Toulouse,0,2,AWAY,680.0,Roazhon Park,R. Lissorgue
+61,Ligue 1,France,2024,1213840,2024-11-10T16:00:00+00:00,UTC,1731254400,Match Finished,FT,90,Regular Season - 11,111,Le Havre,93,Reims,0,3,AWAY,652.0,Stade Océane,H. Ben El Hadj
+61,Ligue 1,France,2024,1213838,2024-11-10T19:45:00+00:00,UTC,1731267900,Match Finished,FT,90,Regular Season - 11,80,Lyon,1063,Saint Etienne,1,0,HOME,666.0,Groupama Stadium,W. Delajod
+61,Ligue 1,France,2024,1213852,2024-11-22T18:00:00+00:00,UTC,1732298400,Match Finished,FT,90,Regular Season - 12,91,Monaco,106,Stade Brestois 29,3,2,HOME,20470.0,Stade Louis-II,T. Léonard
+61,Ligue 1,France,2024,1213846,2024-11-22T20:00:00+00:00,UTC,1732305600,Match Finished,FT,90,Regular Season - 12,85,Paris Saint Germain,96,Toulouse,3,0,HOME,671.0,Parc des Princes,G. Angoula
+61,Ligue 1,France,2024,1213847,2024-11-23T16:00:00+00:00,UTC,1732377600,Match Finished,FT,90,Regular Season - 12,116,Lens,81,Marseille,1,3,AWAY,654.0,Stade Bollaert-Delelis,E. Wattellier
+61,Ligue 1,France,2024,1213849,2024-11-23T18:00:00+00:00,UTC,1732384800,Match Finished,FT,90,Regular Season - 12,1063,Saint Etienne,82,Montpellier,1,0,HOME,676.0,Stade Geoffroy-Guichard,F. Batta
+61,Ligue 1,France,2024,1213854,2024-11-23T20:00:00+00:00,UTC,1732392000,Match Finished,FT,90,Regular Season - 12,93,Reims,80,Lyon,1,1,DRAW,22707.0,Stade Auguste-Delaune,S. Frappart
+61,Ligue 1,France,2024,1213850,2024-11-24T14:00:00+00:00,UTC,1732456800,Match Finished,FT,90,Regular Season - 12,79,Lille,94,Rennes,1,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,M. Vernice
+61,Ligue 1,France,2024,1213851,2024-11-24T16:00:00+00:00,UTC,1732464000,Match Finished,FT,90,Regular Season - 12,83,Nantes,111,Le Havre,0,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+61,Ligue 1,France,2024,1213853,2024-11-24T16:00:00+00:00,UTC,1732464000,Match Finished,FT,90,Regular Season - 12,108,Auxerre,77,Angers,1,0,HOME,636.0,Stade de l'Abbé Deschamps,F. Letexier
+61,Ligue 1,France,2024,1213848,2024-11-24T19:45:00+00:00,UTC,1732477500,Match Finished,FT,90,Regular Season - 12,84,Nice,95,Strasbourg,2,1,HOME,663.0,Allianz Riviera,B. Bastien
+61,Ligue 1,France,2024,1213855,2024-11-29T19:45:00+00:00,UTC,1732909500,Match Finished,FT,90,Regular Season - 13,93,Reims,116,Lens,0,2,AWAY,22707.0,Stade Auguste-Delaune,A. Kherradji
+61,Ligue 1,France,2024,1213856,2024-11-30T16:00:00+00:00,UTC,1732982400,Match Finished,FT,90,Regular Season - 13,94,Rennes,1063,Saint Etienne,5,0,HOME,680.0,Roazhon Park,M. Bollengier
+61,Ligue 1,France,2024,1213859,2024-11-30T18:00:00+00:00,UTC,1732989600,Match Finished,FT,90,Regular Season - 13,106,Stade Brestois 29,95,Strasbourg,3,1,HOME,641.0,Stade Francis-Le Blé,R. Lissorgue
+61,Ligue 1,France,2024,1213861,2024-11-30T20:00:00+00:00,UTC,1732996800,Match Finished,FT,90,Regular Season - 13,85,Paris Saint Germain,83,Nantes,1,1,DRAW,671.0,Parc des Princes,J. Stinat
+61,Ligue 1,France,2024,1213860,2024-12-01T14:00:00+00:00,UTC,1733061600,Match Finished,FT,90,Regular Season - 13,82,Montpellier,79,Lille,2,2,DRAW,20107.0,Stade de la Mosson-Mondial 98,B. Millot
+61,Ligue 1,France,2024,1213863,2024-12-01T16:00:00+00:00,UTC,1733068800,Match Finished,FT,90,Regular Season - 13,80,Lyon,84,Nice,4,1,HOME,666.0,Groupama Stadium,B. Dechepy
+61,Ligue 1,France,2024,1213858,2024-12-01T16:00:00+00:00,UTC,1733068800,Match Finished,FT,90,Regular Season - 13,96,Toulouse,108,Auxerre,2,0,HOME,682.0,Stadium de Toulouse,H. Ben El Hadj
+61,Ligue 1,France,2024,1213857,2024-12-01T16:00:00+00:00,UTC,1733068800,Match Finished,FT,90,Regular Season - 13,111,Le Havre,77,Angers,0,1,AWAY,652.0,Stade Océane,W. Delajod
+61,Ligue 1,France,2024,1213862,2024-12-01T19:45:00+00:00,UTC,1733082300,Match Finished,FT,90,Regular Season - 13,81,Marseille,91,Monaco,2,1,HOME,667.0,Orange Vélodrome,C. Turpin
+61,Ligue 1,France,2024,1213868,2024-12-06T18:00:00+00:00,UTC,1733508000,Match Finished,FT,90,Regular Season - 14,79,Lille,106,Stade Brestois 29,3,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,B. Bastien
+61,Ligue 1,France,2024,1213865,2024-12-06T20:00:00+00:00,UTC,1733515200,Match Finished,FT,90,Regular Season - 14,108,Auxerre,85,Paris Saint Germain,0,0,DRAW,636.0,Stade de l'Abbé Deschamps,J. Pignard
+61,Ligue 1,France,2024,1213872,2024-12-07T16:00:00+00:00,UTC,1733587200,Match Finished,FT,90,Regular Season - 14,91,Monaco,96,Toulouse,2,0,HOME,20470.0,Stade Louis-II,S. Frappart
+61,Ligue 1,France,2024,1213864,2024-12-07T18:00:00+00:00,UTC,1733594400,Match Finished,FT,90,Regular Season - 14,84,Nice,111,Le Havre,2,1,HOME,663.0,Allianz Riviera,F. Letexier
+61,Ligue 1,France,2024,1213867,2024-12-07T20:00:00+00:00,UTC,1733601600,Match Finished,FT,90,Regular Season - 14,77,Angers,80,Lyon,0,3,AWAY,634.0,Stade Raymond Kopa,M. Bollengier
+61,Ligue 1,France,2024,1213869,2024-12-08T14:00:00+00:00,UTC,1733666400,Match Finished,FT,90,Regular Season - 14,116,Lens,82,Montpellier,2,0,HOME,654.0,Stade Bollaert-Delelis,M. Vernice
+61,Ligue 1,France,2024,1213871,2024-12-08T16:00:00+00:00,UTC,1733673600,Match Finished,FT,90,Regular Season - 14,83,Nantes,94,Rennes,1,0,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,E. Wattellier
+61,Ligue 1,France,2024,1213870,2024-12-08T16:00:00+00:00,UTC,1733673600,Match Finished,FT,90,Regular Season - 14,95,Strasbourg,93,Reims,0,0,DRAW,681.0,Stade de la Meinau,T. Léonard
+61,Ligue 1,France,2024,1213866,2024-12-08T19:45:00+00:00,UTC,1733687100,Match Finished,FT,90,Regular Season - 14,1063,Saint Etienne,81,Marseille,0,2,AWAY,676.0,Stade Geoffroy-Guichard,J. Brisard
+61,Ligue 1,France,2024,1213877,2024-12-13T19:45:00+00:00,UTC,1734119100,Match Finished,FT,90,Regular Season - 15,96,Toulouse,1063,Saint Etienne,2,1,HOME,682.0,Stadium de Toulouse,T. Léonard
+61,Ligue 1,France,2024,1213880,2024-12-14T16:00:00+00:00,UTC,1734192000,Match Finished,FT,90,Regular Season - 15,81,Marseille,79,Lille,1,1,DRAW,667.0,Orange Vélodrome,W. Delajod
+61,Ligue 1,France,2024,1213876,2024-12-14T18:00:00+00:00,UTC,1734199200,Match Finished,FT,90,Regular Season - 15,108,Auxerre,116,Lens,2,2,DRAW,636.0,Stade de l'Abbé Deschamps,J. Stinat
+61,Ligue 1,France,2024,1213875,2024-12-14T20:00:00+00:00,UTC,1734206400,Match Finished,FT,90,Regular Season - 15,93,Reims,91,Monaco,0,0,DRAW,22707.0,Stade Auguste-Delaune,R. Lissorgue
+61,Ligue 1,France,2024,1213878,2024-12-15T14:00:00+00:00,UTC,1734271200,Match Finished,FT,90,Regular Season - 15,82,Montpellier,84,Nice,2,2,DRAW,20107.0,Stade de la Mosson-Mondial 98,C. Turpin
+61,Ligue 1,France,2024,1213873,2024-12-15T16:00:00+00:00,UTC,1734278400,Match Finished,FT,90,Regular Season - 15,94,Rennes,77,Angers,2,0,HOME,680.0,Roazhon Park,H. Ben El Hadj
+61,Ligue 1,France,2024,1213879,2024-12-15T16:00:00+00:00,UTC,1734278400,Match Finished,FT,90,Regular Season - 15,106,Stade Brestois 29,83,Nantes,4,1,HOME,641.0,Stade Francis-Le Blé,G. Angoula
+61,Ligue 1,France,2024,1213874,2024-12-15T16:00:00+00:00,UTC,1734278400,Match Finished,FT,90,Regular Season - 15,111,Le Havre,95,Strasbourg,0,3,AWAY,652.0,Stade Océane,A. Kherradji
+61,Ligue 1,France,2024,1213881,2024-12-15T19:45:00+00:00,UTC,1734291900,Match Finished,FT,90,Regular Season - 15,85,Paris Saint Germain,80,Lyon,3,1,HOME,671.0,Parc des Princes,B. Bastien
+61,Ligue 1,France,2024,1213882,2024-12-18T20:00:00+00:00,UTC,1734552000,Match Finished,FT,90,Regular Season - 16,91,Monaco,85,Paris Saint Germain,2,4,AWAY,20470.0,Stade Louis-II,F. Letexier
+61,Ligue 1,France,2024,1213890,2025-01-03T20:00:00+00:00,UTC,1735934400,Match Finished,FT,90,Regular Season - 16,84,Nice,94,Rennes,3,2,HOME,663.0,Allianz Riviera,J. Brisard
+61,Ligue 1,France,2024,1213885,2025-01-04T16:00:00+00:00,UTC,1736006400,Match Finished,FT,90,Regular Season - 16,1063,Saint Etienne,93,Reims,3,1,HOME,676.0,Stade Geoffroy-Guichard,S. Frappart
+61,Ligue 1,France,2024,1213887,2025-01-04T18:00:00+00:00,UTC,1736013600,Match Finished,FT,90,Regular Season - 16,79,Lille,83,Nantes,1,1,DRAW,,Decathlon Arena - Stade Pierre-Mauroy,J. Pignard
+61,Ligue 1,France,2024,1213883,2025-01-04T20:00:00+00:00,UTC,1736020800,Match Finished,FT,90,Regular Season - 16,80,Lyon,82,Montpellier,1,0,HOME,666.0,Groupama Stadium,J. Stinat
+61,Ligue 1,France,2024,1213886,2025-01-05T14:00:00+00:00,UTC,1736085600,Match Finished,FT,90,Regular Season - 16,77,Angers,106,Stade Brestois 29,2,0,HOME,634.0,Stade Raymond Kopa,B. Millot
+61,Ligue 1,France,2024,1213889,2025-01-05T14:00:00+00:00,UTC,1736085600,Match Finished,FT,90,Regular Season - 16,95,Strasbourg,108,Auxerre,3,1,HOME,681.0,Stade de la Meinau,F. Batta
+61,Ligue 1,France,2024,1213884,2025-01-05T14:00:00+00:00,UTC,1736085600,Match Finished,FT,90,Regular Season - 16,116,Lens,96,Toulouse,0,1,AWAY,654.0,Stade Bollaert-Delelis,H. Ben El Hadj
+61,Ligue 1,France,2024,1213888,2025-01-05T19:45:00+00:00,UTC,1736106300,Match Finished,FT,90,Regular Season - 16,81,Marseille,111,Le Havre,5,1,HOME,667.0,Orange Vélodrome,T. Léonard
+61,Ligue 1,France,2024,1213892,2025-01-10T18:00:00+00:00,UTC,1736532000,Match Finished,FT,90,Regular Season - 17,83,Nantes,91,Monaco,2,2,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,M. Bollengier
+61,Ligue 1,France,2024,1213893,2025-01-10T20:05:00+00:00,UTC,1736539500,Match Finished,FT,90,Regular Season - 17,108,Auxerre,79,Lille,0,0,DRAW,636.0,Stade de l'Abbé Deschamps,G. Angoula
+61,Ligue 1,France,2024,1213897,2025-01-11T16:00:00+00:00,UTC,1736611200,Match Finished,FT,90,Regular Season - 17,106,Stade Brestois 29,80,Lyon,2,1,HOME,641.0,Stade Francis-Le Blé,E. Wattellier
+61,Ligue 1,France,2024,1213894,2025-01-11T18:00:00+00:00,UTC,1736618400,Match Finished,FT,90,Regular Season - 17,93,Reims,84,Nice,2,4,AWAY,22707.0,Stade Auguste-Delaune,W. Delajod
+61,Ligue 1,France,2024,1213899,2025-01-11T20:05:00+00:00,UTC,1736625900,Match Finished,FT,90,Regular Season - 17,94,Rennes,81,Marseille,1,2,AWAY,680.0,Roazhon Park,A. Kherradji
+61,Ligue 1,France,2024,1213895,2025-01-12T14:00:00+00:00,UTC,1736690400,Match Finished,FT,90,Regular Season - 17,111,Le Havre,116,Lens,1,2,AWAY,652.0,Stade Océane,C. Turpin
+61,Ligue 1,France,2024,1213896,2025-01-12T16:15:00+00:00,UTC,1736698500,Match Finished,FT,90,Regular Season - 17,82,Montpellier,77,Angers,1,3,AWAY,20107.0,Stade de la Mosson-Mondial 98,R. Lissorgue
+61,Ligue 1,France,2024,1213891,2025-01-12T16:15:00+00:00,UTC,1736698500,Match Finished,FT,90,Regular Season - 17,96,Toulouse,95,Strasbourg,1,2,AWAY,682.0,Stadium de Toulouse,B. Bastien
+61,Ligue 1,France,2024,1213898,2025-01-12T19:45:00+00:00,UTC,1736711100,Match Finished,FT,90,Regular Season - 17,85,Paris Saint Germain,1063,Saint Etienne,2,1,HOME,671.0,Parc des Princes,B. Millot
+61,Ligue 1,France,2024,1213905,2025-01-17T18:00:00+00:00,UTC,1737136800,Match Finished,FT,90,Regular Season - 18,82,Montpellier,91,Monaco,2,1,HOME,20107.0,Stade de la Mosson-Mondial 98,J. Brisard
+61,Ligue 1,France,2024,1213902,2025-01-17T20:05:00+00:00,UTC,1737144300,Match Finished,FT,90,Regular Season - 18,79,Lille,84,Nice,2,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,F. Letexier
+61,Ligue 1,France,2024,1213901,2025-01-18T16:00:00+00:00,UTC,1737216000,Match Finished,FT,90,Regular Season - 18,116,Lens,85,Paris Saint Germain,1,2,AWAY,654.0,Stade Bollaert-Delelis,J. Pignard
+61,Ligue 1,France,2024,1213908,2025-01-18T18:00:00+00:00,UTC,1737223200,Match Finished,FT,90,Regular Season - 18,94,Rennes,106,Stade Brestois 29,1,2,AWAY,680.0,Roazhon Park,T. Léonard
+61,Ligue 1,France,2024,1213903,2025-01-18T20:05:00+00:00,UTC,1737230700,Match Finished,FT,90,Regular Season - 18,80,Lyon,96,Toulouse,0,0,DRAW,666.0,Groupama Stadium,B. Millot
+61,Ligue 1,France,2024,1213904,2025-01-19T14:00:00+00:00,UTC,1737295200,Match Finished,FT,90,Regular Season - 18,1063,Saint Etienne,83,Nantes,1,1,DRAW,676.0,Stade Geoffroy-Guichard,F. Batta
+61,Ligue 1,France,2024,1213907,2025-01-19T16:15:00+00:00,UTC,1737303300,Match Finished,FT,90,Regular Season - 18,77,Angers,108,Auxerre,2,0,HOME,634.0,Stade Raymond Kopa,S. Frappart
+61,Ligue 1,France,2024,1213906,2025-01-19T16:15:00+00:00,UTC,1737303300,Match Finished,FT,90,Regular Season - 18,93,Reims,111,Le Havre,1,1,DRAW,22707.0,Stade Auguste-Delaune,M. Vernice
+61,Ligue 1,France,2024,1213900,2025-01-19T19:45:00+00:00,UTC,1737315900,Match Finished,FT,90,Regular Season - 18,81,Marseille,95,Strasbourg,1,1,DRAW,667.0,Orange Vélodrome,B. Dechepy
+61,Ligue 1,France,2024,1213914,2025-01-24T19:45:00+00:00,UTC,1737747900,Match Finished,FT,90,Regular Season - 19,108,Auxerre,1063,Saint Etienne,1,1,DRAW,636.0,Stade de l'Abbé Deschamps,M. Bollengier
+61,Ligue 1,France,2024,1213911,2025-01-25T16:00:00+00:00,UTC,1737820800,Match Finished,FT,90,Regular Season - 19,91,Monaco,94,Rennes,3,2,HOME,20470.0,Stade Louis-II,J. Stinat
+61,Ligue 1,France,2024,1213909,2025-01-25T18:00:00+00:00,UTC,1737828000,Match Finished,FT,90,Regular Season - 19,95,Strasbourg,79,Lille,2,1,HOME,681.0,Stade de la Meinau,W. Delajod
+61,Ligue 1,France,2024,1213916,2025-01-25T20:05:00+00:00,UTC,1737835500,Match Finished,FT,90,Regular Season - 19,85,Paris Saint Germain,93,Reims,1,1,DRAW,671.0,Parc des Princes,H. Ben El Hadj
+61,Ligue 1,France,2024,1213913,2025-01-26T14:00:00+00:00,UTC,1737900000,Match Finished,FT,90,Regular Season - 19,111,Le Havre,106,Stade Brestois 29,0,1,AWAY,652.0,Stade Océane,R. Lissorgue
+61,Ligue 1,France,2024,1213910,2025-01-26T16:15:00+00:00,UTC,1737908100,Match Finished,FT,90,Regular Season - 19,83,Nantes,80,Lyon,1,1,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,B. Bastien
+61,Ligue 1,France,2024,1213912,2025-01-26T16:15:00+00:00,UTC,1737908100,Match Finished,FT,90,Regular Season - 19,96,Toulouse,82,Montpellier,1,2,AWAY,682.0,Stadium de Toulouse,C. Turpin
+61,Ligue 1,France,2024,1213915,2025-01-26T16:15:00+00:00,UTC,1737908100,Match Finished,FT,90,Regular Season - 19,116,Lens,77,Angers,1,0,HOME,654.0,Stade Bollaert-Delelis,A. Kherradji
+61,Ligue 1,France,2024,1213917,2025-01-26T19:45:00+00:00,UTC,1737920700,Match Finished,FT,90,Regular Season - 19,84,Nice,81,Marseille,2,0,HOME,663.0,Allianz Riviera,E. Wattellier
+61,Ligue 1,France,2024,1213920,2025-01-31T19:45:00+00:00,UTC,1738352700,Match Finished,FT,90,Regular Season - 20,82,Montpellier,116,Lens,0,2,AWAY,20107.0,Stade de la Mosson-Mondial 98,B. Dechepy
+61,Ligue 1,France,2024,1213919,2025-02-01T16:00:00+00:00,UTC,1738425600,Match Finished,FT,90,Regular Season - 20,106,Stade Brestois 29,85,Paris Saint Germain,2,5,AWAY,641.0,Stade Francis-Le Blé,B. Bastien
+61,Ligue 1,France,2024,1213926,2025-02-01T18:00:00+00:00,UTC,1738432800,Match Finished,FT,90,Regular Season - 20,91,Monaco,108,Auxerre,4,2,HOME,20470.0,Stade Louis-II,A. Kherradji
+61,Ligue 1,France,2024,1213921,2025-02-01T20:05:00+00:00,UTC,1738440300,Match Finished,FT,90,Regular Season - 20,79,Lille,1063,Saint Etienne,4,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,E. Wattellier
+61,Ligue 1,France,2024,1213924,2025-02-02T14:00:00+00:00,UTC,1738504800,Match Finished,FT,90,Regular Season - 20,96,Toulouse,84,Nice,1,1,DRAW,682.0,Stadium de Toulouse,T. Léonard
+61,Ligue 1,France,2024,1213923,2025-02-02T16:15:00+00:00,UTC,1738512900,Match Finished,FT,90,Regular Season - 20,77,Angers,111,Le Havre,1,1,DRAW,634.0,Stade Raymond Kopa,J. Pignard
+61,Ligue 1,France,2024,1213922,2025-02-02T16:15:00+00:00,UTC,1738512900,Match Finished,FT,90,Regular Season - 20,93,Reims,83,Nantes,1,2,AWAY,22707.0,Stade Auguste-Delaune,B. Millot
+61,Ligue 1,France,2024,1213925,2025-02-02T16:15:00+00:00,UTC,1738512900,Match Finished,FT,90,Regular Season - 20,94,Rennes,95,Strasbourg,1,0,HOME,680.0,Roazhon Park,S. Frappart
+61,Ligue 1,France,2024,1213918,2025-02-02T19:45:00+00:00,UTC,1738525500,Match Finished,FT,90,Regular Season - 20,81,Marseille,80,Lyon,3,2,HOME,667.0,Orange Vélodrome,J. Brisard
+61,Ligue 1,France,2024,1213928,2025-02-07T18:00:00+00:00,UTC,1738951200,Match Finished,FT,90,Regular Season - 21,83,Nantes,106,Stade Brestois 29,0,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Pignard
+61,Ligue 1,France,2024,1213932,2025-02-07T20:05:00+00:00,UTC,1738958700,Match Finished,FT,90,Regular Season - 21,85,Paris Saint Germain,91,Monaco,4,1,HOME,671.0,Parc des Princes,C. Turpin
+61,Ligue 1,France,2024,1213935,2025-02-08T16:00:00+00:00,UTC,1739030400,Match Finished,FT,90,Regular Season - 21,84,Nice,116,Lens,2,0,HOME,663.0,Allianz Riviera,R. Lissorgue
+61,Ligue 1,France,2024,1213930,2025-02-08T18:00:00+00:00,UTC,1739037600,Match Finished,FT,90,Regular Season - 21,79,Lille,111,Le Havre,1,2,AWAY,,Decathlon Arena - Stade Pierre-Mauroy,T. Léonard
+61,Ligue 1,France,2024,1213931,2025-02-08T20:05:00+00:00,UTC,1739045100,Match Finished,FT,90,Regular Season - 21,1063,Saint Etienne,94,Rennes,0,2,AWAY,676.0,Stade Geoffroy-Guichard,M. Vernice
+61,Ligue 1,France,2024,1213933,2025-02-09T14:00:00+00:00,UTC,1739109600,Match Finished,FT,90,Regular Season - 21,80,Lyon,93,Reims,4,0,HOME,666.0,Groupama Stadium,F. Letexier
+61,Ligue 1,France,2024,1213929,2025-02-09T16:15:00+00:00,UTC,1739117700,Match Finished,FT,90,Regular Season - 21,95,Strasbourg,82,Montpellier,2,0,HOME,681.0,Stade de la Meinau,J. Stinat
+61,Ligue 1,France,2024,1213927,2025-02-09T16:15:00+00:00,UTC,1739117700,Match Finished,FT,90,Regular Season - 21,108,Auxerre,96,Toulouse,2,2,DRAW,636.0,Stade de l'Abbé Deschamps,J. Brisard
+61,Ligue 1,France,2024,1213934,2025-02-09T19:45:00+00:00,UTC,1739130300,Match Finished,FT,90,Regular Season - 21,77,Angers,81,Marseille,0,2,AWAY,634.0,Stade Raymond Kopa,H. Ben El Hadj
+61,Ligue 1,France,2024,1213940,2025-02-14T19:45:00+00:00,UTC,1739562300,Match Finished,FT,90,Regular Season - 22,106,Stade Brestois 29,108,Auxerre,2,2,DRAW,641.0,Stade Francis-Le Blé,B. Dechepy
+61,Ligue 1,France,2024,1213937,2025-02-15T16:00:00+00:00,UTC,1739635200,Match Finished,FT,90,Regular Season - 22,81,Marseille,1063,Saint Etienne,5,1,HOME,667.0,Orange Vélodrome,A. Kherradji
+61,Ligue 1,France,2024,1213944,2025-02-15T18:00:00+00:00,UTC,1739642400,Match Finished,FT,90,Regular Season - 22,91,Monaco,83,Nantes,7,1,HOME,20470.0,Stade Louis-II,T. Léonard
+61,Ligue 1,France,2024,1213936,2025-02-15T20:05:00+00:00,UTC,1739649900,Match Finished,FT,90,Regular Season - 22,96,Toulouse,85,Paris Saint Germain,0,1,AWAY,682.0,Stadium de Toulouse,W. Delajod
+61,Ligue 1,France,2024,1213938,2025-02-16T14:00:00+00:00,UTC,1739714400,Match Finished,FT,90,Regular Season - 22,82,Montpellier,80,Lyon,1,4,AWAY,20107.0,Stade de la Mosson-Mondial 98,M. Bollengier
+61,Ligue 1,France,2024,1213942,2025-02-16T16:15:00+00:00,UTC,1739722500,Match Finished,FT,90,Regular Season - 22,93,Reims,77,Angers,0,1,AWAY,22707.0,Stade Auguste-Delaune,F. Batta
+61,Ligue 1,France,2024,1213943,2025-02-16T16:15:00+00:00,UTC,1739722500,Match Finished,FT,90,Regular Season - 22,111,Le Havre,84,Nice,1,3,AWAY,652.0,Stade Océane,S. Frappart
+61,Ligue 1,France,2024,1213939,2025-02-16T16:15:00+00:00,UTC,1739722500,Match Finished,FT,90,Regular Season - 22,116,Lens,95,Strasbourg,0,2,AWAY,654.0,Stade Bollaert-Delelis,B. Millot
+61,Ligue 1,France,2024,1213941,2025-02-16T19:45:00+00:00,UTC,1739735100,Match Finished,FT,90,Regular Season - 22,94,Rennes,79,Lille,0,2,AWAY,680.0,Roazhon Park,R. Lissorgue
+61,Ligue 1,France,2024,1213945,2025-02-21T19:45:00+00:00,UTC,1740167100,Match Finished,FT,90,Regular Season - 23,94,Rennes,93,Reims,1,0,HOME,680.0,Roazhon Park,M. Bollengier
+61,Ligue 1,France,2024,1213947,2025-02-22T16:00:00+00:00,UTC,1740240000,Match Finished,FT,90,Regular Season - 23,79,Lille,91,Monaco,2,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,B. Bastien
+61,Ligue 1,France,2024,1213950,2025-02-22T18:00:00+00:00,UTC,1740247200,Match Finished,FT,90,Regular Season - 23,1063,Saint Etienne,77,Angers,3,3,DRAW,676.0,Stade Geoffroy-Guichard,B. Dechepy
+61,Ligue 1,France,2024,1213951,2025-02-22T20:05:00+00:00,UTC,1740254700,Match Finished,FT,90,Regular Season - 23,108,Auxerre,81,Marseille,3,0,HOME,636.0,Stade de l'Abbé Deschamps,J. Stinat
+61,Ligue 1,France,2024,1213949,2025-02-23T14:00:00+00:00,UTC,1740319200,Match Finished,FT,90,Regular Season - 23,83,Nantes,116,Lens,3,1,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+61,Ligue 1,France,2024,1213952,2025-02-23T16:15:00+00:00,UTC,1740327300,Match Finished,FT,90,Regular Season - 23,84,Nice,82,Montpellier,2,0,HOME,663.0,Allianz Riviera,W. Delajod
+61,Ligue 1,France,2024,1213948,2025-02-23T16:15:00+00:00,UTC,1740327300,Match Finished,FT,90,Regular Season - 23,95,Strasbourg,106,Stade Brestois 29,0,0,DRAW,681.0,Stade de la Meinau,C. Turpin
+61,Ligue 1,France,2024,1213946,2025-02-23T16:15:00+00:00,UTC,1740327300,Match Finished,FT,90,Regular Season - 23,111,Le Havre,96,Toulouse,1,4,AWAY,652.0,Stade Océane,F. Letexier
+61,Ligue 1,France,2024,1213953,2025-02-23T19:45:00+00:00,UTC,1740339900,Match Finished,FT,90,Regular Season - 23,80,Lyon,85,Paris Saint Germain,2,3,AWAY,666.0,Groupama Stadium,E. Wattellier
+61,Ligue 1,France,2024,1213961,2025-02-28T19:45:00+00:00,UTC,1740771900,Match Finished,FT,90,Regular Season - 24,91,Monaco,93,Reims,3,0,HOME,20470.0,Stade Louis-II,E. Wattellier
+61,Ligue 1,France,2024,1213958,2025-03-01T16:00:00+00:00,UTC,1740844800,Match Finished,FT,90,Regular Season - 24,1063,Saint Etienne,84,Nice,1,3,AWAY,676.0,Stade Geoffroy-Guichard,J. Brisard
+61,Ligue 1,France,2024,1213959,2025-03-01T18:00:00+00:00,UTC,1740852000,Match Finished,FT,90,Regular Season - 24,116,Lens,111,Le Havre,3,4,AWAY,654.0,Stade Bollaert-Delelis,J. Pignard
+61,Ligue 1,France,2024,1213954,2025-03-01T20:05:00+00:00,UTC,1740859500,Match Finished,FT,90,Regular Season - 24,85,Paris Saint Germain,79,Lille,4,1,HOME,671.0,Parc des Princes,F. Letexier
+61,Ligue 1,France,2024,1213956,2025-03-02T14:00:00+00:00,UTC,1740924000,Match Finished,FT,90,Regular Season - 24,80,Lyon,106,Stade Brestois 29,2,1,HOME,666.0,Groupama Stadium,B. Millot
+61,Ligue 1,France,2024,1213962,2025-03-02T16:15:00+00:00,UTC,1740932100,Match Finished,FT,90,Regular Season - 24,77,Angers,96,Toulouse,0,4,AWAY,634.0,Stade Raymond Kopa,J. Stinat
+61,Ligue 1,France,2024,1213957,2025-03-02T16:15:00+00:00,UTC,1740932100,Match Finished,FT,90,Regular Season - 24,82,Montpellier,94,Rennes,0,4,AWAY,20107.0,Stade de la Mosson-Mondial 98,F. Batta
+61,Ligue 1,France,2024,1213960,2025-03-02T16:15:00+00:00,UTC,1740932100,Match Finished,FT,90,Regular Season - 24,108,Auxerre,95,Strasbourg,0,1,AWAY,636.0,Stade de l'Abbé Deschamps,M. Vernice
+61,Ligue 1,France,2024,1213955,2025-03-02T19:45:00+00:00,UTC,1740944700,Match Finished,FT,90,Regular Season - 24,81,Marseille,83,Nantes,2,0,HOME,667.0,Orange Vélodrome,S. Frappart
+61,Ligue 1,France,2024,1213966,2025-03-07T19:45:00+00:00,UTC,1741376700,Match Finished,FT,90,Regular Season - 25,96,Toulouse,91,Monaco,1,1,DRAW,682.0,Stadium de Toulouse,M. Bollengier
+61,Ligue 1,France,2024,1213970,2025-03-08T16:00:00+00:00,UTC,1741449600,Match Finished,FT,90,Regular Season - 25,94,Rennes,85,Paris Saint Germain,1,4,AWAY,680.0,Roazhon Park,M. Vernice
+61,Ligue 1,France,2024,1213969,2025-03-08T18:00:00+00:00,UTC,1741456800,Match Finished,FT,90,Regular Season - 25,79,Lille,82,Montpellier,1,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,J. Pignard
+61,Ligue 1,France,2024,1213971,2025-03-08T20:05:00+00:00,UTC,1741464300,Match Finished,FT,90,Regular Season - 25,81,Marseille,116,Lens,0,1,AWAY,667.0,Orange Vélodrome,T. Léonard
+61,Ligue 1,France,2024,1213968,2025-03-09T14:00:00+00:00,UTC,1741528800,Match Finished,FT,90,Regular Season - 25,106,Stade Brestois 29,77,Angers,2,0,HOME,641.0,Stade Francis-Le Blé,A. Kherradji
+61,Ligue 1,France,2024,1213965,2025-03-09T16:15:00+00:00,UTC,1741536900,Match Finished,FT,90,Regular Season - 25,83,Nantes,95,Strasbourg,0,1,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,H. Ben El Hadj
+61,Ligue 1,France,2024,1213964,2025-03-09T16:15:00+00:00,UTC,1741536900,Match Finished,FT,90,Regular Season - 25,93,Reims,108,Auxerre,0,2,AWAY,22707.0,Stade Auguste-Delaune,R. Lissorgue
+61,Ligue 1,France,2024,1213963,2025-03-09T16:15:00+00:00,UTC,1741536900,Match Finished,FT,90,Regular Season - 25,111,Le Havre,1063,Saint Etienne,1,1,DRAW,652.0,Stade Océane,C. Turpin
+61,Ligue 1,France,2024,1213967,2025-03-09T19:45:00+00:00,UTC,1741549500,Match Finished,FT,90,Regular Season - 25,84,Nice,80,Lyon,0,2,AWAY,663.0,Allianz Riviera,B. Bastien
+61,Ligue 1,France,2024,1213973,2025-03-14T19:45:00+00:00,UTC,1741981500,Match Finished,FT,90,Regular Season - 26,84,Nice,108,Auxerre,1,1,DRAW,663.0,Allianz Riviera,A. Kherradji
+61,Ligue 1,France,2024,1213979,2025-03-15T16:00:00+00:00,UTC,1742054400,Match Finished,FT,90,Regular Season - 26,83,Nantes,79,Lille,1,0,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,B. Millot
+61,Ligue 1,France,2024,1213980,2025-03-15T18:00:00+00:00,UTC,1742061600,Match Finished,FT,90,Regular Season - 26,77,Angers,91,Monaco,0,2,AWAY,634.0,Stade Raymond Kopa,W. Delajod
+61,Ligue 1,France,2024,1213977,2025-03-15T20:05:00+00:00,UTC,1742069100,Match Finished,FT,90,Regular Season - 26,116,Lens,94,Rennes,1,0,HOME,654.0,Stade Bollaert-Delelis,S. Frappart
+61,Ligue 1,France,2024,1213976,2025-03-16T14:00:00+00:00,UTC,1742133600,Match Finished,FT,90,Regular Season - 26,80,Lyon,111,Le Havre,4,2,HOME,666.0,Groupama Stadium,B. Dechepy
+61,Ligue 1,France,2024,1213974,2025-03-16T16:15:00+00:00,UTC,1742141700,Match Finished,FT,90,Regular Season - 26,82,Montpellier,1063,Saint Etienne,0,2,AWAY,20107.0,Stade de la Mosson-Mondial 98,F. Letexier
+61,Ligue 1,France,2024,1213978,2025-03-16T16:15:00+00:00,UTC,1742141700,Match Finished,FT,90,Regular Season - 26,95,Strasbourg,96,Toulouse,2,1,HOME,681.0,Stade de la Meinau,F. Batta
+61,Ligue 1,France,2024,1213975,2025-03-16T16:15:00+00:00,UTC,1742141700,Match Finished,FT,90,Regular Season - 26,106,Stade Brestois 29,93,Reims,0,0,DRAW,641.0,Stade Francis-Le Blé,J. Brisard
+61,Ligue 1,France,2024,1213972,2025-03-16T19:45:00+00:00,UTC,1742154300,Match Finished,FT,90,Regular Season - 26,85,Paris Saint Germain,81,Marseille,3,1,HOME,671.0,Parc des Princes,C. Turpin
+61,Ligue 1,France,2024,1213984,2025-03-28T19:45:00+00:00,UTC,1743191100,Match Finished,FT,90,Regular Season - 27,95,Strasbourg,80,Lyon,4,2,HOME,681.0,Stade de la Meinau,R. Lissorgue
+61,Ligue 1,France,2024,1213987,2025-03-29T16:00:00+00:00,UTC,1743264000,Match Finished,FT,90,Regular Season - 27,93,Reims,81,Marseille,3,1,HOME,22707.0,Stade Auguste-Delaune,W. Delajod
+61,Ligue 1,France,2024,1213986,2025-03-29T18:00:00+00:00,UTC,1743271200,Match Finished,FT,90,Regular Season - 27,1063,Saint Etienne,85,Paris Saint Germain,1,6,AWAY,676.0,Stade Geoffroy-Guichard,J. Stinat
+61,Ligue 1,France,2024,1213989,2025-03-29T20:05:00+00:00,UTC,1743278700,Match Finished,FT,90,Regular Season - 27,91,Monaco,84,Nice,2,1,HOME,20470.0,Stade Louis-II,J. Brisard
+61,Ligue 1,France,2024,1213985,2025-03-30T13:00:00+00:00,UTC,1743339600,Match Finished,FT,90,Regular Season - 27,96,Toulouse,106,Stade Brestois 29,2,4,AWAY,682.0,Stadium de Toulouse,H. Ben El Hadj
+61,Ligue 1,France,2024,1213981,2025-03-30T15:15:00+00:00,UTC,1743347700,Match Finished,FT,90,Regular Season - 27,77,Angers,94,Rennes,0,3,AWAY,634.0,Stade Raymond Kopa,T. Léonard
+61,Ligue 1,France,2024,1213982,2025-03-30T15:15:00+00:00,UTC,1743347700,Match Finished,FT,90,Regular Season - 27,108,Auxerre,82,Montpellier,1,0,HOME,636.0,Stade de l'Abbé Deschamps,M. Bollengier
+61,Ligue 1,France,2024,1213983,2025-03-30T15:15:00+00:00,UTC,1743347700,Match Finished,FT,90,Regular Season - 27,111,Le Havre,83,Nantes,3,2,HOME,652.0,Stade Océane,E. Wattellier
+61,Ligue 1,France,2024,1213988,2025-03-30T18:45:00+00:00,UTC,1743360300,Match Finished,FT,90,Regular Season - 27,79,Lille,116,Lens,1,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,M. Vernice
+61,Ligue 1,France,2024,1213991,2025-04-04T18:45:00+00:00,UTC,1743792300,Match Finished,FT,90,Regular Season - 28,84,Nice,83,Nantes,1,2,AWAY,663.0,Allianz Riviera,H. Ben El Hadj
+61,Ligue 1,France,2024,1213996,2025-04-05T15:00:00+00:00,UTC,1743865200,Match Finished,FT,90,Regular Season - 28,85,Paris Saint Germain,77,Angers,1,0,HOME,671.0,Parc des Princes,M. Bollengier
+61,Ligue 1,France,2024,1213992,2025-04-05T17:00:00+00:00,UTC,1743872400,Match Finished,FT,90,Regular Season - 28,106,Stade Brestois 29,91,Monaco,2,1,HOME,641.0,Stade Francis-Le Blé,T. Léonard
+61,Ligue 1,France,2024,1213994,2025-04-05T19:05:00+00:00,UTC,1743879900,Match Finished,FT,90,Regular Season - 28,80,Lyon,79,Lille,2,1,HOME,666.0,Groupama Stadium,E. Wattellier
+61,Ligue 1,France,2024,1213995,2025-04-06T13:00:00+00:00,UTC,1743944400,Match Finished,FT,90,Regular Season - 28,116,Lens,1063,Saint Etienne,1,0,HOME,654.0,Stade Bollaert-Delelis,R. Lissorgue
+61,Ligue 1,France,2024,1213993,2025-04-06T15:15:00+00:00,UTC,1743952500,Match Finished,FT,90,Regular Season - 28,82,Montpellier,111,Le Havre,0,2,AWAY,20107.0,Stade de la Mosson-Mondial 98,B. Bastien
+61,Ligue 1,France,2024,1213997,2025-04-06T15:15:00+00:00,UTC,1743952500,Match Finished,FT,90,Regular Season - 28,93,Reims,95,Strasbourg,0,1,AWAY,22707.0,Stade Auguste-Delaune,C. Turpin
+61,Ligue 1,France,2024,1213998,2025-04-06T15:15:00+00:00,UTC,1743952500,Match Finished,FT,90,Regular Season - 28,94,Rennes,108,Auxerre,0,1,AWAY,680.0,Roazhon Park,F. Batta
+61,Ligue 1,France,2024,1213990,2025-04-06T18:45:00+00:00,UTC,1743965100,Match Finished,FT,90,Regular Season - 28,81,Marseille,96,Toulouse,3,2,HOME,667.0,Orange Vélodrome,J. Pignard
+61,Ligue 1,France,2024,1214006,2025-04-11T18:45:00+00:00,UTC,1744397100,Match Finished,FT,90,Regular Season - 29,116,Lens,93,Reims,0,2,AWAY,654.0,Stade Bollaert-Delelis,F. Letexier
+61,Ligue 1,France,2024,1214007,2025-04-12T15:00:00+00:00,UTC,1744470000,Match Finished,FT,90,Regular Season - 29,91,Monaco,81,Marseille,3,0,HOME,20470.0,Stade Louis-II,B. Bastien
+61,Ligue 1,France,2024,1213999,2025-04-12T17:00:00+00:00,UTC,1744477200,Match Finished,FT,90,Regular Season - 29,96,Toulouse,79,Lille,1,2,AWAY,682.0,Stadium de Toulouse,J. Brisard
+61,Ligue 1,France,2024,1214003,2025-04-12T19:05:00+00:00,UTC,1744484700,Match Finished,FT,90,Regular Season - 29,95,Strasbourg,84,Nice,2,2,DRAW,681.0,Stade de la Meinau,J. Pignard
+61,Ligue 1,France,2024,1214004,2025-04-13T13:00:00+00:00,UTC,1744549200,Match Finished,FT,90,Regular Season - 29,1063,Saint Etienne,106,Stade Brestois 29,3,3,DRAW,676.0,Stade Geoffroy-Guichard,A. Kherradji
+61,Ligue 1,France,2024,1214005,2025-04-13T15:15:00+00:00,UTC,1744557300,Match Finished,FT,90,Regular Season - 29,77,Angers,82,Montpellier,2,0,HOME,634.0,Stade Raymond Kopa,B. Millot
+61,Ligue 1,France,2024,1214000,2025-04-13T15:15:00+00:00,UTC,1744557300,Match Finished,FT,90,Regular Season - 29,111,Le Havre,94,Rennes,1,5,AWAY,652.0,Stade Océane,W. Delajod
+61,Ligue 1,France,2024,1214001,2025-04-13T18:45:00+00:00,UTC,1744569900,Match Finished,FT,90,Regular Season - 29,108,Auxerre,80,Lyon,1,3,AWAY,636.0,Stade de l'Abbé Deschamps,S. Frappart
+61,Ligue 1,France,2024,1214016,2025-04-18T18:45:00+00:00,UTC,1745001900,Match Finished,FT,90,Regular Season - 30,94,Rennes,83,Nantes,2,1,HOME,680.0,Roazhon Park,A. Kherradji
+61,Ligue 1,France,2024,1214012,2025-04-19T15:00:00+00:00,UTC,1745074800,Match Finished,FT,90,Regular Season - 30,85,Paris Saint Germain,111,Le Havre,2,1,HOME,671.0,Parc des Princes,M. Vernice
+61,Ligue 1,France,2024,1214015,2025-04-19T17:00:00+00:00,UTC,1745082000,Match Finished,FT,90,Regular Season - 30,91,Monaco,95,Strasbourg,0,0,DRAW,20470.0,Stade Louis-II,E. Wattellier
+61,Ligue 1,France,2024,1214013,2025-04-19T19:05:00+00:00,UTC,1745089500,Match Finished,FT,90,Regular Season - 30,81,Marseille,82,Montpellier,5,1,HOME,667.0,Orange Vélodrome,J. Brisard
+61,Ligue 1,France,2024,1214011,2025-04-20T13:00:00+00:00,UTC,1745154000,Match Finished,FT,90,Regular Season - 30,79,Lille,108,Auxerre,3,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,T. Léonard
+61,Ligue 1,France,2024,1214009,2025-04-20T15:15:00+00:00,UTC,1745162100,Match Finished,FT,90,Regular Season - 30,84,Nice,77,Angers,2,1,HOME,663.0,Allianz Riviera,J. Stinat
+61,Ligue 1,France,2024,1214014,2025-04-20T15:15:00+00:00,UTC,1745162100,Match Finished,FT,90,Regular Season - 30,93,Reims,96,Toulouse,1,0,HOME,22707.0,Stade Auguste-Delaune,M. Bollengier
+61,Ligue 1,France,2024,1214010,2025-04-20T15:15:00+00:00,UTC,1745162100,Match Finished,FT,90,Regular Season - 30,106,Stade Brestois 29,116,Lens,1,3,AWAY,641.0,Stade Francis-Le Blé,B. Millot
+61,Ligue 1,France,2024,1214008,2025-04-20T18:45:00+00:00,UTC,1745174700,Match Finished,FT,90,Regular Season - 30,1063,Saint Etienne,80,Lyon,2,1,HOME,676.0,Stade Geoffroy-Guichard,F. Letexier
+61,Ligue 1,France,2024,1214002,2025-04-22T18:45:00+00:00,UTC,1745347500,Match Finished,FT,90,Regular Season - 29,83,Nantes,85,Paris Saint Germain,1,1,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Pignard
+61,Ligue 1,France,2024,1214023,2025-04-25T18:45:00+00:00,UTC,1745606700,Match Finished,FT,90,Regular Season - 31,85,Paris Saint Germain,84,Nice,1,3,AWAY,671.0,Parc des Princes,W. Delajod
+61,Ligue 1,France,2024,1214018,2025-04-26T15:00:00+00:00,UTC,1745679600,Match Finished,FT,90,Regular Season - 31,95,Strasbourg,1063,Saint Etienne,3,1,HOME,681.0,Stade de la Meinau,B. Bastien
+61,Ligue 1,France,2024,1214017,2025-04-26T17:00:00+00:00,UTC,1745686800,Match Finished,FT,90,Regular Season - 31,111,Le Havre,91,Monaco,1,1,DRAW,652.0,Stade Océane,C. Turpin
+61,Ligue 1,France,2024,1214025,2025-04-26T19:05:00+00:00,UTC,1745694300,Match Finished,FT,90,Regular Season - 31,80,Lyon,94,Rennes,4,1,HOME,666.0,Groupama Stadium,M. Bollengier
+61,Ligue 1,France,2024,1214022,2025-04-27T13:00:00+00:00,UTC,1745758800,Match Finished,FT,90,Regular Season - 31,77,Angers,79,Lille,0,2,AWAY,634.0,Stade Raymond Kopa,H. Ben El Hadj
+61,Ligue 1,France,2024,1214020,2025-04-27T15:15:00+00:00,UTC,1745766900,Match Finished,FT,90,Regular Season - 31,82,Montpellier,93,Reims,0,0,DRAW,20107.0,Stade de la Mosson-Mondial 98,J. Pignard
+61,Ligue 1,France,2024,1214019,2025-04-27T15:15:00+00:00,UTC,1745766900,Match Finished,FT,90,Regular Season - 31,83,Nantes,96,Toulouse,0,0,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,F. Batta
+61,Ligue 1,France,2024,1214021,2025-04-27T15:15:00+00:00,UTC,1745766900,Match Finished,FT,90,Regular Season - 31,116,Lens,108,Auxerre,0,4,AWAY,654.0,Stade Bollaert-Delelis,M. Vernice
+61,Ligue 1,France,2024,1214024,2025-04-27T18:45:00+00:00,UTC,1745779500,Match Finished,FT,90,Regular Season - 31,81,Marseille,106,Stade Brestois 29,4,1,HOME,667.0,Orange Vélodrome,S. Frappart
+61,Ligue 1,France,2024,1214028,2025-05-02T18:45:00+00:00,UTC,1746211500,Match Finished,FT,90,Regular Season - 32,84,Nice,93,Reims,1,0,HOME,663.0,Allianz Riviera,A. Kherradji
+61,Ligue 1,France,2024,1214033,2025-05-03T15:00:00+00:00,UTC,1746284400,Match Finished,FT,90,Regular Season - 32,95,Strasbourg,85,Paris Saint Germain,2,1,HOME,681.0,Stade de la Meinau,H. Ben El Hadj
+61,Ligue 1,France,2024,1214032,2025-05-03T17:00:00+00:00,UTC,1746291600,Match Finished,FT,90,Regular Season - 32,96,Toulouse,94,Rennes,2,1,HOME,682.0,Stadium de Toulouse,B. Millot
+61,Ligue 1,France,2024,1214030,2025-05-03T19:05:00+00:00,UTC,1746299100,Match Finished,FT,90,Regular Season - 32,1063,Saint Etienne,91,Monaco,1,3,AWAY,676.0,Stade Geoffroy-Guichard,J. Brisard
+61,Ligue 1,France,2024,1214031,2025-05-04T13:00:00+00:00,UTC,1746363600,Match Finished,FT,90,Regular Season - 32,83,Nantes,77,Angers,0,1,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,T. Léonard
+61,Ligue 1,France,2024,1214026,2025-05-04T15:15:00+00:00,UTC,1746371700,Match Finished,FT,90,Regular Season - 32,80,Lyon,116,Lens,1,2,AWAY,666.0,Groupama Stadium,J. Stinat
+61,Ligue 1,France,2024,1214029,2025-05-04T15:15:00+00:00,UTC,1746371700,Match Finished,FT,90,Regular Season - 32,106,Stade Brestois 29,82,Montpellier,1,0,HOME,641.0,Stade Francis-Le Blé,R. Lissorgue
+61,Ligue 1,France,2024,1214034,2025-05-04T15:15:00+00:00,UTC,1746371700,Match Finished,FT,90,Regular Season - 32,108,Auxerre,111,Le Havre,1,2,AWAY,636.0,Stade de l'Abbé Deschamps,J. Pignard
+61,Ligue 1,France,2024,1214027,2025-05-04T18:45:00+00:00,UTC,1746384300,Match Finished,FT,90,Regular Season - 32,79,Lille,81,Marseille,1,1,DRAW,,Decathlon Arena - Stade Pierre-Mauroy,E. Wattellier
+61,Ligue 1,France,2024,1214037,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,77,Angers,95,Strasbourg,2,1,HOME,634.0,Stade Raymond Kopa,C. Turpin
+61,Ligue 1,France,2024,1214040,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,82,Montpellier,85,Paris Saint Germain,1,4,AWAY,20107.0,Stade de la Mosson-Mondial 98,M. Vernice
+61,Ligue 1,France,2024,1214043,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,91,Monaco,80,Lyon,2,0,HOME,20470.0,Stade Louis-II,B. Bastien
+61,Ligue 1,France,2024,1214035,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,93,Reims,1063,Saint Etienne,0,2,AWAY,22707.0,Stade Auguste-Delaune,E. Wattellier
+61,Ligue 1,France,2024,1214039,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,94,Rennes,84,Nice,2,0,HOME,680.0,Roazhon Park,J. Stinat
+61,Ligue 1,France,2024,1214041,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,96,Toulouse,116,Lens,1,1,DRAW,682.0,Stadium de Toulouse,B. Dechepy
+61,Ligue 1,France,2024,1214042,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,106,Stade Brestois 29,79,Lille,2,0,HOME,641.0,Stade Francis-Le Blé,T. Léonard
+61,Ligue 1,France,2024,1214036,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,108,Auxerre,83,Nantes,1,1,DRAW,636.0,Stade de l'Abbé Deschamps,M. Bollengier
+61,Ligue 1,France,2024,1214038,2025-05-10T19:00:00+00:00,UTC,1746903600,Match Finished,FT,90,Regular Season - 33,111,Le Havre,81,Marseille,1,3,AWAY,652.0,Stade Océane,W. Delajod
+61,Ligue 1,France,2024,1214048,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,79,Lille,93,Reims,2,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+61,Ligue 1,France,2024,1214045,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,80,Lyon,77,Angers,2,0,HOME,666.0,Groupama Stadium,S. Frappart
+61,Ligue 1,France,2024,1214044,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,81,Marseille,94,Rennes,4,2,HOME,667.0,Orange Vélodrome,J. Pignard
+61,Ligue 1,France,2024,1214050,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,83,Nantes,82,Montpellier,3,0,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,C. Turpin
+61,Ligue 1,France,2024,1214046,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,84,Nice,106,Stade Brestois 29,6,0,HOME,663.0,Allianz Riviera,H. Ben El Hadj
+61,Ligue 1,France,2024,1214052,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,85,Paris Saint Germain,108,Auxerre,3,1,HOME,671.0,Parc des Princes,A. Kherradji
+61,Ligue 1,France,2024,1214049,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,95,Strasbourg,111,Le Havre,2,3,AWAY,681.0,Stade de la Meinau,J. Brisard
+61,Ligue 1,France,2024,1214051,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,116,Lens,91,Monaco,4,0,HOME,654.0,Stade Bollaert-Delelis,F. Letexier
+61,Ligue 1,France,2024,1214047,2025-05-17T19:00:00+00:00,UTC,1747508400,Match Finished,FT,90,Regular Season - 34,1063,Saint Etienne,96,Toulouse,2,3,AWAY,676.0,Stade Geoffroy-Guichard,T. Léonard
+61,Ligue 1,France,2024,1375858,2025-05-21T18:00:00+00:00,UTC,1747850400,Match Finished,FT,90,Relegation Round,112,Metz,93,Reims,1,1,DRAW,658.0,Stade Saint-Symphorien,H. Ben El Hadj
+61,Ligue 1,France,2024,1375859,2025-05-29T18:30:00+00:00,UTC,1748543400,Match Finished,AET,120,Relegation Round,93,Reims,112,Metz,1,3,AWAY,22707.0,Stade Auguste-Delaune,E. Wattellier

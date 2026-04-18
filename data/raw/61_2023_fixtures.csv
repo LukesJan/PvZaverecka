@@ -1,0 +1,309 @@
+league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
+61,Ligue 1,France,2023,1044885,2023-08-11T19:00:00+00:00,UTC,1691780400,Match Finished,FT,90,Regular Season - 1,84,Nice,79,Lille,1,1,DRAW,663.0,Allianz Riviera,B. Bastien
+61,Ligue 1,France,2023,1044884,2023-08-12T15:00:00+00:00,UTC,1691852400,Match Finished,FT,90,Regular Season - 1,81,Marseille,93,Reims,2,1,HOME,667.0,Orange Vélodrome,E. Wattellier
+61,Ligue 1,France,2023,1044881,2023-08-12T19:00:00+00:00,UTC,1691866800,Match Finished,FT,90,Regular Season - 1,85,Paris Saint Germain,97,Lorient,0,0,DRAW,671.0,Parc des Princes,B. Dechepy
+61,Ligue 1,France,2023,1044889,2023-08-13T11:00:00+00:00,UTC,1691924400,Match Finished,FT,90,Regular Season - 1,106,Stade Brestois 29,116,Lens,3,2,HOME,641.0,Stade Francis-Le Blé,J. Pignard
+61,Ligue 1,France,2023,1044888,2023-08-13T13:00:00+00:00,UTC,1691931600,Match Finished,FT,90,Regular Season - 1,82,Montpellier,111,Le Havre,2,2,DRAW,20107.0,Stade de la Mosson-Mondial 98,C. Turpin
+61,Ligue 1,France,2023,1044887,2023-08-13T13:00:00+00:00,UTC,1691931600,Match Finished,FT,90,Regular Season - 1,83,Nantes,96,Toulouse,1,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,W. Delajod
+61,Ligue 1,France,2023,1044886,2023-08-13T13:00:00+00:00,UTC,1691931600,Match Finished,FT,90,Regular Season - 1,99,Clermont Foot,91,Monaco,2,4,AWAY,644.0,Stade Gabriel-Montpied,F. Letexier
+61,Ligue 1,France,2023,1044883,2023-08-13T15:05:00+00:00,UTC,1691939100,Match Finished,FT,90,Regular Season - 1,94,Rennes,112,Metz,5,1,HOME,680.0,Roazhon Park,J. Stinat
+61,Ligue 1,France,2023,1044882,2023-08-13T18:45:00+00:00,UTC,1691952300,Match Finished,FT,90,Regular Season - 1,95,Strasbourg,80,Lyon,2,1,HOME,681.0,Stade de la Meinau,J. Brisard
+61,Ligue 1,France,2023,1044898,2023-08-18T19:00:00+00:00,UTC,1692385200,Match Finished,FT,90,Regular Season - 2,112,Metz,81,Marseille,2,2,DRAW,658.0,Stade Saint-Symphorien,J. Brisard
+61,Ligue 1,France,2023,1044894,2023-08-19T17:00:00+00:00,UTC,1692464400,Match Finished,FT,90,Regular Season - 2,80,Lyon,82,Montpellier,1,4,AWAY,666.0,Groupama Stadium,M. Vernice
+61,Ligue 1,France,2023,1044890,2023-08-19T19:00:00+00:00,UTC,1692471600,Match Finished,FT,90,Regular Season - 2,96,Toulouse,85,Paris Saint Germain,1,1,DRAW,682.0,Stadium de Toulouse,T. Léonard
+61,Ligue 1,France,2023,1044893,2023-08-20T11:00:00+00:00,UTC,1692529200,Match Finished,FT,90,Regular Season - 2,79,Lille,83,Nantes,2,0,HOME,19207.0,Decathlon Arena - Stade Pierre-Mauroy,P. Gaillouste
+61,Ligue 1,France,2023,1044895,2023-08-20T13:00:00+00:00,UTC,1692536400,Match Finished,FT,90,Regular Season - 2,93,Reims,99,Clermont Foot,2,0,HOME,674.0,Stade Auguste-Delaune,R. Lissorgue
+61,Ligue 1,France,2023,1044891,2023-08-20T13:00:00+00:00,UTC,1692536400,Match Finished,FT,90,Regular Season - 2,97,Lorient,84,Nice,1,1,DRAW,656.0,Stade du Moustoir - Yves Allainmat,H. Ben El Hadj
+61,Ligue 1,France,2023,1044897,2023-08-20T13:00:00+00:00,UTC,1692536400,Match Finished,FT,90,Regular Season - 2,111,Le Havre,106,Stade Brestois 29,1,2,AWAY,652.0,Stade Océane,F. Batta
+61,Ligue 1,France,2023,1044892,2023-08-20T17:00:00+00:00,UTC,1692550800,Match Finished,FT,90,Regular Season - 2,91,Monaco,95,Strasbourg,3,0,HOME,20470.0,Stade Louis-II,R. Buquet
+61,Ligue 1,France,2023,1044896,2023-08-20T18:45:00+00:00,UTC,1692557100,Match Finished,FT,90,Regular Season - 2,116,Lens,94,Rennes,1,1,DRAW,654.0,Stade Bollaert-Delelis,B. Millot
+61,Ligue 1,France,2023,1044906,2023-08-25T19:00:00+00:00,UTC,1692990000,Match Finished,FT,90,Regular Season - 3,83,Nantes,91,Monaco,3,3,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Pignard
+61,Ligue 1,France,2023,1044902,2023-08-26T17:00:00+00:00,UTC,1693069200,Match Finished,FT,90,Regular Season - 3,81,Marseille,106,Stade Brestois 29,2,0,HOME,667.0,Orange Vélodrome,J. Stinat
+61,Ligue 1,France,2023,1044899,2023-08-26T19:00:00+00:00,UTC,1693076400,Match Finished,FT,90,Regular Season - 3,85,Paris Saint Germain,116,Lens,3,1,HOME,671.0,Parc des Princes,F. Letexier
+61,Ligue 1,France,2023,1044901,2023-08-27T11:00:00+00:00,UTC,1693134000,Match Finished,FT,90,Regular Season - 3,94,Rennes,111,Le Havre,2,2,DRAW,680.0,Roazhon Park,E. Wattellier
+61,Ligue 1,France,2023,1044907,2023-08-27T13:00:00+00:00,UTC,1693141200,Match Finished,FT,90,Regular Season - 3,82,Montpellier,93,Reims,1,3,AWAY,20107.0,Stade de la Mosson-Mondial 98,M. Bollengier
+61,Ligue 1,France,2023,1044900,2023-08-27T13:00:00+00:00,UTC,1693141200,Match Finished,FT,90,Regular Season - 3,95,Strasbourg,96,Toulouse,2,0,HOME,681.0,Stade de la Meinau,B. Bastien
+61,Ligue 1,France,2023,1044905,2023-08-27T13:00:00+00:00,UTC,1693141200,Match Finished,FT,90,Regular Season - 3,99,Clermont Foot,112,Metz,0,1,AWAY,644.0,Stade Gabriel-Montpied,G. Angoula
+61,Ligue 1,France,2023,1044903,2023-08-27T15:05:00+00:00,UTC,1693148700,Match Finished,FT,90,Regular Season - 3,97,Lorient,79,Lille,4,1,HOME,656.0,Stade du Moustoir - Yves Allainmat,W. Delajod
+61,Ligue 1,France,2023,1044904,2023-08-27T18:45:00+00:00,UTC,1693161900,Match Finished,FT,90,Regular Season - 3,84,Nice,80,Lyon,0,0,DRAW,663.0,Allianz Riviera,B. Dechepy
+61,Ligue 1,France,2023,1044913,2023-09-01T19:00:00+00:00,UTC,1693594800,Match Finished,FT,90,Regular Season - 4,83,Nantes,81,Marseille,1,1,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,R. Buquet
+61,Ligue 1,France,2023,1044916,2023-09-02T15:00:00+00:00,UTC,1693666800,Match Finished,FT,90,Regular Season - 4,106,Stade Brestois 29,94,Rennes,0,0,DRAW,641.0,Stade Francis-Le Blé,H. Ben El Hadj
+61,Ligue 1,France,2023,1044909,2023-09-02T19:00:00+00:00,UTC,1693681200,Match Finished,FT,90,Regular Season - 4,91,Monaco,116,Lens,3,0,HOME,20470.0,Stade Louis-II,W. Delajod
+61,Ligue 1,France,2023,1044908,2023-09-03T11:00:00+00:00,UTC,1693738800,Match Finished,FT,90,Regular Season - 4,96,Toulouse,99,Clermont Foot,2,2,DRAW,682.0,Stadium de Toulouse,F. Batta
+61,Ligue 1,France,2023,1044910,2023-09-03T13:00:00+00:00,UTC,1693746000,Match Finished,FT,90,Regular Season - 4,79,Lille,82,Montpellier,1,0,HOME,19207.0,Decathlon Arena - Stade Pierre-Mauroy,B. Millot
+61,Ligue 1,France,2023,1044914,2023-09-03T13:00:00+00:00,UTC,1693746000,Match Finished,FT,90,Regular Season - 4,111,Le Havre,97,Lorient,3,0,HOME,652.0,Stade Océane,R. Lissorgue
+61,Ligue 1,France,2023,1044915,2023-09-03T13:00:00+00:00,UTC,1693746000,Match Finished,FT,90,Regular Season - 4,112,Metz,93,Reims,2,2,DRAW,658.0,Stade Saint-Symphorien,M. Vernice
+61,Ligue 1,France,2023,1044912,2023-09-03T15:05:00+00:00,UTC,1693753500,Match Finished,FT,90,Regular Season - 4,84,Nice,95,Strasbourg,2,0,HOME,663.0,Allianz Riviera,J. Stinat
+61,Ligue 1,France,2023,1044911,2023-09-03T18:45:00+00:00,UTC,1693766700,Match Finished,FT,90,Regular Season - 4,80,Lyon,85,Paris Saint Germain,1,4,AWAY,666.0,Groupama Stadium,E. Wattellier
+61,Ligue 1,France,2023,1044917,2023-09-15T19:00:00+00:00,UTC,1694804400,Match Finished,FT,90,Regular Season - 5,85,Paris Saint Germain,84,Nice,2,3,AWAY,671.0,Parc des Princes,C. Turpin
+61,Ligue 1,France,2023,1044919,2023-09-16T15:00:00+00:00,UTC,1694876400,Match Finished,FT,90,Regular Season - 5,94,Rennes,79,Lille,2,2,DRAW,680.0,Roazhon Park,J. Brisard
+61,Ligue 1,France,2023,1044925,2023-09-16T19:00:00+00:00,UTC,1694890800,Match Finished,FT,90,Regular Season - 5,116,Lens,112,Metz,0,1,AWAY,654.0,Stade Bollaert-Delelis,S. Frappart
+61,Ligue 1,France,2023,1044921,2023-09-17T11:00:00+00:00,UTC,1694948400,Match Finished,FT,90,Regular Season - 5,97,Lorient,91,Monaco,2,2,DRAW,656.0,Stade du Moustoir - Yves Allainmat,M. Bollengier
+61,Ligue 1,France,2023,1044924,2023-09-17T13:00:00+00:00,UTC,1694955600,Match Finished,FT,90,Regular Season - 5,93,Reims,106,Stade Brestois 29,1,2,AWAY,674.0,Stade Auguste-Delaune,G. Angoula
+61,Ligue 1,France,2023,1044918,2023-09-17T13:00:00+00:00,UTC,1694955600,Match Finished,FT,90,Regular Season - 5,95,Strasbourg,82,Montpellier,2,2,DRAW,681.0,Stade de la Meinau,P. Gaillouste
+61,Ligue 1,France,2023,1044923,2023-09-17T13:00:00+00:00,UTC,1694955600,Match Finished,FT,90,Regular Season - 5,99,Clermont Foot,83,Nantes,0,1,AWAY,644.0,Stade Gabriel-Montpied,T. Léonard
+61,Ligue 1,France,2023,1044920,2023-09-17T15:05:00+00:00,UTC,1694963100,Match Finished,FT,90,Regular Season - 5,81,Marseille,96,Toulouse,0,0,DRAW,667.0,Orange Vélodrome,F. Letexier
+61,Ligue 1,France,2023,1044922,2023-09-17T18:45:00+00:00,UTC,1694976300,Match Finished,FT,90,Regular Season - 5,80,Lyon,111,Le Havre,0,0,DRAW,666.0,Groupama Stadium,B. Bastien
+61,Ligue 1,France,2023,1044927,2023-09-22T19:00:00+00:00,UTC,1695409200,Match Finished,FT,90,Regular Season - 6,91,Monaco,84,Nice,0,1,AWAY,20470.0,Stade Louis-II,B. Millot
+61,Ligue 1,France,2023,1044930,2023-09-23T15:00:00+00:00,UTC,1695481200,Match Finished,FT,90,Regular Season - 6,83,Nantes,97,Lorient,5,3,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,F. Batta
+61,Ligue 1,France,2023,1044934,2023-09-23T19:00:00+00:00,UTC,1695495600,Match Finished,FT,90,Regular Season - 6,106,Stade Brestois 29,80,Lyon,1,0,HOME,641.0,Stade Francis-Le Blé,T. Léonard
+61,Ligue 1,France,2023,1044932,2023-09-24T11:00:00+00:00,UTC,1695553200,Match Finished,FT,90,Regular Season - 6,112,Metz,95,Strasbourg,0,1,AWAY,658.0,Stade Saint-Symphorien,C. Turpin
+61,Ligue 1,France,2023,1044931,2023-09-24T13:00:00+00:00,UTC,1695560400,Match Finished,FT,90,Regular Season - 6,111,Le Havre,99,Clermont Foot,2,1,HOME,652.0,Stade Océane,M. Vernice
+61,Ligue 1,France,2023,1044929,2023-09-24T13:00:00+00:00,UTC,1695560400,Match Finished,FT,90,Regular Season - 6,116,Lens,96,Toulouse,2,1,HOME,654.0,Stade Bollaert-Delelis,H. Ben El Hadj
+61,Ligue 1,France,2023,1044933,2023-09-24T15:05:00+00:00,UTC,1695567900,Match Finished,FT,90,Regular Season - 6,82,Montpellier,94,Rennes,0,0,DRAW,20107.0,Stade de la Mosson-Mondial 98,S. Frappart
+61,Ligue 1,France,2023,1044926,2023-09-24T18:45:00+00:00,UTC,1695581100,Match Finished,FT,90,Regular Season - 6,85,Paris Saint Germain,81,Marseille,4,0,HOME,671.0,Parc des Princes,W. Delajod
+61,Ligue 1,France,2023,1044928,2023-09-26T19:00:00+00:00,UTC,1695754800,Match Finished,FT,90,Regular Season - 6,79,Lille,93,Reims,1,2,AWAY,19207.0,Decathlon Arena - Stade Pierre-Mauroy,E. Wattellier
+61,Ligue 1,France,2023,1044935,2023-09-29T19:00:00+00:00,UTC,1696014000,Match Finished,FT,90,Regular Season - 7,95,Strasbourg,116,Lens,0,1,AWAY,681.0,Stade de la Meinau,J. Brisard
+61,Ligue 1,France,2023,1044941,2023-09-30T15:00:00+00:00,UTC,1696086000,Match Finished,FT,90,Regular Season - 7,99,Clermont Foot,85,Paris Saint Germain,0,0,DRAW,644.0,Stade Gabriel-Montpied,M. Bollengier
+61,Ligue 1,France,2023,1044939,2023-09-30T19:00:00+00:00,UTC,1696100400,Match Finished,FT,90,Regular Season - 7,91,Monaco,81,Marseille,3,2,HOME,20470.0,Stade Louis-II,B. Bastien
+61,Ligue 1,France,2023,1044942,2023-10-01T11:00:00+00:00,UTC,1696158000,Match Finished,FT,90,Regular Season - 7,93,Reims,80,Lyon,2,0,HOME,674.0,Stade Auguste-Delaune,F. Letexier
+61,Ligue 1,France,2023,1044940,2023-10-01T13:00:00+00:00,UTC,1696165200,Match Finished,FT,90,Regular Season - 7,84,Nice,106,Stade Brestois 29,0,0,DRAW,663.0,Allianz Riviera,R. Lissorgue
+61,Ligue 1,France,2023,1044937,2023-10-01T13:00:00+00:00,UTC,1696165200,Match Finished,FT,90,Regular Season - 7,96,Toulouse,112,Metz,3,0,HOME,682.0,Stadium de Toulouse,G. Angoula
+61,Ligue 1,France,2023,1044943,2023-10-01T13:00:00+00:00,UTC,1696165200,Match Finished,FT,90,Regular Season - 7,111,Le Havre,79,Lille,0,2,AWAY,652.0,Stade Océane,B. Dechepy
+61,Ligue 1,France,2023,1044938,2023-10-01T15:05:00+00:00,UTC,1696172700,Match Finished,FT,90,Regular Season - 7,97,Lorient,82,Montpellier,0,3,AWAY,656.0,Stade du Moustoir - Yves Allainmat,J. Stinat
+61,Ligue 1,France,2023,1044936,2023-10-01T18:45:00+00:00,UTC,1696185900,Match Finished,FT,90,Regular Season - 7,94,Rennes,83,Nantes,3,1,HOME,680.0,Roazhon Park,R. Buquet
+61,Ligue 1,France,2023,1044944,2023-10-06T19:00:00+00:00,UTC,1696618800,Match Finished,FT,90,Regular Season - 8,95,Strasbourg,83,Nantes,1,2,AWAY,681.0,Stade de la Meinau,S. Frappart
+61,Ligue 1,France,2023,1044950,2023-10-07T15:00:00+00:00,UTC,1696690800,Match Finished,FT,90,Regular Season - 8,112,Metz,84,Nice,0,1,AWAY,658.0,Stade Saint-Symphorien,J. Brisard
+61,Ligue 1,France,2023,1044948,2023-10-07T19:00:00+00:00,UTC,1696705200,Match Finished,FT,90,Regular Season - 8,93,Reims,91,Monaco,1,3,AWAY,674.0,Stade Auguste-Delaune,H. Ben El Hadj
+61,Ligue 1,France,2023,1044946,2023-10-08T11:00:00+00:00,UTC,1696762800,Match Finished,FT,90,Regular Season - 8,81,Marseille,111,Le Havre,3,0,HOME,667.0,Orange Vélodrome,T. Léonard
+61,Ligue 1,France,2023,1044947,2023-10-08T13:00:00+00:00,UTC,1696770000,Match Finished,FT,90,Regular Season - 8,80,Lyon,97,Lorient,3,3,DRAW,666.0,Groupama Stadium,C. Turpin
+61,Ligue 1,France,2023,1044952,2023-10-08T13:00:00+00:00,UTC,1696770000,Match Finished,FT,90,Regular Season - 8,106,Stade Brestois 29,96,Toulouse,1,1,DRAW,641.0,Stade Francis-Le Blé,P. Gaillouste
+61,Ligue 1,France,2023,1044949,2023-10-08T15:05:00+00:00,UTC,1696777500,Match Finished,FT,90,Regular Season - 8,116,Lens,79,Lille,1,1,DRAW,654.0,Stade Bollaert-Delelis,B. Millot
+61,Ligue 1,France,2023,1044945,2023-10-08T18:45:00+00:00,UTC,1696790700,Match Finished,FT,90,Regular Season - 8,94,Rennes,85,Paris Saint Germain,1,3,AWAY,680.0,Roazhon Park,B. Bastien
+61,Ligue 1,France,2023,1044961,2023-10-20T19:00:00+00:00,UTC,1697828400,Match Finished,FT,90,Regular Season - 9,111,Le Havre,116,Lens,0,0,DRAW,652.0,Stade Océane,F. Letexier
+61,Ligue 1,France,2023,1044953,2023-10-21T15:00:00+00:00,UTC,1697900400,Match Finished,FT,90,Regular Season - 9,85,Paris Saint Germain,95,Strasbourg,3,0,HOME,671.0,Parc des Princes,B. Dechepy
+61,Ligue 1,France,2023,1044959,2023-10-21T19:00:00+00:00,UTC,1697914800,Match Finished,FT,90,Regular Season - 9,84,Nice,81,Marseille,1,0,HOME,663.0,Allianz Riviera,R. Buquet
+61,Ligue 1,France,2023,1044955,2023-10-22T11:00:00+00:00,UTC,1697972400,Match Finished,FT,90,Regular Season - 9,97,Lorient,94,Rennes,2,1,HOME,656.0,Stade du Moustoir - Yves Allainmat,G. Angoula
+61,Ligue 1,France,2023,1044957,2023-10-22T13:00:00+00:00,UTC,1697979600,Match Finished,FT,90,Regular Season - 9,79,Lille,106,Stade Brestois 29,1,0,HOME,19207.0,Decathlon Arena - Stade Pierre-Mauroy,H. Ben El Hadj
+61,Ligue 1,France,2023,1044960,2023-10-22T13:00:00+00:00,UTC,1697979600,Match Finished,FT,90,Regular Season - 9,83,Nantes,82,Montpellier,2,0,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,M. Bollengier
+61,Ligue 1,France,2023,1044954,2023-10-22T13:00:00+00:00,UTC,1697979600,Match Finished,FT,90,Regular Season - 9,96,Toulouse,93,Reims,1,1,DRAW,682.0,Stadium de Toulouse,J. Stinat
+61,Ligue 1,France,2023,1044956,2023-10-22T15:05:00+00:00,UTC,1697987100,Match Finished,FT,90,Regular Season - 9,91,Monaco,112,Metz,2,1,HOME,20470.0,Stade Louis-II,R. Lissorgue
+61,Ligue 1,France,2023,1044958,2023-10-22T18:45:00+00:00,UTC,1698000300,Match Finished,FT,90,Regular Season - 9,80,Lyon,99,Clermont Foot,1,2,AWAY,666.0,Groupama Stadium,W. Delajod
+61,Ligue 1,France,2023,1044965,2023-10-27T19:00:00+00:00,UTC,1698433200,Match Finished,FT,90,Regular Season - 10,99,Clermont Foot,84,Nice,0,1,AWAY,644.0,Stade Gabriel-Montpied,J. Pignard
+61,Ligue 1,France,2023,1044966,2023-10-28T15:00:00+00:00,UTC,1698505200,Match Finished,FT,90,Regular Season - 10,93,Reims,97,Lorient,1,0,HOME,674.0,Stade Auguste-Delaune,B. Bastien
+61,Ligue 1,France,2023,1044967,2023-10-28T19:00:00+00:00,UTC,1698519600,Match Finished,FT,90,Regular Season - 10,116,Lens,83,Nantes,4,0,HOME,654.0,Stade Bollaert-Delelis,P. Gaillouste
+61,Ligue 1,France,2023,1044970,2023-10-29T12:00:00+00:00,UTC,1698580800,Match Finished,FT,90,Regular Season - 10,106,Stade Brestois 29,85,Paris Saint Germain,2,3,AWAY,641.0,Stade Francis-Le Blé,J. Brisard
+61,Ligue 1,France,2023,1044964,2023-10-29T14:00:00+00:00,UTC,1698588000,Match Finished,FT,90,Regular Season - 10,79,Lille,91,Monaco,2,0,HOME,19207.0,Decathlon Arena - Stade Pierre-Mauroy,C. Turpin
+61,Ligue 1,France,2023,1044969,2023-10-29T14:00:00+00:00,UTC,1698588000,Match Finished,FT,90,Regular Season - 10,82,Montpellier,96,Toulouse,3,0,HOME,20107.0,Stade de la Mosson-Mondial 98,T. Léonard
+61,Ligue 1,France,2023,1044968,2023-10-29T14:00:00+00:00,UTC,1698588000,Match Finished,FT,90,Regular Season - 10,112,Metz,111,Le Havre,0,0,DRAW,658.0,Stade Saint-Symphorien,H. Ben El Hadj
+61,Ligue 1,France,2023,1044962,2023-10-29T16:05:00+00:00,UTC,1698595500,Match Finished,FT,90,Regular Season - 10,94,Rennes,95,Strasbourg,1,1,DRAW,680.0,Roazhon Park,F. Batta
+61,Ligue 1,France,2023,1044971,2023-11-03T20:00:00+00:00,UTC,1699041600,Match Finished,FT,90,Regular Season - 11,85,Paris Saint Germain,82,Montpellier,3,0,HOME,671.0,Parc des Princes,R. Buquet
+61,Ligue 1,France,2023,1044975,2023-11-04T16:00:00+00:00,UTC,1699113600,Match Finished,FT,90,Regular Season - 11,97,Lorient,116,Lens,0,0,DRAW,656.0,Stade du Moustoir - Yves Allainmat,B. Dechepy
+61,Ligue 1,France,2023,1044974,2023-11-04T20:00:00+00:00,UTC,1699128000,Match Finished,FT,90,Regular Season - 11,81,Marseille,79,Lille,0,0,DRAW,667.0,Orange Vélodrome,S. Frappart
+61,Ligue 1,France,2023,1044977,2023-11-05T12:00:00+00:00,UTC,1699185600,Match Finished,FT,90,Regular Season - 11,80,Lyon,112,Metz,1,1,DRAW,666.0,Groupama Stadium,B. Millot
+61,Ligue 1,France,2023,1044979,2023-11-05T14:00:00+00:00,UTC,1699192800,Match Finished,FT,90,Regular Season - 11,83,Nantes,93,Reims,0,1,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,G. Angoula
+61,Ligue 1,France,2023,1044972,2023-11-05T14:00:00+00:00,UTC,1699192800,Match Finished,FT,90,Regular Season - 11,95,Strasbourg,99,Clermont Foot,0,0,DRAW,681.0,Stade de la Meinau,J. Stinat
+61,Ligue 1,France,2023,1044973,2023-11-05T14:00:00+00:00,UTC,1699192800,Match Finished,FT,90,Regular Season - 11,96,Toulouse,111,Le Havre,1,2,AWAY,682.0,Stadium de Toulouse,M. Bollengier
+61,Ligue 1,France,2023,1044976,2023-11-05T16:05:00+00:00,UTC,1699200300,Match Finished,FT,90,Regular Season - 11,91,Monaco,106,Stade Brestois 29,2,0,HOME,20470.0,Stade Louis-II,E. Wattellier
+61,Ligue 1,France,2023,1044978,2023-11-05T19:45:00+00:00,UTC,1699213500,Match Finished,FT,90,Regular Season - 11,84,Nice,94,Rennes,2,0,HOME,663.0,Allianz Riviera,C. Turpin
+61,Ligue 1,France,2023,1044987,2023-11-10T20:00:00+00:00,UTC,1699646400,Match Finished,FT,90,Regular Season - 12,82,Montpellier,84,Nice,0,0,DRAW,20107.0,Stade de la Mosson-Mondial 98,H. Ben El Hadj
+61,Ligue 1,France,2023,1044983,2023-11-11T16:00:00+00:00,UTC,1699718400,Match Finished,FT,90,Regular Season - 12,93,Reims,85,Paris Saint Germain,0,3,AWAY,674.0,Stade Auguste-Delaune,W. Delajod
+61,Ligue 1,France,2023,1044985,2023-11-11T20:00:00+00:00,UTC,1699732800,Match Finished,FT,90,Regular Season - 12,111,Le Havre,91,Monaco,0,0,DRAW,652.0,Stade Océane,T. Léonard
+61,Ligue 1,France,2023,1044981,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,79,Lille,96,Toulouse,1,1,DRAW,19207.0,Decathlon Arena - Stade Pierre-Mauroy,M. Vernice
+61,Ligue 1,France,2023,1044982,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,99,Clermont Foot,97,Lorient,1,0,HOME,644.0,Stade Gabriel-Montpied,R. Lissorgue
+61,Ligue 1,France,2023,1044986,2023-11-12T14:00:00+00:00,UTC,1699797600,Match Finished,FT,90,Regular Season - 12,112,Metz,83,Nantes,3,1,HOME,658.0,Stade Saint-Symphorien,F. Batta
+61,Ligue 1,France,2023,1044980,2023-11-12T16:05:00+00:00,UTC,1699805100,Match Finished,FT,90,Regular Season - 12,94,Rennes,80,Lyon,0,1,AWAY,680.0,Roazhon Park,S. Frappart
+61,Ligue 1,France,2023,1044984,2023-11-12T19:45:00+00:00,UTC,1699818300,Match Finished,FT,90,Regular Season - 12,116,Lens,81,Marseille,1,0,HOME,654.0,Stade Bollaert-Delelis,B. Bastien
+61,Ligue 1,France,2023,1044989,2023-11-24T20:00:00+00:00,UTC,1700856000,Match Finished,FT,90,Regular Season - 13,85,Paris Saint Germain,91,Monaco,5,2,HOME,671.0,Parc des Princes,B. Bastien
+61,Ligue 1,France,2023,1044995,2023-11-25T16:00:00+00:00,UTC,1700928000,Match Finished,FT,90,Regular Season - 13,99,Clermont Foot,116,Lens,0,3,AWAY,644.0,Stade Gabriel-Montpied,B. Millot
+61,Ligue 1,France,2023,1044990,2023-11-25T20:00:00+00:00,UTC,1700942400,Match Finished,FT,90,Regular Season - 13,95,Strasbourg,81,Marseille,1,1,DRAW,681.0,Stade de la Meinau,J. Brisard
+61,Ligue 1,France,2023,1044994,2023-11-26T12:00:00+00:00,UTC,1701000000,Match Finished,FT,90,Regular Season - 13,84,Nice,96,Toulouse,1,0,HOME,663.0,Allianz Riviera,F. Letexier
+61,Ligue 1,France,2023,1044997,2023-11-26T14:00:00+00:00,UTC,1701007200,Match Finished,FT,90,Regular Season - 13,82,Montpellier,106,Stade Brestois 29,1,3,AWAY,20107.0,Stade de la Mosson-Mondial 98,P. Gaillouste
+61,Ligue 1,France,2023,1044996,2023-11-26T14:00:00+00:00,UTC,1701007200,Match Finished,FT,90,Regular Season - 13,83,Nantes,111,Le Havre,0,0,DRAW,662.0,Stade de la Beaujoire - Louis Fonteneau,Miguel Nogueira
+61,Ligue 1,France,2023,1044992,2023-11-26T14:00:00+00:00,UTC,1701007200,Match Finished,FT,90,Regular Season - 13,97,Lorient,112,Metz,2,3,AWAY,656.0,Stade du Moustoir - Yves Allainmat,J. Pignard
+61,Ligue 1,France,2023,1044991,2023-11-26T16:05:00+00:00,UTC,1701014700,Match Finished,FT,90,Regular Season - 13,94,Rennes,93,Reims,3,1,HOME,680.0,Roazhon Park,R. Buquet
+61,Ligue 1,France,2023,1044993,2023-11-26T19:45:00+00:00,UTC,1701027900,Match Finished,FT,90,Regular Season - 13,80,Lyon,79,Lille,0,2,AWAY,666.0,Groupama Stadium,E. Wattellier
+61,Ligue 1,France,2023,1044951,2023-11-29T18:00:00+00:00,UTC,1701280800,Match Finished,FT,90,Regular Season - 8,82,Montpellier,99,Clermont Foot,1,1,DRAW,20107.0,Stade de la Mosson-Mondial 98,M. Vernice
+61,Ligue 1,France,2023,1045002,2023-12-01T20:00:00+00:00,UTC,1701460800,Match Finished,FT,90,Regular Season - 14,93,Reims,95,Strasbourg,2,1,HOME,674.0,Stade Auguste-Delaune,H. Ben El Hadj
+61,Ligue 1,France,2023,1045003,2023-12-02T16:00:00+00:00,UTC,1701532800,Match Finished,FT,90,Regular Season - 14,116,Lens,80,Lyon,3,2,HOME,654.0,Stade Bollaert-Delelis,C. Turpin
+61,Ligue 1,France,2023,1045004,2023-12-02T20:00:00+00:00,UTC,1701547200,Match Finished,FT,90,Regular Season - 14,83,Nantes,84,Nice,1,0,HOME,662.0,Stade de la Beaujoire - Louis Fonteneau,R. Buquet
+61,Ligue 1,France,2023,1045005,2023-12-03T12:00:00+00:00,UTC,1701604800,Match Finished,FT,90,Regular Season - 14,111,Le Havre,85,Paris Saint Germain,0,2,AWAY,652.0,Stade Océane,B. Dechepy
+61,Ligue 1,France,2023,1045000,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,91,Monaco,82,Montpellier,2,0,HOME,20470.0,Stade Louis-II,J. Stinat
+61,Ligue 1,France,2023,1044998,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,96,Toulouse,97,Lorient,1,1,DRAW,682.0,Stadium de Toulouse,T. Léonard
+61,Ligue 1,France,2023,1045006,2023-12-03T14:00:00+00:00,UTC,1701612000,Match Finished,FT,90,Regular Season - 14,106,Stade Brestois 29,99,Clermont Foot,3,0,HOME,641.0,Stade Francis-Le Blé,M. Bollengier
+61,Ligue 1,France,2023,1045001,2023-12-03T16:05:00+00:00,UTC,1701619500,Match Finished,FT,90,Regular Season - 14,79,Lille,112,Metz,2,0,HOME,19207.0,Decathlon Arena - Stade Pierre-Mauroy,G. Angoula
+61,Ligue 1,France,2023,1044999,2023-12-03T19:45:00+00:00,UTC,1701632700,Match Finished,FT,90,Regular Season - 14,81,Marseille,94,Rennes,2,0,HOME,667.0,Orange Vélodrome,W. Delajod
+61,Ligue 1,France,2023,1044963,2023-12-06T20:00:00+00:00,UTC,1701892800,Match Finished,FT,90,Regular Season - 10,81,Marseille,80,Lyon,3,0,HOME,667.0,Orange Vélodrome,F. Letexier
+61,Ligue 1,France,2023,1044988,2023-12-07T19:30:00+00:00,UTC,1701977400,Match Finished,FT,90,Regular Season - 12,106,Stade Brestois 29,95,Strasbourg,1,1,DRAW,641.0,Stade Francis-Le Blé,J. Pignard
+61,Ligue 1,France,2023,1045015,2023-12-08T20:00:00+00:00,UTC,1702065600,Match Finished,FT,90,Regular Season - 15,82,Montpellier,116,Lens,0,0,DRAW,20107.0,Stade de la Mosson-Mondial 98,S. Frappart
+61,Ligue 1,France,2023,1045009,2023-12-09T16:00:00+00:00,UTC,1702137600,Match Finished,FT,90,Regular Season - 15,94,Rennes,91,Monaco,1,2,AWAY,680.0,Roazhon Park,C. Turpin
+61,Ligue 1,France,2023,1045007,2023-12-09T20:00:00+00:00,UTC,1702152000,Match Finished,FT,90,Regular Season - 15,85,Paris Saint Germain,83,Nantes,2,1,HOME,671.0,Parc des Princes,J. Brisard
+61,Ligue 1,France,2023,1045012,2023-12-10T12:00:00+00:00,UTC,1702209600,Match Finished,FT,90,Regular Season - 15,84,Nice,93,Reims,2,1,HOME,663.0,Allianz Riviera,B. Bastien
+61,Ligue 1,France,2023,1045008,2023-12-10T14:00:00+00:00,UTC,1702216800,Match Finished,FT,90,Regular Season - 15,95,Strasbourg,111,Le Havre,2,1,HOME,681.0,Stade de la Meinau,B. Millot
+61,Ligue 1,France,2023,1045013,2023-12-10T14:00:00+00:00,UTC,1702216800,Match Finished,FT,90,Regular Season - 15,99,Clermont Foot,79,Lille,0,0,DRAW,644.0,Stade Gabriel-Montpied,F. Batta
+61,Ligue 1,France,2023,1045014,2023-12-10T14:00:00+00:00,UTC,1702216800,Match Finished,FT,90,Regular Season - 15,112,Metz,106,Stade Brestois 29,0,1,AWAY,658.0,Stade Saint-Symphorien,R. Lissorgue
+61,Ligue 1,France,2023,1045011,2023-12-10T16:05:00+00:00,UTC,1702224300,Match Finished,FT,90,Regular Season - 15,80,Lyon,96,Toulouse,3,0,HOME,666.0,Groupama Stadium,P. Gaillouste
+61,Ligue 1,France,2023,1045010,2023-12-10T19:45:00+00:00,UTC,1702237500,Match Finished,FT,90,Regular Season - 15,97,Lorient,81,Marseille,2,4,AWAY,656.0,Stade du Moustoir - Yves Allainmat,E. Wattellier
+61,Ligue 1,France,2023,1045019,2023-12-15T20:00:00+00:00,UTC,1702670400,Match Finished,FT,90,Regular Season - 16,91,Monaco,80,Lyon,0,1,AWAY,20470.0,Stade Louis-II,R. Buquet
+61,Ligue 1,France,2023,1045023,2023-12-16T16:00:00+00:00,UTC,1702742400,Match Finished,FT,90,Regular Season - 16,111,Le Havre,84,Nice,3,1,HOME,652.0,Stade Océane,J. Pignard
+61,Ligue 1,France,2023,1045021,2023-12-16T20:00:00+00:00,UTC,1702756800,Match Finished,FT,90,Regular Season - 16,116,Lens,93,Reims,2,0,HOME,654.0,Stade Bollaert-Delelis,F. Letexier
+61,Ligue 1,France,2023,1045022,2023-12-17T12:00:00+00:00,UTC,1702814400,Match Finished,FT,90,Regular Season - 16,83,Nantes,106,Stade Brestois 29,0,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,B. Millot
+61,Ligue 1,France,2023,1045016,2023-12-17T14:00:00+00:00,UTC,1702821600,Match Finished,FT,90,Regular Season - 16,96,Toulouse,94,Rennes,0,0,DRAW,682.0,Stadium de Toulouse,J. Stinat
+61,Ligue 1,France,2023,1045018,2023-12-17T14:00:00+00:00,UTC,1702821600,Match Finished,FT,90,Regular Season - 16,97,Lorient,95,Strasbourg,1,2,AWAY,656.0,Stade du Moustoir - Yves Allainmat,B. Dechepy
+61,Ligue 1,France,2023,1045024,2023-12-17T14:00:00+00:00,UTC,1702821600,Match Finished,FT,90,Regular Season - 16,112,Metz,82,Montpellier,0,1,AWAY,658.0,Stade Saint-Symphorien,M. Bollengier
+61,Ligue 1,France,2023,1045017,2023-12-17T16:05:00+00:00,UTC,1702829100,Match Finished,FT,90,Regular Season - 16,81,Marseille,99,Clermont Foot,2,1,HOME,667.0,Orange Vélodrome,G. Angoula
+61,Ligue 1,France,2023,1045020,2023-12-17T19:45:00+00:00,UTC,1702842300,Match Finished,FT,90,Regular Season - 16,79,Lille,85,Paris Saint Germain,1,1,DRAW,19207.0,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+61,Ligue 1,France,2023,1045028,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,80,Lyon,83,Nantes,1,0,HOME,666.0,Groupama Stadium,B. Bastien
+61,Ligue 1,France,2023,1045032,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,82,Montpellier,81,Marseille,1,1,DRAW,20107.0,Stade de la Mosson-Mondial 98,T. Léonard
+61,Ligue 1,France,2023,1045029,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,84,Nice,116,Lens,2,0,HOME,663.0,Allianz Riviera,H. Ben El Hadj
+61,Ligue 1,France,2023,1045025,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,85,Paris Saint Germain,112,Metz,3,1,HOME,671.0,Parc des Princes,R. Buquet
+61,Ligue 1,France,2023,1045031,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,93,Reims,111,Le Havre,1,0,HOME,674.0,Stade Auguste-Delaune,S. Frappart
+61,Ligue 1,France,2023,1045026,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,95,Strasbourg,79,Lille,2,1,HOME,681.0,Stade de la Meinau,C. Turpin
+61,Ligue 1,France,2023,1045027,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,96,Toulouse,91,Monaco,1,2,AWAY,682.0,Stadium de Toulouse,J. Brisard
+61,Ligue 1,France,2023,1045030,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,99,Clermont Foot,94,Rennes,1,3,AWAY,644.0,Stade Gabriel-Montpied,E. Wattellier
+61,Ligue 1,France,2023,1045033,2023-12-20T20:00:00+00:00,UTC,1703102400,Match Finished,FT,90,Regular Season - 17,106,Stade Brestois 29,97,Lorient,4,0,HOME,641.0,Stade Francis-Le Blé,M. Vernice
+61,Ligue 1,France,2023,1045035,2024-01-12T20:00:00+00:00,UTC,1705089600,Match Finished,FT,90,Regular Season - 18,81,Marseille,95,Strasbourg,1,1,DRAW,667.0,Orange Vélodrome,M. Bollengier
+61,Ligue 1,France,2023,1045036,2024-01-13T16:00:00+00:00,UTC,1705161600,Match Finished,FT,90,Regular Season - 18,91,Monaco,93,Reims,1,3,AWAY,20470.0,Stade Louis-II,F. Letexier
+61,Ligue 1,France,2023,1045034,2024-01-13T20:00:00+00:00,UTC,1705176000,Match Finished,FT,90,Regular Season - 18,94,Rennes,84,Nice,2,0,HOME,680.0,Roazhon Park,B. Dechepy
+61,Ligue 1,France,2023,1045037,2024-01-14T12:00:00+00:00,UTC,1705233600,Match Finished,FT,90,Regular Season - 18,79,Lille,97,Lorient,3,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,P. Gaillouste
+61,Ligue 1,France,2023,1045038,2024-01-14T14:00:00+00:00,UTC,1705240800,Match Finished,FT,90,Regular Season - 18,83,Nantes,99,Clermont Foot,1,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,R. Lissorgue
+61,Ligue 1,France,2023,1045041,2024-01-14T14:00:00+00:00,UTC,1705240800,Match Finished,FT,90,Regular Season - 18,106,Stade Brestois 29,82,Montpellier,2,0,HOME,641.0,Stade Francis-Le Blé,J. Pignard
+61,Ligue 1,France,2023,1045040,2024-01-14T14:00:00+00:00,UTC,1705240800,Match Finished,FT,90,Regular Season - 18,112,Metz,96,Toulouse,0,1,AWAY,658.0,Stade Saint-Symphorien,F. Batta
+61,Ligue 1,France,2023,1045039,2024-01-14T16:05:00+00:00,UTC,1705248300,Match Finished,FT,90,Regular Season - 18,111,Le Havre,80,Lyon,3,1,HOME,652.0,Stade Océane,G. Angoula
+61,Ligue 1,France,2023,1045042,2024-01-14T19:45:00+00:00,UTC,1705261500,Match Finished,FT,90,Regular Season - 18,116,Lens,85,Paris Saint Germain,0,2,AWAY,654.0,Stade Bollaert-Delelis,J. Brisard
+61,Ligue 1,France,2023,1045047,2024-01-26T20:00:00+00:00,UTC,1706299200,Match Finished,FT,90,Regular Season - 19,80,Lyon,94,Rennes,2,3,AWAY,666.0,Groupama Stadium,T. Léonard
+61,Ligue 1,France,2023,1045048,2024-01-27T16:00:00+00:00,UTC,1706371200,Match Finished,FT,90,Regular Season - 19,84,Nice,112,Metz,1,0,HOME,663.0,Allianz Riviera,S. Frappart
+61,Ligue 1,France,2023,1045045,2024-01-27T20:00:00+00:00,UTC,1706385600,Match Finished,FT,90,Regular Season - 19,81,Marseille,91,Monaco,2,2,DRAW,667.0,Orange Vélodrome,W. Delajod
+61,Ligue 1,France,2023,1045051,2024-01-28T12:00:00+00:00,UTC,1706443200,Match Finished,FT,90,Regular Season - 19,82,Montpellier,79,Lille,0,0,DRAW,20107.0,Stade de la Mosson-Mondial 98,H. Ben El Hadj
+61,Ligue 1,France,2023,1045050,2024-01-28T14:00:00+00:00,UTC,1706450400,Match Finished,FT,90,Regular Season - 19,93,Reims,83,Nantes,0,0,DRAW,22707.0,Stade Auguste-Delaune,J. Pignard
+61,Ligue 1,France,2023,1045046,2024-01-28T14:00:00+00:00,UTC,1706450400,Match Finished,FT,90,Regular Season - 19,97,Lorient,111,Le Havre,3,3,DRAW,656.0,Stade du Moustoir - Yves Allainmat,J. Stinat
+61,Ligue 1,France,2023,1045049,2024-01-28T14:00:00+00:00,UTC,1706450400,Match Finished,FT,90,Regular Season - 19,99,Clermont Foot,95,Strasbourg,1,1,DRAW,644.0,Stade Gabriel-Montpied,B. Millot
+61,Ligue 1,France,2023,1045044,2024-01-28T16:05:00+00:00,UTC,1706457900,Match Finished,FT,90,Regular Season - 19,96,Toulouse,116,Lens,0,2,AWAY,682.0,Stadium de Toulouse,M. Vernice
+61,Ligue 1,France,2023,1045043,2024-01-28T19:45:00+00:00,UTC,1706471100,Match Finished,FT,90,Regular Season - 19,85,Paris Saint Germain,106,Stade Brestois 29,2,2,DRAW,671.0,Parc des Princes,C. Turpin
+61,Ligue 1,France,2023,1045052,2024-02-02T20:00:00+00:00,UTC,1706904000,Match Finished,FT,90,Regular Season - 20,95,Strasbourg,85,Paris Saint Germain,1,2,AWAY,681.0,Stade de la Meinau,R. Buquet
+61,Ligue 1,France,2023,1045053,2024-02-03T16:00:00+00:00,UTC,1706976000,Match Finished,FT,90,Regular Season - 20,94,Rennes,82,Montpellier,2,1,HOME,680.0,Roazhon Park,M. Vernice
+61,Ligue 1,France,2023,1045058,2024-02-03T20:00:00+00:00,UTC,1706990400,Match Finished,FT,90,Regular Season - 20,83,Nantes,116,Lens,0,1,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,F. Batta
+61,Ligue 1,France,2023,1045054,2024-02-04T12:00:00+00:00,UTC,1707048000,Match Finished,FT,90,Regular Season - 20,91,Monaco,111,Le Havre,1,1,DRAW,20470.0,Stade Louis-II,J. Brisard
+61,Ligue 1,France,2023,1045055,2024-02-04T14:00:00+00:00,UTC,1707055200,Match Finished,FT,90,Regular Season - 20,79,Lille,99,Clermont Foot,4,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,B. Dechepy
+61,Ligue 1,France,2023,1045057,2024-02-04T14:00:00+00:00,UTC,1707055200,Match Finished,FT,90,Regular Season - 20,93,Reims,96,Toulouse,2,3,AWAY,22707.0,Stade Auguste-Delaune,P. Gaillouste
+61,Ligue 1,France,2023,1045059,2024-02-04T14:00:00+00:00,UTC,1707055200,Match Finished,FT,90,Regular Season - 20,112,Metz,97,Lorient,1,2,AWAY,658.0,Stade Saint-Symphorien,R. Lissorgue
+61,Ligue 1,France,2023,1045060,2024-02-04T16:05:00+00:00,UTC,1707062700,Match Finished,FT,90,Regular Season - 20,106,Stade Brestois 29,84,Nice,0,0,DRAW,641.0,Stade Francis-Le Blé,J. Stinat
+61,Ligue 1,France,2023,1045056,2024-02-04T19:45:00+00:00,UTC,1707075900,Match Finished,FT,90,Regular Season - 20,80,Lyon,81,Marseille,1,0,HOME,666.0,Groupama Stadium,B. Bastien
+61,Ligue 1,France,2023,1045063,2024-02-09T20:00:00+00:00,UTC,1707508800,Match Finished,FT,90,Regular Season - 21,81,Marseille,112,Metz,1,1,DRAW,667.0,Orange Vélodrome,H. Ben El Hadj
+61,Ligue 1,France,2023,1045067,2024-02-10T16:00:00+00:00,UTC,1707580800,Match Finished,FT,90,Regular Season - 21,116,Lens,95,Strasbourg,3,1,HOME,654.0,Stade Bollaert-Delelis,W. Delajod
+61,Ligue 1,France,2023,1045061,2024-02-10T20:00:00+00:00,UTC,1707595200,Match Finished,FT,90,Regular Season - 21,85,Paris Saint Germain,79,Lille,3,1,HOME,671.0,Parc des Princes,F. Letexier
+61,Ligue 1,France,2023,1045068,2024-02-11T12:00:00+00:00,UTC,1707652800,Match Finished,FT,90,Regular Season - 21,111,Le Havre,94,Rennes,0,1,AWAY,652.0,Stade Océane,B. Millot
+61,Ligue 1,France,2023,1045062,2024-02-11T14:00:00+00:00,UTC,1707660000,Match Finished,FT,90,Regular Season - 21,96,Toulouse,83,Nantes,1,2,AWAY,682.0,Stadium de Toulouse,G. Angoula
+61,Ligue 1,France,2023,1045064,2024-02-11T14:00:00+00:00,UTC,1707660000,Match Finished,FT,90,Regular Season - 21,97,Lorient,93,Reims,2,0,HOME,656.0,Stade du Moustoir - Yves Allainmat,M. Bollengier
+61,Ligue 1,France,2023,1045066,2024-02-11T14:00:00+00:00,UTC,1707660000,Match Finished,FT,90,Regular Season - 21,99,Clermont Foot,106,Stade Brestois 29,1,1,DRAW,644.0,Stade Gabriel-Montpied,S. Frappart
+61,Ligue 1,France,2023,1045069,2024-02-11T16:05:00+00:00,UTC,1707667500,Match Finished,FT,90,Regular Season - 21,82,Montpellier,80,Lyon,1,2,AWAY,20107.0,Stade de la Mosson-Mondial 98,P. Gaillouste
+61,Ligue 1,France,2023,1045065,2024-02-11T19:45:00+00:00,UTC,1707680700,Match Finished,FT,90,Regular Season - 21,84,Nice,91,Monaco,2,3,AWAY,663.0,Allianz Riviera,E. Wattellier
+61,Ligue 1,France,2023,1045074,2024-02-16T20:00:00+00:00,UTC,1708113600,Match Finished,FT,90,Regular Season - 22,80,Lyon,84,Nice,1,0,HOME,666.0,Groupama Stadium,C. Turpin
+61,Ligue 1,France,2023,1045073,2024-02-17T16:00:00+00:00,UTC,1708185600,Match Finished,FT,90,Regular Season - 22,79,Lille,111,Le Havre,3,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,J. Pignard
+61,Ligue 1,France,2023,1045076,2024-02-17T20:00:00+00:00,UTC,1708200000,Match Finished,FT,90,Regular Season - 22,83,Nantes,85,Paris Saint Germain,0,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+61,Ligue 1,France,2023,1045070,2024-02-18T12:00:00+00:00,UTC,1708257600,Match Finished,FT,90,Regular Season - 22,95,Strasbourg,97,Lorient,1,3,AWAY,681.0,Stade de la Meinau,T. Léonard
+61,Ligue 1,France,2023,1045077,2024-02-18T14:00:00+00:00,UTC,1708264800,Match Finished,FT,90,Regular Season - 22,82,Montpellier,112,Metz,3,0,HOME,20107.0,Stade de la Mosson-Mondial 98,J. Stinat
+61,Ligue 1,France,2023,1045072,2024-02-18T14:00:00+00:00,UTC,1708264800,Match Finished,FT,90,Regular Season - 22,91,Monaco,96,Toulouse,1,2,AWAY,20470.0,Stade Louis-II,B. Bastien
+61,Ligue 1,France,2023,1045071,2024-02-18T14:00:00+00:00,UTC,1708264800,Match Finished,FT,90,Regular Season - 22,94,Rennes,99,Clermont Foot,3,1,HOME,680.0,Roazhon Park,R. Lissorgue
+61,Ligue 1,France,2023,1045075,2024-02-18T16:05:00+00:00,UTC,1708272300,Match Finished,FT,90,Regular Season - 22,93,Reims,116,Lens,1,1,DRAW,22707.0,Stade Auguste-Delaune,B. Millot
+61,Ligue 1,France,2023,1045078,2024-02-18T19:45:00+00:00,UTC,1708285500,Match Finished,FT,90,Regular Season - 22,106,Stade Brestois 29,81,Marseille,1,0,HOME,641.0,Stade Francis-Le Blé,R. Buquet
+61,Ligue 1,France,2023,1045087,2024-02-23T20:00:00+00:00,UTC,1708718400,Match Finished,FT,90,Regular Season - 23,112,Metz,80,Lyon,1,2,AWAY,658.0,Stade Saint-Symphorien,M. Bollengier
+61,Ligue 1,France,2023,1045083,2024-02-24T16:00:00+00:00,UTC,1708790400,Match Finished,FT,90,Regular Season - 23,97,Lorient,83,Nantes,0,1,AWAY,656.0,Stade du Moustoir - Yves Allainmat,W. Delajod
+61,Ligue 1,France,2023,1045080,2024-02-24T20:00:00+00:00,UTC,1708804800,Match Finished,FT,90,Regular Season - 23,95,Strasbourg,106,Stade Brestois 29,0,3,AWAY,681.0,Stade de la Meinau,J. Brisard
+61,Ligue 1,France,2023,1045085,2024-02-25T12:00:00+00:00,UTC,1708862400,Match Finished,FT,90,Regular Season - 23,116,Lens,91,Monaco,2,3,AWAY,654.0,Stade Bollaert-Delelis,F. Letexier
+61,Ligue 1,France,2023,1045084,2024-02-25T14:00:00+00:00,UTC,1708869600,Match Finished,FT,90,Regular Season - 23,84,Nice,99,Clermont Foot,0,0,DRAW,663.0,Allianz Riviera,H. Ben El Hadj
+61,Ligue 1,France,2023,1045081,2024-02-25T14:00:00+00:00,UTC,1708869600,Match Finished,FT,90,Regular Season - 23,96,Toulouse,79,Lille,3,1,HOME,682.0,Stadium de Toulouse,M. Vernice
+61,Ligue 1,France,2023,1045086,2024-02-25T14:00:00+00:00,UTC,1708869600,Match Finished,FT,90,Regular Season - 23,111,Le Havre,93,Reims,1,2,AWAY,652.0,Stade Océane,F. Batta
+61,Ligue 1,France,2023,1045079,2024-02-25T16:05:00+00:00,UTC,1708877100,Match Finished,FT,90,Regular Season - 23,85,Paris Saint Germain,94,Rennes,1,1,DRAW,671.0,Parc des Princes,B. Dechepy
+61,Ligue 1,France,2023,1045082,2024-02-25T19:45:00+00:00,UTC,1708890300,Match Finished,FT,90,Regular Season - 23,81,Marseille,82,Montpellier,4,1,HOME,667.0,Orange Vélodrome,J. Pignard
+61,Ligue 1,France,2023,1045090,2024-03-01T20:00:00+00:00,UTC,1709323200,Match Finished,FT,90,Regular Season - 24,91,Monaco,85,Paris Saint Germain,0,0,DRAW,20470.0,Stade Louis-II,R. Buquet
+61,Ligue 1,France,2023,1045093,2024-03-02T16:00:00+00:00,UTC,1709395200,Match Finished,FT,90,Regular Season - 24,93,Reims,79,Lille,0,1,AWAY,22707.0,Stade Auguste-Delaune,J. Stinat
+61,Ligue 1,France,2023,1045092,2024-03-02T20:00:00+00:00,UTC,1709409600,Match Finished,FT,90,Regular Season - 24,99,Clermont Foot,81,Marseille,1,5,AWAY,644.0,Stade Gabriel-Montpied,T. Léonard
+61,Ligue 1,France,2023,1045089,2024-03-03T12:00:00+00:00,UTC,1709467200,Match Finished,FT,90,Regular Season - 24,96,Toulouse,84,Nice,2,1,HOME,682.0,Stadium de Toulouse,J. Pignard
+61,Ligue 1,France,2023,1045095,2024-03-03T14:00:00+00:00,UTC,1709474400,Match Finished,FT,90,Regular Season - 24,82,Montpellier,95,Strasbourg,2,2,DRAW,20107.0,Stade de la Mosson-Mondial 98,S. Frappart
+61,Ligue 1,France,2023,1045094,2024-03-03T14:00:00+00:00,UTC,1709474400,Match Finished,FT,90,Regular Season - 24,83,Nantes,112,Metz,0,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,E. Wattellier
+61,Ligue 1,France,2023,1045096,2024-03-03T14:00:00+00:00,UTC,1709474400,Match Finished,FT,90,Regular Season - 24,106,Stade Brestois 29,111,Le Havre,1,0,HOME,641.0,Stade Francis-Le Blé,P. Gaillouste
+61,Ligue 1,France,2023,1045088,2024-03-03T16:05:00+00:00,UTC,1709481900,Match Finished,FT,90,Regular Season - 24,94,Rennes,97,Lorient,1,2,AWAY,680.0,Roazhon Park,B. Bastien
+61,Ligue 1,France,2023,1045091,2024-03-03T19:45:00+00:00,UTC,1709495100,Match Finished,FT,90,Regular Season - 24,80,Lyon,116,Lens,0,3,AWAY,666.0,Groupama Stadium,J. Brisard
+61,Ligue 1,France,2023,1045102,2024-03-08T20:00:00+00:00,UTC,1709928000,Match Finished,FT,90,Regular Season - 25,84,Nice,82,Montpellier,1,2,AWAY,663.0,Allianz Riviera,R. Buquet
+61,Ligue 1,France,2023,1045100,2024-03-09T16:00:00+00:00,UTC,1710000000,Match Finished,FT,90,Regular Season - 25,97,Lorient,80,Lyon,0,2,AWAY,656.0,Stade du Moustoir - Yves Allainmat,M. Vernice
+61,Ligue 1,France,2023,1045103,2024-03-09T20:00:00+00:00,UTC,1710014400,Match Finished,FT,90,Regular Season - 25,116,Lens,106,Stade Brestois 29,1,0,HOME,654.0,Stade Bollaert-Delelis,S. Frappart
+61,Ligue 1,France,2023,1045097,2024-03-10T12:00:00+00:00,UTC,1710072000,Match Finished,FT,90,Regular Season - 25,85,Paris Saint Germain,93,Reims,2,2,DRAW,671.0,Parc des Princes,W. Delajod
+61,Ligue 1,France,2023,1045098,2024-03-10T14:00:00+00:00,UTC,1710079200,Match Finished,FT,90,Regular Season - 25,95,Strasbourg,91,Monaco,0,1,AWAY,681.0,Stade de la Meinau,C. Turpin
+61,Ligue 1,France,2023,1045104,2024-03-10T14:00:00+00:00,UTC,1710079200,Match Finished,FT,90,Regular Season - 25,111,Le Havre,96,Toulouse,1,0,HOME,652.0,Stade Océane,R. Lissorgue
+61,Ligue 1,France,2023,1045105,2024-03-10T14:00:00+00:00,UTC,1710079200,Match Finished,FT,90,Regular Season - 25,112,Metz,99,Clermont Foot,1,0,HOME,658.0,Stade Saint-Symphorien,G. Angoula
+61,Ligue 1,France,2023,1045101,2024-03-10T16:05:00+00:00,UTC,1710086700,Match Finished,FT,90,Regular Season - 25,79,Lille,94,Rennes,2,2,DRAW,,Decathlon Arena - Stade Pierre-Mauroy,B. Millot
+61,Ligue 1,France,2023,1045099,2024-03-10T19:45:00+00:00,UTC,1710099900,Match Finished,FT,90,Regular Season - 25,81,Marseille,83,Nantes,2,0,HOME,667.0,Orange Vélodrome,F. Letexier
+61,Ligue 1,France,2023,1045107,2024-03-15T20:00:00+00:00,UTC,1710532800,Match Finished,FT,90,Regular Season - 26,96,Toulouse,80,Lyon,2,3,AWAY,682.0,Stadium de Toulouse,J. Stinat
+61,Ligue 1,France,2023,1045112,2024-03-16T16:00:00+00:00,UTC,1710604800,Match Finished,FT,90,Regular Season - 26,83,Nantes,95,Strasbourg,1,3,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Pignard
+61,Ligue 1,France,2023,1045111,2024-03-16T20:00:00+00:00,UTC,1710619200,Match Finished,FT,90,Regular Season - 26,116,Lens,84,Nice,1,3,AWAY,654.0,Stade Bollaert-Delelis,B. Bastien
+61,Ligue 1,France,2023,1045114,2024-03-17T12:00:00+00:00,UTC,1710676800,Match Finished,FT,90,Regular Season - 26,106,Stade Brestois 29,79,Lille,1,1,DRAW,641.0,Stade Francis-Le Blé,C. Turpin
+61,Ligue 1,France,2023,1045108,2024-03-17T14:00:00+00:00,UTC,1710684000,Match Finished,FT,90,Regular Season - 26,91,Monaco,97,Lorient,2,2,DRAW,20470.0,Stade Louis-II,B. Dechepy
+61,Ligue 1,France,2023,1045110,2024-03-17T14:00:00+00:00,UTC,1710684000,Match Finished,FT,90,Regular Season - 26,93,Reims,112,Metz,2,1,HOME,22707.0,Stade Auguste-Delaune,H. Ben El Hadj
+61,Ligue 1,France,2023,1045109,2024-03-17T14:00:00+00:00,UTC,1710684000,Match Finished,FT,90,Regular Season - 26,99,Clermont Foot,111,Le Havre,2,1,HOME,644.0,Stade Gabriel-Montpied,M. Bollengier
+61,Ligue 1,France,2023,1045106,2024-03-17T16:05:00+00:00,UTC,1710691500,Match Finished,FT,90,Regular Season - 26,94,Rennes,81,Marseille,2,0,HOME,680.0,Roazhon Park,E. Wattellier
+61,Ligue 1,France,2023,1045113,2024-03-17T19:45:00+00:00,UTC,1710704700,Match Finished,FT,90,Regular Season - 26,82,Montpellier,85,Paris Saint Germain,2,6,AWAY,20107.0,Stade de la Mosson-Mondial 98,F. Batta
+61,Ligue 1,France,2023,1045118,2024-03-29T20:00:00+00:00,UTC,1711742400,Match Finished,FT,90,Regular Season - 27,79,Lille,116,Lens,2,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+61,Ligue 1,France,2023,1045123,2024-03-30T16:00:00+00:00,UTC,1711814400,Match Finished,FT,90,Regular Season - 27,112,Metz,91,Monaco,2,5,AWAY,658.0,Stade Saint-Symphorien,E. Wattellier
+61,Ligue 1,France,2023,1045119,2024-03-30T20:00:00+00:00,UTC,1711828800,Match Finished,FT,90,Regular Season - 27,80,Lyon,93,Reims,1,1,DRAW,666.0,Groupama Stadium,T. Léonard
+61,Ligue 1,France,2023,1045117,2024-03-31T11:00:00+00:00,UTC,1711882800,Match Finished,FT,90,Regular Season - 27,97,Lorient,106,Stade Brestois 29,0,1,AWAY,656.0,Stade du Moustoir - Yves Allainmat,J. Brisard
+61,Ligue 1,France,2023,1045120,2024-03-31T13:00:00+00:00,UTC,1711890000,Match Finished,FT,90,Regular Season - 27,84,Nice,83,Nantes,1,2,AWAY,663.0,Allianz Riviera,B. Dechepy
+61,Ligue 1,France,2023,1045121,2024-03-31T13:00:00+00:00,UTC,1711890000,Match Finished,FT,90,Regular Season - 27,99,Clermont Foot,96,Toulouse,0,3,AWAY,644.0,Stade Gabriel-Montpied,P. Gaillouste
+61,Ligue 1,France,2023,1045122,2024-03-31T13:00:00+00:00,UTC,1711890000,Match Finished,FT,90,Regular Season - 27,111,Le Havre,82,Montpellier,0,2,AWAY,652.0,Stade Océane,M. Vernice
+61,Ligue 1,France,2023,1045115,2024-03-31T15:05:00+00:00,UTC,1711897500,Match Finished,FT,90,Regular Season - 27,95,Strasbourg,94,Rennes,2,0,HOME,681.0,Stade de la Meinau,H. Ben El Hadj
+61,Ligue 1,France,2023,1045116,2024-03-31T18:45:00+00:00,UTC,1711910700,Match Finished,FT,90,Regular Season - 27,81,Marseille,85,Paris Saint Germain,0,2,AWAY,667.0,Orange Vélodrome,B. Bastien
+61,Ligue 1,France,2023,1045127,2024-04-05T19:00:00+00:00,UTC,1712343600,Match Finished,FT,90,Regular Season - 28,79,Lille,81,Marseille,3,1,HOME,,Decathlon Arena - Stade Pierre-Mauroy,B. Dechepy
+61,Ligue 1,France,2023,1045129,2024-04-06T15:00:00+00:00,UTC,1712415600,Match Finished,FT,90,Regular Season - 28,116,Lens,111,Le Havre,1,1,DRAW,654.0,Stade Bollaert-Delelis,F. Letexier
+61,Ligue 1,France,2023,1045124,2024-04-06T19:00:00+00:00,UTC,1712430000,Match Finished,FT,90,Regular Season - 28,85,Paris Saint Germain,99,Clermont Foot,1,1,DRAW,671.0,Parc des Princes,G. Angoula
+61,Ligue 1,France,2023,1045132,2024-04-07T11:00:00+00:00,UTC,1712487600,Match Finished,FT,90,Regular Season - 28,106,Stade Brestois 29,112,Metz,4,3,HOME,641.0,Stade Francis-Le Blé,B. Millot
+61,Ligue 1,France,2023,1045131,2024-04-07T13:00:00+00:00,UTC,1712494800,Match Finished,FT,90,Regular Season - 28,82,Montpellier,97,Lorient,2,0,HOME,20107.0,Stade de la Mosson-Mondial 98,R. Lissorgue
+61,Ligue 1,France,2023,1045128,2024-04-07T13:00:00+00:00,UTC,1712494800,Match Finished,FT,90,Regular Season - 28,93,Reims,84,Nice,0,0,DRAW,22707.0,Stade Auguste-Delaune,E. Wattellier
+61,Ligue 1,France,2023,1045125,2024-04-07T13:00:00+00:00,UTC,1712494800,Match Finished,FT,90,Regular Season - 28,96,Toulouse,95,Strasbourg,0,0,DRAW,682.0,Stadium de Toulouse,R. Buquet
+61,Ligue 1,France,2023,1045126,2024-04-07T15:05:00+00:00,UTC,1712502300,Match Finished,FT,90,Regular Season - 28,91,Monaco,94,Rennes,1,0,HOME,20470.0,Stade Louis-II,S. Frappart
+61,Ligue 1,France,2023,1045130,2024-04-07T18:45:00+00:00,UTC,1712515500,Match Finished,FT,90,Regular Season - 28,83,Nantes,80,Lyon,1,3,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+61,Ligue 1,France,2023,1045141,2024-04-12T19:00:00+00:00,UTC,1712948400,Match Finished,FT,90,Regular Season - 29,112,Metz,116,Lens,2,1,HOME,658.0,Stade Saint-Symphorien,R. Lissorgue
+61,Ligue 1,France,2023,1045133,2024-04-13T15:00:00+00:00,UTC,1713020400,Match Finished,FT,90,Regular Season - 29,95,Strasbourg,93,Reims,3,1,HOME,681.0,Stade de la Meinau,W. Delajod
+61,Ligue 1,France,2023,1045134,2024-04-13T19:00:00+00:00,UTC,1713034800,Match Finished,FT,90,Regular Season - 29,94,Rennes,96,Toulouse,1,2,AWAY,680.0,Roazhon Park,F. Batta
+61,Ligue 1,France,2023,1045140,2024-04-14T11:00:00+00:00,UTC,1713092400,Match Finished,FT,90,Regular Season - 29,111,Le Havre,83,Nantes,0,1,AWAY,652.0,Stade Océane,H. Ben El Hadj
+61,Ligue 1,France,2023,1045139,2024-04-14T13:00:00+00:00,UTC,1713099600,Match Finished,FT,90,Regular Season - 29,99,Clermont Foot,82,Montpellier,1,1,DRAW,644.0,Stade Gabriel-Montpied,T. Léonard
+61,Ligue 1,France,2023,1045138,2024-04-14T18:45:00+00:00,UTC,1713120300,Match Finished,FT,90,Regular Season - 29,80,Lyon,106,Stade Brestois 29,4,3,HOME,666.0,Groupama Stadium,M. Vernice
+61,Ligue 1,France,2023,1045145,2024-04-19T19:00:00+00:00,UTC,1713553200,Match Finished,FT,90,Regular Season - 30,84,Nice,97,Lorient,3,0,HOME,663.0,Allianz Riviera,J. Stinat
+61,Ligue 1,France,2023,1045148,2024-04-20T15:00:00+00:00,UTC,1713625200,Match Finished,FT,90,Regular Season - 30,83,Nantes,94,Rennes,0,3,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,W. Delajod
+61,Ligue 1,France,2023,1045147,2024-04-20T19:00:00+00:00,UTC,1713639600,Match Finished,FT,90,Regular Season - 30,116,Lens,99,Clermont Foot,1,0,HOME,654.0,Stade Bollaert-Delelis,B. Bastien
+61,Ligue 1,France,2023,1045144,2024-04-21T13:00:00+00:00,UTC,1713704400,Match Finished,FT,90,Regular Season - 30,79,Lille,95,Strasbourg,1,0,HOME,,Decathlon Arena - Stade Pierre-Mauroy,B. Millot
+61,Ligue 1,France,2023,1045146,2024-04-21T13:00:00+00:00,UTC,1713704400,Match Finished,FT,90,Regular Season - 30,93,Reims,82,Montpellier,1,2,AWAY,22707.0,Stade Auguste-Delaune,P. Gaillouste
+61,Ligue 1,France,2023,1045149,2024-04-21T13:00:00+00:00,UTC,1713704400,Match Finished,FT,90,Regular Season - 30,111,Le Havre,112,Metz,0,1,AWAY,652.0,Stade Océane,M. Bollengier
+61,Ligue 1,France,2023,1045150,2024-04-21T15:05:00+00:00,UTC,1713711900,Match Finished,FT,90,Regular Season - 30,106,Stade Brestois 29,91,Monaco,0,2,AWAY,641.0,Stade Francis-Le Blé,R. Buquet
+61,Ligue 1,France,2023,1045143,2024-04-21T17:00:00+00:00,UTC,1713718800,Match Finished,FT,90,Regular Season - 30,96,Toulouse,81,Marseille,2,2,DRAW,682.0,Stadium de Toulouse,C. Turpin
+61,Ligue 1,France,2023,1045142,2024-04-21T19:00:00+00:00,UTC,1713726000,Match Finished,FT,90,Regular Season - 30,85,Paris Saint Germain,80,Lyon,4,1,HOME,671.0,Parc des Princes,F. Letexier
+61,Ligue 1,France,2023,1045136,2024-04-24T17:00:00+00:00,UTC,1713978000,Match Finished,FT,90,Regular Season - 29,97,Lorient,85,Paris Saint Germain,1,4,AWAY,656.0,Stade du Moustoir - Yves Allainmat,M. Bollengier
+61,Ligue 1,France,2023,1045135,2024-04-24T19:00:00+00:00,UTC,1713985200,Match Finished,FT,90,Regular Season - 29,81,Marseille,84,Nice,2,2,DRAW,667.0,Orange Vélodrome,J. Pignard
+61,Ligue 1,France,2023,1045137,2024-04-24T19:00:00+00:00,UTC,1713985200,Match Finished,FT,90,Regular Season - 29,91,Monaco,79,Lille,1,0,HOME,20470.0,Stade Louis-II,C. Turpin
+61,Ligue 1,France,2023,1045159,2024-04-26T19:00:00+00:00,UTC,1714158000,Match Finished,FT,90,Regular Season - 31,82,Montpellier,83,Nantes,1,1,DRAW,20107.0,Stade de la Mosson-Mondial 98,J. Stinat
+61,Ligue 1,France,2023,1045151,2024-04-27T19:00:00+00:00,UTC,1714244400,Match Finished,FT,90,Regular Season - 31,85,Paris Saint Germain,111,Le Havre,3,3,DRAW,671.0,Parc des Princes,W. Delajod
+61,Ligue 1,France,2023,1045158,2024-04-28T11:00:00+00:00,UTC,1714302000,Match Finished,FT,90,Regular Season - 31,112,Metz,79,Lille,1,2,AWAY,658.0,Stade Saint-Symphorien,S. Frappart
+61,Ligue 1,France,2023,1045152,2024-04-28T13:00:00+00:00,UTC,1714309200,Match Finished,FT,90,Regular Season - 31,95,Strasbourg,84,Nice,1,3,AWAY,681.0,Stade de la Meinau,T. Léonard
+61,Ligue 1,France,2023,1045155,2024-04-28T13:00:00+00:00,UTC,1714309200,Match Finished,FT,90,Regular Season - 31,97,Lorient,96,Toulouse,1,2,AWAY,656.0,Stade du Moustoir - Yves Allainmat,G. Angoula
+61,Ligue 1,France,2023,1045157,2024-04-28T13:00:00+00:00,UTC,1714309200,Match Finished,FT,90,Regular Season - 31,99,Clermont Foot,93,Reims,4,1,HOME,644.0,Stade Gabriel-Montpied,F. Batta
+61,Ligue 1,France,2023,1045153,2024-04-28T15:05:00+00:00,UTC,1714316700,Match Finished,FT,90,Regular Season - 31,94,Rennes,106,Stade Brestois 29,4,5,AWAY,680.0,Roazhon Park,B. Bastien
+61,Ligue 1,France,2023,1045156,2024-04-28T17:00:00+00:00,UTC,1714323600,Match Finished,FT,90,Regular Season - 31,80,Lyon,91,Monaco,3,2,HOME,666.0,Groupama Stadium,B. Dechepy
+61,Ligue 1,France,2023,1045154,2024-04-28T19:00:00+00:00,UTC,1714330800,Match Finished,FT,90,Regular Season - 31,81,Marseille,116,Lens,2,1,HOME,667.0,Orange Vélodrome,E. Wattellier
+61,Ligue 1,France,2023,1045160,2024-05-03T17:00:00+00:00,UTC,1714755600,Match Finished,FT,90,Regular Season - 32,96,Toulouse,82,Montpellier,1,2,AWAY,682.0,Stadium de Toulouse,M. Bollengier
+61,Ligue 1,France,2023,1045165,2024-05-03T19:00:00+00:00,UTC,1714762800,Match Finished,FT,90,Regular Season - 32,116,Lens,97,Lorient,2,0,HOME,654.0,Stade Bollaert-Delelis,J. Pignard
+61,Ligue 1,France,2023,1045166,2024-05-04T13:00:00+00:00,UTC,1714827600,Match Finished,FT,90,Regular Season - 32,111,Le Havre,95,Strasbourg,3,1,HOME,652.0,Stade Océane,J. Brisard
+61,Ligue 1,France,2023,1045161,2024-05-04T15:00:00+00:00,UTC,1714834800,Match Finished,FT,90,Regular Season - 32,91,Monaco,99,Clermont Foot,4,1,HOME,20470.0,Stade Louis-II,H. Ben El Hadj
+61,Ligue 1,France,2023,1045167,2024-05-04T17:00:00+00:00,UTC,1714842000,Match Finished,FT,90,Regular Season - 32,112,Metz,94,Rennes,2,3,AWAY,658.0,Stade Saint-Symphorien,R. Buquet
+61,Ligue 1,France,2023,1045168,2024-05-04T19:00:00+00:00,UTC,1714849200,Match Finished,FT,90,Regular Season - 32,106,Stade Brestois 29,83,Nantes,0,0,DRAW,641.0,Stade Francis-Le Blé,C. Turpin
+61,Ligue 1,France,2023,1045162,2024-05-06T19:00:00+00:00,UTC,1715022000,Match Finished,FT,90,Regular Season - 32,79,Lille,80,Lyon,3,4,AWAY,,Decathlon Arena - Stade Pierre-Mauroy,B. Bastien
+61,Ligue 1,France,2023,1045173,2024-05-10T19:00:00+00:00,UTC,1715367600,Match Finished,FT,90,Regular Season - 33,84,Nice,111,Le Havre,1,0,HOME,663.0,Allianz Riviera,B. Bastien
+61,Ligue 1,France,2023,1045177,2024-05-10T19:00:00+00:00,UTC,1715367600,Match Finished,FT,90,Regular Season - 33,106,Stade Brestois 29,93,Reims,1,1,DRAW,641.0,Stade Francis-Le Blé,J. Brisard
+61,Ligue 1,France,2023,1045172,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,81,Marseille,97,Lorient,3,1,HOME,667.0,Orange Vélodrome,B. Dechepy
+61,Ligue 1,France,2023,1045176,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,82,Montpellier,91,Monaco,0,2,AWAY,20107.0,Stade de la Mosson-Mondial 98,S. Frappart
+61,Ligue 1,France,2023,1045175,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,83,Nantes,79,Lille,1,2,AWAY,662.0,Stade de la Beaujoire - Louis Fonteneau,E. Wattellier
+61,Ligue 1,France,2023,1045169,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,85,Paris Saint Germain,96,Toulouse,1,3,AWAY,671.0,Parc des Princes,F. Batta
+61,Ligue 1,France,2023,1045171,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,94,Rennes,116,Lens,1,1,DRAW,680.0,Roazhon Park,B. Millot
+61,Ligue 1,France,2023,1045170,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,95,Strasbourg,112,Metz,2,1,HOME,681.0,Stade de la Meinau,F. Letexier
+61,Ligue 1,France,2023,1045174,2024-05-12T19:00:00+00:00,UTC,1715540400,Match Finished,FT,90,Regular Season - 33,99,Clermont Foot,80,Lyon,0,1,AWAY,644.0,Stade Gabriel-Montpied,P. Gaillouste
+61,Ligue 1,France,2023,1045163,2024-05-15T19:00:00+00:00,UTC,1715799600,Match Finished,FT,90,Regular Season - 32,84,Nice,85,Paris Saint Germain,1,2,AWAY,663.0,Allianz Riviera,R. Buquet
+61,Ligue 1,France,2023,1045164,2024-05-15T19:00:00+00:00,UTC,1715799600,Match Finished,FT,90,Regular Season - 32,93,Reims,81,Marseille,1,0,HOME,22707.0,Stade Auguste-Delaune,H. Ben El Hadj
+61,Ligue 1,France,2023,1045181,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,79,Lille,84,Nice,2,2,DRAW,,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+61,Ligue 1,France,2023,1045182,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,80,Lyon,95,Strasbourg,2,1,HOME,666.0,Groupama Stadium,E. Wattellier
+61,Ligue 1,France,2023,1045180,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,91,Monaco,83,Nantes,4,0,HOME,20470.0,Stade Louis-II,R. Lissorgue
+61,Ligue 1,France,2023,1045183,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,93,Reims,94,Rennes,2,1,HOME,22707.0,Stade Auguste-Delaune,M. Vernice
+61,Ligue 1,France,2023,1045178,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,96,Toulouse,106,Stade Brestois 29,0,3,AWAY,682.0,Stadium de Toulouse,J. Pignard
+61,Ligue 1,France,2023,1045179,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,97,Lorient,99,Clermont Foot,5,0,HOME,656.0,Stade du Moustoir - Yves Allainmat,C. Turpin
+61,Ligue 1,France,2023,1045185,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,111,Le Havre,81,Marseille,1,2,AWAY,652.0,Stade Océane,J. Stinat
+61,Ligue 1,France,2023,1045186,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,112,Metz,85,Paris Saint Germain,0,2,AWAY,658.0,Stade Saint-Symphorien,G. Angoula
+61,Ligue 1,France,2023,1045184,2024-05-19T19:00:00+00:00,UTC,1716145200,Match Finished,FT,90,Regular Season - 34,116,Lens,82,Montpellier,2,2,DRAW,654.0,Stade Bollaert-Delelis,T. Léonard
+61,Ligue 1,France,2023,1201624,2024-05-30T18:30:00+00:00,UTC,1717093800,Match Finished,FT,90,Relegation Round,1063,Saint Etienne,112,Metz,2,1,HOME,676.0,Stade Geoffroy-Guichard,B. Millot
+61,Ligue 1,France,2023,1201625,2024-06-02T15:00:00+00:00,UTC,1717340400,Match Finished,AET,120,Relegation Round,112,Metz,1063,Saint Etienne,2,2,DRAW,658.0,Stade Saint-Symphorien,J. Brisard
