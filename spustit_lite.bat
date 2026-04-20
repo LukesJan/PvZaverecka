@@ -32,8 +32,8 @@ if errorlevel 1 (
     exit /b 1
 )
 
-echo [2/2] Spoustim frontend na http://localhost:%PORT%
-start "" "http://localhost:%PORT%"
+echo [2/2] Spoustim frontend na http://localhost:%PORT%/.lib/
+start "" "http://localhost:%PORT%/.lib/"
 .venv\Scripts\python.exe -m http.server %PORT%
 
 endlocal

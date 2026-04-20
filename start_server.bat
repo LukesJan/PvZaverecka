@@ -28,10 +28,10 @@ if errorlevel 1 (
 
 echo.
 echo Opening frontend...
-start http://127.0.0.1:%PORT%/
+start http://127.0.0.1:%PORT%/.lib/
 
 echo.
-echo Server running at http://127.0.0.1:%PORT%/
+echo Server running at http://127.0.0.1:%PORT%/.lib/
 echo Press Ctrl+C to stop the server.
 echo.
 

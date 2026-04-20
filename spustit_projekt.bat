@@ -183,8 +183,8 @@ if not exist "data\processed\upcoming_predictions.json" (
 
 REM 6) Spust frontend
 echo.
-echo [2/2] Spoustim frontend na http://localhost:%PORT%
-start "" "http://localhost:%PORT%"
+echo [2/2] Spoustim frontend na http://localhost:%PORT%/.lib/
+start "" "http://localhost:%PORT%/.lib/"
 %PYTHON_CMD% -m http.server %PORT%
 
 endlocal

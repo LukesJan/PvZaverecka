@@ -249,7 +249,7 @@ async function loadPredictions() {
     renderEmptyState("Chvili pockej, nacitam predikce.");
 
     try {
-        const response = await fetch("data/processed/upcoming_predictions.json", {
+        const response = await fetch("/data/processed/upcoming_predictions.json", {
             cache: "no-store",
         });
         if (!response.ok) {
