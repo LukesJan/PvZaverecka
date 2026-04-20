@@ -30,4 +30,3 @@ Thumbs.db
 
 # Temporary generated files
 data/processed/*.tmp
-data/processed/upcoming_predictions.json

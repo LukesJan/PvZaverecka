@@ -20,12 +20,6 @@
   "winner_f1_macro": 0.4236519696102821,
   "winner_log_loss": 1.0026958061735554,
   "winner_draw_threshold": null,
-  "home_goals_model": "GradientBoostingPair",
-  "away_goals_model": "GradientBoostingPair",
-  "home_goals_mae": 0.9892782665342886,
-  "away_goals_mae": 0.8454149183438109,
-  "total_goals_mae": 1.313771687311855,
-  "total_goals_rmse": 1.6649081866187014,
   "primary_goal_line": "2.5",
   "goal_line_model": "RandomForestGoalLine",
   "goal_line_strategy": "dedicated_under_over_classifier",
@@ -33,7 +27,6 @@
   "goal_line_f1": 0.6534181240063593,
   "goal_line_threshold": 0.47,
   "goal_line_log_loss": 0.6770692164601686,
-  "goal_line_accuracy_from_goal_models": 0.5749761222540593,
   "winner_baselines": [
     {
       "model": "AlwaysHome",
@@ -44,19 +37,7 @@
   ],
   "goal_baselines": [
     {
-      "model": "MeanGoalsBaseline",
-      "home_goals_mae": 1.0883062833814336,
-      "away_goals_mae": 0.9144328880683882,
-      "total_goals_mae": 1.3496346993898773,
-      "total_goals_rmse": 1.702409327050928,
-      "goal_line_accuracy": 0.5300859598853869
-    },
-    {
       "model": "AlwaysUnder2_5",
-      "home_goals_mae": null,
-      "away_goals_mae": null,
-      "total_goals_mae": null,
-      "total_goals_rmse": null,
       "goal_line_accuracy": 0.4699140401146132
     }
   ],
@@ -78,24 +59,6 @@
       "accuracy": 0.4880611270296084,
       "f1_macro": 0.4714111561771097,
       "log_loss": 1.0173557519888496
-    }
-  ],
-  "goal_candidates": [
-    {
-      "model": "GradientBoostingPair",
-      "home_goals_mae": 0.9892782665342886,
-      "away_goals_mae": 0.8454149183438109,
-      "total_goals_mae": 1.313771687311855,
-      "total_goals_rmse": 1.6649081866187014,
-      "goal_line_accuracy_from_goals": 0.5749761222540593
-    },
-    {
-      "model": "RandomForestPairSmall",
-      "home_goals_mae": 0.9929156514264074,
-      "away_goals_mae": 0.8483956677972412,
-      "total_goals_mae": 1.3158726221923893,
-      "total_goals_rmse": 1.6634815282090276,
-      "goal_line_accuracy_from_goals": 0.5711556829035339
     }
   ],
   "goal_line_candidates": [

@@ -95,11 +95,6 @@ function updateExportInfo(visiblePredictions) {
 
 function createPredictionCard(prediction) {
     const goalLine = prediction.predictedGoalLine || "neuvedeno";
-    const expectedGoals = [
-        Number(prediction.predictedHomeGoals || 0).toFixed(1),
-        Number(prediction.predictedAwayGoals || 0).toFixed(1),
-    ].join(" : ");
-    const totalGoals = Number(prediction.predictedTotalGoals || 0).toFixed(1);
     const roundRow = prediction.round
         ? `<p class="card-meta">Kolo: ${prediction.round}</p>`
         : "";
@@ -113,10 +108,6 @@ function createPredictionCard(prediction) {
                 <div class="card-row">
                     <span class="card-label">Predikce</span>
                     <span class="card-value">${prediction.predictedWinner} | ${goalLine}</span>
-                </div>
-                <div class="card-row">
-                    <span class="card-label">xG</span>
-                    <span class="card-value">${expectedGoals} (${totalGoals})</span>
                 </div>
                 <div class="card-row">
                     <span class="card-label">Skutecnost</span>
@@ -138,10 +129,6 @@ function createPredictionCard(prediction) {
             <div class="card-row">
                 <span class="card-label">Under/Over</span>
                 <span class="card-value">${goalLine}</span>
-            </div>
-            <div class="card-row">
-                <span class="card-label">xG</span>
-                <span class="card-value">${expectedGoals} (${totalGoals})</span>
             </div>
         </article>
     `;

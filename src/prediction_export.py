@@ -20,9 +20,6 @@ def format_prediction_payload(row: pd.Series, include_actual: bool = False) -> d
         "status": row.get("status_short", ""),
         "predictedWinner": row["predicted_winner"],
         "winnerConfidence": round(float(row.get("winner_confidence", 0.0)), 4),
-        "predictedHomeGoals": round(float(row.get("predicted_home_goals", 0.0)), 2),
-        "predictedAwayGoals": round(float(row.get("predicted_away_goals", 0.0)), 2),
-        "predictedTotalGoals": round(float(row["predicted_total_goals"]), 2),
         "predictedGoalLine": row["predicted_goal_line"],
         "goalLineConfidence": round(float(row.get("goal_line_confidence", 0.0)), 4),
     }
