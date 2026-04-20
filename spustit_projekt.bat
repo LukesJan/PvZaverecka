@@ -55,25 +55,33 @@ echo [Priprava] Aktualizuji pip...
 %PYTHON_CMD% -m pip install --upgrade pip
 if errorlevel 1 (
     echo.
-    echo Chyba: nepodarilo se aktualizovat pip.
+    echo Upozorneni: pip se nepodarilo aktualizovat, pokracuji se stavajici verzi.
+)
+
+if not exist "requirements-runtime.txt" (
+    echo.
+    echo Chyba: chybi requirements-runtime.txt
     echo.
     pause
     exit /b 1
 )
 
-if not exist "requirements.txt" (
-    echo.
-    echo Chyba: chybi requirements.txt
-    echo.
-    pause
-    exit /b 1
+if exist "offline_packages\*.whl" (
+    echo [Priprava] Instaluji balicky offline ze slozky offline_packages...
+    %PYTHON_CMD% -m pip install --no-index --find-links "offline_packages" -r requirements-runtime.txt
+) else (
+    echo [Priprava] Instaluji balicky z internetu...
+    %PYTHON_CMD% -m pip install -r requirements-runtime.txt
 )
-
-echo [Priprava] Instaluji balicky z requirements.txt...
-%PYTHON_CMD% -m pip install -r requirements-runtime.txt
 if errorlevel 1 (
     echo.
-    echo Chyba: nepodarilo se nainstalovat requirements.txt
+    echo Chyba: nepodarilo se nainstalovat balicky.
+    echo.
+    echo Pokud jsi na skolnim pocitaci bez internetu, priprav doma offline balicky:
+    echo   priprav_offline_balicky.bat
+    echo Potom zkopiruj celou slozku offline_packages do projektu ve skole
+    echo a spust:
+    echo   nainstaluj_offline_balicky.bat
     echo.
     pause
     exit /b 1
@@ -93,11 +101,18 @@ echo [Kontrola] Overuji Python balicky...
 %PYTHON_CMD% -c "import pandas, numpy, joblib, sklearn, dotenv" >nul 2>&1
 if errorlevel 1 (
     echo Chyba: chybi nektere balicky.
-    echo Pokousim se je doinstalovat z requirements.txt...
-    %PYTHON_CMD% -m pip install -r requirements.txt
+    if exist "offline_packages\*.whl" (
+        echo Pokousim se je doinstalovat offline ze slozky offline_packages...
+        %PYTHON_CMD% -m pip install --no-index --find-links "offline_packages" -r requirements-runtime.txt
+    ) else (
+        echo Pokousim se je doinstalovat z internetu...
+        %PYTHON_CMD% -m pip install -r requirements-runtime.txt
+    )
     if errorlevel 1 (
         echo.
         echo Chyba: instalace balicku selhala.
+        echo Na skolnim PC pravdepodobne nejde stahovat z internetu.
+        echo Pouzij offline postup: priprav_offline_balicky.bat doma a nainstaluj_offline_balicky.bat ve skole.
         echo.
         pause
         exit /b 1

@@ -66,3 +66,9 @@ data/
 models/
 notebooks/
     training.ipynb
+
+##Spustění 
+1. Vytvoření: python -m venv .venv
+2. venv\Scripts\activate
+3.Nainstalujte všechny potřebné knihovny: pip install -r requirements-runtime.txt
+4. Vytvorime .env z envexample a vložíme api klíč 
