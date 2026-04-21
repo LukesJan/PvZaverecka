@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21 07:35 UTC",
+  "generated_at": "2026-04-21 08:55 UTC",
   "roundsAhead": 2,
   "leagues": [
     {
@@ -14,8 +14,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.3729,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4918
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5082
         },
         {
           "homeTeam": "Bournemouth",
@@ -47,8 +47,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.3838,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4851
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5149
         },
         {
           "homeTeam": "Fulham",
@@ -69,8 +69,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.6459,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4997
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5003
         },
         {
           "homeTeam": "West Ham",
@@ -201,8 +201,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.4791,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4846
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5154
         },
         {
           "homeTeam": "Chelsea",
@@ -521,8 +521,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.5022,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4919
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5081
         },
         {
           "homeTeam": "Rennes",
@@ -648,8 +648,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.6133,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4937
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5063
         },
         {
           "homeTeam": "Lazio",
@@ -692,8 +692,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.386,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4951
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5049
         },
         {
           "homeTeam": "Atalanta",
@@ -918,8 +918,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.6193,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4982
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5018
         },
         {
           "homeTeam": "Valencia",
@@ -1014,8 +1014,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.3729,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4918
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5082
         },
         {
           "homeTeam": "Bournemouth",
@@ -1047,8 +1047,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.3838,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4851
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5149
         },
         {
           "homeTeam": "Fulham",
@@ -1069,8 +1069,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.6459,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4997
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5003
         },
         {
           "homeTeam": "West Ham",
@@ -1201,8 +1201,8 @@
           "status": "NS",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.4791,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4846
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5154
         },
         {
           "homeTeam": "Chelsea",
@@ -1521,8 +1521,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.5022,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4919
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5081
         },
         {
           "homeTeam": "Rennes",
@@ -1648,8 +1648,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.6133,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4937
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5063
         },
         {
           "homeTeam": "Lazio",
@@ -1692,8 +1692,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.386,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4951
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5049
         },
         {
           "homeTeam": "Atalanta",
@@ -1918,8 +1918,8 @@
           "status": "NS",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.6193,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4982
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5018
         },
         {
           "homeTeam": "Valencia",
@@ -2014,14 +2014,14 @@
           "status": "FT",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.3947,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.498,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.502,
           "actualWinner": "DRAW",
           "actualScore": "0:0",
           "actualTotalGoals": 0,
           "actualGoalLine": "Under 2.5",
           "winnerHit": false,
-          "goalLineHit": false
+          "goalLineHit": true
         },
         {
           "homeTeam": "Leeds",
@@ -2366,14 +2366,14 @@
           "status": "FT",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.472,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4831,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5169,
           "actualWinner": "HOME",
           "actualScore": "2:0",
           "actualTotalGoals": 2,
           "actualGoalLine": "Under 2.5",
           "winnerHit": false,
-          "goalLineHit": false
+          "goalLineHit": true
         },
         {
           "homeTeam": "Angers",
@@ -2610,14 +2610,14 @@
           "status": "FT",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.6368,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4921,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5079,
           "actualWinner": "AWAY",
           "actualScore": "0:1",
           "actualTotalGoals": 1,
           "actualGoalLine": "Under 2.5",
           "winnerHit": true,
-          "goalLineHit": false
+          "goalLineHit": true
         },
         {
           "homeTeam": "Pisa",
@@ -2752,14 +2752,14 @@
           "status": "FT",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.4519,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4801,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5199,
           "actualWinner": "HOME",
           "actualScore": "2:1",
           "actualTotalGoals": 3,
           "actualGoalLine": "Over 2.5",
           "winnerHit": false,
-          "goalLineHit": true
+          "goalLineHit": false
         },
         {
           "homeTeam": "Osasuna",
@@ -2803,14 +2803,14 @@
           "status": "FT",
           "predictedWinner": "HOME",
           "winnerConfidence": 0.4473,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4901,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5099,
           "actualWinner": "AWAY",
           "actualScore": "0:3",
           "actualTotalGoals": 3,
           "actualGoalLine": "Over 2.5",
           "winnerHit": false,
-          "goalLineHit": true
+          "goalLineHit": false
         },
         {
           "homeTeam": "Athletic Club",
@@ -2820,14 +2820,14 @@
           "status": "FT",
           "predictedWinner": "AWAY",
           "winnerConfidence": 0.5087,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4885,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5115,
           "actualWinner": "AWAY",
           "actualScore": "1:2",
           "actualTotalGoals": 3,
           "actualGoalLine": "Over 2.5",
           "winnerHit": true,
-          "goalLineHit": true
+          "goalLineHit": false
         },
         {
           "homeTeam": "Levante",

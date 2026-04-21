@@ -1,82 +1,82 @@
 {
   "dataset_rows": 10503,
-  "winner_split_strategy": "random_90_10_stratified_by_winner",
-  "goal_split_strategy": "random_90_10_stratified_by_goal_bucket",
-  "winner_train_rows": 9452,
-  "winner_test_rows": 1051,
-  "goal_train_rows": 9452,
-  "goal_test_rows": 1051,
+  "winner_split_strategy": "temporal_90_10_by_utc_date",
+  "goal_split_strategy": "temporal_90_10_by_utc_date",
+  "winner_train_rows": 9453,
+  "winner_test_rows": 1050,
+  "goal_train_rows": 9453,
+  "goal_test_rows": 1050,
   "winner_train_start": "2020-08-21 17:00:00+00:00",
-  "winner_train_end": "2026-04-20 19:00:00+00:00",
-  "winner_test_start": "2020-08-23 13:00:00+00:00",
-  "winner_test_end": "2026-04-17 18:30:00+00:00",
+  "winner_train_end": "2025-11-01 15:00:00+00:00",
+  "winner_test_start": "2025-11-01 15:15:00+00:00",
+  "winner_test_end": "2026-04-20 19:00:00+00:00",
   "goal_train_start": "2020-08-21 17:00:00+00:00",
-  "goal_train_end": "2026-04-20 19:00:00+00:00",
-  "goal_test_start": "2020-08-22 15:00:00+00:00",
-  "goal_test_end": "2026-04-19 16:00:00+00:00",
+  "goal_train_end": "2025-11-01 15:00:00+00:00",
+  "goal_test_start": "2025-11-01 15:15:00+00:00",
+  "goal_test_end": "2026-04-20 19:00:00+00:00",
   "winner_model": "VotingGradientBoostingRandomForest",
   "winner_strategy": "single_stage_multiclass",
-  "winner_accuracy": 0.5033301617507137,
-  "winner_f1_macro": 0.4168865982422119,
-  "winner_log_loss": 1.0013329713200403,
+  "winner_accuracy": 0.518095238095238,
+  "winner_f1_macro": 0.41613089618815374,
+  "winner_log_loss": 0.9897807365839676,
   "winner_draw_threshold": null,
   "primary_goal_line": "2.5",
   "goal_line_model": "RandomForestGoalLine",
   "goal_line_strategy": "dedicated_under_over_classifier",
-  "primary_goal_line_accuracy": 0.5937202664129401,
-  "goal_line_f1": 0.6420787929589271,
-  "goal_line_threshold": 0.48,
-  "goal_line_log_loss": 0.6765285478694212,
+  "primary_goal_line_accuracy": 0.5704761904761905,
+  "goal_line_f1": 0.5804651162790697,
+  "goal_line_threshold": 0.5,
+  "goal_line_log_loss": 0.6805119290018877,
   "winner_baselines": [
     {
       "model": "AlwaysHome",
-      "accuracy": 0.42816365366317793,
-      "f1_macro": 0.19986675549633579,
+      "accuracy": 0.4342857142857143,
+      "f1_macro": 0.20185922974767598,
       "log_loss": null
     }
   ],
   "goal_baselines": [
     {
       "model": "AlwaysUnder2_5",
-      "goal_line_accuracy": 0.47002854424357754
+      "goal_line_accuracy": 0.4666666666666667
     }
   ],
   "winner_candidates": [
     {
       "model": "VotingGradientBoostingRandomForest",
-      "accuracy": 0.5033301617507137,
-      "f1_macro": 0.4168865982422119,
-      "log_loss": 1.0013329713200403
+      "accuracy": 0.518095238095238,
+      "f1_macro": 0.41613089618815374,
+      "log_loss": 0.9897807365839676
     },
     {
       "model": "GradientBoostingClassifier",
-      "accuracy": 0.510941960038059,
-      "f1_macro": 0.3926403331550665,
-      "log_loss": 1.0023601984883392
+      "accuracy": 0.518095238095238,
+      "f1_macro": 0.3869252579080413,
+      "log_loss": 0.9924076028873006
     },
     {
       "model": "RandomForestClassifierSmall",
-      "accuracy": 0.4738344433872502,
-      "f1_macro": 0.4579660738949231,
-      "log_loss": 1.0163791603585968
+      "accuracy": 0.47714285714285715,
+      "f1_macro": 0.4557307105160195,
+      "log_loss": 1.0074332365048861
     }
   ],
   "goal_line_candidates": [
     {
       "model": "RandomForestGoalLine",
-      "accuracy": 0.5937202664129401,
-      "f1": 0.6420787929589271,
-      "log_loss": 0.6765285478694212,
-      "threshold": 0.48,
-      "predicted_over_share": 0.6051379638439581
+      "accuracy": 0.5704761904761905,
+      "f1": 0.5804651162790697,
+      "log_loss": 0.6805119290018877,
+      "threshold": 0.5,
+      "predicted_over_share": 0.49047619047619045
     },
     {
       "model": "GradientBoostingGoalLine",
-      "accuracy": 0.588011417697431,
-      "f1": 0.6185022026431718,
-      "log_loss": 0.6755854854555893,
-      "threshold": 0.52,
-      "predicted_over_share": 0.5499524262607041
+      "accuracy": 0.5638095238095238,
+      "f1": 0.5695488721804511,
+      "log_loss": 0.6800497078032807,
+      "threshold": 0.53,
+      "predicted_over_share": 0.48
     }
   ]
 }
