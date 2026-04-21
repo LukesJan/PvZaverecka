@@ -1,5 +1,5 @@
 league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp,status_long,status_short,elapsed,round,home_team_id,home_team_name,away_team_id,away_team_name,home_goals,away_goals,winner,venue_id,venue_name,referee
-140,La Liga,Spain,2025,1390824,2025-08-15T17:00:00+00:00,UTC,1755277200,Match Finished,FT,90.0,Regular Season - 1,547,Girona,728,Rayo Vallecano,1.0,3.0,AWAY,,Estadi Montilivi,"Javier Alberola Rojas, Spain"
+140,La Liga,Spain,2025,1390824,2025-08-15T17:00:00+00:00,UTC,1755277200,Match Finished,FT,90.0,Regular Season - 1,547,Girona,728,Rayo Vallecano,1.0,3.0,AWAY,,Estadio Municipal de Montilivi,"Javier Alberola Rojas, Spain"
 140,La Liga,Spain,2025,1390828,2025-08-15T19:30:00+00:00,UTC,1755286200,Match Finished,FT,90.0,Regular Season - 1,533,Villarreal,718,Oviedo,2.0,0.0,HOME,1498.0,Estadio de la Ceramica,"Alejandro Muñiz Ruiz, Spain"
 140,La Liga,Spain,2025,1390825,2025-08-16T17:30:00+00:00,UTC,1755365400,Match Finished,FT,90.0,Regular Season - 1,798,Mallorca,529,Barcelona,0.0,3.0,AWAY,19940.0,Estadi Mallorca Son Moix,"José Luis Munuera Montero, Spain"
 140,La Liga,Spain,2025,1390827,2025-08-16T19:30:00+00:00,UTC,1755372600,Match Finished,FT,90.0,Regular Season - 1,532,Valencia,548,Real Sociedad,1.0,1.0,DRAW,1497.0,Estadio de Mestalla,"José María Sánchez Martínez, Spain"
@@ -27,21 +27,21 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390844,2025-08-30T17:30:00+00:00,UTC,1756575000,Match Finished,FT,90.0,Regular Season - 3,547,Girona,536,Sevilla,0.0,2.0,AWAY,,Estadio Municipal de Montilivi,"Miguel Angel Ortiz Arias, Spain"
 140,La Liga,Spain,2025,1390846,2025-08-30T19:30:00+00:00,UTC,1756582200,Match Finished,FT,90.0,Regular Season - 3,541,Real Madrid,798,Mallorca,2.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,"José María Sánchez Martínez, Spain"
 140,La Liga,Spain,2025,1390841,2025-08-31T15:00:00+00:00,UTC,1756652400,Match Finished,FT,90.0,Regular Season - 3,538,Celta Vigo,533,Villarreal,1.0,1.0,DRAW,,Estadio Abanca Balaídos,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1390840,2025-08-31T17:00:00+00:00,UTC,1756659600,Match Finished,FT,90.0,Regular Season - 3,543,Real Betis,531,Athletic Club,1.0,2.0,AWAY,,Benito Villamarin,"Isidro Diaz de Mera Escuderos, Spain"
+140,La Liga,Spain,2025,1390840,2025-08-31T17:00:00+00:00,UTC,1756659600,Match Finished,FT,90.0,Regular Season - 3,543,Real Betis,531,Athletic Club,1.0,2.0,AWAY,,Estadio de La Cartuja,"Isidro Diaz de Mera Escuderos, Spain"
 140,La Liga,Spain,2025,1390843,2025-08-31T17:30:00+00:00,UTC,1756661400,Match Finished,FT,90.0,Regular Season - 3,540,Espanyol,727,Osasuna,1.0,0.0,HOME,,RCDE Stadium,"Miguel Sesma Espinosa, Spain"
 140,La Liga,Spain,2025,1390845,2025-08-31T19:30:00+00:00,UTC,1756668600,Match Finished,FT,90.0,Regular Season - 3,728,Rayo Vallecano,529,Barcelona,1.0,1.0,DRAW,1488.0,Campo de Futbol de Vallecas,"Mateo Busquets Ferrer, Spain"
 140,La Liga,Spain,2025,1390858,2025-09-12T19:00:00+00:00,UTC,1757703600,Match Finished,FT,90.0,Regular Season - 4,536,Sevilla,797,Elche,2.0,2.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1390854,2025-09-13T12:00:00+00:00,UTC,1757764800,Match Finished,FT,90.0,Regular Season - 4,546,Getafe,718,Oviedo,2.0,0.0,HOME,,Coliseum Alfonso Pérez,"Jose Luis Guzman Mansilla, Spain"
+140,La Liga,Spain,2025,1390854,2025-09-13T12:00:00+00:00,UTC,1757764800,Match Finished,FT,90.0,Regular Season - 4,546,Getafe,718,Oviedo,2.0,0.0,HOME,,Coliseum,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390857,2025-09-13T14:15:00+00:00,UTC,1757772900,Match Finished,FT,90.0,Regular Season - 4,548,Real Sociedad,541,Real Madrid,1.0,2.0,AWAY,,Reale Arena,"Jesus Gil Manzano, Spain"
 140,La Liga,Spain,2025,1390849,2025-09-13T16:30:00+00:00,UTC,1757781000,Match Finished,FT,90.0,Regular Season - 4,531,Athletic Club,542,Alaves,0.0,1.0,AWAY,,San Mamés,"José María Sánchez Martínez, Spain"
-140,La Liga,Spain,2025,1390850,2025-09-13T19:00:00+00:00,UTC,1757790000,Match Finished,FT,90.0,Regular Season - 4,530,Atletico Madrid,533,Villarreal,2.0,0.0,HOME,,Riyadh Air Metropolitano,"José Luis Munuera Montero, Spain"
+140,La Liga,Spain,2025,1390850,2025-09-13T19:00:00+00:00,UTC,1757790000,Match Finished,FT,90.0,Regular Season - 4,530,Atletico Madrid,533,Villarreal,2.0,0.0,HOME,,Metropolitano Stadium,"José Luis Munuera Montero, Spain"
 140,La Liga,Spain,2025,1390852,2025-09-14T12:00:00+00:00,UTC,1757851200,Match Finished,FT,90.0,Regular Season - 4,538,Celta Vigo,547,Girona,1.0,1.0,DRAW,,Estadio Abanca Balaídos,"Adrian Cordero Vega, Spain"
 140,La Liga,Spain,2025,1390855,2025-09-14T14:15:00+00:00,UTC,1757859300,Match Finished,FT,90.0,Regular Season - 4,539,Levante,543,Real Betis,2.0,2.0,DRAW,1482.0,Estadio Ciudad de Valencia,"Alejandro Muñiz Ruiz, Spain"
 140,La Liga,Spain,2025,1390856,2025-09-14T16:30:00+00:00,UTC,1757867400,Match Finished,FT,90.0,Regular Season - 4,727,Osasuna,728,Rayo Vallecano,2.0,0.0,HOME,,Estadio El Sadar,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1390851,2025-09-14T19:00:00+00:00,UTC,1757876400,Match Finished,FT,90.0,Regular Season - 4,529,Barcelona,532,Valencia,6.0,0.0,HOME,,Estadi Johan Cruyff,"Guillermo Cuadra Fernandez, Spain"
 140,La Liga,Spain,2025,1390853,2025-09-15T19:00:00+00:00,UTC,1757962800,Match Finished,FT,90.0,Regular Season - 4,540,Espanyol,798,Mallorca,3.0,2.0,HOME,,RCDE Stadium,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1390861,2025-09-19T19:00:00+00:00,UTC,1758308400,Match Finished,FT,90.0,Regular Season - 5,543,Real Betis,548,Real Sociedad,3.0,1.0,HOME,,Benito Villamarin,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1390863,2025-09-20T12:00:00+00:00,UTC,1758369600,Match Finished,FT,90.0,Regular Season - 5,547,Girona,539,Levante,0.0,4.0,AWAY,,Estadi Montilivi,"Alejandro Quintero Gonzalez, Spain"
+140,La Liga,Spain,2025,1390861,2025-09-19T19:00:00+00:00,UTC,1758308400,Match Finished,FT,90.0,Regular Season - 5,543,Real Betis,548,Real Sociedad,3.0,1.0,HOME,,Estadio de La Cartuja,"Mateo Busquets Ferrer, Spain"
+140,La Liga,Spain,2025,1390863,2025-09-20T12:00:00+00:00,UTC,1758369600,Match Finished,FT,90.0,Regular Season - 5,547,Girona,539,Levante,0.0,4.0,AWAY,,Estadio Municipal de Montilivi,"Alejandro Quintero Gonzalez, Spain"
 140,La Liga,Spain,2025,1390866,2025-09-20T14:15:00+00:00,UTC,1758377700,Match Finished,FT,90.0,Regular Season - 5,541,Real Madrid,540,Espanyol,2.0,0.0,HOME,1456.0,Estadio Santiago Bernabéu,"Juan Martinez Munuera, Spain"
 140,La Liga,Spain,2025,1390868,2025-09-20T16:30:00+00:00,UTC,1758385800,Match Finished,FT,90.0,Regular Season - 5,533,Villarreal,727,Osasuna,2.0,1.0,HOME,1498.0,Estadio de la Ceramica,"Isidro Diaz de Mera Escuderos, Spain"
 140,La Liga,Spain,2025,1390859,2025-09-20T16:30:00+00:00,UTC,1758385800,Match Finished,FT,90.0,Regular Season - 5,542,Alaves,536,Sevilla,1.0,2.0,AWAY,1470.0,Estadio Mendizorrotza,"Iosu Galech Apezteguia, Spain"
@@ -54,20 +54,20 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390872,2025-09-23T17:00:00+00:00,UTC,1758646800,Match Finished,FT,90.0,Regular Season - 6,540,Espanyol,532,Valencia,2.0,2.0,DRAW,,RCDE Stadium,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390878,2025-09-23T19:30:00+00:00,UTC,1758655800,Match Finished,FT,90.0,Regular Season - 6,536,Sevilla,533,Villarreal,1.0,2.0,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1390874,2025-09-23T19:30:00+00:00,UTC,1758655800,Match Finished,FT,90.0,Regular Season - 6,539,Levante,541,Real Madrid,1.0,4.0,AWAY,1482.0,Estadio Ciudad de Valencia,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1390873,2025-09-24T17:00:00+00:00,UTC,1758733200,Match Finished,FT,90.0,Regular Season - 6,546,Getafe,542,Alaves,1.0,1.0,DRAW,,Coliseum Alfonso Pérez,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1390870,2025-09-24T19:30:00+00:00,UTC,1758742200,Match Finished,FT,90.0,Regular Season - 6,530,Atletico Madrid,728,Rayo Vallecano,3.0,2.0,HOME,,Riyadh Air Metropolitano,"Alejandro Hernandez, Spain"
+140,La Liga,Spain,2025,1390873,2025-09-24T17:00:00+00:00,UTC,1758733200,Match Finished,FT,90.0,Regular Season - 6,546,Getafe,542,Alaves,1.0,1.0,DRAW,,Coliseum,"Alejandro Quintero Gonzalez, Spain"
+140,La Liga,Spain,2025,1390870,2025-09-24T19:30:00+00:00,UTC,1758742200,Match Finished,FT,90.0,Regular Season - 6,530,Atletico Madrid,728,Rayo Vallecano,3.0,2.0,HOME,,Metropolitano Stadium,"Alejandro Hernandez, Spain"
 140,La Liga,Spain,2025,1390876,2025-09-24T19:30:00+00:00,UTC,1758742200,Match Finished,FT,90.0,Regular Season - 6,548,Real Sociedad,798,Mallorca,1.0,0.0,HOME,,Reale Arena,"Iosu Galech Apezteguia, Spain"
 140,La Liga,Spain,2025,1390875,2025-09-25T17:30:00+00:00,UTC,1758821400,Match Finished,FT,90.0,Regular Season - 6,727,Osasuna,797,Elche,1.0,1.0,DRAW,,Estadio El Sadar,"Adrian Cordero Vega, Spain"
 140,La Liga,Spain,2025,1390877,2025-09-25T19:30:00+00:00,UTC,1758828600,Match Finished,FT,90.0,Regular Season - 6,718,Oviedo,529,Barcelona,1.0,3.0,AWAY,1490.0,Estadio Nuevo Carlos Tartiere,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1390884,2025-09-26T19:00:00+00:00,UTC,1758913200,Match Finished,FT,90.0,Regular Season - 7,547,Girona,540,Espanyol,0.0,0.0,DRAW,,Estadi Montilivi,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1390883,2025-09-27T12:00:00+00:00,UTC,1758974400,Match Finished,FT,90.0,Regular Season - 7,546,Getafe,539,Levante,1.0,1.0,DRAW,,Coliseum Alfonso Pérez,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1390879,2025-09-27T14:15:00+00:00,UTC,1758982500,Match Finished,FT,90.0,Regular Season - 7,530,Atletico Madrid,541,Real Madrid,5.0,2.0,HOME,,Riyadh Air Metropolitano,"Javier Alberola Rojas, Spain"
+140,La Liga,Spain,2025,1390884,2025-09-26T19:00:00+00:00,UTC,1758913200,Match Finished,FT,90.0,Regular Season - 7,547,Girona,540,Espanyol,0.0,0.0,DRAW,,Estadio Municipal de Montilivi,"Francisco Hernandez Maeso, Spain"
+140,La Liga,Spain,2025,1390883,2025-09-27T12:00:00+00:00,UTC,1758974400,Match Finished,FT,90.0,Regular Season - 7,546,Getafe,539,Levante,1.0,1.0,DRAW,,Coliseum,"Mateo Busquets Ferrer, Spain"
+140,La Liga,Spain,2025,1390879,2025-09-27T14:15:00+00:00,UTC,1758982500,Match Finished,FT,90.0,Regular Season - 7,530,Atletico Madrid,541,Real Madrid,5.0,2.0,HOME,,Metropolitano Stadium,"Javier Alberola Rojas, Spain"
 140,La Liga,Spain,2025,1390885,2025-09-27T16:30:00+00:00,UTC,1758990600,Match Finished,FT,90.0,Regular Season - 7,798,Mallorca,542,Alaves,1.0,0.0,HOME,19940.0,Estadi Mallorca Son Moix,"Adrian Cordero Vega, Spain"
 140,La Liga,Spain,2025,1390888,2025-09-27T19:00:00+00:00,UTC,1758999600,Match Finished,FT,90.0,Regular Season - 7,533,Villarreal,531,Athletic Club,1.0,0.0,HOME,1498.0,Estadio de la Ceramica,"Miguel Sesma Espinosa, Spain"
 140,La Liga,Spain,2025,1390886,2025-09-28T12:00:00+00:00,UTC,1759060800,Match Finished,FT,90.0,Regular Season - 7,728,Rayo Vallecano,536,Sevilla,0.0,1.0,AWAY,1488.0,Campo de Futbol de Vallecas,"Jesus Gil Manzano, Spain"
 140,La Liga,Spain,2025,1390882,2025-09-28T14:15:00+00:00,UTC,1759068900,Match Finished,FT,90.0,Regular Season - 7,797,Elche,538,Celta Vigo,2.0,1.0,HOME,1473.0,Estadio Manuel Martínez Valero,"Guillermo Cuadra Fernandez, Spain"
 140,La Liga,Spain,2025,1390880,2025-09-28T16:30:00+00:00,UTC,1759077000,Match Finished,FT,90.0,Regular Season - 7,529,Barcelona,548,Real Sociedad,2.0,1.0,HOME,18630.0,Camp Nou,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1390881,2025-09-28T19:00:00+00:00,UTC,1759086000,Match Finished,FT,90.0,Regular Season - 7,543,Real Betis,727,Osasuna,2.0,0.0,HOME,,Estadio de la Cartuja,"Victor Garcia Verdura, Spain"
+140,La Liga,Spain,2025,1390881,2025-09-28T19:00:00+00:00,UTC,1759086000,Match Finished,FT,90.0,Regular Season - 7,543,Real Betis,727,Osasuna,2.0,0.0,HOME,,Estadio de La Cartuja,"Victor Garcia Verdura, Spain"
 140,La Liga,Spain,2025,1390887,2025-09-30T18:00:00+00:00,UTC,1759255200,Match Finished,FT,90.0,Regular Season - 7,532,Valencia,718,Oviedo,1.0,2.0,AWAY,1497.0,Estadio de Mestalla,"Ricardo De Burgos Bengoetxea, Spain"
 140,La Liga,Spain,2025,1390894,2025-10-03T19:00:00+00:00,UTC,1759518000,Match Finished,FT,90.0,Regular Season - 8,727,Osasuna,546,Getafe,2.0,1.0,HOME,,Estadio El Sadar,"Javier Alberola Rojas, Spain"
 140,La Liga,Spain,2025,1390897,2025-10-04T12:00:00+00:00,UTC,1759579200,Match Finished,FT,90.0,Regular Season - 8,718,Oviedo,539,Levante,0.0,2.0,AWAY,1490.0,Estadio Nuevo Carlos Tartiere,"José Luis Munuera Montero, Spain"
@@ -83,7 +83,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390907,2025-10-18T12:00:00+00:00,UTC,1760788800,Match Finished,FT,90.0,Regular Season - 9,536,Sevilla,798,Mallorca,1.0,3.0,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,"Victor Garcia Verdura, Spain"
 140,La Liga,Spain,2025,1390901,2025-10-18T14:15:00+00:00,UTC,1760796900,Match Finished,FT,90.0,Regular Season - 9,529,Barcelona,547,Girona,2.0,1.0,HOME,,Olímpic Lluís Companys,"Jesus Gil Manzano, Spain"
 140,La Liga,Spain,2025,1390908,2025-10-18T16:30:00+00:00,UTC,1760805000,Match Finished,FT,90.0,Regular Season - 9,533,Villarreal,543,Real Betis,2.0,2.0,DRAW,1498.0,Estadio de la Ceramica,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1390900,2025-10-18T19:00:00+00:00,UTC,1760814000,Match Finished,FT,90.0,Regular Season - 9,530,Atletico Madrid,727,Osasuna,1.0,0.0,HOME,,Riyadh Air Metropolitano,"Ricardo De Burgos Bengoetxea, Spain"
+140,La Liga,Spain,2025,1390900,2025-10-18T19:00:00+00:00,UTC,1760814000,Match Finished,FT,90.0,Regular Season - 9,530,Atletico Madrid,727,Osasuna,1.0,0.0,HOME,,Metropolitano Stadium,"Ricardo De Burgos Bengoetxea, Spain"
 140,La Liga,Spain,2025,1390903,2025-10-19T12:00:00+00:00,UTC,1760875200,Match Finished,FT,90.0,Regular Season - 9,797,Elche,531,Athletic Club,0.0,0.0,DRAW,1473.0,Estadio Manuel Martínez Valero,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390902,2025-10-19T14:15:00+00:00,UTC,1760883300,Match Finished,FT,90.0,Regular Season - 9,538,Celta Vigo,548,Real Sociedad,1.0,1.0,DRAW,,Estadio Abanca Balaídos,"Juan Martinez Munuera, Spain"
 140,La Liga,Spain,2025,1390905,2025-10-19T16:30:00+00:00,UTC,1760891400,Match Finished,FT,90.0,Regular Season - 9,539,Levante,728,Rayo Vallecano,0.0,3.0,AWAY,1482.0,Estadio Ciudad de Valencia,"Miguel Sesma Espinosa, Spain"
@@ -98,21 +98,21 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390916,2025-10-26T15:15:00+00:00,UTC,1761491700,Match Finished,FT,90.0,Regular Season - 10,541,Real Madrid,529,Barcelona,2.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1390914,2025-10-26T17:30:00+00:00,UTC,1761499800,Match Finished,FT,90.0,Regular Season - 10,727,Osasuna,538,Celta Vigo,2.0,3.0,AWAY,,Estadio El Sadar,"Alejandro Hernandez, Spain"
 140,La Liga,Spain,2025,1390915,2025-10-26T20:00:00+00:00,UTC,1761508800,Match Finished,FT,90.0,Regular Season - 10,728,Rayo Vallecano,542,Alaves,1.0,0.0,HOME,1488.0,Campo de Futbol de Vallecas,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1390910,2025-10-27T20:00:00+00:00,UTC,1761595200,Match Finished,FT,90.0,Regular Season - 10,543,Real Betis,530,Atletico Madrid,0.0,2.0,AWAY,,Estadio de la Cartuja,"Juan Martinez Munuera, Spain"
+140,La Liga,Spain,2025,1390910,2025-10-27T20:00:00+00:00,UTC,1761595200,Match Finished,FT,90.0,Regular Season - 10,543,Real Betis,530,Atletico Madrid,0.0,2.0,AWAY,,Estadio de La Cartuja,"Juan Martinez Munuera, Spain"
 140,La Liga,Spain,2025,1390923,2025-10-31T20:00:00+00:00,UTC,1761940800,Match Finished,FT,90.0,Regular Season - 11,546,Getafe,547,Girona,2.0,1.0,HOME,20422.0,Coliseum,"José María Sánchez Martínez, Spain"
 140,La Liga,Spain,2025,1390928,2025-11-01T13:00:00+00:00,UTC,1762002000,Match Finished,FT,90.0,Regular Season - 11,533,Villarreal,728,Rayo Vallecano,4.0,0.0,HOME,1498.0,Estadio de la Ceramica,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1390920,2025-11-01T15:15:00+00:00,UTC,1762010100,Match Finished,FT,90.0,Regular Season - 11,530,Atletico Madrid,536,Sevilla,3.0,0.0,HOME,,Riyadh Air Metropolitano,"Alejandro Hernandez, Spain"
+140,La Liga,Spain,2025,1390920,2025-11-01T15:15:00+00:00,UTC,1762010100,Match Finished,FT,90.0,Regular Season - 11,530,Atletico Madrid,536,Sevilla,3.0,0.0,HOME,,Metropolitano Stadium,"Alejandro Hernandez, Spain"
 140,La Liga,Spain,2025,1390926,2025-11-01T17:30:00+00:00,UTC,1762018200,Match Finished,FT,90.0,Regular Season - 11,548,Real Sociedad,531,Athletic Club,3.0,2.0,HOME,,Reale Arena,"José Luis Munuera Montero, Spain"
 140,La Liga,Spain,2025,1390925,2025-11-01T20:00:00+00:00,UTC,1762027200,Match Finished,FT,90.0,Regular Season - 11,541,Real Madrid,532,Valencia,4.0,0.0,HOME,1456.0,Estadio Santiago Bernabéu,"Mateo Busquets Ferrer, Spain"
 140,La Liga,Spain,2025,1390924,2025-11-02T13:00:00+00:00,UTC,1762088400,Match Finished,FT,90.0,Regular Season - 11,539,Levante,538,Celta Vigo,1.0,2.0,AWAY,1482.0,Estadio Ciudad de Valencia,"Alejandro Quintero Gonzalez, Spain"
 140,La Liga,Spain,2025,1390919,2025-11-02T15:15:00+00:00,UTC,1762096500,Match Finished,FT,90.0,Regular Season - 11,542,Alaves,540,Espanyol,2.0,1.0,HOME,1470.0,Estadio Mendizorrotza,"Guillermo Cuadra Fernandez, Spain"
 140,La Liga,Spain,2025,1390921,2025-11-02T17:30:00+00:00,UTC,1762104600,Match Finished,FT,90.0,Regular Season - 11,529,Barcelona,797,Elche,3.0,1.0,HOME,,Olímpic Lluís Companys,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1390922,2025-11-02T20:00:00+00:00,UTC,1762113600,Match Finished,FT,90.0,Regular Season - 11,543,Real Betis,798,Mallorca,3.0,0.0,HOME,,Benito Villamarin,"Jesus Gil Manzano, Spain"
+140,La Liga,Spain,2025,1390922,2025-11-02T20:00:00+00:00,UTC,1762113600,Match Finished,FT,90.0,Regular Season - 11,543,Real Betis,798,Mallorca,3.0,0.0,HOME,,Estadio de La Cartuja,"Jesus Gil Manzano, Spain"
 140,La Liga,Spain,2025,1390927,2025-11-03T20:00:00+00:00,UTC,1762200000,Match Finished,FT,90.0,Regular Season - 11,718,Oviedo,727,Osasuna,0.0,0.0,DRAW,1490.0,Estadio Nuevo Carlos Tartiere,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390932,2025-11-07T20:00:00+00:00,UTC,1762545600,Match Finished,FT,90.0,Regular Season - 12,797,Elche,548,Real Sociedad,1.0,1.0,DRAW,1473.0,Estadio Manuel Martínez Valero,"Isidro Diaz de Mera Escuderos, Spain"
 140,La Liga,Spain,2025,1390934,2025-11-08T13:00:00+00:00,UTC,1762606800,Match Finished,FT,90.0,Regular Season - 12,547,Girona,542,Alaves,1.0,0.0,HOME,1478.0,Estadio Municipal de Montilivi,"Adrian Cordero Vega, Spain"
 140,La Liga,Spain,2025,1390937,2025-11-08T15:15:00+00:00,UTC,1762614900,Match Finished,FT,90.0,Regular Season - 12,536,Sevilla,727,Osasuna,1.0,0.0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1390930,2025-11-08T17:30:00+00:00,UTC,1762623000,Match Finished,FT,90.0,Regular Season - 12,530,Atletico Madrid,539,Levante,3.0,1.0,HOME,,Riyadh Air Metropolitano,"Jesus Gil Manzano, Spain"
+140,La Liga,Spain,2025,1390930,2025-11-08T17:30:00+00:00,UTC,1762623000,Match Finished,FT,90.0,Regular Season - 12,530,Atletico Madrid,539,Levante,3.0,1.0,HOME,,Metropolitano Stadium,"Jesus Gil Manzano, Spain"
 140,La Liga,Spain,2025,1390933,2025-11-08T20:00:00+00:00,UTC,1762632000,Match Finished,FT,90.0,Regular Season - 12,540,Espanyol,533,Villarreal,0.0,2.0,AWAY,,RCDE Stadium,"Alejandro Hernandez, Spain"
 140,La Liga,Spain,2025,1390929,2025-11-09T13:00:00+00:00,UTC,1762693200,Match Finished,FT,90.0,Regular Season - 12,531,Athletic Club,718,Oviedo,1.0,0.0,HOME,,San Mamés,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1390936,2025-11-09T15:15:00+00:00,UTC,1762701300,Match Finished,FT,90.0,Regular Season - 12,728,Rayo Vallecano,541,Real Madrid,0.0,0.0,DRAW,1488.0,Campo de Futbol de Vallecas,"Juan Martinez Munuera, Spain"
@@ -125,7 +125,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390945,2025-11-22T17:30:00+00:00,UTC,1763832600,Match Finished,FT,90.0,Regular Season - 13,727,Osasuna,548,Real Sociedad,1.0,3.0,AWAY,,Estadio El Sadar,"Mateo Busquets Ferrer, Spain"
 140,La Liga,Spain,2025,1390948,2025-11-22T20:00:00+00:00,UTC,1763841600,Match Finished,FT,90.0,Regular Season - 13,533,Villarreal,798,Mallorca,2.0,1.0,HOME,1498.0,Estadio de la Ceramica,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390946,2025-11-23T13:00:00+00:00,UTC,1763902800,Match Finished,FT,90.0,Regular Season - 13,718,Oviedo,728,Rayo Vallecano,0.0,0.0,DRAW,1490.0,Estadio Nuevo Carlos Tartiere,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1390941,2025-11-23T15:15:00+00:00,UTC,1763910900,Match Finished,FT,90.0,Regular Season - 13,543,Real Betis,547,Girona,1.0,1.0,DRAW,,Estadio de la Cartuja,"Iosu Galech Apezteguia, Spain"
+140,La Liga,Spain,2025,1390941,2025-11-23T15:15:00+00:00,UTC,1763910900,Match Finished,FT,90.0,Regular Season - 13,543,Real Betis,547,Girona,1.0,1.0,DRAW,,Estadio de La Cartuja,"Iosu Galech Apezteguia, Spain"
 140,La Liga,Spain,2025,1390944,2025-11-23T17:30:00+00:00,UTC,1763919000,Match Finished,FT,90.0,Regular Season - 13,546,Getafe,530,Atletico Madrid,0.0,1.0,AWAY,20422.0,Coliseum,"Guillermo Cuadra Fernandez, Spain"
 140,La Liga,Spain,2025,1390942,2025-11-23T20:00:00+00:00,UTC,1763928000,Match Finished,FT,90.0,Regular Season - 13,797,Elche,541,Real Madrid,2.0,2.0,DRAW,1473.0,Estadio Manuel Martínez Valero,"Francisco Hernandez Maeso, Spain"
 140,La Liga,Spain,2025,1390943,2025-11-24T20:00:00+00:00,UTC,1764014400,Match Finished,FT,90.0,Regular Season - 13,540,Espanyol,536,Sevilla,2.0,1.0,HOME,,RCDE Stadium,"Miguel Sesma Espinosa, Spain"
@@ -133,7 +133,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390955,2025-11-29T13:00:00+00:00,UTC,1764421200,Match Finished,FT,90.0,Regular Season - 14,798,Mallorca,727,Osasuna,2.0,2.0,DRAW,19940.0,Estadi Mallorca Son Moix,"Jesus Gil Manzano, Spain"
 140,La Liga,Spain,2025,1390950,2025-11-29T15:15:00+00:00,UTC,1764429300,Match Finished,FT,90.0,Regular Season - 14,529,Barcelona,542,Alaves,3.0,1.0,HOME,19939.0,Camp Nou,"Miguel Angel Ortiz Arias, Spain"
 140,La Liga,Spain,2025,1390954,2025-11-29T17:30:00+00:00,UTC,1764437400,Match Finished,FT,90.0,Regular Season - 14,539,Levante,531,Athletic Club,0.0,2.0,AWAY,1482.0,Estadio Ciudad de Valencia,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1390949,2025-11-29T20:00:00+00:00,UTC,1764446400,Match Finished,FT,90.0,Regular Season - 14,530,Atletico Madrid,718,Oviedo,2.0,0.0,HOME,,Riyadh Air Metropolitano,"Victor Garcia Verdura, Spain"
+140,La Liga,Spain,2025,1390949,2025-11-29T20:00:00+00:00,UTC,1764446400,Match Finished,FT,90.0,Regular Season - 14,530,Atletico Madrid,718,Oviedo,2.0,0.0,HOME,,Metropolitano Stadium,"Victor Garcia Verdura, Spain"
 140,La Liga,Spain,2025,1390957,2025-11-30T13:00:00+00:00,UTC,1764507600,Match Finished,FT,90.0,Regular Season - 14,548,Real Sociedad,533,Villarreal,2.0,3.0,AWAY,,Reale Arena,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1390958,2025-11-30T15:15:00+00:00,UTC,1764515700,Match Finished,FT,90.0,Regular Season - 14,536,Sevilla,543,Real Betis,0.0,2.0,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,"José Luis Munuera Montero, Spain"
 140,La Liga,Spain,2025,1390951,2025-11-30T17:30:00+00:00,UTC,1764523800,Match Finished,FT,90.0,Regular Season - 14,538,Celta Vigo,540,Espanyol,0.0,1.0,AWAY,,Estadio Abanca Balaídos,"Isidro Diaz de Mera Escuderos, Spain"
@@ -144,7 +144,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390966,2025-12-05T20:00:00+00:00,UTC,1764964800,Match Finished,FT,90.0,Regular Season - 15,718,Oviedo,798,Mallorca,0.0,0.0,DRAW,1490.0,Estadio Nuevo Carlos Tartiere,"Iosu Galech Apezteguia, Spain"
 140,La Liga,Spain,2025,1390968,2025-12-06T13:00:00+00:00,UTC,1765026000,Match Finished,FT,90.0,Regular Season - 15,533,Villarreal,546,Getafe,2.0,0.0,HOME,1498.0,Estadio de la Ceramica,"Mateo Busquets Ferrer, Spain"
 140,La Liga,Spain,2025,1390959,2025-12-06T15:15:00+00:00,UTC,1765034100,Match Finished,FT,90.0,Regular Season - 15,542,Alaves,548,Real Sociedad,1.0,0.0,HOME,1470.0,Estadio Mendizorrotza,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1390961,2025-12-06T17:30:00+00:00,UTC,1765042200,Match Finished,FT,90.0,Regular Season - 15,543,Real Betis,529,Barcelona,3.0,5.0,AWAY,,Estadio de la Cartuja,"Francisco Hernandez Maeso, Spain"
+140,La Liga,Spain,2025,1390961,2025-12-06T17:30:00+00:00,UTC,1765042200,Match Finished,FT,90.0,Regular Season - 15,543,Real Betis,529,Barcelona,3.0,5.0,AWAY,,Estadio de La Cartuja,"Francisco Hernandez Maeso, Spain"
 140,La Liga,Spain,2025,1390960,2025-12-06T20:00:00+00:00,UTC,1765051200,Match Finished,FT,90.0,Regular Season - 15,531,Athletic Club,530,Atletico Madrid,1.0,0.0,HOME,,San Mamés,"Alejandro Muñiz Ruiz, Spain"
 140,La Liga,Spain,2025,1390962,2025-12-07T13:00:00+00:00,UTC,1765112400,Match Finished,FT,90.0,Regular Season - 15,797,Elche,547,Girona,3.0,0.0,HOME,1473.0,Estadio Manuel Martínez Valero,"Miguel Sesma Espinosa, Spain"
 140,La Liga,Spain,2025,1390967,2025-12-07T15:15:00+00:00,UTC,1765120500,Match Finished,FT,90.0,Regular Season - 15,532,Valencia,536,Sevilla,1.0,1.0,DRAW,1497.0,Estadio de Mestalla,"Guillermo Cuadra Fernandez, Spain"
@@ -152,7 +152,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390965,2025-12-07T20:00:00+00:00,UTC,1765137600,Match Finished,FT,90.0,Regular Season - 15,541,Real Madrid,538,Celta Vigo,0.0,2.0,AWAY,1456.0,Estadio Santiago Bernabéu,"Alejandro Quintero Gonzalez, Spain"
 140,La Liga,Spain,2025,1390964,2025-12-08T20:00:00+00:00,UTC,1765224000,Match Finished,FT,90.0,Regular Season - 15,727,Osasuna,539,Levante,2.0,0.0,HOME,,Estadio El Sadar,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390977,2025-12-12T20:00:00+00:00,UTC,1765569600,Match Finished,FT,90.0,Regular Season - 16,548,Real Sociedad,547,Girona,1.0,2.0,AWAY,,Reale Arena,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1390970,2025-12-13T13:00:00+00:00,UTC,1765630800,Match Finished,FT,90.0,Regular Season - 16,530,Atletico Madrid,532,Valencia,2.0,1.0,HOME,,Riyadh Air Metropolitano,"César Soto Grado, Spain"
+140,La Liga,Spain,2025,1390970,2025-12-13T13:00:00+00:00,UTC,1765630800,Match Finished,FT,90.0,Regular Season - 16,530,Atletico Madrid,532,Valencia,2.0,1.0,HOME,,Metropolitano Stadium,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1390975,2025-12-13T15:15:00+00:00,UTC,1765638900,Match Finished,FT,90.0,Regular Season - 16,798,Mallorca,797,Elche,3.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,"José Luis Munuera Montero, Spain"
 140,La Liga,Spain,2025,1390971,2025-12-13T17:30:00+00:00,UTC,1765647000,Match Finished,FT,90.0,Regular Season - 16,529,Barcelona,727,Osasuna,2.0,0.0,HOME,19939.0,Camp Nou,"Adrian Cordero Vega, Spain"
 140,La Liga,Spain,2025,1390973,2025-12-13T20:00:00+00:00,UTC,1765656000,Match Finished,FT,90.0,Regular Season - 16,546,Getafe,540,Espanyol,0.0,1.0,AWAY,20422.0,Coliseum,"Jesus Gil Manzano, Spain"
@@ -168,7 +168,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1390982,2025-12-21T13:00:00+00:00,UTC,1766322000,Match Finished,FT,90.0,Regular Season - 17,547,Girona,530,Atletico Madrid,0.0,3.0,AWAY,1478.0,Estadio Municipal de Montilivi,"Jose Luis Guzman Mansilla, Spain"
 140,La Liga,Spain,2025,1390988,2025-12-21T15:15:00+00:00,UTC,1766330100,Match Finished,FT,90.0,Regular Season - 17,533,Villarreal,529,Barcelona,0.0,2.0,AWAY,1498.0,Estadio de la Ceramica,"Javier Alberola Rojas, Spain"
 140,La Liga,Spain,2025,1390981,2025-12-21T17:30:00+00:00,UTC,1766338200,Match Finished,FT,90.0,Regular Season - 17,797,Elche,728,Rayo Vallecano,4.0,0.0,HOME,1473.0,Estadio Manuel Martínez Valero,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1390980,2025-12-21T20:00:00+00:00,UTC,1766347200,Match Finished,FT,90.0,Regular Season - 17,543,Real Betis,546,Getafe,4.0,0.0,HOME,,Estadio de la Cartuja,"Miguel Sesma Espinosa, Spain"
+140,La Liga,Spain,2025,1390980,2025-12-21T20:00:00+00:00,UTC,1766347200,Match Finished,FT,90.0,Regular Season - 17,543,Real Betis,546,Getafe,4.0,0.0,HOME,,Estadio de La Cartuja,"Miguel Sesma Espinosa, Spain"
 140,La Liga,Spain,2025,1390979,2025-12-22T20:00:00+00:00,UTC,1766433600,Match Finished,FT,90.0,Regular Season - 17,531,Athletic Club,540,Espanyol,1.0,2.0,AWAY,,San Mamés,"Mateo Busquets Ferrer, Spain"
 140,La Liga,Spain,2025,1390995,2026-01-02T20:00:00+00:00,UTC,1767384000,Match Finished,FT,90.0,Regular Season - 18,728,Rayo Vallecano,546,Getafe,1.0,1.0,DRAW,1488.0,Campo de Futbol de Vallecas,"Miguel Angel Ortiz Arias, Spain"
 140,La Liga,Spain,2025,1390990,2026-01-03T13:00:00+00:00,UTC,1767445200,Match Finished,FT,90.0,Regular Season - 18,538,Celta Vigo,532,Valencia,4.0,1.0,HOME,,Estadio Abanca Balaídos,"Ricardo De Burgos Bengoetxea, Spain"
@@ -189,132 +189,132 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1391003,2026-01-11T15:15:00+00:00,UTC,1768144500,Match Finished,FT,90.0,Regular Season - 19,539,Levante,540,Espanyol,1.0,1.0,DRAW,1482.0,Estadio Ciudad de Valencia,"César Soto Grado, Spain"
 140,La Liga,Spain,2025,1391006,2026-01-12T20:00:00+00:00,UTC,1768248000,Match Finished,FT,90.0,Regular Season - 19,536,Sevilla,538,Celta Vigo,0.0,1.0,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,"José María Sánchez Martínez, Spain"
 140,La Liga,Spain,2025,1391013,2026-01-16T20:00:00+00:00,UTC,1768593600,Match Finished,FT,90.0,Regular Season - 20,540,Espanyol,547,Girona,0.0,2.0,AWAY,,RCDE Stadium,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1391017,2026-01-17T13:00:00+00:00,UTC,1768654800,Match Finished,FT,90.0,Regular Season - 20,541,Real Madrid,539,Levante,2.0,0.0,HOME,1456.0,Estadio Santiago Bernabéu,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391015,2026-01-17T15:15:00+00:00,UTC,1768662900,Match Finished,FT,90.0,Regular Season - 20,798,Mallorca,531,Athletic Club,3.0,2.0,HOME,19940.0,Estadi Mallorca Son Moix,"Jose Luis Guzman Mansilla, Spain"
-140,La Liga,Spain,2025,1391016,2026-01-17T17:30:00+00:00,UTC,1768671000,Match Finished,FT,90.0,Regular Season - 20,727,Osasuna,718,Oviedo,3.0,2.0,HOME,,Estadio El Sadar,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1391010,2026-01-17T20:00:00+00:00,UTC,1768680000,Match Finished,FT,90.0,Regular Season - 20,543,Real Betis,533,Villarreal,2.0,0.0,HOME,,Benito Villamarin,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1391014,2026-01-18T13:00:00+00:00,UTC,1768741200,Match Finished,FT,90.0,Regular Season - 20,546,Getafe,532,Valencia,0.0,1.0,AWAY,20422.0,Coliseum,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391009,2026-01-18T15:15:00+00:00,UTC,1768749300,Match Finished,FT,90.0,Regular Season - 20,530,Atletico Madrid,542,Alaves,1.0,0.0,HOME,,Riyadh Air Metropolitano,"Guillermo Cuadra Fernandez, Spain"
-140,La Liga,Spain,2025,1391011,2026-01-18T17:30:00+00:00,UTC,1768757400,Match Finished,FT,90.0,Regular Season - 20,538,Celta Vigo,728,Rayo Vallecano,3.0,0.0,HOME,,Estadio Abanca Balaídos,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1391018,2026-01-18T20:00:00+00:00,UTC,1768766400,Match Finished,FT,90.0,Regular Season - 20,548,Real Sociedad,529,Barcelona,2.0,1.0,HOME,,Reale Arena,"Jesus Gil Manzano, Spain"
-140,La Liga,Spain,2025,1391012,2026-01-19T20:00:00+00:00,UTC,1768852800,Match Finished,FT,90.0,Regular Season - 20,797,Elche,536,Sevilla,2.0,2.0,DRAW,1473.0,Estadio Manuel Martínez Valero,"Ricardo De Burgos Bengoetxea, Spain"
-140,La Liga,Spain,2025,1391023,2026-01-23T20:00:00+00:00,UTC,1769198400,Match Finished,FT,90.0,Regular Season - 21,539,Levante,797,Elche,3.0,2.0,HOME,1482.0,Estadio Ciudad de Valencia,"José Luis Munuera Montero, Spain"
-140,La Liga,Spain,2025,1391024,2026-01-24T13:00:00+00:00,UTC,1769259600,Match Finished,FT,90.0,Regular Season - 21,728,Rayo Vallecano,727,Osasuna,1.0,3.0,AWAY,1488.0,Campo de Futbol de Vallecas,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391027,2026-01-24T15:15:00+00:00,UTC,1769267700,Match Finished,FT,90.0,Regular Season - 21,532,Valencia,540,Espanyol,3.0,2.0,HOME,1497.0,Estadio de Mestalla,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1391026,2026-01-24T17:30:00+00:00,UTC,1769275800,Match Finished,FT,90.0,Regular Season - 21,536,Sevilla,531,Athletic Club,2.0,1.0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1391028,2026-01-24T20:00:00+00:00,UTC,1769284800,Match Finished,FT,90.0,Regular Season - 21,533,Villarreal,541,Real Madrid,0.0,2.0,AWAY,1498.0,Estadio de la Ceramica,"César Soto Grado, Spain"
-140,La Liga,Spain,2025,1391020,2026-01-25T13:00:00+00:00,UTC,1769346000,Match Finished,FT,90.0,Regular Season - 21,530,Atletico Madrid,798,Mallorca,3.0,0.0,HOME,,Riyadh Air Metropolitano,"José María Sánchez Martínez, Spain"
-140,La Liga,Spain,2025,1391021,2026-01-25T15:15:00+00:00,UTC,1769354100,Match Finished,FT,90.0,Regular Season - 21,529,Barcelona,718,Oviedo,3.0,0.0,HOME,19939.0,Camp Nou,"Juan Martinez Munuera, Spain"
-140,La Liga,Spain,2025,1391025,2026-01-25T17:30:00+00:00,UTC,1769362200,Match Finished,FT,90.0,Regular Season - 21,548,Real Sociedad,538,Celta Vigo,3.0,1.0,HOME,,Reale Arena,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1391019,2026-01-25T20:00:00+00:00,UTC,1769371200,Match Finished,FT,90.0,Regular Season - 21,542,Alaves,543,Real Betis,2.0,1.0,HOME,1470.0,Estadio Mendizorrotza,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1391022,2026-01-26T20:00:00+00:00,UTC,1769457600,Match Finished,FT,90.0,Regular Season - 21,547,Girona,546,Getafe,1.0,1.0,DRAW,1478.0,Estadio Municipal de Montilivi,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1391032,2026-01-30T20:00:00+00:00,UTC,1769803200,Match Finished,FT,90.0,Regular Season - 22,540,Espanyol,542,Alaves,1.0,2.0,AWAY,,RCDE Stadium,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391038,2026-01-31T13:00:00+00:00,UTC,1769864400,Match Finished,FT,90.0,Regular Season - 22,718,Oviedo,547,Girona,1.0,0.0,HOME,1490.0,Estadio Nuevo Carlos Tartiere,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1391036,2026-01-31T15:15:00+00:00,UTC,1769872500,Match Finished,FT,90.0,Regular Season - 22,727,Osasuna,533,Villarreal,2.0,2.0,DRAW,,Estadio El Sadar,"Ricardo De Burgos Bengoetxea, Spain"
-140,La Liga,Spain,2025,1391034,2026-01-31T17:30:00+00:00,UTC,1769880600,Match Finished,FT,90.0,Regular Season - 22,539,Levante,530,Atletico Madrid,0.0,0.0,DRAW,1482.0,Estadio Ciudad de Valencia,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1391031,2026-01-31T20:00:00+00:00,UTC,1769889600,Match Finished,FT,90.0,Regular Season - 22,797,Elche,529,Barcelona,1.0,3.0,AWAY,1473.0,Estadio Manuel Martínez Valero,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391037,2026-02-01T13:00:00+00:00,UTC,1769950800,Match Finished,FT,90.0,Regular Season - 22,541,Real Madrid,728,Rayo Vallecano,2.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391030,2026-02-01T15:15:00+00:00,UTC,1769958900,Match Finished,FT,90.0,Regular Season - 22,543,Real Betis,532,Valencia,2.0,1.0,HOME,,Estadio de la Cartuja,"José María Sánchez Martínez, Spain"
-140,La Liga,Spain,2025,1391033,2026-02-01T17:30:00+00:00,UTC,1769967000,Match Finished,FT,90.0,Regular Season - 22,546,Getafe,538,Celta Vigo,0.0,0.0,DRAW,20422.0,Coliseum,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1391029,2026-02-01T20:00:00+00:00,UTC,1769976000,Match Finished,FT,90.0,Regular Season - 22,531,Athletic Club,548,Real Sociedad,1.0,1.0,DRAW,,San Mamés,"Guillermo Cuadra Fernandez, Spain"
-140,La Liga,Spain,2025,1391035,2026-02-02T20:00:00+00:00,UTC,1770062400,Match Finished,FT,90.0,Regular Season - 22,798,Mallorca,536,Sevilla,4.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,"César Soto Grado, Spain"
-140,La Liga,Spain,2025,1391043,2026-02-06T20:00:00+00:00,UTC,1770408000,Match Finished,FT,90.0,Regular Season - 23,538,Celta Vigo,727,Osasuna,1.0,2.0,AWAY,,Estadio Abanca Balaídos,"José Luis Munuera Montero, Spain"
-140,La Liga,Spain,2025,1391042,2026-02-07T15:15:00+00:00,UTC,1770477300,Match Finished,FT,90.0,Regular Season - 23,529,Barcelona,798,Mallorca,3.0,0.0,HOME,19939.0,Camp Nou,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1391045,2026-02-07T20:00:00+00:00,UTC,1770494400,Match Finished,FT,90.0,Regular Season - 23,548,Real Sociedad,797,Elche,3.0,1.0,HOME,,Reale Arena,"Jose Luis Guzman Mansilla, Spain"
-140,La Liga,Spain,2025,1391039,2026-02-08T13:00:00+00:00,UTC,1770555600,Match Finished,FT,90.0,Regular Season - 23,542,Alaves,546,Getafe,0.0,2.0,AWAY,1470.0,Estadio Mendizorrotza,"Juan Martinez Munuera, Spain"
-140,La Liga,Spain,2025,1391040,2026-02-08T15:15:00+00:00,UTC,1770563700,Match Finished,FT,90.0,Regular Season - 23,531,Athletic Club,539,Levante,4.0,2.0,HOME,,San Mamés,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391046,2026-02-08T15:15:00+00:00,UTC,1770563700,Match Finished,FT,90.0,Regular Season - 23,536,Sevilla,547,Girona,1.0,1.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,"Jesus Gil Manzano, Spain"
-140,La Liga,Spain,2025,1391041,2026-02-08T17:30:00+00:00,UTC,1770571800,Match Finished,FT,90.0,Regular Season - 23,530,Atletico Madrid,543,Real Betis,0.0,1.0,AWAY,,Riyadh Air Metropolitano,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1391047,2026-02-08T20:00:00+00:00,UTC,1770580800,Match Finished,FT,90.0,Regular Season - 23,532,Valencia,541,Real Madrid,0.0,2.0,AWAY,1497.0,Estadio de Mestalla,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1391048,2026-02-09T20:00:00+00:00,UTC,1770667200,Match Finished,FT,90.0,Regular Season - 23,533,Villarreal,540,Espanyol,4.0,1.0,HOME,1498.0,Estadio de la Ceramica,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1391049,2026-02-13T20:00:00+00:00,UTC,1771012800,Match Finished,FT,90.0,Regular Season - 24,797,Elche,727,Osasuna,0.0,0.0,DRAW,1473.0,Estadio Manuel Martínez Valero,"José María Sánchez Martínez, Spain"
-140,La Liga,Spain,2025,1391050,2026-02-14T13:00:00+00:00,UTC,1771074000,Match Finished,FT,90.0,Regular Season - 24,540,Espanyol,538,Celta Vigo,2.0,2.0,DRAW,,RCDE Stadium,"Guillermo Cuadra Fernandez, Spain"
-140,La Liga,Spain,2025,1391051,2026-02-14T15:15:00+00:00,UTC,1771082100,Match Finished,FT,90.0,Regular Season - 24,546,Getafe,533,Villarreal,2.0,1.0,HOME,20422.0,Coliseum,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391058,2026-02-14T17:30:00+00:00,UTC,1771090200,Match Finished,FT,90.0,Regular Season - 24,536,Sevilla,542,Alaves,1.0,1.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1391056,2026-02-14T20:00:00+00:00,UTC,1771099200,Match Finished,FT,90.0,Regular Season - 24,541,Real Madrid,548,Real Sociedad,4.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1391057,2026-02-15T13:00:00+00:00,UTC,1771160400,Match Finished,FT,90.0,Regular Season - 24,718,Oviedo,531,Athletic Club,1.0,2.0,AWAY,1490.0,Estadio Nuevo Carlos Tartiere,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1391055,2026-02-15T15:15:00+00:00,UTC,1771168500,Match Finished,FT,90.0,Regular Season - 24,728,Rayo Vallecano,530,Atletico Madrid,3.0,0.0,HOME,1488.0,Estadio Municipal de Butarque,"Ricardo De Burgos Bengoetxea, Spain"
-140,La Liga,Spain,2025,1391053,2026-02-15T17:30:00+00:00,UTC,1771176600,Match Finished,FT,90.0,Regular Season - 24,539,Levante,532,Valencia,0.0,2.0,AWAY,1482.0,Estadio Ciudad de Valencia,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1391054,2026-02-15T20:00:00+00:00,UTC,1771185600,Match Finished,FT,90.0,Regular Season - 24,798,Mallorca,543,Real Betis,1.0,2.0,AWAY,19940.0,Estadi Mallorca Son Moix,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391052,2026-02-16T20:00:00+00:00,UTC,1771272000,Match Finished,FT,90.0,Regular Season - 24,547,Girona,529,Barcelona,2.0,1.0,HOME,1478.0,Estadio Municipal de Montilivi,"César Soto Grado, Spain"
-140,La Liga,Spain,2025,1390974,2026-02-18T19:00:00+00:00,UTC,1771441200,Match Finished,FT,90.0,Regular Season - 16,539,Levante,533,Villarreal,0.0,1.0,AWAY,1482.0,Estadio Ciudad de Valencia,"Juan Martinez Munuera, Spain"
-140,La Liga,Spain,2025,1391060,2026-02-20T20:00:00+00:00,UTC,1771617600,Match Finished,FT,90.0,Regular Season - 25,531,Athletic Club,797,Elche,2.0,1.0,HOME,,San Mamés,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1391067,2026-02-21T13:00:00+00:00,UTC,1771678800,Match Finished,FT,90.0,Regular Season - 25,548,Real Sociedad,718,Oviedo,3.0,3.0,DRAW,,Reale Arena,"José Luis Munuera Montero, Spain"
-140,La Liga,Spain,2025,1391063,2026-02-21T15:15:00+00:00,UTC,1771686900,Match Finished,FT,90.0,Regular Season - 25,543,Real Betis,728,Rayo Vallecano,1.0,1.0,DRAW,,Estadio de la Cartuja,"Juan Martinez Munuera, Spain"
-140,La Liga,Spain,2025,1391066,2026-02-21T17:30:00+00:00,UTC,1771695000,Match Finished,FT,90.0,Regular Season - 25,727,Osasuna,541,Real Madrid,2.0,1.0,HOME,,Estadio El Sadar,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1391061,2026-02-21T20:00:00+00:00,UTC,1771704000,Match Finished,FT,90.0,Regular Season - 25,530,Atletico Madrid,540,Espanyol,4.0,2.0,HOME,,Riyadh Air Metropolitano,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391065,2026-02-22T13:00:00+00:00,UTC,1771765200,Match Finished,FT,90.0,Regular Season - 25,546,Getafe,536,Sevilla,0.0,1.0,AWAY,20422.0,Coliseum,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1391062,2026-02-22T15:15:00+00:00,UTC,1771773300,Match Finished,FT,90.0,Regular Season - 25,529,Barcelona,539,Levante,3.0,0.0,HOME,19939.0,Camp Nou,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1391064,2026-02-22T17:30:00+00:00,UTC,1771781400,Match Finished,FT,90.0,Regular Season - 25,538,Celta Vigo,798,Mallorca,2.0,0.0,HOME,,Estadio Abanca Balaídos,"Jose Luis Guzman Mansilla, Spain"
-140,La Liga,Spain,2025,1391068,2026-02-22T20:00:00+00:00,UTC,1771790400,Match Finished,FT,90.0,Regular Season - 25,533,Villarreal,532,Valencia,2.0,1.0,HOME,1498.0,Estadio de la Ceramica,"Jesus Gil Manzano, Spain"
-140,La Liga,Spain,2025,1391059,2026-02-23T20:00:00+00:00,UTC,1771876800,Match Finished,FT,90.0,Regular Season - 25,542,Alaves,547,Girona,2.0,2.0,DRAW,1470.0,Estadio Mendizorrotza,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1391073,2026-02-27T20:00:00+00:00,UTC,1772222400,Match Finished,FT,90.0,Regular Season - 26,539,Levante,542,Alaves,2.0,0.0,HOME,1482.0,Estadio Ciudad de Valencia,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1391075,2026-02-28T13:00:00+00:00,UTC,1772283600,Match Finished,FT,90.0,Regular Season - 26,728,Rayo Vallecano,531,Athletic Club,1.0,1.0,DRAW,1488.0,Campo de Futbol de Vallecas,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1391069,2026-02-28T15:15:00+00:00,UTC,1772291700,Match Finished,FT,90.0,Regular Season - 26,529,Barcelona,533,Villarreal,4.0,1.0,HOME,19939.0,Camp Nou,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391074,2026-02-28T17:30:00+00:00,UTC,1772299800,Match Finished,FT,90.0,Regular Season - 26,798,Mallorca,548,Real Sociedad,0.0,1.0,AWAY,19940.0,Estadi Mallorca Son Moix,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391077,2026-02-28T20:00:00+00:00,UTC,1772308800,Match Finished,FT,90.0,Regular Season - 26,718,Oviedo,530,Atletico Madrid,0.0,1.0,AWAY,1490.0,Estadio Nuevo Carlos Tartiere,"César Soto Grado, Spain"
-140,La Liga,Spain,2025,1391071,2026-03-01T13:00:00+00:00,UTC,1772370000,Match Finished,FT,90.0,Regular Season - 26,797,Elche,540,Espanyol,2.0,2.0,DRAW,1473.0,Estadio Manuel Martínez Valero,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1391078,2026-03-01T15:15:00+00:00,UTC,1772378100,Match Finished,FT,90.0,Regular Season - 26,532,Valencia,727,Osasuna,1.0,0.0,HOME,1497.0,Estadio de Mestalla,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1391070,2026-03-01T17:30:00+00:00,UTC,1772386200,Match Finished,FT,90.0,Regular Season - 26,543,Real Betis,536,Sevilla,2.0,2.0,DRAW,,Estadio de la Cartuja,"Ricardo De Burgos Bengoetxea, Spain"
-140,La Liga,Spain,2025,1391072,2026-03-01T20:00:00+00:00,UTC,1772395200,Match Finished,FT,90.0,Regular Season - 26,547,Girona,538,Celta Vigo,1.0,2.0,AWAY,1478.0,Estadio Municipal de Montilivi,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1391076,2026-03-02T20:00:00+00:00,UTC,1772481600,Match Finished,FT,90.0,Regular Season - 26,541,Real Madrid,546,Getafe,0.0,1.0,AWAY,1456.0,Estadio Santiago Bernabéu,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391044,2026-03-04T18:00:00+00:00,UTC,1772647200,Match Finished,FT,90.0,Regular Season - 23,728,Rayo Vallecano,718,Oviedo,3.0,0.0,HOME,1488.0,Campo de Futbol de Vallecas,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1391081,2026-03-06T20:00:00+00:00,UTC,1772827200,Match Finished,FT,90.0,Regular Season - 27,538,Celta Vigo,541,Real Madrid,1.0,2.0,AWAY,,Estadio Abanca Balaídos,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391085,2026-03-07T13:00:00+00:00,UTC,1772888400,Match Finished,FT,90.0,Regular Season - 27,727,Osasuna,798,Mallorca,2.0,2.0,DRAW,,Estadio El Sadar,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1391084,2026-03-07T15:15:00+00:00,UTC,1772896500,Match Finished,FT,90.0,Regular Season - 27,539,Levante,547,Girona,1.0,1.0,DRAW,1482.0,Estadio Ciudad de Valencia,"Guillermo Cuadra Fernandez, Spain"
-140,La Liga,Spain,2025,1391080,2026-03-07T17:30:00+00:00,UTC,1772904600,Match Finished,FT,90.0,Regular Season - 27,530,Atletico Madrid,548,Real Sociedad,3.0,2.0,HOME,,Riyadh Air Metropolitano,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1391079,2026-03-07T20:00:00+00:00,UTC,1772913600,Match Finished,FT,90.0,Regular Season - 27,531,Athletic Club,529,Barcelona,0.0,1.0,AWAY,,San Mamés,"José Luis Munuera Montero, Spain"
-140,La Liga,Spain,2025,1391088,2026-03-08T13:00:00+00:00,UTC,1772974800,Match Finished,FT,90.0,Regular Season - 27,533,Villarreal,797,Elche,2.0,1.0,HOME,1498.0,Estadio de la Ceramica,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1391083,2026-03-08T15:15:00+00:00,UTC,1772982900,Match Finished,FT,90.0,Regular Season - 27,546,Getafe,543,Real Betis,2.0,0.0,HOME,20422.0,Coliseum,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1391086,2026-03-08T17:30:00+00:00,UTC,1772991000,Match Finished,FT,90.0,Regular Season - 27,536,Sevilla,728,Rayo Vallecano,1.0,1.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391087,2026-03-08T20:00:00+00:00,UTC,1773000000,Match Finished,FT,90.0,Regular Season - 27,532,Valencia,542,Alaves,3.0,2.0,HOME,1497.0,Estadio de Mestalla,"Jose Luis Guzman Mansilla, Spain"
-140,La Liga,Spain,2025,1391082,2026-03-09T20:00:00+00:00,UTC,1773086400,Match Finished,FT,90.0,Regular Season - 27,540,Espanyol,718,Oviedo,1.0,1.0,DRAW,,RCDE Stadium,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1391089,2026-03-13T20:00:00+00:00,UTC,1773432000,Match Finished,FT,90.0,Regular Season - 28,542,Alaves,533,Villarreal,1.0,1.0,DRAW,1470.0,Estadio Mendizorrotza,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1391093,2026-03-14T13:00:00+00:00,UTC,1773493200,Match Finished,FT,90.0,Regular Season - 28,547,Girona,531,Athletic Club,3.0,0.0,HOME,1478.0,Estadio Municipal de Montilivi,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1391090,2026-03-14T15:15:00+00:00,UTC,1773501300,Match Finished,FT,90.0,Regular Season - 28,530,Atletico Madrid,546,Getafe,1.0,0.0,HOME,,Riyadh Air Metropolitano,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1391098,2026-03-14T17:30:00+00:00,UTC,1773509400,Match Finished,FT,90.0,Regular Season - 28,718,Oviedo,532,Valencia,1.0,0.0,HOME,1490.0,Estadio Nuevo Carlos Tartiere,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391096,2026-03-14T20:00:00+00:00,UTC,1773518400,Match Finished,FT,90.0,Regular Season - 28,541,Real Madrid,797,Elche,4.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,"Jesus Gil Manzano, Spain"
-140,La Liga,Spain,2025,1391094,2026-03-15T13:00:00+00:00,UTC,1773579600,Match Finished,FT,90.0,Regular Season - 28,798,Mallorca,540,Espanyol,2.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,"Ricardo De Burgos Bengoetxea, Spain"
-140,La Liga,Spain,2025,1391091,2026-03-15T15:15:00+00:00,UTC,1773587700,Match Finished,FT,90.0,Regular Season - 28,529,Barcelona,536,Sevilla,5.0,2.0,HOME,19939.0,Camp Nou,"Juan Martinez Munuera, Spain"
-140,La Liga,Spain,2025,1391092,2026-03-15T17:30:00+00:00,UTC,1773595800,Match Finished,FT,90.0,Regular Season - 28,543,Real Betis,538,Celta Vigo,1.0,1.0,DRAW,,Estadio de la Cartuja,"José María Sánchez Martínez, Spain"
-140,La Liga,Spain,2025,1391097,2026-03-15T20:00:00+00:00,UTC,1773604800,Match Finished,FT,90.0,Regular Season - 28,548,Real Sociedad,727,Osasuna,3.0,1.0,HOME,,Reale Arena,"Guillermo Cuadra Fernandez, Spain"
-140,La Liga,Spain,2025,1391095,2026-03-16T20:00:00+00:00,UTC,1773691200,Match Finished,FT,90.0,Regular Season - 28,728,Rayo Vallecano,539,Levante,1.0,1.0,DRAW,1488.0,Campo de Futbol de Vallecas,"César Soto Grado, Spain"
-140,La Liga,Spain,2025,1391108,2026-03-20T20:00:00+00:00,UTC,1774036800,Match Finished,FT,90.0,Regular Season - 29,533,Villarreal,548,Real Sociedad,3.0,1.0,HOME,1498.0,Estadio de la Ceramica,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1391102,2026-03-21T13:00:00+00:00,UTC,1774098000,Match Finished,FT,90.0,Regular Season - 29,797,Elche,798,Mallorca,2.0,1.0,HOME,1473.0,Estadio Manuel Martínez Valero,"Javier Alberola Rojas, Spain"
-140,La Liga,Spain,2025,1391103,2026-03-21T15:15:00+00:00,UTC,1774106100,Match Finished,FT,90.0,Regular Season - 29,540,Espanyol,546,Getafe,1.0,2.0,AWAY,,RCDE Stadium,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391104,2026-03-21T17:30:00+00:00,UTC,1774114200,Match Finished,FT,90.0,Regular Season - 29,539,Levante,718,Oviedo,4.0,2.0,HOME,1482.0,Estadio Ciudad de Valencia,"Jesus Gil Manzano, Spain"
-140,La Liga,Spain,2025,1391105,2026-03-21T17:30:00+00:00,UTC,1774114200,Match Finished,FT,90.0,Regular Season - 29,727,Osasuna,547,Girona,1.0,0.0,HOME,,Estadio El Sadar,"Jose Luis Guzman Mansilla, Spain"
-140,La Liga,Spain,2025,1391107,2026-03-21T20:00:00+00:00,UTC,1774123200,Match Finished,FT,90.0,Regular Season - 29,536,Sevilla,532,Valencia,0.0,2.0,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1391100,2026-03-22T13:00:00+00:00,UTC,1774184400,Match Finished,FT,90.0,Regular Season - 29,529,Barcelona,728,Rayo Vallecano,1.0,0.0,HOME,19939.0,Camp Nou,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1391101,2026-03-22T15:15:00+00:00,UTC,1774192500,Match Finished,FT,90.0,Regular Season - 29,538,Celta Vigo,542,Alaves,3.0,4.0,AWAY,,Estadio Abanca Balaídos,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391099,2026-03-22T17:30:00+00:00,UTC,1774200600,Match Finished,FT,90.0,Regular Season - 29,531,Athletic Club,543,Real Betis,2.0,1.0,HOME,,San Mamés,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391106,2026-03-22T20:00:00+00:00,UTC,1774209600,Match Finished,FT,90.0,Regular Season - 29,541,Real Madrid,530,Atletico Madrid,3.0,2.0,HOME,1456.0,Estadio Santiago Bernabéu,"José Luis Munuera Montero, Spain"
-140,La Liga,Spain,2025,1391115,2026-04-03T19:00:00+00:00,UTC,1775242800,Match Finished,FT,90.0,Regular Season - 30,728,Rayo Vallecano,797,Elche,1.0,0.0,HOME,1488.0,Campo de Futbol de Vallecas,"José Luis Munuera Montero, Spain"
-140,La Liga,Spain,2025,1391116,2026-04-04T12:00:00+00:00,UTC,1775304000,Match Finished,FT,90.0,Regular Season - 30,548,Real Sociedad,539,Levante,2.0,0.0,HOME,,Reale Arena,"Alejandro Muñiz Ruiz, Spain"
-140,La Liga,Spain,2025,1391114,2026-04-04T14:15:00+00:00,UTC,1775312100,Match Finished,FT,90.0,Regular Season - 30,798,Mallorca,541,Real Madrid,2.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,"José María Sánchez Martínez, Spain"
-140,La Liga,Spain,2025,1391111,2026-04-04T16:30:00+00:00,UTC,1775320200,Match Finished,FT,90.0,Regular Season - 30,543,Real Betis,540,Espanyol,0.0,0.0,DRAW,,Estadio de la Cartuja,"Guillermo Cuadra Fernandez, Spain"
-140,La Liga,Spain,2025,1391110,2026-04-04T19:00:00+00:00,UTC,1775329200,Match Finished,FT,90.0,Regular Season - 30,530,Atletico Madrid,529,Barcelona,1.0,2.0,AWAY,,Riyadh Air Metropolitano,"Mateo Busquets Ferrer, Spain"
-140,La Liga,Spain,2025,1391112,2026-04-05T12:00:00+00:00,UTC,1775390400,Match Finished,FT,90.0,Regular Season - 30,546,Getafe,531,Athletic Club,2.0,0.0,HOME,20422.0,Coliseum,"Juan Martinez Munuera, Spain"
-140,La Liga,Spain,2025,1391118,2026-04-05T14:15:00+00:00,UTC,1775398500,Match Finished,FT,90.0,Regular Season - 30,532,Valencia,538,Celta Vigo,2.0,3.0,AWAY,1497.0,Estadio de Mestalla,"Iosu Galech Apezteguia, Spain"
-140,La Liga,Spain,2025,1391117,2026-04-05T16:30:00+00:00,UTC,1775406600,Match Finished,FT,90.0,Regular Season - 30,718,Oviedo,536,Sevilla,1.0,0.0,HOME,1490.0,Estadio Nuevo Carlos Tartiere,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1391109,2026-04-05T19:00:00+00:00,UTC,1775415600,Match Finished,FT,90.0,Regular Season - 30,542,Alaves,727,Osasuna,2.0,2.0,DRAW,1470.0,Estadio Mendizorrotza,"César Soto Grado, Spain"
-140,La Liga,Spain,2025,1391113,2026-04-06T19:00:00+00:00,UTC,1775502000,Match Finished,FT,90.0,Regular Season - 30,547,Girona,533,Villarreal,1.0,0.0,HOME,1478.0,Estadio Municipal de Montilivi,"Adrian Cordero Vega, Spain"
-140,La Liga,Spain,2025,1391126,2026-04-10T19:00:00+00:00,UTC,1775847600,Match Finished,FT,90.0,Regular Season - 31,541,Real Madrid,547,Girona,1.0,1.0,DRAW,1456.0,Estadio Santiago Bernabéu,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1391127,2026-04-11T12:00:00+00:00,UTC,1775908800,Match Finished,FT,90.0,Regular Season - 31,548,Real Sociedad,542,Alaves,3.0,3.0,DRAW,,Reale Arena,"Victor Garcia Verdura, Spain"
-140,La Liga,Spain,2025,1391122,2026-04-11T14:15:00+00:00,UTC,1775916900,Match Finished,FT,90.0,Regular Season - 31,797,Elche,532,Valencia,1.0,0.0,HOME,1473.0,Estadio Manuel Martínez Valero,"Francisco Hernandez Maeso, Spain"
-140,La Liga,Spain,2025,1391120,2026-04-11T16:30:00+00:00,UTC,1775925000,Match Finished,FT,90.0,Regular Season - 31,529,Barcelona,540,Espanyol,4.0,1.0,HOME,19939.0,Camp Nou,"Alejandro Hernandez, Spain"
-140,La Liga,Spain,2025,1391128,2026-04-11T19:00:00+00:00,UTC,1775934000,Match Finished,FT,90.0,Regular Season - 31,536,Sevilla,530,Atletico Madrid,2.0,1.0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,"Isidro Diaz de Mera Escuderos, Spain"
-140,La Liga,Spain,2025,1391125,2026-04-12T12:00:00+00:00,UTC,1775995200,Match Finished,FT,90.0,Regular Season - 31,727,Osasuna,543,Real Betis,1.0,1.0,DRAW,,Estadio El Sadar,"Miguel Sesma Espinosa, Spain"
-140,La Liga,Spain,2025,1391124,2026-04-12T14:15:00+00:00,UTC,1776003300,Match Finished,FT,90.0,Regular Season - 31,798,Mallorca,728,Rayo Vallecano,3.0,0.0,HOME,19940.0,Estadi Mallorca Son Moix,"Jesus Gil Manzano, Spain"
-140,La Liga,Spain,2025,1391121,2026-04-12T16:30:00+00:00,UTC,1776011400,Match Finished,FT,90.0,Regular Season - 31,538,Celta Vigo,718,Oviedo,0.0,3.0,AWAY,,Estadio Abanca Balaídos,"Miguel Angel Ortiz Arias, Spain"
-140,La Liga,Spain,2025,1391119,2026-04-12T19:00:00+00:00,UTC,1776020400,Match Finished,FT,90.0,Regular Season - 31,531,Athletic Club,533,Villarreal,1.0,2.0,AWAY,,San Mamés,"Jose Luis Guzman Mansilla, Spain"
-140,La Liga,Spain,2025,1391123,2026-04-13T19:00:00+00:00,UTC,1776106800,Match Finished,FT,90.0,Regular Season - 31,539,Levante,546,Getafe,1.0,0.0,HOME,1482.0,Estadio Ciudad de Valencia,"Alejandro Quintero Gonzalez, Spain"
-140,La Liga,Spain,2025,1391139,2026-04-21T17:00:00+00:00,UTC,1776790800,Not Started,NS,,Regular Season - 33,531,Athletic Club,727,Osasuna,,,,,Estadio de San Mamés,
-140,La Liga,Spain,2025,1391144,2026-04-21T17:00:00+00:00,UTC,1776790800,Not Started,NS,,Regular Season - 33,798,Mallorca,532,Valencia,,,,19940.0,Estadi Mallorca Son Moix,
-140,La Liga,Spain,2025,1391146,2026-04-21T19:30:00+00:00,UTC,1776799800,Not Started,NS,,Regular Season - 33,541,Real Madrid,542,Alaves,,,,1456.0,Estadio Santiago Bernabéu,
-140,La Liga,Spain,2025,1391142,2026-04-21T19:30:00+00:00,UTC,1776799800,Not Started,NS,,Regular Season - 33,547,Girona,543,Real Betis,,,,,Estadio Municipal de Montilivi,
+140,La Liga,Spain,2025,1391017,2026-01-17T13:00:00+00:00,UTC,1768654800,Match Finished,FT,90.0,Regular Season - 20,541,Real Madrid,539,Levante,2.0,0.0,HOME,1456.0,Estadio Santiago Bernabéu,M. Sesma
+140,La Liga,Spain,2025,1391015,2026-01-17T15:15:00+00:00,UTC,1768662900,Match Finished,FT,90.0,Regular Season - 20,798,Mallorca,531,Athletic Club,3.0,2.0,HOME,19940.0,Estadi Mallorca Son Moix,J. Guzman
+140,La Liga,Spain,2025,1391016,2026-01-17T17:30:00+00:00,UTC,1768671000,Match Finished,FT,90.0,Regular Season - 20,727,Osasuna,718,Oviedo,3.0,2.0,HOME,,Estadio El Sadar,A. Quintero
+140,La Liga,Spain,2025,1391010,2026-01-17T20:00:00+00:00,UTC,1768680000,Match Finished,FT,90.0,Regular Season - 20,543,Real Betis,533,Villarreal,2.0,0.0,HOME,,Estadio de La Cartuja,V. Garcia
+140,La Liga,Spain,2025,1391014,2026-01-18T13:00:00+00:00,UTC,1768741200,Match Finished,FT,90.0,Regular Season - 20,546,Getafe,532,Valencia,0.0,1.0,AWAY,20422.0,Coliseum,I. Diaz
+140,La Liga,Spain,2025,1391009,2026-01-18T15:15:00+00:00,UTC,1768749300,Match Finished,FT,90.0,Regular Season - 20,530,Atletico Madrid,542,Alaves,1.0,0.0,HOME,,Metropolitano Stadium,G. Cuadra
+140,La Liga,Spain,2025,1391011,2026-01-18T17:30:00+00:00,UTC,1768757400,Match Finished,FT,90.0,Regular Season - 20,538,Celta Vigo,728,Rayo Vallecano,3.0,0.0,HOME,,Estadio Abanca Balaídos,M. Busquets
+140,La Liga,Spain,2025,1391018,2026-01-18T20:00:00+00:00,UTC,1768766400,Match Finished,FT,90.0,Regular Season - 20,548,Real Sociedad,529,Barcelona,2.0,1.0,HOME,,Reale Arena,J. Manzano
+140,La Liga,Spain,2025,1391012,2026-01-19T20:00:00+00:00,UTC,1768852800,Match Finished,FT,90.0,Regular Season - 20,797,Elche,536,Sevilla,2.0,2.0,DRAW,1473.0,Estadio Manuel Martínez Valero,R. De Burgos
+140,La Liga,Spain,2025,1391023,2026-01-23T20:00:00+00:00,UTC,1769198400,Match Finished,FT,90.0,Regular Season - 21,539,Levante,797,Elche,3.0,2.0,HOME,1482.0,Estadio Ciudad de Valencia,J. Munuera
+140,La Liga,Spain,2025,1391024,2026-01-24T13:00:00+00:00,UTC,1769259600,Match Finished,FT,90.0,Regular Season - 21,728,Rayo Vallecano,727,Osasuna,1.0,3.0,AWAY,1488.0,Campo de Futbol de Vallecas,M. Sesma
+140,La Liga,Spain,2025,1391027,2026-01-24T15:15:00+00:00,UTC,1769267700,Match Finished,FT,90.0,Regular Season - 21,532,Valencia,540,Espanyol,3.0,2.0,HOME,1497.0,Estadio de Mestalla,A. Hernandez
+140,La Liga,Spain,2025,1391026,2026-01-24T17:30:00+00:00,UTC,1769275800,Match Finished,FT,90.0,Regular Season - 21,536,Sevilla,531,Athletic Club,2.0,1.0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,F. Maeso
+140,La Liga,Spain,2025,1391028,2026-01-24T20:00:00+00:00,UTC,1769284800,Match Finished,FT,90.0,Regular Season - 21,533,Villarreal,541,Real Madrid,0.0,2.0,AWAY,1498.0,Estadio de la Ceramica,C. Soto Grado
+140,La Liga,Spain,2025,1391020,2026-01-25T13:00:00+00:00,UTC,1769346000,Match Finished,FT,90.0,Regular Season - 21,530,Atletico Madrid,798,Mallorca,3.0,0.0,HOME,,Metropolitano Stadium,J. Sanchez
+140,La Liga,Spain,2025,1391021,2026-01-25T15:15:00+00:00,UTC,1769354100,Match Finished,FT,90.0,Regular Season - 21,529,Barcelona,718,Oviedo,3.0,0.0,HOME,19939.0,Camp Nou,J. Martinez
+140,La Liga,Spain,2025,1391025,2026-01-25T17:30:00+00:00,UTC,1769362200,Match Finished,FT,90.0,Regular Season - 21,548,Real Sociedad,538,Celta Vigo,3.0,1.0,HOME,,Reale Arena,J. Alberola
+140,La Liga,Spain,2025,1391019,2026-01-25T20:00:00+00:00,UTC,1769371200,Match Finished,FT,90.0,Regular Season - 21,542,Alaves,543,Real Betis,2.0,1.0,HOME,1470.0,Estadio Mendizorrotza,M. Ortiz
+140,La Liga,Spain,2025,1391022,2026-01-26T20:00:00+00:00,UTC,1769457600,Match Finished,FT,90.0,Regular Season - 21,547,Girona,546,Getafe,1.0,1.0,DRAW,1478.0,Estadio Municipal de Montilivi,A. Quintero
+140,La Liga,Spain,2025,1391032,2026-01-30T20:00:00+00:00,UTC,1769803200,Match Finished,FT,90.0,Regular Season - 22,540,Espanyol,542,Alaves,1.0,2.0,AWAY,,RCDE Stadium,M. Sesma
+140,La Liga,Spain,2025,1391038,2026-01-31T13:00:00+00:00,UTC,1769864400,Match Finished,FT,90.0,Regular Season - 22,718,Oviedo,547,Girona,1.0,0.0,HOME,1490.0,Estadio Nuevo Carlos Tartiere,J. Alberola
+140,La Liga,Spain,2025,1391036,2026-01-31T15:15:00+00:00,UTC,1769872500,Match Finished,FT,90.0,Regular Season - 22,727,Osasuna,533,Villarreal,2.0,2.0,DRAW,,Estadio El Sadar,R. De Burgos
+140,La Liga,Spain,2025,1391034,2026-01-31T17:30:00+00:00,UTC,1769880600,Match Finished,FT,90.0,Regular Season - 22,539,Levante,530,Atletico Madrid,0.0,0.0,DRAW,1482.0,Estadio Ciudad de Valencia,V. Garcia
+140,La Liga,Spain,2025,1391031,2026-01-31T20:00:00+00:00,UTC,1769889600,Match Finished,FT,90.0,Regular Season - 22,797,Elche,529,Barcelona,1.0,3.0,AWAY,1473.0,Estadio Manuel Martínez Valero,A. Ruiz
+140,La Liga,Spain,2025,1391037,2026-02-01T13:00:00+00:00,UTC,1769950800,Match Finished,FT,90.0,Regular Season - 22,541,Real Madrid,728,Rayo Vallecano,2.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,I. Diaz
+140,La Liga,Spain,2025,1391030,2026-02-01T15:15:00+00:00,UTC,1769958900,Match Finished,FT,90.0,Regular Season - 22,543,Real Betis,532,Valencia,2.0,1.0,HOME,,Estadio de La Cartuja,J. Sanchez
+140,La Liga,Spain,2025,1391033,2026-02-01T17:30:00+00:00,UTC,1769967000,Match Finished,FT,90.0,Regular Season - 22,546,Getafe,538,Celta Vigo,0.0,0.0,DRAW,20422.0,Coliseum,I. Galech
+140,La Liga,Spain,2025,1391029,2026-02-01T20:00:00+00:00,UTC,1769976000,Match Finished,FT,90.0,Regular Season - 22,531,Athletic Club,548,Real Sociedad,1.0,1.0,DRAW,,San Mamés,G. Cuadra
+140,La Liga,Spain,2025,1391035,2026-02-02T20:00:00+00:00,UTC,1770062400,Match Finished,FT,90.0,Regular Season - 22,798,Mallorca,536,Sevilla,4.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,C. Soto Grado
+140,La Liga,Spain,2025,1391043,2026-02-06T20:00:00+00:00,UTC,1770408000,Match Finished,FT,90.0,Regular Season - 23,538,Celta Vigo,727,Osasuna,1.0,2.0,AWAY,,Estadio Abanca Balaídos,J. Munuera
+140,La Liga,Spain,2025,1391042,2026-02-07T15:15:00+00:00,UTC,1770477300,Match Finished,FT,90.0,Regular Season - 23,529,Barcelona,798,Mallorca,3.0,0.0,HOME,19939.0,Camp Nou,A. Quintero
+140,La Liga,Spain,2025,1391045,2026-02-07T20:00:00+00:00,UTC,1770494400,Match Finished,FT,90.0,Regular Season - 23,548,Real Sociedad,797,Elche,3.0,1.0,HOME,,Reale Arena,J. Guzman
+140,La Liga,Spain,2025,1391039,2026-02-08T13:00:00+00:00,UTC,1770555600,Match Finished,FT,90.0,Regular Season - 23,542,Alaves,546,Getafe,0.0,2.0,AWAY,1470.0,Estadio Mendizorrotza,J. Martinez
+140,La Liga,Spain,2025,1391040,2026-02-08T15:15:00+00:00,UTC,1770563700,Match Finished,FT,90.0,Regular Season - 23,531,Athletic Club,539,Levante,4.0,2.0,HOME,,San Mamés,A. Ruiz
+140,La Liga,Spain,2025,1391046,2026-02-08T15:15:00+00:00,UTC,1770563700,Match Finished,FT,90.0,Regular Season - 23,536,Sevilla,547,Girona,1.0,1.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,J. Manzano
+140,La Liga,Spain,2025,1391041,2026-02-08T17:30:00+00:00,UTC,1770571800,Match Finished,FT,90.0,Regular Season - 23,530,Atletico Madrid,543,Real Betis,0.0,1.0,AWAY,,Metropolitano Stadium,M. Busquets
+140,La Liga,Spain,2025,1391047,2026-02-08T20:00:00+00:00,UTC,1770580800,Match Finished,FT,90.0,Regular Season - 23,532,Valencia,541,Real Madrid,0.0,2.0,AWAY,1497.0,Estadio de Mestalla,J. Alberola
+140,La Liga,Spain,2025,1391048,2026-02-09T20:00:00+00:00,UTC,1770667200,Match Finished,FT,90.0,Regular Season - 23,533,Villarreal,540,Espanyol,4.0,1.0,HOME,1498.0,Estadio de la Ceramica,A. Cordero
+140,La Liga,Spain,2025,1391049,2026-02-13T20:00:00+00:00,UTC,1771012800,Match Finished,FT,90.0,Regular Season - 24,797,Elche,727,Osasuna,0.0,0.0,DRAW,1473.0,Estadio Manuel Martínez Valero,J. Sanchez
+140,La Liga,Spain,2025,1391050,2026-02-14T13:00:00+00:00,UTC,1771074000,Match Finished,FT,90.0,Regular Season - 24,540,Espanyol,538,Celta Vigo,2.0,2.0,DRAW,,RCDE Stadium,G. Cuadra
+140,La Liga,Spain,2025,1391051,2026-02-14T15:15:00+00:00,UTC,1771082100,Match Finished,FT,90.0,Regular Season - 24,546,Getafe,533,Villarreal,2.0,1.0,HOME,20422.0,Coliseum,M. Sesma
+140,La Liga,Spain,2025,1391058,2026-02-14T17:30:00+00:00,UTC,1771090200,Match Finished,FT,90.0,Regular Season - 24,536,Sevilla,542,Alaves,1.0,1.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,I. Galech
+140,La Liga,Spain,2025,1391056,2026-02-14T20:00:00+00:00,UTC,1771099200,Match Finished,FT,90.0,Regular Season - 24,541,Real Madrid,548,Real Sociedad,4.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,F. Maeso
+140,La Liga,Spain,2025,1391057,2026-02-15T13:00:00+00:00,UTC,1771160400,Match Finished,FT,90.0,Regular Season - 24,718,Oviedo,531,Athletic Club,1.0,2.0,AWAY,1490.0,Estadio Nuevo Carlos Tartiere,M. Busquets
+140,La Liga,Spain,2025,1391055,2026-02-15T15:15:00+00:00,UTC,1771168500,Match Finished,FT,90.0,Regular Season - 24,728,Rayo Vallecano,530,Atletico Madrid,3.0,0.0,HOME,1488.0,Estadio Municipal de Butarque,R. De Burgos
+140,La Liga,Spain,2025,1391053,2026-02-15T17:30:00+00:00,UTC,1771176600,Match Finished,FT,90.0,Regular Season - 24,539,Levante,532,Valencia,0.0,2.0,AWAY,1482.0,Estadio Ciudad de Valencia,M. Ortiz
+140,La Liga,Spain,2025,1391054,2026-02-15T20:00:00+00:00,UTC,1771185600,Match Finished,FT,90.0,Regular Season - 24,798,Mallorca,543,Real Betis,1.0,2.0,AWAY,19940.0,Estadi Mallorca Son Moix,I. Diaz
+140,La Liga,Spain,2025,1391052,2026-02-16T20:00:00+00:00,UTC,1771272000,Match Finished,FT,90.0,Regular Season - 24,547,Girona,529,Barcelona,2.0,1.0,HOME,1478.0,Estadio Municipal de Montilivi,C. Soto Grado
+140,La Liga,Spain,2025,1390974,2026-02-18T19:00:00+00:00,UTC,1771441200,Match Finished,FT,90.0,Regular Season - 16,539,Levante,533,Villarreal,0.0,1.0,AWAY,1482.0,Estadio Ciudad de Valencia,J. Martinez
+140,La Liga,Spain,2025,1391060,2026-02-20T20:00:00+00:00,UTC,1771617600,Match Finished,FT,90.0,Regular Season - 25,531,Athletic Club,797,Elche,2.0,1.0,HOME,,San Mamés,A. Hernandez
+140,La Liga,Spain,2025,1391067,2026-02-21T13:00:00+00:00,UTC,1771678800,Match Finished,FT,90.0,Regular Season - 25,548,Real Sociedad,718,Oviedo,3.0,3.0,DRAW,,Reale Arena,J. Munuera
+140,La Liga,Spain,2025,1391063,2026-02-21T15:15:00+00:00,UTC,1771686900,Match Finished,FT,90.0,Regular Season - 25,543,Real Betis,728,Rayo Vallecano,1.0,1.0,DRAW,,Estadio de La Cartuja,J. Martinez
+140,La Liga,Spain,2025,1391066,2026-02-21T17:30:00+00:00,UTC,1771695000,Match Finished,FT,90.0,Regular Season - 25,727,Osasuna,541,Real Madrid,2.0,1.0,HOME,,Estadio El Sadar,A. Quintero
+140,La Liga,Spain,2025,1391061,2026-02-21T20:00:00+00:00,UTC,1771704000,Match Finished,FT,90.0,Regular Season - 25,530,Atletico Madrid,540,Espanyol,4.0,2.0,HOME,,Metropolitano Stadium,A. Ruiz
+140,La Liga,Spain,2025,1391065,2026-02-22T13:00:00+00:00,UTC,1771765200,Match Finished,FT,90.0,Regular Season - 25,546,Getafe,536,Sevilla,0.0,1.0,AWAY,20422.0,Coliseum,M. Busquets
+140,La Liga,Spain,2025,1391062,2026-02-22T15:15:00+00:00,UTC,1771773300,Match Finished,FT,90.0,Regular Season - 25,529,Barcelona,539,Levante,3.0,0.0,HOME,19939.0,Camp Nou,J. Alberola
+140,La Liga,Spain,2025,1391064,2026-02-22T17:30:00+00:00,UTC,1771781400,Match Finished,FT,90.0,Regular Season - 25,538,Celta Vigo,798,Mallorca,2.0,0.0,HOME,,Estadio Abanca Balaídos,J. Guzman
+140,La Liga,Spain,2025,1391068,2026-02-22T20:00:00+00:00,UTC,1771790400,Match Finished,FT,90.0,Regular Season - 25,533,Villarreal,532,Valencia,2.0,1.0,HOME,1498.0,Estadio de la Ceramica,J. Manzano
+140,La Liga,Spain,2025,1391059,2026-02-23T20:00:00+00:00,UTC,1771876800,Match Finished,FT,90.0,Regular Season - 25,542,Alaves,547,Girona,2.0,2.0,DRAW,1470.0,Estadio Mendizorrotza,A. Cordero
+140,La Liga,Spain,2025,1391073,2026-02-27T20:00:00+00:00,UTC,1772222400,Match Finished,FT,90.0,Regular Season - 26,539,Levante,542,Alaves,2.0,0.0,HOME,1482.0,Estadio Ciudad de Valencia,F. Maeso
+140,La Liga,Spain,2025,1391075,2026-02-28T13:00:00+00:00,UTC,1772283600,Match Finished,FT,90.0,Regular Season - 26,728,Rayo Vallecano,531,Athletic Club,1.0,1.0,DRAW,1488.0,Campo de Futbol de Vallecas,V. Garcia
+140,La Liga,Spain,2025,1391069,2026-02-28T15:15:00+00:00,UTC,1772291700,Match Finished,FT,90.0,Regular Season - 26,529,Barcelona,533,Villarreal,4.0,1.0,HOME,19939.0,Camp Nou,I. Diaz
+140,La Liga,Spain,2025,1391074,2026-02-28T17:30:00+00:00,UTC,1772299800,Match Finished,FT,90.0,Regular Season - 26,798,Mallorca,548,Real Sociedad,0.0,1.0,AWAY,19940.0,Estadi Mallorca Son Moix,M. Sesma
+140,La Liga,Spain,2025,1391077,2026-02-28T20:00:00+00:00,UTC,1772308800,Match Finished,FT,90.0,Regular Season - 26,718,Oviedo,530,Atletico Madrid,0.0,1.0,AWAY,1490.0,Estadio Nuevo Carlos Tartiere,C. Soto Grado
+140,La Liga,Spain,2025,1391071,2026-03-01T13:00:00+00:00,UTC,1772370000,Match Finished,FT,90.0,Regular Season - 26,797,Elche,540,Espanyol,2.0,2.0,DRAW,1473.0,Estadio Manuel Martínez Valero,I. Galech
+140,La Liga,Spain,2025,1391078,2026-03-01T15:15:00+00:00,UTC,1772378100,Match Finished,FT,90.0,Regular Season - 26,532,Valencia,727,Osasuna,1.0,0.0,HOME,1497.0,Estadio de Mestalla,A. Cordero
+140,La Liga,Spain,2025,1391070,2026-03-01T17:30:00+00:00,UTC,1772386200,Match Finished,FT,90.0,Regular Season - 26,543,Real Betis,536,Sevilla,2.0,2.0,DRAW,,Estadio de La Cartuja,R. De Burgos
+140,La Liga,Spain,2025,1391072,2026-03-01T20:00:00+00:00,UTC,1772395200,Match Finished,FT,90.0,Regular Season - 26,547,Girona,538,Celta Vigo,1.0,2.0,AWAY,1478.0,Estadio Municipal de Montilivi,M. Ortiz
+140,La Liga,Spain,2025,1391076,2026-03-02T20:00:00+00:00,UTC,1772481600,Match Finished,FT,90.0,Regular Season - 26,541,Real Madrid,546,Getafe,0.0,1.0,AWAY,1456.0,Estadio Santiago Bernabéu,A. Ruiz
+140,La Liga,Spain,2025,1391044,2026-03-04T18:00:00+00:00,UTC,1772647200,Match Finished,FT,90.0,Regular Season - 23,728,Rayo Vallecano,718,Oviedo,3.0,0.0,HOME,1488.0,Campo de Futbol de Vallecas,A. Hernandez
+140,La Liga,Spain,2025,1391081,2026-03-06T20:00:00+00:00,UTC,1772827200,Match Finished,FT,90.0,Regular Season - 27,538,Celta Vigo,541,Real Madrid,1.0,2.0,AWAY,,Estadio Abanca Balaídos,I. Diaz
+140,La Liga,Spain,2025,1391085,2026-03-07T13:00:00+00:00,UTC,1772888400,Match Finished,FT,90.0,Regular Season - 27,727,Osasuna,798,Mallorca,2.0,2.0,DRAW,,Estadio El Sadar,A. Hernandez
+140,La Liga,Spain,2025,1391084,2026-03-07T15:15:00+00:00,UTC,1772896500,Match Finished,FT,90.0,Regular Season - 27,539,Levante,547,Girona,1.0,1.0,DRAW,1482.0,Estadio Ciudad de Valencia,G. Cuadra
+140,La Liga,Spain,2025,1391080,2026-03-07T17:30:00+00:00,UTC,1772904600,Match Finished,FT,90.0,Regular Season - 27,530,Atletico Madrid,548,Real Sociedad,3.0,2.0,HOME,,Metropolitano Stadium,A. Cordero
+140,La Liga,Spain,2025,1391079,2026-03-07T20:00:00+00:00,UTC,1772913600,Match Finished,FT,90.0,Regular Season - 27,531,Athletic Club,529,Barcelona,0.0,1.0,AWAY,,San Mamés,J. Munuera
+140,La Liga,Spain,2025,1391088,2026-03-08T13:00:00+00:00,UTC,1772974800,Match Finished,FT,90.0,Regular Season - 27,533,Villarreal,797,Elche,2.0,1.0,HOME,1498.0,Estadio de la Ceramica,V. Garcia
+140,La Liga,Spain,2025,1391083,2026-03-08T15:15:00+00:00,UTC,1772982900,Match Finished,FT,90.0,Regular Season - 27,546,Getafe,543,Real Betis,2.0,0.0,HOME,20422.0,Coliseum,F. Maeso
+140,La Liga,Spain,2025,1391086,2026-03-08T17:30:00+00:00,UTC,1772991000,Match Finished,FT,90.0,Regular Season - 27,536,Sevilla,728,Rayo Vallecano,1.0,1.0,DRAW,1494.0,Estadio Ramón Sánchez Pizjuán,A. Ruiz
+140,La Liga,Spain,2025,1391087,2026-03-08T20:00:00+00:00,UTC,1773000000,Match Finished,FT,90.0,Regular Season - 27,532,Valencia,542,Alaves,3.0,2.0,HOME,1497.0,Estadio de Mestalla,J. Guzman
+140,La Liga,Spain,2025,1391082,2026-03-09T20:00:00+00:00,UTC,1773086400,Match Finished,FT,90.0,Regular Season - 27,540,Espanyol,718,Oviedo,1.0,1.0,DRAW,,RCDE Stadium,J. Alberola
+140,La Liga,Spain,2025,1391089,2026-03-13T20:00:00+00:00,UTC,1773432000,Match Finished,FT,90.0,Regular Season - 28,542,Alaves,533,Villarreal,1.0,1.0,DRAW,1470.0,Estadio Mendizorrotza,A. Quintero
+140,La Liga,Spain,2025,1391093,2026-03-14T13:00:00+00:00,UTC,1773493200,Match Finished,FT,90.0,Regular Season - 28,547,Girona,531,Athletic Club,3.0,0.0,HOME,1478.0,Estadio Municipal de Montilivi,I. Galech
+140,La Liga,Spain,2025,1391090,2026-03-14T15:15:00+00:00,UTC,1773501300,Match Finished,FT,90.0,Regular Season - 28,530,Atletico Madrid,546,Getafe,1.0,0.0,HOME,,Metropolitano Stadium,M. Ortiz
+140,La Liga,Spain,2025,1391098,2026-03-14T17:30:00+00:00,UTC,1773509400,Match Finished,FT,90.0,Regular Season - 28,718,Oviedo,532,Valencia,1.0,0.0,HOME,1490.0,Estadio Nuevo Carlos Tartiere,M. Sesma
+140,La Liga,Spain,2025,1391096,2026-03-14T20:00:00+00:00,UTC,1773518400,Match Finished,FT,90.0,Regular Season - 28,541,Real Madrid,797,Elche,4.0,1.0,HOME,1456.0,Estadio Santiago Bernabéu,J. Manzano
+140,La Liga,Spain,2025,1391094,2026-03-15T13:00:00+00:00,UTC,1773579600,Match Finished,FT,90.0,Regular Season - 28,798,Mallorca,540,Espanyol,2.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,R. De Burgos
+140,La Liga,Spain,2025,1391091,2026-03-15T15:15:00+00:00,UTC,1773587700,Match Finished,FT,90.0,Regular Season - 28,529,Barcelona,536,Sevilla,5.0,2.0,HOME,19939.0,Camp Nou,J. Martinez
+140,La Liga,Spain,2025,1391092,2026-03-15T17:30:00+00:00,UTC,1773595800,Match Finished,FT,90.0,Regular Season - 28,543,Real Betis,538,Celta Vigo,1.0,1.0,DRAW,,Estadio de La Cartuja,J. Sanchez
+140,La Liga,Spain,2025,1391097,2026-03-15T20:00:00+00:00,UTC,1773604800,Match Finished,FT,90.0,Regular Season - 28,548,Real Sociedad,727,Osasuna,3.0,1.0,HOME,,Reale Arena,G. Cuadra
+140,La Liga,Spain,2025,1391095,2026-03-16T20:00:00+00:00,UTC,1773691200,Match Finished,FT,90.0,Regular Season - 28,728,Rayo Vallecano,539,Levante,1.0,1.0,DRAW,1488.0,Campo de Futbol de Vallecas,C. Soto Grado
+140,La Liga,Spain,2025,1391108,2026-03-20T20:00:00+00:00,UTC,1774036800,Match Finished,FT,90.0,Regular Season - 29,533,Villarreal,548,Real Sociedad,3.0,1.0,HOME,1498.0,Estadio de la Ceramica,M. Ortiz
+140,La Liga,Spain,2025,1391102,2026-03-21T13:00:00+00:00,UTC,1774098000,Match Finished,FT,90.0,Regular Season - 29,797,Elche,798,Mallorca,2.0,1.0,HOME,1473.0,Estadio Manuel Martínez Valero,J. Alberola
+140,La Liga,Spain,2025,1391103,2026-03-21T15:15:00+00:00,UTC,1774106100,Match Finished,FT,90.0,Regular Season - 29,540,Espanyol,546,Getafe,1.0,2.0,AWAY,,RCDE Stadium,I. Diaz
+140,La Liga,Spain,2025,1391104,2026-03-21T17:30:00+00:00,UTC,1774114200,Match Finished,FT,90.0,Regular Season - 29,539,Levante,718,Oviedo,4.0,2.0,HOME,1482.0,Estadio Ciudad de Valencia,J. Manzano
+140,La Liga,Spain,2025,1391105,2026-03-21T17:30:00+00:00,UTC,1774114200,Match Finished,FT,90.0,Regular Season - 29,727,Osasuna,547,Girona,1.0,0.0,HOME,,Estadio El Sadar,J. Guzman
+140,La Liga,Spain,2025,1391107,2026-03-21T20:00:00+00:00,UTC,1774123200,Match Finished,FT,90.0,Regular Season - 29,536,Sevilla,532,Valencia,0.0,2.0,AWAY,1494.0,Estadio Ramón Sánchez Pizjuán,V. Garcia
+140,La Liga,Spain,2025,1391100,2026-03-22T13:00:00+00:00,UTC,1774184400,Match Finished,FT,90.0,Regular Season - 29,529,Barcelona,728,Rayo Vallecano,1.0,0.0,HOME,19939.0,Camp Nou,A. Cordero
+140,La Liga,Spain,2025,1391101,2026-03-22T15:15:00+00:00,UTC,1774192500,Match Finished,FT,90.0,Regular Season - 29,538,Celta Vigo,542,Alaves,3.0,4.0,AWAY,,Estadio Abanca Balaídos,M. Sesma
+140,La Liga,Spain,2025,1391099,2026-03-22T17:30:00+00:00,UTC,1774200600,Match Finished,FT,90.0,Regular Season - 29,531,Athletic Club,543,Real Betis,2.0,1.0,HOME,,San Mamés,A. Ruiz
+140,La Liga,Spain,2025,1391106,2026-03-22T20:00:00+00:00,UTC,1774209600,Match Finished,FT,90.0,Regular Season - 29,541,Real Madrid,530,Atletico Madrid,3.0,2.0,HOME,1456.0,Estadio Santiago Bernabéu,J. Munuera
+140,La Liga,Spain,2025,1391115,2026-04-03T19:00:00+00:00,UTC,1775242800,Match Finished,FT,90.0,Regular Season - 30,728,Rayo Vallecano,797,Elche,1.0,0.0,HOME,1488.0,Campo de Futbol de Vallecas,J. Munuera
+140,La Liga,Spain,2025,1391116,2026-04-04T12:00:00+00:00,UTC,1775304000,Match Finished,FT,90.0,Regular Season - 30,548,Real Sociedad,539,Levante,2.0,0.0,HOME,,Reale Arena,A. Ruiz
+140,La Liga,Spain,2025,1391114,2026-04-04T14:15:00+00:00,UTC,1775312100,Match Finished,FT,90.0,Regular Season - 30,798,Mallorca,541,Real Madrid,2.0,1.0,HOME,19940.0,Estadi Mallorca Son Moix,J. Sanchez
+140,La Liga,Spain,2025,1391111,2026-04-04T16:30:00+00:00,UTC,1775320200,Match Finished,FT,90.0,Regular Season - 30,543,Real Betis,540,Espanyol,0.0,0.0,DRAW,,Estadio de La Cartuja,G. Cuadra
+140,La Liga,Spain,2025,1391110,2026-04-04T19:00:00+00:00,UTC,1775329200,Match Finished,FT,90.0,Regular Season - 30,530,Atletico Madrid,529,Barcelona,1.0,2.0,AWAY,,Metropolitano Stadium,M. Busquets
+140,La Liga,Spain,2025,1391112,2026-04-05T12:00:00+00:00,UTC,1775390400,Match Finished,FT,90.0,Regular Season - 30,546,Getafe,531,Athletic Club,2.0,0.0,HOME,20422.0,Coliseum,J. Martinez
+140,La Liga,Spain,2025,1391118,2026-04-05T14:15:00+00:00,UTC,1775398500,Match Finished,FT,90.0,Regular Season - 30,532,Valencia,538,Celta Vigo,2.0,3.0,AWAY,1497.0,Estadio de Mestalla,I. Galech
+140,La Liga,Spain,2025,1391117,2026-04-05T16:30:00+00:00,UTC,1775406600,Match Finished,FT,90.0,Regular Season - 30,718,Oviedo,536,Sevilla,1.0,0.0,HOME,1490.0,Estadio Nuevo Carlos Tartiere,A. Hernandez
+140,La Liga,Spain,2025,1391109,2026-04-05T19:00:00+00:00,UTC,1775415600,Match Finished,FT,90.0,Regular Season - 30,542,Alaves,727,Osasuna,2.0,2.0,DRAW,1470.0,Estadio Mendizorrotza,C. Soto Grado
+140,La Liga,Spain,2025,1391113,2026-04-06T19:00:00+00:00,UTC,1775502000,Match Finished,FT,90.0,Regular Season - 30,547,Girona,533,Villarreal,1.0,0.0,HOME,1478.0,Estadio Municipal de Montilivi,A. Cordero
+140,La Liga,Spain,2025,1391126,2026-04-10T19:00:00+00:00,UTC,1775847600,Match Finished,FT,90.0,Regular Season - 31,541,Real Madrid,547,Girona,1.0,1.0,DRAW,1456.0,Estadio Santiago Bernabéu,J. Alberola
+140,La Liga,Spain,2025,1391127,2026-04-11T12:00:00+00:00,UTC,1775908800,Match Finished,FT,90.0,Regular Season - 31,548,Real Sociedad,542,Alaves,3.0,3.0,DRAW,,Reale Arena,V. Garcia
+140,La Liga,Spain,2025,1391122,2026-04-11T14:15:00+00:00,UTC,1775916900,Match Finished,FT,90.0,Regular Season - 31,797,Elche,532,Valencia,1.0,0.0,HOME,1473.0,Estadio Manuel Martínez Valero,F. Maeso
+140,La Liga,Spain,2025,1391120,2026-04-11T16:30:00+00:00,UTC,1775925000,Match Finished,FT,90.0,Regular Season - 31,529,Barcelona,540,Espanyol,4.0,1.0,HOME,19939.0,Camp Nou,A. Hernandez
+140,La Liga,Spain,2025,1391128,2026-04-11T19:00:00+00:00,UTC,1775934000,Match Finished,FT,90.0,Regular Season - 31,536,Sevilla,530,Atletico Madrid,2.0,1.0,HOME,1494.0,Estadio Ramón Sánchez Pizjuán,I. Diaz
+140,La Liga,Spain,2025,1391125,2026-04-12T12:00:00+00:00,UTC,1775995200,Match Finished,FT,90.0,Regular Season - 31,727,Osasuna,543,Real Betis,1.0,1.0,DRAW,,Estadio El Sadar,M. Sesma
+140,La Liga,Spain,2025,1391124,2026-04-12T14:15:00+00:00,UTC,1776003300,Match Finished,FT,90.0,Regular Season - 31,798,Mallorca,728,Rayo Vallecano,3.0,0.0,HOME,19940.0,Estadi Mallorca Son Moix,J. Manzano
+140,La Liga,Spain,2025,1391121,2026-04-12T16:30:00+00:00,UTC,1776011400,Match Finished,FT,90.0,Regular Season - 31,538,Celta Vigo,718,Oviedo,0.0,3.0,AWAY,,Estadio Abanca Balaídos,M. Ortiz
+140,La Liga,Spain,2025,1391119,2026-04-12T19:00:00+00:00,UTC,1776020400,Match Finished,FT,90.0,Regular Season - 31,531,Athletic Club,533,Villarreal,1.0,2.0,AWAY,,San Mamés,J. Guzman
+140,La Liga,Spain,2025,1391123,2026-04-13T19:00:00+00:00,UTC,1776106800,Match Finished,FT,90.0,Regular Season - 31,539,Levante,546,Getafe,1.0,0.0,HOME,1482.0,Estadio Ciudad de Valencia,A. Quintero
+140,La Liga,Spain,2025,1391139,2026-04-21T17:00:00+00:00,UTC,1776790800,Not Started,NS,,Regular Season - 33,531,Athletic Club,727,Osasuna,,,,,Estadio de San Mamés,V. Garcia
+140,La Liga,Spain,2025,1391144,2026-04-21T17:00:00+00:00,UTC,1776790800,Not Started,NS,,Regular Season - 33,798,Mallorca,532,Valencia,,,,19940.0,Estadi Mallorca Son Moix,C. Soto Grado
+140,La Liga,Spain,2025,1391146,2026-04-21T19:30:00+00:00,UTC,1776799800,Not Started,NS,,Regular Season - 33,541,Real Madrid,542,Alaves,,,,1456.0,Estadio Santiago Bernabéu,J. Martinez
+140,La Liga,Spain,2025,1391142,2026-04-21T19:30:00+00:00,UTC,1776799800,Not Started,NS,,Regular Season - 33,547,Girona,543,Real Betis,,,,1478.0,Estadio Municipal de Montilivi,I. Galech
 140,La Liga,Spain,2025,1391141,2026-04-22T17:00:00+00:00,UTC,1776877200,Not Started,NS,,Regular Season - 33,797,Elche,530,Atletico Madrid,,,,1473.0,Estadio Manuel Martínez Valero,
-140,La Liga,Spain,2025,1391147,2026-04-22T18:00:00+00:00,UTC,1776880800,Not Started,NS,,Regular Season - 33,548,Real Sociedad,546,Getafe,,,,,Reale Arena,
+140,La Liga,Spain,2025,1391147,2026-04-22T18:00:00+00:00,UTC,1776880800,Not Started,NS,,Regular Season - 33,548,Real Sociedad,546,Getafe,,,,,Anoeta,
 140,La Liga,Spain,2025,1391140,2026-04-22T19:30:00+00:00,UTC,1776886200,Not Started,NS,,Regular Season - 33,529,Barcelona,538,Celta Vigo,,,,19939.0,Camp Nou,
 140,La Liga,Spain,2025,1391143,2026-04-23T17:00:00+00:00,UTC,1776963600,Not Started,NS,,Regular Season - 33,539,Levante,536,Sevilla,,,,1482.0,Estadio Ciudad de Valencia,
 140,La Liga,Spain,2025,1391145,2026-04-23T18:00:00+00:00,UTC,1776967200,Not Started,NS,,Regular Season - 33,728,Rayo Vallecano,540,Espanyol,,,,,Campo de Futbol de Vallecas,
@@ -331,34 +331,34 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 140,La Liga,Spain,2025,1391132,2026-04-27T19:00:00+00:00,UTC,1777316400,Not Started,NS,,Regular Season - 32,540,Espanyol,539,Levante,,,,,RCDE Stadium,
 140,La Liga,Spain,2025,1391154,2026-05-01T19:00:00+00:00,UTC,1777662000,Not Started,NS,,Regular Season - 34,547,Girona,798,Mallorca,,,,,Estadio Municipal de Montilivi,
 140,La Liga,Spain,2025,1391158,2026-05-02T12:00:00+00:00,UTC,1777723200,Not Started,NS,,Regular Season - 34,533,Villarreal,539,Levante,,,,1498.0,Estadio de la Ceramica,
+140,La Liga,Spain,2025,1391157,2026-05-02T14:15:00+00:00,UTC,1777731300,Not Started,NS,,Regular Season - 34,532,Valencia,530,Atletico Madrid,,,,1497.0,Estadio de Mestalla,
 140,La Liga,Spain,2025,1391149,2026-05-02T16:30:00+00:00,UTC,1777739400,Not Started,NS,,Regular Season - 34,542,Alaves,531,Athletic Club,,,,,Estadio Mendizorrotza,
+140,La Liga,Spain,2025,1391155,2026-05-02T19:00:00+00:00,UTC,1777748400,Not Started,NS,,Regular Season - 34,727,Osasuna,529,Barcelona,,,,,Estadio El Sadar,
 140,La Liga,Spain,2025,1391151,2026-05-03T12:00:00+00:00,UTC,1777809600,Not Started,NS,,Regular Season - 34,538,Celta Vigo,797,Elche,,,,,Estadio Abanca-Balaídos,
 140,La Liga,Spain,2025,1391153,2026-05-03T14:15:00+00:00,UTC,1777817700,Not Started,NS,,Regular Season - 34,546,Getafe,728,Rayo Vallecano,,,,,Coliseum,
-140,La Liga,Spain,2025,1391157,2026-05-03T16:00:00+00:00,UTC,1777824000,Not Started,NS,,Regular Season - 34,532,Valencia,530,Atletico Madrid,,,,1497.0,Estadio de Mestalla,
-140,La Liga,Spain,2025,1391152,2026-05-03T16:00:00+00:00,UTC,1777824000,Not Started,NS,,Regular Season - 34,540,Espanyol,541,Real Madrid,,,,,RCDE Stadium,
-140,La Liga,Spain,2025,1391155,2026-05-03T16:00:00+00:00,UTC,1777824000,Not Started,NS,,Regular Season - 34,727,Osasuna,529,Barcelona,,,,,Estadio El Sadar,
 140,La Liga,Spain,2025,1391150,2026-05-03T16:30:00+00:00,UTC,1777825800,Not Started,NS,,Regular Season - 34,543,Real Betis,718,Oviedo,,,,,Estadio de La Cartuja,
+140,La Liga,Spain,2025,1391152,2026-05-03T19:00:00+00:00,UTC,1777834800,Not Started,NS,,Regular Season - 34,540,Espanyol,541,Real Madrid,,,,,RCDE Stadium,
 140,La Liga,Spain,2025,1391156,2026-05-04T19:00:00+00:00,UTC,1777921200,Not Started,NS,,Regular Season - 34,536,Sevilla,548,Real Sociedad,,,,1494.0,Estadio Ramón Sánchez Pizjuán,
-140,La Liga,Spain,2025,1391160,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,530,Atletico Madrid,538,Celta Vigo,,,,,Metropolitano Stadium,
-140,La Liga,Spain,2025,1391159,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,531,Athletic Club,532,Valencia,,,,,Estadio de San Mamés,
-140,La Liga,Spain,2025,1391168,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,536,Sevilla,540,Espanyol,,,,1494.0,Estadio Ramón Sánchez Pizjuán,
-140,La Liga,Spain,2025,1391163,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,539,Levante,727,Osasuna,,,,1482.0,Estadio Ciudad de Valencia,
-140,La Liga,Spain,2025,1391166,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,548,Real Sociedad,543,Real Betis,,,,,Reale Arena,
-140,La Liga,Spain,2025,1391167,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,718,Oviedo,546,Getafe,,,,1490.0,Estadio Nuevo Carlos Tartiere,
-140,La Liga,Spain,2025,1391165,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,728,Rayo Vallecano,547,Girona,,,,,Campo de Futbol de Vallecas,
-140,La Liga,Spain,2025,1391162,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,797,Elche,542,Alaves,,,,1473.0,Estadio Manuel Martínez Valero,
-140,La Liga,Spain,2025,1391164,2026-05-10T16:00:00+00:00,UTC,1778428800,Not Started,NS,,Regular Season - 35,798,Mallorca,533,Villarreal,,,,19940.0,Estadi Mallorca Son Moix,
+140,La Liga,Spain,2025,1391163,2026-05-08T19:00:00+00:00,UTC,1778266800,Not Started,NS,,Regular Season - 35,539,Levante,727,Osasuna,,,,1482.0,Estadio Ciudad de Valencia,
+140,La Liga,Spain,2025,1391162,2026-05-09T12:00:00+00:00,UTC,1778328000,Not Started,NS,,Regular Season - 35,797,Elche,542,Alaves,,,,1473.0,Estadio Manuel Martínez Valero,
+140,La Liga,Spain,2025,1391168,2026-05-09T14:15:00+00:00,UTC,1778336100,Not Started,NS,,Regular Season - 35,536,Sevilla,540,Espanyol,,,,1494.0,Estadio Ramón Sánchez Pizjuán,
+140,La Liga,Spain,2025,1391160,2026-05-09T16:30:00+00:00,UTC,1778344200,Not Started,NS,,Regular Season - 35,530,Atletico Madrid,538,Celta Vigo,,,,,Metropolitano Stadium,
+140,La Liga,Spain,2025,1391166,2026-05-09T19:00:00+00:00,UTC,1778353200,Not Started,NS,,Regular Season - 35,548,Real Sociedad,543,Real Betis,,,,,Anoeta,
+140,La Liga,Spain,2025,1391164,2026-05-10T12:00:00+00:00,UTC,1778414400,Not Started,NS,,Regular Season - 35,798,Mallorca,533,Villarreal,,,,19940.0,Estadi Mallorca Son Moix,
+140,La Liga,Spain,2025,1391159,2026-05-10T14:15:00+00:00,UTC,1778422500,Not Started,NS,,Regular Season - 35,531,Athletic Club,532,Valencia,,,,,Estadio de San Mamés,
+140,La Liga,Spain,2025,1391167,2026-05-10T16:30:00+00:00,UTC,1778430600,Not Started,NS,,Regular Season - 35,718,Oviedo,546,Getafe,,,,1490.0,Estadio Nuevo Carlos Tartiere,
 140,La Liga,Spain,2025,1391161,2026-05-10T19:00:00+00:00,UTC,1778439600,Not Started,NS,,Regular Season - 35,529,Barcelona,541,Real Madrid,,,,19939.0,Camp Nou,
-140,La Liga,Spain,2025,1391177,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,532,Valencia,728,Rayo Vallecano,,,,1497.0,Estadio de Mestalla,
-140,La Liga,Spain,2025,1391178,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,533,Villarreal,536,Sevilla,,,,1498.0,Estadio de la Ceramica,
-140,La Liga,Spain,2025,1391171,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,538,Celta Vigo,539,Levante,,,,,Estadio Abanca-Balaídos,
-140,La Liga,Spain,2025,1391172,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,540,Espanyol,531,Athletic Club,,,,,RCDE Stadium,
-140,La Liga,Spain,2025,1391176,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,541,Real Madrid,718,Oviedo,,,,1456.0,Estadio Santiago Bernabéu,
-140,La Liga,Spain,2025,1391169,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,542,Alaves,529,Barcelona,,,,,Estadio Mendizorrotza,
-140,La Liga,Spain,2025,1391170,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,543,Real Betis,797,Elche,,,,,Estadio de La Cartuja,
-140,La Liga,Spain,2025,1391173,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,546,Getafe,798,Mallorca,,,,,Coliseum,
-140,La Liga,Spain,2025,1391174,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,547,Girona,548,Real Sociedad,,,,,Estadio Municipal de Montilivi,
-140,La Liga,Spain,2025,1391175,2026-05-13T16:00:00+00:00,UTC,1778688000,Not Started,NS,,Regular Season - 36,727,Osasuna,530,Atletico Madrid,,,,,Estadio El Sadar,
+140,La Liga,Spain,2025,1391165,2026-05-11T19:00:00+00:00,UTC,1778526000,Not Started,NS,,Regular Season - 35,728,Rayo Vallecano,547,Girona,,,,,Campo de Futbol de Vallecas,
+140,La Liga,Spain,2025,1391171,2026-05-12T17:00:00+00:00,UTC,1778605200,Not Started,NS,,Regular Season - 36,538,Celta Vigo,539,Levante,,,,,Estadio Abanca-Balaídos,
+140,La Liga,Spain,2025,1391170,2026-05-12T18:00:00+00:00,UTC,1778608800,Not Started,NS,,Regular Season - 36,543,Real Betis,797,Elche,,,,,Estadio de La Cartuja,
+140,La Liga,Spain,2025,1391175,2026-05-12T19:30:00+00:00,UTC,1778614200,Not Started,NS,,Regular Season - 36,727,Osasuna,530,Atletico Madrid,,,,,Estadio El Sadar,
+140,La Liga,Spain,2025,1391178,2026-05-13T17:00:00+00:00,UTC,1778691600,Not Started,NS,,Regular Season - 36,533,Villarreal,536,Sevilla,,,,1498.0,Estadio de la Ceramica,
+140,La Liga,Spain,2025,1391172,2026-05-13T17:00:00+00:00,UTC,1778691600,Not Started,NS,,Regular Season - 36,540,Espanyol,531,Athletic Club,,,,,RCDE Stadium,
+140,La Liga,Spain,2025,1391169,2026-05-13T19:30:00+00:00,UTC,1778700600,Not Started,NS,,Regular Season - 36,542,Alaves,529,Barcelona,,,,,Estadio Mendizorrotza,
+140,La Liga,Spain,2025,1391173,2026-05-13T19:30:00+00:00,UTC,1778700600,Not Started,NS,,Regular Season - 36,546,Getafe,798,Mallorca,,,,,Coliseum,
+140,La Liga,Spain,2025,1391177,2026-05-14T17:00:00+00:00,UTC,1778778000,Not Started,NS,,Regular Season - 36,532,Valencia,728,Rayo Vallecano,,,,1497.0,Estadio de Mestalla,
+140,La Liga,Spain,2025,1391174,2026-05-14T18:00:00+00:00,UTC,1778781600,Not Started,NS,,Regular Season - 36,547,Girona,548,Real Sociedad,,,,,Estadio Municipal de Montilivi,
+140,La Liga,Spain,2025,1391176,2026-05-14T19:30:00+00:00,UTC,1778787000,Not Started,NS,,Regular Season - 36,541,Real Madrid,718,Oviedo,,,,1456.0,Estadio Santiago Bernabéu,
 140,La Liga,Spain,2025,1391181,2026-05-17T16:00:00+00:00,UTC,1779033600,Not Started,NS,,Regular Season - 37,529,Barcelona,543,Real Betis,,,,19939.0,Camp Nou,
 140,La Liga,Spain,2025,1391180,2026-05-17T16:00:00+00:00,UTC,1779033600,Not Started,NS,,Regular Season - 37,530,Atletico Madrid,547,Girona,,,,,Metropolitano Stadium,
 140,La Liga,Spain,2025,1391179,2026-05-17T16:00:00+00:00,UTC,1779033600,Not Started,NS,,Regular Season - 37,531,Athletic Club,538,Celta Vigo,,,,,Estadio de San Mamés,

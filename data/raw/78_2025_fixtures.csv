@@ -260,42 +260,42 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 78,Bundesliga,Germany,2025,1388562,2026-04-12T13:30:00+00:00,UTC,1776000600,Match Finished,FT,90.0,Regular Season - 29,192,1. FC Köln,162,Werder Bremen,3.0,1.0,HOME,,RheinEnergieStadion,"Tobias Reichel, Germany"
 78,Bundesliga,Germany,2025,1388567,2026-04-12T15:30:00+00:00,UTC,1776007800,Match Finished,FT,90.0,Regular Season - 29,172,VfB Stuttgart,175,Hamburger SV,4.0,0.0,HOME,,MHP Arena,"Sven Jablonski, Germany"
 78,Bundesliga,Germany,2025,1388564,2026-04-12T17:30:00+00:00,UTC,1776015000,Match Finished,FT,90.0,Regular Season - 29,164,FSV Mainz 05,160,SC Freiburg,0.0,1.0,AWAY,11899.0,Mewa Arena,"Felix Zwayer, Germany"
-78,Bundesliga,Germany,2025,1388575,2026-04-17T18:30:00+00:00,UTC,1776450600,Not Started,NS,,Regular Season - 30,186,FC St. Pauli,192,1. FC Köln,,,,745.0,Millerntor-Stadion,
-78,Bundesliga,Germany,2025,1388577,2026-04-18T13:30:00+00:00,UTC,1776519000,Not Started,NS,,Regular Season - 30,162,Werder Bremen,175,Hamburger SV,,,,,Weserstadion,
-78,Bundesliga,Germany,2025,1388574,2026-04-18T13:30:00+00:00,UTC,1776519000,Not Started,NS,,Regular Season - 30,167,1899 Hoffenheim,165,Borussia Dortmund,,,,724.0,PreZero Arena,
-78,Bundesliga,Germany,2025,1388569,2026-04-18T13:30:00+00:00,UTC,1776519000,Not Started,NS,,Regular Season - 30,168,Bayer Leverkusen,170,FC Augsburg,,,,699.0,BayArena,
-78,Bundesliga,Germany,2025,1388576,2026-04-18T13:30:00+00:00,UTC,1776519000,Not Started,NS,,Regular Season - 30,182,Union Berlin,161,VfL Wolfsburg,,,,748.0,Stadion An der Alten Försterei,
-78,Bundesliga,Germany,2025,1388572,2026-04-18T16:30:00+00:00,UTC,1776529800,Not Started,NS,,Regular Season - 30,169,Eintracht Frankfurt,173,RB Leipzig,,,,,Deutsche Bank Park,
-78,Bundesliga,Germany,2025,1388573,2026-04-19T13:30:00+00:00,UTC,1776605400,Not Started,NS,,Regular Season - 30,160,SC Freiburg,180,1. FC Heidenheim,,,,,Europa-Park Stadion,
-78,Bundesliga,Germany,2025,1388570,2026-04-19T15:30:00+00:00,UTC,1776612600,Not Started,NS,,Regular Season - 30,157,Bayern München,172,VfB Stuttgart,,,,,Allianz Arena,
-78,Bundesliga,Germany,2025,1388571,2026-04-19T17:30:00+00:00,UTC,1776619800,Not Started,NS,,Regular Season - 30,163,Borussia Mönchengladbach,164,FSV Mainz 05,,,,,Borussia-Park,
+78,Bundesliga,Germany,2025,1388575,2026-04-17T18:30:00+00:00,UTC,1776450600,Match Finished,FT,90.0,Regular Season - 30,186,FC St. Pauli,192,1. FC Köln,1.0,1.0,DRAW,745.0,Millerntor-Stadion,"Matthias Jollenbeck, Germany"
+78,Bundesliga,Germany,2025,1388577,2026-04-18T13:30:00+00:00,UTC,1776519000,Match Finished,FT,90.0,Regular Season - 30,162,Werder Bremen,175,Hamburger SV,3.0,1.0,HOME,,Weserstadion,"Florian Exner, Germany"
+78,Bundesliga,Germany,2025,1388574,2026-04-18T13:30:00+00:00,UTC,1776519000,Match Finished,FT,90.0,Regular Season - 30,167,1899 Hoffenheim,165,Borussia Dortmund,2.0,1.0,HOME,724.0,PreZero Arena,"Daniel Siebert, Germany"
+78,Bundesliga,Germany,2025,1388569,2026-04-18T13:30:00+00:00,UTC,1776519000,Match Finished,FT,90.0,Regular Season - 30,168,Bayer Leverkusen,170,FC Augsburg,1.0,2.0,AWAY,699.0,BayArena,"Benjamin Brand, Germany"
+78,Bundesliga,Germany,2025,1388576,2026-04-18T13:30:00+00:00,UTC,1776519000,Match Finished,FT,90.0,Regular Season - 30,182,Union Berlin,161,VfL Wolfsburg,1.0,2.0,AWAY,748.0,Stadion An der Alten Försterei,"Florian Badstubner, Germany"
+78,Bundesliga,Germany,2025,1388572,2026-04-18T16:30:00+00:00,UTC,1776529800,Match Finished,FT,90.0,Regular Season - 30,169,Eintracht Frankfurt,173,RB Leipzig,1.0,3.0,AWAY,,Deutsche Bank Park,"Bastian Dankert, Germany"
+78,Bundesliga,Germany,2025,1388573,2026-04-19T13:30:00+00:00,UTC,1776605400,Match Finished,FT,90.0,Regular Season - 30,160,SC Freiburg,180,1. FC Heidenheim,2.0,1.0,HOME,12717.0,Europa-Park Stadion,"Patrick Ittrich, Germany"
+78,Bundesliga,Germany,2025,1388570,2026-04-19T15:30:00+00:00,UTC,1776612600,Match Finished,FT,90.0,Regular Season - 30,157,Bayern München,172,VfB Stuttgart,4.0,2.0,HOME,,Allianz Arena,"Sören Storks, Germany"
+78,Bundesliga,Germany,2025,1388571,2026-04-19T17:30:00+00:00,UTC,1776619800,Match Finished,FT,90.0,Regular Season - 30,163,Borussia Mönchengladbach,164,FSV Mainz 05,1.0,1.0,DRAW,20471.0,Borussia-Park,"Tobias Welz, Germany"
+78,Bundesliga,Germany,2025,1388584,2026-04-24T18:30:00+00:00,UTC,1777055400,Not Started,NS,,Regular Season - 31,173,RB Leipzig,182,Union Berlin,,,,,Red Bull Arena,
 78,Bundesliga,Germany,2025,1388586,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,161,VfL Wolfsburg,163,Borussia Mönchengladbach,,,,752.0,Volkswagen Arena,
 78,Bundesliga,Germany,2025,1388583,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,164,FSV Mainz 05,157,Bayern München,,,,11899.0,Mewa Arena,
-78,Bundesliga,Germany,2025,1388579,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,165,Borussia Dortmund,160,SC Freiburg,,,,,Signal Iduna Park,
 78,Bundesliga,Germany,2025,1388578,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,170,FC Augsburg,169,Eintracht Frankfurt,,,,698.0,WWK Arena,
-78,Bundesliga,Germany,2025,1388585,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,172,VfB Stuttgart,162,Werder Bremen,,,,,MHPArena,
-78,Bundesliga,Germany,2025,1388584,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,173,RB Leipzig,182,Union Berlin,,,,,Red Bull Arena,
-78,Bundesliga,Germany,2025,1388581,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,175,Hamburger SV,167,1899 Hoffenheim,,,,720.0,Volksparkstadion,
 78,Bundesliga,Germany,2025,1388582,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,180,1. FC Heidenheim,186,FC St. Pauli,,,,,Voith-Arena,
 78,Bundesliga,Germany,2025,1388580,2026-04-25T13:30:00+00:00,UTC,1777123800,Not Started,NS,,Regular Season - 31,192,1. FC Köln,168,Bayer Leverkusen,,,,,RheinEnergieStadion,
+78,Bundesliga,Germany,2025,1388581,2026-04-25T16:30:00+00:00,UTC,1777134600,Not Started,NS,,Regular Season - 31,175,Hamburger SV,167,1899 Hoffenheim,,,,720.0,Volksparkstadion,
+78,Bundesliga,Germany,2025,1388585,2026-04-26T13:30:00+00:00,UTC,1777210200,Not Started,NS,,Regular Season - 31,172,VfB Stuttgart,162,Werder Bremen,,,,,MHPArena,
+78,Bundesliga,Germany,2025,1388579,2026-04-26T15:30:00+00:00,UTC,1777217400,Not Started,NS,,Regular Season - 31,165,Borussia Dortmund,160,SC Freiburg,,,,,Signal Iduna Park,
 78,Bundesliga,Germany,2025,1388588,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,157,Bayern München,180,1. FC Heidenheim,,,,,Allianz Arena,
-78,Bundesliga,Germany,2025,1388591,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,160,SC Freiburg,161,VfL Wolfsburg,,,,,Europa-Park Stadion,
 78,Bundesliga,Germany,2025,1388595,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,162,Werder Bremen,170,FC Augsburg,,,,,Weserstadion,
-78,Bundesliga,Germany,2025,1388589,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,163,Borussia Mönchengladbach,165,Borussia Dortmund,,,,,Borussia-Park,
 78,Bundesliga,Germany,2025,1388592,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,167,1899 Hoffenheim,172,VfB Stuttgart,,,,724.0,PreZero Arena,
-78,Bundesliga,Germany,2025,1388587,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,168,Bayer Leverkusen,173,RB Leipzig,,,,699.0,BayArena,
 78,Bundesliga,Germany,2025,1388590,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,169,Eintracht Frankfurt,175,Hamburger SV,,,,,Deutsche Bank Park,
 78,Bundesliga,Germany,2025,1388594,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,182,Union Berlin,192,1. FC Köln,,,,748.0,Stadion An der Alten Försterei,
-78,Bundesliga,Germany,2025,1388593,2026-05-02T13:30:00+00:00,UTC,1777728600,Not Started,NS,,Regular Season - 32,186,FC St. Pauli,164,FSV Mainz 05,,,,745.0,Millerntor-Stadion,
-78,Bundesliga,Germany,2025,1388604,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,161,VfL Wolfsburg,157,Bayern München,,,,752.0,Volkswagen Arena,
-78,Bundesliga,Germany,2025,1388601,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,164,FSV Mainz 05,182,Union Berlin,,,,11899.0,Mewa Arena,
-78,Bundesliga,Germany,2025,1388597,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,165,Borussia Dortmund,169,Eintracht Frankfurt,,,,,Signal Iduna Park,
+78,Bundesliga,Germany,2025,1388587,2026-05-02T16:30:00+00:00,UTC,1777739400,Not Started,NS,,Regular Season - 32,168,Bayer Leverkusen,173,RB Leipzig,,,,699.0,BayArena,
+78,Bundesliga,Germany,2025,1388593,2026-05-03T13:30:00+00:00,UTC,1777815000,Not Started,NS,,Regular Season - 32,186,FC St. Pauli,164,FSV Mainz 05,,,,745.0,Millerntor-Stadion,
+78,Bundesliga,Germany,2025,1388589,2026-05-03T15:30:00+00:00,UTC,1777822200,Not Started,NS,,Regular Season - 32,163,Borussia Mönchengladbach,165,Borussia Dortmund,,,,,Borussia-Park,
+78,Bundesliga,Germany,2025,1388591,2026-05-03T17:30:00+00:00,UTC,1777829400,Not Started,NS,,Regular Season - 32,160,SC Freiburg,161,VfL Wolfsburg,,,,,Europa-Park Stadion,
+78,Bundesliga,Germany,2025,1388597,2026-05-08T18:30:00+00:00,UTC,1778265000,Not Started,NS,,Regular Season - 33,165,Borussia Dortmund,169,Eintracht Frankfurt,,,,,Signal Iduna Park,
 78,Bundesliga,Germany,2025,1388600,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,167,1899 Hoffenheim,162,Werder Bremen,,,,724.0,PreZero Arena,
 78,Bundesliga,Germany,2025,1388596,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,170,FC Augsburg,163,Borussia Mönchengladbach,,,,698.0,WWK Arena,
 78,Bundesliga,Germany,2025,1388603,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,172,VfB Stuttgart,168,Bayer Leverkusen,,,,,MHPArena,
 78,Bundesliga,Germany,2025,1388602,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,173,RB Leipzig,186,FC St. Pauli,,,,,Red Bull Arena,
-78,Bundesliga,Germany,2025,1388599,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,175,Hamburger SV,160,SC Freiburg,,,,720.0,Volksparkstadion,
-78,Bundesliga,Germany,2025,1388598,2026-05-09T13:30:00+00:00,UTC,1778333400,Not Started,NS,,Regular Season - 33,192,1. FC Köln,180,1. FC Heidenheim,,,,,RheinEnergieStadion,
+78,Bundesliga,Germany,2025,1388604,2026-05-09T16:30:00+00:00,UTC,1778344200,Not Started,NS,,Regular Season - 33,161,VfL Wolfsburg,157,Bayern München,,,,752.0,Volkswagen Arena,
+78,Bundesliga,Germany,2025,1388599,2026-05-10T13:30:00+00:00,UTC,1778419800,Not Started,NS,,Regular Season - 33,175,Hamburger SV,160,SC Freiburg,,,,720.0,Volksparkstadion,
+78,Bundesliga,Germany,2025,1388598,2026-05-10T15:30:00+00:00,UTC,1778427000,Not Started,NS,,Regular Season - 33,192,1. FC Köln,180,1. FC Heidenheim,,,,,RheinEnergieStadion,
+78,Bundesliga,Germany,2025,1388601,2026-05-10T17:30:00+00:00,UTC,1778434200,Not Started,NS,,Regular Season - 33,164,FSV Mainz 05,182,Union Berlin,,,,11899.0,Mewa Arena,
 78,Bundesliga,Germany,2025,1388606,2026-05-16T13:30:00+00:00,UTC,1778938200,Not Started,NS,,Regular Season - 34,157,Bayern München,192,1. FC Köln,,,,,Allianz Arena,
 78,Bundesliga,Germany,2025,1388609,2026-05-16T13:30:00+00:00,UTC,1778938200,Not Started,NS,,Regular Season - 34,160,SC Freiburg,173,RB Leipzig,,,,,Europa-Park Stadion,
 78,Bundesliga,Germany,2025,1388613,2026-05-16T13:30:00+00:00,UTC,1778938200,Not Started,NS,,Regular Season - 34,162,Werder Bremen,165,Borussia Dortmund,,,,,Weserstadion,

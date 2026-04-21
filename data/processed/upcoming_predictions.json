@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20 15:24 UTC",
+  "generated_at": "2026-04-21 07:35 UTC",
   "roundsAhead": 2,
   "leagues": [
     {
@@ -7,26 +7,15 @@
       "leagueName": "Premier League",
       "predictions": [
         {
-          "homeTeam": "Crystal Palace",
-          "awayTeam": "West Ham",
-          "matchDate": "2026-04-20 19:00 UTC",
-          "round": "Regular Season - 33",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.3958,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5537
-        },
-        {
           "homeTeam": "Brighton",
           "awayTeam": "Chelsea",
           "matchDate": "2026-04-21 19:00 UTC",
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3891,
+          "winnerConfidence": 0.3729,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4801
+          "goalLineConfidence": 0.4918
         },
         {
           "homeTeam": "Bournemouth",
@@ -35,9 +24,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3972,
+          "winnerConfidence": 0.395,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.537
+          "goalLineConfidence": 0.5506
         },
         {
           "homeTeam": "Burnley",
@@ -46,9 +35,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.7289,
+          "winnerConfidence": 0.7518,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5352
+          "goalLineConfidence": 0.5238
         },
         {
           "homeTeam": "Sunderland",
@@ -57,9 +46,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4238,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5733
+          "winnerConfidence": 0.3838,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4851
         },
         {
           "homeTeam": "Fulham",
@@ -68,9 +57,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3856,
+          "winnerConfidence": 0.3679,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5535
+          "goalLineConfidence": 0.5292
         },
         {
           "homeTeam": "Liverpool",
@@ -79,9 +68,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.664,
+          "winnerConfidence": 0.6459,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5641
+          "goalLineConfidence": 0.4997
         },
         {
           "homeTeam": "West Ham",
@@ -90,9 +79,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3892,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4734
+          "winnerConfidence": 0.3674,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5425
         },
         {
           "homeTeam": "Wolves",
@@ -101,9 +90,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4724,
+          "winnerConfidence": 0.5272,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4898
+          "goalLineConfidence": 0.5229
         },
         {
           "homeTeam": "Arsenal",
@@ -112,9 +101,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6609,
+          "winnerConfidence": 0.6606,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.566
+          "goalLineConfidence": 0.5716
         },
         {
           "homeTeam": "Manchester United",
@@ -123,9 +112,119 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5184,
+          "winnerConfidence": 0.4922,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5431
+          "goalLineConfidence": 0.5181
+        },
+        {
+          "homeTeam": "Leeds",
+          "awayTeam": "Burnley",
+          "matchDate": "2026-05-01 19:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5235,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.6082
+        },
+        {
+          "homeTeam": "Brentford",
+          "awayTeam": "West Ham",
+          "matchDate": "2026-05-02 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5152,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.542
+        },
+        {
+          "homeTeam": "Newcastle",
+          "awayTeam": "Brighton",
+          "matchDate": "2026-05-02 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3965,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5574
+        },
+        {
+          "homeTeam": "Wolves",
+          "awayTeam": "Sunderland",
+          "matchDate": "2026-05-02 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4616,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5797
+        },
+        {
+          "homeTeam": "Arsenal",
+          "awayTeam": "Fulham",
+          "matchDate": "2026-05-02 16:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6625,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5515
+        },
+        {
+          "homeTeam": "Bournemouth",
+          "awayTeam": "Crystal Palace",
+          "matchDate": "2026-05-03 13:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.3632,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.575
+        },
+        {
+          "homeTeam": "Manchester United",
+          "awayTeam": "Liverpool",
+          "matchDate": "2026-05-03 14:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4057,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5284
+        },
+        {
+          "homeTeam": "Aston Villa",
+          "awayTeam": "Tottenham",
+          "matchDate": "2026-05-03 18:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4791,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4846
+        },
+        {
+          "homeTeam": "Chelsea",
+          "awayTeam": "Nottingham Forest",
+          "matchDate": "2026-05-04 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4341,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5799
+        },
+        {
+          "homeTeam": "Everton",
+          "awayTeam": "Manchester City",
+          "matchDate": "2026-05-04 19:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.6729,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5567
         }
       ]
     },
@@ -134,26 +233,26 @@
       "leagueName": "Bundesliga",
       "predictions": [
         {
+          "homeTeam": "RB Leipzig",
+          "awayTeam": "Union Berlin",
+          "matchDate": "2026-04-24 18:30 UTC",
+          "round": "Regular Season - 31",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6599,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.575
+        },
+        {
           "homeTeam": "FC Augsburg",
           "awayTeam": "Eintracht Frankfurt",
           "matchDate": "2026-04-25 13:30 UTC",
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4322,
+          "winnerConfidence": 0.4111,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5354
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "SC Freiburg",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6465,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.612
+          "goalLineConfidence": 0.5378
         },
         {
           "homeTeam": "1. FC K\u00f6ln",
@@ -162,20 +261,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6122,
+          "winnerConfidence": 0.5832,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5916
-        },
-        {
-          "homeTeam": "Hamburger SV",
-          "awayTeam": "1899 Hoffenheim",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4384,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5334
+          "goalLineConfidence": 0.5617
         },
         {
           "homeTeam": "1. FC Heidenheim",
@@ -183,10 +271,10 @@
           "matchDate": "2026-04-25 13:30 UTC",
           "round": "Regular Season - 31",
           "status": "NS",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3411,
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.3603,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5671
+          "goalLineConfidence": 0.5388
         },
         {
           "homeTeam": "FSV Mainz 05",
@@ -195,31 +283,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6231,
+          "winnerConfidence": 0.6172,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.7208
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Union Berlin",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6539,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5393
-        },
-        {
-          "homeTeam": "VfB Stuttgart",
-          "awayTeam": "Werder Bremen",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.5821,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5795
+          "goalLineConfidence": 0.6646
         },
         {
           "homeTeam": "VfL Wolfsburg",
@@ -228,20 +294,42 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3972,
+          "winnerConfidence": 0.3984,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6252
+          "goalLineConfidence": 0.5898
         },
         {
-          "homeTeam": "Bayer Leverkusen",
-          "awayTeam": "RB Leipzig",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "1899 Hoffenheim",
+          "matchDate": "2026-04-25 16:30 UTC",
+          "round": "Regular Season - 31",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4734,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5409
+        },
+        {
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Werder Bremen",
+          "matchDate": "2026-04-26 13:30 UTC",
+          "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4289,
+          "winnerConfidence": 0.5626,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6207
+          "goalLineConfidence": 0.6014
+        },
+        {
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "SC Freiburg",
+          "matchDate": "2026-04-26 15:30 UTC",
+          "round": "Regular Season - 31",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6239,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5641
         },
         {
           "homeTeam": "Bayern M\u00fcnchen",
@@ -250,20 +338,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7772,
+          "winnerConfidence": 0.779,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6969
-        },
-        {
-          "homeTeam": "Borussia M\u00f6nchengladbach",
-          "awayTeam": "Borussia Dortmund",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6193,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6172
+          "goalLineConfidence": 0.775
         },
         {
           "homeTeam": "Eintracht Frankfurt",
@@ -272,20 +349,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5689,
+          "winnerConfidence": 0.5773,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5831
-        },
-        {
-          "homeTeam": "SC Freiburg",
-          "awayTeam": "VfL Wolfsburg",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.4529,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5305
+          "goalLineConfidence": 0.6063
         },
         {
           "homeTeam": "1899 Hoffenheim",
@@ -294,20 +360,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4165,
+          "winnerConfidence": 0.3736,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.7019
-        },
-        {
-          "homeTeam": "FC St. Pauli",
-          "awayTeam": "FSV Mainz 05",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4301,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5451
+          "goalLineConfidence": 0.6802
         },
         {
           "homeTeam": "Union Berlin",
@@ -315,10 +370,10 @@
           "matchDate": "2026-05-02 13:30 UTC",
           "round": "Regular Season - 32",
           "status": "NS",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3508,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3465,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4832
+          "goalLineConfidence": 0.5078
         },
         {
           "homeTeam": "Werder Bremen",
@@ -327,9 +382,53 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3732,
+          "winnerConfidence": 0.3762,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5399
+          "goalLineConfidence": 0.554
+        },
+        {
+          "homeTeam": "Bayer Leverkusen",
+          "awayTeam": "RB Leipzig",
+          "matchDate": "2026-05-02 16:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4025,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6385
+        },
+        {
+          "homeTeam": "FC St. Pauli",
+          "awayTeam": "FSV Mainz 05",
+          "matchDate": "2026-05-03 13:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4087,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5635
+        },
+        {
+          "homeTeam": "Borussia M\u00f6nchengladbach",
+          "awayTeam": "Borussia Dortmund",
+          "matchDate": "2026-05-03 15:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5596,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5894
+        },
+        {
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "VfL Wolfsburg",
+          "matchDate": "2026-05-03 17:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4586,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5627
         }
       ]
     },
@@ -344,9 +443,9 @@
           "round": "Regular Season - 26",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7346,
+          "winnerConfidence": 0.6977,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6207
+          "goalLineConfidence": 0.5247
         },
         {
           "homeTeam": "Stade Brestois 29",
@@ -355,9 +454,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5024,
+          "winnerConfidence": 0.5012,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5049
+          "goalLineConfidence": 0.5131
         },
         {
           "homeTeam": "Lyon",
@@ -366,9 +465,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6267,
+          "winnerConfidence": 0.6178,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5491
+          "goalLineConfidence": 0.5217
         },
         {
           "homeTeam": "Angers",
@@ -377,9 +476,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.7264,
+          "winnerConfidence": 0.7128,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5183
+          "goalLineConfidence": 0.5658
         },
         {
           "homeTeam": "Toulouse",
@@ -388,9 +487,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4696,
+          "winnerConfidence": 0.4744,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4788
+          "goalLineConfidence": 0.5022
         },
         {
           "homeTeam": "Lorient",
@@ -399,9 +498,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4089,
+          "winnerConfidence": 0.3604,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5409
+          "goalLineConfidence": 0.5514
         },
         {
           "homeTeam": "Le Havre",
@@ -410,9 +509,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4097,
+          "winnerConfidence": 0.4337,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5797
+          "goalLineConfidence": 0.591
         },
         {
           "homeTeam": "Paris FC",
@@ -421,9 +520,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5491,
+          "winnerConfidence": 0.5022,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4956
+          "goalLineConfidence": 0.4919
         },
         {
           "homeTeam": "Rennes",
@@ -432,9 +531,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6303,
+          "winnerConfidence": 0.611,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5363
+          "goalLineConfidence": 0.5171
         },
         {
           "homeTeam": "Marseille",
@@ -443,9 +542,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.628,
+          "winnerConfidence": 0.557,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5219
+          "goalLineConfidence": 0.5345
         }
       ]
     },
@@ -454,26 +553,15 @@
       "leagueName": "Serie A",
       "predictions": [
         {
-          "homeTeam": "Lecce",
-          "awayTeam": "Fiorentina",
-          "matchDate": "2026-04-20 18:45 UTC",
-          "round": "Regular Season - 33",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4909,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5639
-        },
-        {
           "homeTeam": "Napoli",
           "awayTeam": "Cremonese",
           "matchDate": "2026-04-24 18:45 UTC",
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7079,
+          "winnerConfidence": 0.6839,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5327
+          "goalLineConfidence": 0.5081
         },
         {
           "homeTeam": "Parma",
@@ -482,9 +570,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4679,
+          "winnerConfidence": 0.4637,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5362
+          "goalLineConfidence": 0.5621
         },
         {
           "homeTeam": "Bologna",
@@ -493,9 +581,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3886,
+          "winnerConfidence": 0.4366,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5319
+          "goalLineConfidence": 0.5554
         },
         {
           "homeTeam": "Hellas Verona",
@@ -503,10 +591,10 @@
           "matchDate": "2026-04-25 18:45 UTC",
           "round": "Regular Season - 34",
           "status": "NS",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3364,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3563,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5879
+          "goalLineConfidence": 0.6044
         },
         {
           "homeTeam": "Fiorentina",
@@ -515,9 +603,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4026,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4787
+          "winnerConfidence": 0.4087,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5236
         },
         {
           "homeTeam": "Genoa",
@@ -526,9 +614,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5085,
+          "winnerConfidence": 0.4998,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5429
+          "goalLineConfidence": 0.5435
         },
         {
           "homeTeam": "Torino",
@@ -537,9 +625,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6409,
+          "winnerConfidence": 0.5852,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5492
+          "goalLineConfidence": 0.5393
         },
         {
           "homeTeam": "AC Milan",
@@ -548,9 +636,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3795,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4724
+          "winnerConfidence": 0.3963,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5302
         },
         {
           "homeTeam": "Cagliari",
@@ -559,9 +647,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6123,
+          "winnerConfidence": 0.6133,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5002
+          "goalLineConfidence": 0.4937
         },
         {
           "homeTeam": "Lazio",
@@ -570,9 +658,119 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5283,
+          "winnerConfidence": 0.5144,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5358
+          "goalLineConfidence": 0.5522
+        },
+        {
+          "homeTeam": "Pisa",
+          "awayTeam": "Lecce",
+          "matchDate": "2026-05-01 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4546,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5407
+        },
+        {
+          "homeTeam": "Udinese",
+          "awayTeam": "Torino",
+          "matchDate": "2026-05-02 13:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "DRAW",
+          "winnerConfidence": 0.3424,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5893
+        },
+        {
+          "homeTeam": "Como",
+          "awayTeam": "Napoli",
+          "matchDate": "2026-05-02 16:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.386,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4951
+        },
+        {
+          "homeTeam": "Atalanta",
+          "awayTeam": "Genoa",
+          "matchDate": "2026-05-02 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6421,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5269
+        },
+        {
+          "homeTeam": "Bologna",
+          "awayTeam": "Cagliari",
+          "matchDate": "2026-05-03 10:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4913,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.503
+        },
+        {
+          "homeTeam": "Sassuolo",
+          "awayTeam": "AC Milan",
+          "matchDate": "2026-05-03 13:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5392,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5226
+        },
+        {
+          "homeTeam": "Juventus",
+          "awayTeam": "Hellas Verona",
+          "matchDate": "2026-05-03 16:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.7209,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5447
+        },
+        {
+          "homeTeam": "Inter",
+          "awayTeam": "Parma",
+          "matchDate": "2026-05-03 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.7796,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6307
+        },
+        {
+          "homeTeam": "Cremonese",
+          "awayTeam": "Lazio",
+          "matchDate": "2026-05-04 16:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.57,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5578
+        },
+        {
+          "homeTeam": "AS Roma",
+          "awayTeam": "Fiorentina",
+          "matchDate": "2026-05-04 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5032,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5356
         }
       ]
     },
@@ -586,10 +784,10 @@
           "matchDate": "2026-04-21 17:00 UTC",
           "round": "Regular Season - 33",
           "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.3894,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3824,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5643
+          "goalLineConfidence": 0.5714
         },
         {
           "homeTeam": "Mallorca",
@@ -598,9 +796,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3816,
+          "winnerConfidence": 0.3802,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5625
+          "goalLineConfidence": 0.5732
         },
         {
           "homeTeam": "Girona",
@@ -609,9 +807,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3819,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4972
+          "winnerConfidence": 0.3851,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5391
         },
         {
           "homeTeam": "Real Madrid",
@@ -620,9 +818,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7606,
+          "winnerConfidence": 0.7358,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5754
+          "goalLineConfidence": 0.5939
         },
         {
           "homeTeam": "Elche",
@@ -631,9 +829,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.539,
+          "winnerConfidence": 0.5496,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5855
+          "goalLineConfidence": 0.5636
         },
         {
           "homeTeam": "Real Sociedad",
@@ -642,9 +840,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4986,
+          "winnerConfidence": 0.4705,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5483
+          "goalLineConfidence": 0.5371
         },
         {
           "homeTeam": "Barcelona",
@@ -653,9 +851,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7315,
+          "winnerConfidence": 0.7311,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6435
+          "goalLineConfidence": 0.6497
         },
         {
           "homeTeam": "Levante",
@@ -664,9 +862,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3546,
+          "winnerConfidence": 0.348,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5611
+          "goalLineConfidence": 0.5767
         },
         {
           "homeTeam": "Rayo Vallecano",
@@ -675,9 +873,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4071,
+          "winnerConfidence": 0.4055,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5734
+          "goalLineConfidence": 0.5625
         },
         {
           "homeTeam": "Oviedo",
@@ -686,9 +884,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5618,
+          "winnerConfidence": 0.538,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5503
+          "goalLineConfidence": 0.5304
         },
         {
           "homeTeam": "Real Betis",
@@ -697,9 +895,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5988,
+          "winnerConfidence": 0.6228,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5096
+          "goalLineConfidence": 0.5227
         },
         {
           "homeTeam": "Alaves",
@@ -708,9 +906,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3962,
+          "winnerConfidence": 0.3986,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.616
+          "goalLineConfidence": 0.5949
         },
         {
           "homeTeam": "Getafe",
@@ -719,9 +917,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6431,
+          "winnerConfidence": 0.6193,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4716
+          "goalLineConfidence": 0.4982
         },
         {
           "homeTeam": "Valencia",
@@ -729,10 +927,10 @@
           "matchDate": "2026-04-25 16:30 UTC",
           "round": "Regular Season - 32",
           "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.3447,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3621,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5733
+          "goalLineConfidence": 0.5764
         },
         {
           "homeTeam": "Atletico Madrid",
@@ -741,9 +939,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7069,
+          "winnerConfidence": 0.6889,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5554
+          "goalLineConfidence": 0.5339
         },
         {
           "homeTeam": "Rayo Vallecano",
@@ -752,9 +950,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.448,
+          "winnerConfidence": 0.4434,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.563
+          "goalLineConfidence": 0.567
         },
         {
           "homeTeam": "Oviedo",
@@ -763,9 +961,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3418,
+          "winnerConfidence": 0.3723,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5837
+          "goalLineConfidence": 0.598
         },
         {
           "homeTeam": "Osasuna",
@@ -774,9 +972,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3938,
+          "winnerConfidence": 0.3812,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5811
+          "goalLineConfidence": 0.5718
         },
         {
           "homeTeam": "Villarreal",
@@ -785,9 +983,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6201,
+          "winnerConfidence": 0.6139,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5584
+          "goalLineConfidence": 0.5392
         },
         {
           "homeTeam": "Espanyol",
@@ -796,9 +994,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3931,
+          "winnerConfidence": 0.3982,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5839
+          "goalLineConfidence": 0.5766
         }
       ]
     }
@@ -809,26 +1007,15 @@
       "leagueName": "Premier League",
       "predictions": [
         {
-          "homeTeam": "Crystal Palace",
-          "awayTeam": "West Ham",
-          "matchDate": "2026-04-20 19:00 UTC",
-          "round": "Regular Season - 33",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.3958,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5537
-        },
-        {
           "homeTeam": "Brighton",
           "awayTeam": "Chelsea",
           "matchDate": "2026-04-21 19:00 UTC",
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3891,
+          "winnerConfidence": 0.3729,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4801
+          "goalLineConfidence": 0.4918
         },
         {
           "homeTeam": "Bournemouth",
@@ -837,9 +1024,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3972,
+          "winnerConfidence": 0.395,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.537
+          "goalLineConfidence": 0.5506
         },
         {
           "homeTeam": "Burnley",
@@ -848,9 +1035,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.7289,
+          "winnerConfidence": 0.7518,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5352
+          "goalLineConfidence": 0.5238
         },
         {
           "homeTeam": "Sunderland",
@@ -859,9 +1046,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4238,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5733
+          "winnerConfidence": 0.3838,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4851
         },
         {
           "homeTeam": "Fulham",
@@ -870,9 +1057,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3856,
+          "winnerConfidence": 0.3679,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5535
+          "goalLineConfidence": 0.5292
         },
         {
           "homeTeam": "Liverpool",
@@ -881,9 +1068,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.664,
+          "winnerConfidence": 0.6459,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5641
+          "goalLineConfidence": 0.4997
         },
         {
           "homeTeam": "West Ham",
@@ -892,9 +1079,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3892,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4734
+          "winnerConfidence": 0.3674,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5425
         },
         {
           "homeTeam": "Wolves",
@@ -903,9 +1090,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4724,
+          "winnerConfidence": 0.5272,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4898
+          "goalLineConfidence": 0.5229
         },
         {
           "homeTeam": "Arsenal",
@@ -914,9 +1101,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6609,
+          "winnerConfidence": 0.6606,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.566
+          "goalLineConfidence": 0.5716
         },
         {
           "homeTeam": "Manchester United",
@@ -925,9 +1112,119 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5184,
+          "winnerConfidence": 0.4922,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5431
+          "goalLineConfidence": 0.5181
+        },
+        {
+          "homeTeam": "Leeds",
+          "awayTeam": "Burnley",
+          "matchDate": "2026-05-01 19:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5235,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.6082
+        },
+        {
+          "homeTeam": "Brentford",
+          "awayTeam": "West Ham",
+          "matchDate": "2026-05-02 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5152,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.542
+        },
+        {
+          "homeTeam": "Newcastle",
+          "awayTeam": "Brighton",
+          "matchDate": "2026-05-02 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3965,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5574
+        },
+        {
+          "homeTeam": "Wolves",
+          "awayTeam": "Sunderland",
+          "matchDate": "2026-05-02 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4616,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5797
+        },
+        {
+          "homeTeam": "Arsenal",
+          "awayTeam": "Fulham",
+          "matchDate": "2026-05-02 16:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6625,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5515
+        },
+        {
+          "homeTeam": "Bournemouth",
+          "awayTeam": "Crystal Palace",
+          "matchDate": "2026-05-03 13:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.3632,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.575
+        },
+        {
+          "homeTeam": "Manchester United",
+          "awayTeam": "Liverpool",
+          "matchDate": "2026-05-03 14:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4057,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5284
+        },
+        {
+          "homeTeam": "Aston Villa",
+          "awayTeam": "Tottenham",
+          "matchDate": "2026-05-03 18:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4791,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4846
+        },
+        {
+          "homeTeam": "Chelsea",
+          "awayTeam": "Nottingham Forest",
+          "matchDate": "2026-05-04 14:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4341,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5799
+        },
+        {
+          "homeTeam": "Everton",
+          "awayTeam": "Manchester City",
+          "matchDate": "2026-05-04 19:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.6729,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5567
         }
       ]
     },
@@ -936,26 +1233,26 @@
       "leagueName": "Bundesliga",
       "predictions": [
         {
+          "homeTeam": "RB Leipzig",
+          "awayTeam": "Union Berlin",
+          "matchDate": "2026-04-24 18:30 UTC",
+          "round": "Regular Season - 31",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6599,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.575
+        },
+        {
           "homeTeam": "FC Augsburg",
           "awayTeam": "Eintracht Frankfurt",
           "matchDate": "2026-04-25 13:30 UTC",
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4322,
+          "winnerConfidence": 0.4111,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5354
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "SC Freiburg",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6465,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.612
+          "goalLineConfidence": 0.5378
         },
         {
           "homeTeam": "1. FC K\u00f6ln",
@@ -964,20 +1261,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6122,
+          "winnerConfidence": 0.5832,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5916
-        },
-        {
-          "homeTeam": "Hamburger SV",
-          "awayTeam": "1899 Hoffenheim",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4384,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5334
+          "goalLineConfidence": 0.5617
         },
         {
           "homeTeam": "1. FC Heidenheim",
@@ -985,10 +1271,10 @@
           "matchDate": "2026-04-25 13:30 UTC",
           "round": "Regular Season - 31",
           "status": "NS",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3411,
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.3603,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5671
+          "goalLineConfidence": 0.5388
         },
         {
           "homeTeam": "FSV Mainz 05",
@@ -997,31 +1283,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6231,
+          "winnerConfidence": 0.6172,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.7208
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Union Berlin",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6539,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5393
-        },
-        {
-          "homeTeam": "VfB Stuttgart",
-          "awayTeam": "Werder Bremen",
-          "matchDate": "2026-04-25 13:30 UTC",
-          "round": "Regular Season - 31",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.5821,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5795
+          "goalLineConfidence": 0.6646
         },
         {
           "homeTeam": "VfL Wolfsburg",
@@ -1030,20 +1294,42 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3972,
+          "winnerConfidence": 0.3984,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6252
+          "goalLineConfidence": 0.5898
         },
         {
-          "homeTeam": "Bayer Leverkusen",
-          "awayTeam": "RB Leipzig",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "1899 Hoffenheim",
+          "matchDate": "2026-04-25 16:30 UTC",
+          "round": "Regular Season - 31",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4734,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5409
+        },
+        {
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Werder Bremen",
+          "matchDate": "2026-04-26 13:30 UTC",
+          "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4289,
+          "winnerConfidence": 0.5626,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6207
+          "goalLineConfidence": 0.6014
+        },
+        {
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "SC Freiburg",
+          "matchDate": "2026-04-26 15:30 UTC",
+          "round": "Regular Season - 31",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6239,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5641
         },
         {
           "homeTeam": "Bayern M\u00fcnchen",
@@ -1052,20 +1338,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7772,
+          "winnerConfidence": 0.779,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6969
-        },
-        {
-          "homeTeam": "Borussia M\u00f6nchengladbach",
-          "awayTeam": "Borussia Dortmund",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6193,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6172
+          "goalLineConfidence": 0.775
         },
         {
           "homeTeam": "Eintracht Frankfurt",
@@ -1074,20 +1349,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5689,
+          "winnerConfidence": 0.5773,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5831
-        },
-        {
-          "homeTeam": "SC Freiburg",
-          "awayTeam": "VfL Wolfsburg",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.4529,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5305
+          "goalLineConfidence": 0.6063
         },
         {
           "homeTeam": "1899 Hoffenheim",
@@ -1096,20 +1360,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4165,
+          "winnerConfidence": 0.3736,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.7019
-        },
-        {
-          "homeTeam": "FC St. Pauli",
-          "awayTeam": "FSV Mainz 05",
-          "matchDate": "2026-05-02 13:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4301,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5451
+          "goalLineConfidence": 0.6802
         },
         {
           "homeTeam": "Union Berlin",
@@ -1117,10 +1370,10 @@
           "matchDate": "2026-05-02 13:30 UTC",
           "round": "Regular Season - 32",
           "status": "NS",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3508,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3465,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4832
+          "goalLineConfidence": 0.5078
         },
         {
           "homeTeam": "Werder Bremen",
@@ -1129,9 +1382,53 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3732,
+          "winnerConfidence": 0.3762,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5399
+          "goalLineConfidence": 0.554
+        },
+        {
+          "homeTeam": "Bayer Leverkusen",
+          "awayTeam": "RB Leipzig",
+          "matchDate": "2026-05-02 16:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4025,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6385
+        },
+        {
+          "homeTeam": "FC St. Pauli",
+          "awayTeam": "FSV Mainz 05",
+          "matchDate": "2026-05-03 13:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4087,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5635
+        },
+        {
+          "homeTeam": "Borussia M\u00f6nchengladbach",
+          "awayTeam": "Borussia Dortmund",
+          "matchDate": "2026-05-03 15:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5596,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5894
+        },
+        {
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "VfL Wolfsburg",
+          "matchDate": "2026-05-03 17:30 UTC",
+          "round": "Regular Season - 32",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4586,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5627
         }
       ]
     },
@@ -1146,9 +1443,9 @@
           "round": "Regular Season - 26",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7346,
+          "winnerConfidence": 0.6977,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6207
+          "goalLineConfidence": 0.5247
         },
         {
           "homeTeam": "Stade Brestois 29",
@@ -1157,9 +1454,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5024,
+          "winnerConfidence": 0.5012,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5049
+          "goalLineConfidence": 0.5131
         },
         {
           "homeTeam": "Lyon",
@@ -1168,9 +1465,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6267,
+          "winnerConfidence": 0.6178,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5491
+          "goalLineConfidence": 0.5217
         },
         {
           "homeTeam": "Angers",
@@ -1179,9 +1476,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.7264,
+          "winnerConfidence": 0.7128,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5183
+          "goalLineConfidence": 0.5658
         },
         {
           "homeTeam": "Toulouse",
@@ -1190,9 +1487,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4696,
+          "winnerConfidence": 0.4744,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4788
+          "goalLineConfidence": 0.5022
         },
         {
           "homeTeam": "Lorient",
@@ -1201,9 +1498,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4089,
+          "winnerConfidence": 0.3604,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5409
+          "goalLineConfidence": 0.5514
         },
         {
           "homeTeam": "Le Havre",
@@ -1212,9 +1509,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4097,
+          "winnerConfidence": 0.4337,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5797
+          "goalLineConfidence": 0.591
         },
         {
           "homeTeam": "Paris FC",
@@ -1223,9 +1520,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5491,
+          "winnerConfidence": 0.5022,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4956
+          "goalLineConfidence": 0.4919
         },
         {
           "homeTeam": "Rennes",
@@ -1234,9 +1531,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6303,
+          "winnerConfidence": 0.611,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5363
+          "goalLineConfidence": 0.5171
         },
         {
           "homeTeam": "Marseille",
@@ -1245,9 +1542,9 @@
           "round": "Regular Season - 31",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.628,
+          "winnerConfidence": 0.557,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5219
+          "goalLineConfidence": 0.5345
         }
       ]
     },
@@ -1256,26 +1553,15 @@
       "leagueName": "Serie A",
       "predictions": [
         {
-          "homeTeam": "Lecce",
-          "awayTeam": "Fiorentina",
-          "matchDate": "2026-04-20 18:45 UTC",
-          "round": "Regular Season - 33",
-          "status": "NS",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4909,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5639
-        },
-        {
           "homeTeam": "Napoli",
           "awayTeam": "Cremonese",
           "matchDate": "2026-04-24 18:45 UTC",
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7079,
+          "winnerConfidence": 0.6839,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5327
+          "goalLineConfidence": 0.5081
         },
         {
           "homeTeam": "Parma",
@@ -1284,9 +1570,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4679,
+          "winnerConfidence": 0.4637,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5362
+          "goalLineConfidence": 0.5621
         },
         {
           "homeTeam": "Bologna",
@@ -1295,9 +1581,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3886,
+          "winnerConfidence": 0.4366,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5319
+          "goalLineConfidence": 0.5554
         },
         {
           "homeTeam": "Hellas Verona",
@@ -1305,10 +1591,10 @@
           "matchDate": "2026-04-25 18:45 UTC",
           "round": "Regular Season - 34",
           "status": "NS",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3364,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3563,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5879
+          "goalLineConfidence": 0.6044
         },
         {
           "homeTeam": "Fiorentina",
@@ -1317,9 +1603,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4026,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4787
+          "winnerConfidence": 0.4087,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5236
         },
         {
           "homeTeam": "Genoa",
@@ -1328,9 +1614,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5085,
+          "winnerConfidence": 0.4998,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5429
+          "goalLineConfidence": 0.5435
         },
         {
           "homeTeam": "Torino",
@@ -1339,9 +1625,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6409,
+          "winnerConfidence": 0.5852,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5492
+          "goalLineConfidence": 0.5393
         },
         {
           "homeTeam": "AC Milan",
@@ -1350,9 +1636,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3795,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4724
+          "winnerConfidence": 0.3963,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5302
         },
         {
           "homeTeam": "Cagliari",
@@ -1361,9 +1647,9 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6123,
+          "winnerConfidence": 0.6133,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5002
+          "goalLineConfidence": 0.4937
         },
         {
           "homeTeam": "Lazio",
@@ -1372,9 +1658,119 @@
           "round": "Regular Season - 34",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5283,
+          "winnerConfidence": 0.5144,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5358
+          "goalLineConfidence": 0.5522
+        },
+        {
+          "homeTeam": "Pisa",
+          "awayTeam": "Lecce",
+          "matchDate": "2026-05-01 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4546,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5407
+        },
+        {
+          "homeTeam": "Udinese",
+          "awayTeam": "Torino",
+          "matchDate": "2026-05-02 13:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "DRAW",
+          "winnerConfidence": 0.3424,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5893
+        },
+        {
+          "homeTeam": "Como",
+          "awayTeam": "Napoli",
+          "matchDate": "2026-05-02 16:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.386,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4951
+        },
+        {
+          "homeTeam": "Atalanta",
+          "awayTeam": "Genoa",
+          "matchDate": "2026-05-02 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.6421,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5269
+        },
+        {
+          "homeTeam": "Bologna",
+          "awayTeam": "Cagliari",
+          "matchDate": "2026-05-03 10:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4913,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.503
+        },
+        {
+          "homeTeam": "Sassuolo",
+          "awayTeam": "AC Milan",
+          "matchDate": "2026-05-03 13:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5392,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5226
+        },
+        {
+          "homeTeam": "Juventus",
+          "awayTeam": "Hellas Verona",
+          "matchDate": "2026-05-03 16:00 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.7209,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5447
+        },
+        {
+          "homeTeam": "Inter",
+          "awayTeam": "Parma",
+          "matchDate": "2026-05-03 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.7796,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6307
+        },
+        {
+          "homeTeam": "Cremonese",
+          "awayTeam": "Lazio",
+          "matchDate": "2026-05-04 16:30 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.57,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5578
+        },
+        {
+          "homeTeam": "AS Roma",
+          "awayTeam": "Fiorentina",
+          "matchDate": "2026-05-04 18:45 UTC",
+          "round": "Regular Season - 35",
+          "status": "NS",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5032,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5356
         }
       ]
     },
@@ -1388,10 +1784,10 @@
           "matchDate": "2026-04-21 17:00 UTC",
           "round": "Regular Season - 33",
           "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.3894,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3824,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5643
+          "goalLineConfidence": 0.5714
         },
         {
           "homeTeam": "Mallorca",
@@ -1400,9 +1796,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3816,
+          "winnerConfidence": 0.3802,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5625
+          "goalLineConfidence": 0.5732
         },
         {
           "homeTeam": "Girona",
@@ -1411,9 +1807,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3819,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4972
+          "winnerConfidence": 0.3851,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5391
         },
         {
           "homeTeam": "Real Madrid",
@@ -1422,9 +1818,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7606,
+          "winnerConfidence": 0.7358,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5754
+          "goalLineConfidence": 0.5939
         },
         {
           "homeTeam": "Elche",
@@ -1433,9 +1829,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.539,
+          "winnerConfidence": 0.5496,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5855
+          "goalLineConfidence": 0.5636
         },
         {
           "homeTeam": "Real Sociedad",
@@ -1444,9 +1840,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4986,
+          "winnerConfidence": 0.4705,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5483
+          "goalLineConfidence": 0.5371
         },
         {
           "homeTeam": "Barcelona",
@@ -1455,9 +1851,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7315,
+          "winnerConfidence": 0.7311,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6435
+          "goalLineConfidence": 0.6497
         },
         {
           "homeTeam": "Levante",
@@ -1466,9 +1862,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.3546,
+          "winnerConfidence": 0.348,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5611
+          "goalLineConfidence": 0.5767
         },
         {
           "homeTeam": "Rayo Vallecano",
@@ -1477,9 +1873,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4071,
+          "winnerConfidence": 0.4055,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5734
+          "goalLineConfidence": 0.5625
         },
         {
           "homeTeam": "Oviedo",
@@ -1488,9 +1884,9 @@
           "round": "Regular Season - 33",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5618,
+          "winnerConfidence": 0.538,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5503
+          "goalLineConfidence": 0.5304
         },
         {
           "homeTeam": "Real Betis",
@@ -1499,9 +1895,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5988,
+          "winnerConfidence": 0.6228,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5096
+          "goalLineConfidence": 0.5227
         },
         {
           "homeTeam": "Alaves",
@@ -1510,9 +1906,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3962,
+          "winnerConfidence": 0.3986,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.616
+          "goalLineConfidence": 0.5949
         },
         {
           "homeTeam": "Getafe",
@@ -1521,9 +1917,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6431,
+          "winnerConfidence": 0.6193,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4716
+          "goalLineConfidence": 0.4982
         },
         {
           "homeTeam": "Valencia",
@@ -1531,10 +1927,10 @@
           "matchDate": "2026-04-25 16:30 UTC",
           "round": "Regular Season - 32",
           "status": "NS",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.3447,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3621,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5733
+          "goalLineConfidence": 0.5764
         },
         {
           "homeTeam": "Atletico Madrid",
@@ -1543,9 +1939,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7069,
+          "winnerConfidence": 0.6889,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5554
+          "goalLineConfidence": 0.5339
         },
         {
           "homeTeam": "Rayo Vallecano",
@@ -1554,9 +1950,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.448,
+          "winnerConfidence": 0.4434,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.563
+          "goalLineConfidence": 0.567
         },
         {
           "homeTeam": "Oviedo",
@@ -1565,9 +1961,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3418,
+          "winnerConfidence": 0.3723,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5837
+          "goalLineConfidence": 0.598
         },
         {
           "homeTeam": "Osasuna",
@@ -1576,9 +1972,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3938,
+          "winnerConfidence": 0.3812,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5811
+          "goalLineConfidence": 0.5718
         },
         {
           "homeTeam": "Villarreal",
@@ -1587,9 +1983,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.6201,
+          "winnerConfidence": 0.6139,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5584
+          "goalLineConfidence": 0.5392
         },
         {
           "homeTeam": "Espanyol",
@@ -1598,9 +1994,9 @@
           "round": "Regular Season - 32",
           "status": "NS",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3931,
+          "winnerConfidence": 0.3982,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5839
+          "goalLineConfidence": 0.5766
         }
       ]
     }
@@ -1611,49 +2007,66 @@
       "leagueName": "Premier League",
       "predictions": [
         {
-          "homeTeam": "West Ham",
-          "awayTeam": "Wolves",
-          "matchDate": "2026-04-10 19:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Brentford",
+          "awayTeam": "Fulham",
+          "matchDate": "2026-04-18 11:30 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4612,
+          "winnerConfidence": 0.3947,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5094,
+          "goalLineConfidence": 0.498,
+          "actualWinner": "DRAW",
+          "actualScore": "0:0",
+          "actualTotalGoals": 0,
+          "actualGoalLine": "Under 2.5",
+          "winnerHit": false,
+          "goalLineHit": false
+        },
+        {
+          "homeTeam": "Leeds",
+          "awayTeam": "Wolves",
+          "matchDate": "2026-04-18 14:00 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4875,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5272,
           "actualWinner": "HOME",
-          "actualScore": "4:0",
-          "actualTotalGoals": 4,
+          "actualScore": "3:0",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": false
+        },
+        {
+          "homeTeam": "Newcastle",
+          "awayTeam": "Bournemouth",
+          "matchDate": "2026-04-18 14:00 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4183,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6064,
+          "actualWinner": "AWAY",
+          "actualScore": "1:2",
+          "actualTotalGoals": 3,
           "actualGoalLine": "Over 2.5",
           "winnerHit": true,
           "goalLineHit": true
         },
         {
-          "homeTeam": "Arsenal",
-          "awayTeam": "Bournemouth",
-          "matchDate": "2026-04-11 11:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.5924,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6218,
-          "actualWinner": "AWAY",
-          "actualScore": "1:2",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": false,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Brentford",
-          "awayTeam": "Everton",
-          "matchDate": "2026-04-11 14:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Tottenham",
+          "awayTeam": "Brighton",
+          "matchDate": "2026-04-18 16:30 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3906,
+          "winnerConfidence": 0.4572,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5294,
+          "goalLineConfidence": 0.5924,
           "actualWinner": "DRAW",
           "actualScore": "2:2",
           "actualTotalGoals": 4,
@@ -1662,49 +2075,83 @@
           "goalLineHit": true
         },
         {
-          "homeTeam": "Burnley",
-          "awayTeam": "Brighton",
-          "matchDate": "2026-04-11 14:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Chelsea",
+          "awayTeam": "Manchester United",
+          "matchDate": "2026-04-18 19:00 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5737,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5855,
-          "actualWinner": "AWAY",
-          "actualScore": "0:2",
-          "actualTotalGoals": 2,
-          "actualGoalLine": "Under 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Liverpool",
-          "awayTeam": "Fulham",
-          "matchDate": "2026-04-11 16:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6809,
+          "winnerConfidence": 0.4691,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5043,
-          "actualWinner": "HOME",
-          "actualScore": "2:0",
-          "actualTotalGoals": 2,
+          "goalLineConfidence": 0.5025,
+          "actualWinner": "AWAY",
+          "actualScore": "0:1",
+          "actualTotalGoals": 1,
           "actualGoalLine": "Under 2.5",
           "winnerHit": true,
           "goalLineHit": false
         },
         {
-          "homeTeam": "Crystal Palace",
-          "awayTeam": "Newcastle",
-          "matchDate": "2026-04-12 13:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Aston Villa",
+          "awayTeam": "Sunderland",
+          "matchDate": "2026-04-19 13:00 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3816,
+          "winnerConfidence": 0.5382,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4807,
+          "goalLineConfidence": 0.5233,
+          "actualWinner": "HOME",
+          "actualScore": "4:3",
+          "actualTotalGoals": 7,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Everton",
+          "awayTeam": "Liverpool",
+          "matchDate": "2026-04-19 13:00 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5925,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5738,
+          "actualWinner": "AWAY",
+          "actualScore": "1:2",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Nottingham Forest",
+          "awayTeam": "Burnley",
+          "matchDate": "2026-04-19 13:00 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.499,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.561,
+          "actualWinner": "HOME",
+          "actualScore": "4:1",
+          "actualTotalGoals": 5,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": false
+        },
+        {
+          "homeTeam": "Manchester City",
+          "awayTeam": "Arsenal",
+          "matchDate": "2026-04-19 15:30 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5196,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6587,
           "actualWinner": "HOME",
           "actualScore": "2:1",
           "actualTotalGoals": 3,
@@ -1713,71 +2160,20 @@
           "goalLineHit": true
         },
         {
-          "homeTeam": "Nottingham Forest",
-          "awayTeam": "Aston Villa",
-          "matchDate": "2026-04-12 13:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Crystal Palace",
+          "awayTeam": "West Ham",
+          "matchDate": "2026-04-20 19:00 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3953,
+          "winnerConfidence": 0.3714,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5596,
+          "goalLineConfidence": 0.5933,
           "actualWinner": "DRAW",
-          "actualScore": "1:1",
-          "actualTotalGoals": 2,
+          "actualScore": "0:0",
+          "actualTotalGoals": 0,
           "actualGoalLine": "Under 2.5",
           "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Sunderland",
-          "awayTeam": "Tottenham",
-          "matchDate": "2026-04-12 13:00 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.4701,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5587,
-          "actualWinner": "HOME",
-          "actualScore": "1:0",
-          "actualTotalGoals": 1,
-          "actualGoalLine": "Under 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Chelsea",
-          "awayTeam": "Manchester City",
-          "matchDate": "2026-04-12 15:30 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.6295,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5427,
-          "actualWinner": "AWAY",
-          "actualScore": "0:3",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Manchester United",
-          "awayTeam": "Leeds",
-          "matchDate": "2026-04-13 19:00 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.517,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.647,
-          "actualWinner": "AWAY",
-          "actualScore": "1:2",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": false,
           "goalLineHit": true
         }
       ]
@@ -1787,157 +2183,157 @@
       "leagueName": "Bundesliga",
       "predictions": [
         {
-          "homeTeam": "FC Augsburg",
-          "awayTeam": "1899 Hoffenheim",
-          "matchDate": "2026-04-10 18:30 UTC",
-          "round": "Regular Season - 29",
+          "homeTeam": "FC St. Pauli",
+          "awayTeam": "1. FC K\u00f6ln",
+          "matchDate": "2026-04-17 18:30 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3612,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5636,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.3821,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5742,
           "actualWinner": "DRAW",
-          "actualScore": "2:2",
-          "actualTotalGoals": 4,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
+          "actualScore": "1:1",
+          "actualTotalGoals": 2,
+          "actualGoalLine": "Under 2.5",
+          "winnerHit": false,
           "goalLineHit": true
         },
         {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "Bayer Leverkusen",
-          "matchDate": "2026-04-11 13:30 UTC",
-          "round": "Regular Season - 29",
+          "homeTeam": "Bayer Leverkusen",
+          "awayTeam": "FC Augsburg",
+          "matchDate": "2026-04-18 13:30 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4092,
+          "winnerConfidence": 0.621,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5508,
+          "goalLineConfidence": 0.6469,
           "actualWinner": "AWAY",
-          "actualScore": "0:1",
-          "actualTotalGoals": 1,
-          "actualGoalLine": "Under 2.5",
+          "actualScore": "1:2",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
           "winnerHit": false,
-          "goalLineHit": false
+          "goalLineHit": true
         },
         {
-          "homeTeam": "1. FC Heidenheim",
-          "awayTeam": "Union Berlin",
-          "matchDate": "2026-04-11 13:30 UTC",
-          "round": "Regular Season - 29",
+          "homeTeam": "1899 Hoffenheim",
+          "awayTeam": "Borussia Dortmund",
+          "matchDate": "2026-04-18 13:30 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4038,
+          "winnerConfidence": 0.4781,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5326,
+          "goalLineConfidence": 0.6627,
+          "actualWinner": "HOME",
+          "actualScore": "2:1",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": false,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Union Berlin",
+          "awayTeam": "VfL Wolfsburg",
+          "matchDate": "2026-04-18 13:30 UTC",
+          "round": "Regular Season - 30",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.3805,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5499,
+          "actualWinner": "AWAY",
+          "actualScore": "1:2",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": false,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Hamburger SV",
+          "matchDate": "2026-04-18 13:30 UTC",
+          "round": "Regular Season - 30",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.4244,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5455,
           "actualWinner": "HOME",
           "actualScore": "3:1",
           "actualTotalGoals": 4,
           "actualGoalLine": "Over 2.5",
-          "winnerHit": false,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Borussia M\u00f6nchengladbach",
-          "matchDate": "2026-04-11 13:30 UTC",
-          "round": "Regular Season - 29",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6844,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5236,
-          "actualWinner": "HOME",
-          "actualScore": "1:0",
-          "actualTotalGoals": 1,
-          "actualGoalLine": "Under 2.5",
           "winnerHit": true,
           "goalLineHit": false
         },
         {
-          "homeTeam": "VfL Wolfsburg",
-          "awayTeam": "Eintracht Frankfurt",
-          "matchDate": "2026-04-11 13:30 UTC",
-          "round": "Regular Season - 29",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "RB Leipzig",
+          "matchDate": "2026-04-18 16:30 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5495,
+          "winnerConfidence": 0.5453,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6521,
+          "goalLineConfidence": 0.6672,
           "actualWinner": "AWAY",
-          "actualScore": "1:2",
+          "actualScore": "1:3",
+          "actualTotalGoals": 4,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "1. FC Heidenheim",
+          "matchDate": "2026-04-19 13:30 UTC",
+          "round": "Regular Season - 30",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5804,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6112,
+          "actualWinner": "HOME",
+          "actualScore": "2:1",
           "actualTotalGoals": 3,
           "actualGoalLine": "Over 2.5",
           "winnerHit": true,
           "goalLineHit": true
         },
         {
-          "homeTeam": "FC St. Pauli",
-          "awayTeam": "Bayern M\u00fcnchen",
-          "matchDate": "2026-04-11 16:30 UTC",
-          "round": "Regular Season - 29",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.759,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.709,
-          "actualWinner": "AWAY",
-          "actualScore": "0:5",
-          "actualTotalGoals": 5,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "1. FC K\u00f6ln",
-          "awayTeam": "Werder Bremen",
-          "matchDate": "2026-04-12 13:30 UTC",
-          "round": "Regular Season - 29",
+          "homeTeam": "Bayern M\u00fcnchen",
+          "awayTeam": "VfB Stuttgart",
+          "matchDate": "2026-04-19 15:30 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3785,
+          "winnerConfidence": 0.7048,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5287,
+          "goalLineConfidence": 0.7795,
           "actualWinner": "HOME",
-          "actualScore": "3:1",
-          "actualTotalGoals": 4,
+          "actualScore": "4:2",
+          "actualTotalGoals": 6,
           "actualGoalLine": "Over 2.5",
           "winnerHit": true,
           "goalLineHit": true
         },
         {
-          "homeTeam": "VfB Stuttgart",
-          "awayTeam": "Hamburger SV",
-          "matchDate": "2026-04-12 15:30 UTC",
-          "round": "Regular Season - 29",
+          "homeTeam": "Borussia M\u00f6nchengladbach",
+          "awayTeam": "FSV Mainz 05",
+          "matchDate": "2026-04-19 17:30 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.6274,
+          "predictedWinner": "DRAW",
+          "winnerConfidence": 0.3753,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5951,
-          "actualWinner": "HOME",
-          "actualScore": "4:0",
-          "actualTotalGoals": 4,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "FSV Mainz 05",
-          "awayTeam": "SC Freiburg",
-          "matchDate": "2026-04-12 17:30 UTC",
-          "round": "Regular Season - 29",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.382,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.586,
-          "actualWinner": "AWAY",
-          "actualScore": "0:1",
-          "actualTotalGoals": 1,
+          "goalLineConfidence": 0.5211,
+          "actualWinner": "DRAW",
+          "actualScore": "1:1",
+          "actualTotalGoals": 2,
           "actualGoalLine": "Under 2.5",
           "winnerHit": true,
-          "goalLineHit": true
+          "goalLineHit": false
         }
       ]
     },
@@ -1946,83 +2342,66 @@
       "leagueName": "Ligue 1",
       "predictions": [
         {
-          "homeTeam": "Paris Saint Germain",
+          "homeTeam": "Lens",
           "awayTeam": "Toulouse",
-          "matchDate": "2026-04-03 18:45 UTC",
-          "round": "Regular Season - 28",
+          "matchDate": "2026-04-17 18:45 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7625,
+          "winnerConfidence": 0.6742,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.6923,
+          "goalLineConfidence": 0.5601,
           "actualWinner": "HOME",
-          "actualScore": "3:1",
-          "actualTotalGoals": 4,
+          "actualScore": "3:2",
+          "actualTotalGoals": 5,
           "actualGoalLine": "Over 2.5",
           "winnerHit": true,
           "goalLineHit": true
         },
         {
-          "homeTeam": "Strasbourg",
-          "awayTeam": "Nice",
-          "matchDate": "2026-04-04 15:00 UTC",
-          "round": "Regular Season - 28",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.4847,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4837,
-          "actualWinner": "HOME",
-          "actualScore": "3:1",
-          "actualTotalGoals": 4,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Stade Brestois 29",
-          "awayTeam": "Rennes",
-          "matchDate": "2026-04-04 17:00 UTC",
-          "round": "Regular Season - 28",
+          "homeTeam": "Lorient",
+          "awayTeam": "Marseille",
+          "matchDate": "2026-04-18 15:00 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4975,
+          "winnerConfidence": 0.472,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5143,
-          "actualWinner": "AWAY",
-          "actualScore": "3:4",
-          "actualTotalGoals": 7,
-          "actualGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4831,
+          "actualWinner": "HOME",
+          "actualScore": "2:0",
+          "actualTotalGoals": 2,
+          "actualGoalLine": "Under 2.5",
+          "winnerHit": false,
+          "goalLineHit": false
+        },
+        {
+          "homeTeam": "Angers",
+          "awayTeam": "Le Havre",
+          "matchDate": "2026-04-18 17:00 UTC",
+          "round": "Regular Season - 30",
+          "status": "FT",
+          "predictedWinner": "DRAW",
+          "winnerConfidence": 0.3874,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.593,
+          "actualWinner": "DRAW",
+          "actualScore": "1:1",
+          "actualTotalGoals": 2,
+          "actualGoalLine": "Under 2.5",
           "winnerHit": true,
           "goalLineHit": true
         },
         {
           "homeTeam": "Lille",
-          "awayTeam": "Lens",
-          "matchDate": "2026-04-04 19:05 UTC",
-          "round": "Regular Season - 28",
+          "awayTeam": "Nice",
+          "matchDate": "2026-04-18 19:05 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4238,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5386,
-          "actualWinner": "HOME",
-          "actualScore": "3:0",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Angers",
-          "awayTeam": "Lyon",
-          "matchDate": "2026-04-05 13:00 UTC",
-          "round": "Regular Season - 28",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4809,
+          "winnerConfidence": 0.4772,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5427,
+          "goalLineConfidence": 0.5848,
           "actualWinner": "DRAW",
           "actualScore": "0:0",
           "actualTotalGoals": 0,
@@ -2031,71 +2410,88 @@
           "goalLineHit": true
         },
         {
-          "homeTeam": "Le Havre",
+          "homeTeam": "Monaco",
           "awayTeam": "Auxerre",
-          "matchDate": "2026-04-05 15:15 UTC",
-          "round": "Regular Season - 28",
+          "matchDate": "2026-04-19 13:00 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.4312,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5858,
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.546,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6115,
           "actualWinner": "DRAW",
-          "actualScore": "1:1",
-          "actualTotalGoals": 2,
-          "actualGoalLine": "Under 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Lorient",
-          "awayTeam": "Paris FC",
-          "matchDate": "2026-04-05 15:15 UTC",
-          "round": "Regular Season - 28",
-          "status": "FT",
-          "predictedWinner": "DRAW",
-          "winnerConfidence": 0.4093,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.597,
-          "actualWinner": "DRAW",
-          "actualScore": "1:1",
-          "actualTotalGoals": 2,
-          "actualGoalLine": "Under 2.5",
-          "winnerHit": true,
+          "actualScore": "2:2",
+          "actualTotalGoals": 4,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": false,
           "goalLineHit": true
         },
         {
           "homeTeam": "Metz",
-          "awayTeam": "Nantes",
-          "matchDate": "2026-04-05 15:15 UTC",
-          "round": "Regular Season - 28",
+          "awayTeam": "Paris FC",
+          "matchDate": "2026-04-19 15:15 UTC",
+          "round": "Regular Season - 30",
+          "status": "FT",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5653,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5639,
+          "actualWinner": "AWAY",
+          "actualScore": "1:3",
+          "actualTotalGoals": 4,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": false
+        },
+        {
+          "homeTeam": "Nantes",
+          "awayTeam": "Stade Brestois 29",
+          "matchDate": "2026-04-19 15:15 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.3972,
+          "winnerConfidence": 0.384,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.6036,
+          "goalLineConfidence": 0.5646,
           "actualWinner": "DRAW",
-          "actualScore": "0:0",
-          "actualTotalGoals": 0,
+          "actualScore": "1:1",
+          "actualTotalGoals": 2,
           "actualGoalLine": "Under 2.5",
           "winnerHit": true,
           "goalLineHit": true
         },
         {
-          "homeTeam": "Monaco",
-          "awayTeam": "Marseille",
-          "matchDate": "2026-04-05 18:45 UTC",
-          "round": "Regular Season - 28",
+          "homeTeam": "Strasbourg",
+          "awayTeam": "Rennes",
+          "matchDate": "2026-04-19 15:15 UTC",
+          "round": "Regular Season - 30",
           "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.5463,
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4353,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5465,
-          "actualWinner": "HOME",
-          "actualScore": "2:1",
+          "goalLineConfidence": 0.553,
+          "actualWinner": "AWAY",
+          "actualScore": "0:3",
           "actualTotalGoals": 3,
           "actualGoalLine": "Over 2.5",
           "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Paris Saint Germain",
+          "awayTeam": "Lyon",
+          "matchDate": "2026-04-19 18:45 UTC",
+          "round": "Regular Season - 30",
+          "status": "FT",
+          "predictedWinner": "HOME",
+          "winnerConfidence": 0.5403,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.6996,
+          "actualWinner": "AWAY",
+          "actualScore": "1:2",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": false,
           "goalLineHit": true
         }
       ]
@@ -2105,15 +2501,32 @@
       "leagueName": "Serie A",
       "predictions": [
         {
-          "homeTeam": "AS Roma",
-          "awayTeam": "Pisa",
-          "matchDate": "2026-04-10 18:45 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Sassuolo",
+          "awayTeam": "Como",
+          "matchDate": "2026-04-17 16:30 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.4665,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5203,
+          "actualWinner": "HOME",
+          "actualScore": "2:1",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": false,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Inter",
+          "awayTeam": "Cagliari",
+          "matchDate": "2026-04-17 18:45 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.7194,
+          "winnerConfidence": 0.8289,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.681,
+          "goalLineConfidence": 0.6608,
           "actualWinner": "HOME",
           "actualScore": "3:0",
           "actualTotalGoals": 3,
@@ -2122,117 +2535,117 @@
           "goalLineHit": true
         },
         {
-          "homeTeam": "Cagliari",
-          "awayTeam": "Cremonese",
-          "matchDate": "2026-04-11 13:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Udinese",
+          "awayTeam": "Parma",
+          "matchDate": "2026-04-18 13:00 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.422,
+          "winnerConfidence": 0.3839,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.596,
-          "actualWinner": "HOME",
-          "actualScore": "1:0",
-          "actualTotalGoals": 1,
-          "actualGoalLine": "Under 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Torino",
-          "awayTeam": "Hellas Verona",
-          "matchDate": "2026-04-11 13:00 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.5157,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5053,
-          "actualWinner": "HOME",
-          "actualScore": "2:1",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "AC Milan",
-          "awayTeam": "Udinese",
-          "matchDate": "2026-04-11 16:00 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "HOME",
-          "winnerConfidence": 0.5931,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4805,
-          "actualWinner": "AWAY",
-          "actualScore": "0:3",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": false,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Atalanta",
-          "awayTeam": "Juventus",
-          "matchDate": "2026-04-11 18:45 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4476,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5357,
+          "goalLineConfidence": 0.629,
           "actualWinner": "AWAY",
           "actualScore": "0:1",
           "actualTotalGoals": 1,
           "actualGoalLine": "Under 2.5",
-          "winnerHit": true,
+          "winnerHit": false,
           "goalLineHit": true
         },
         {
-          "homeTeam": "Genoa",
-          "awayTeam": "Sassuolo",
-          "matchDate": "2026-04-12 10:30 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Napoli",
+          "awayTeam": "Lazio",
+          "matchDate": "2026-04-18 16:00 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3595,
+          "winnerConfidence": 0.4951,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5481,
-          "actualWinner": "HOME",
-          "actualScore": "2:1",
-          "actualTotalGoals": 3,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": false
-        },
-        {
-          "homeTeam": "Parma",
-          "awayTeam": "Napoli",
-          "matchDate": "2026-04-12 13:00 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5661,
-          "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5747,
-          "actualWinner": "DRAW",
-          "actualScore": "1:1",
+          "goalLineConfidence": 0.5658,
+          "actualWinner": "AWAY",
+          "actualScore": "0:2",
           "actualTotalGoals": 2,
           "actualGoalLine": "Under 2.5",
           "winnerHit": false,
           "goalLineHit": true
         },
         {
-          "homeTeam": "Bologna",
-          "awayTeam": "Lecce",
-          "matchDate": "2026-04-12 16:00 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "AS Roma",
+          "awayTeam": "Atalanta",
+          "matchDate": "2026-04-18 18:45 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "DRAW",
+          "winnerConfidence": 0.4151,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5847,
+          "actualWinner": "DRAW",
+          "actualScore": "1:1",
+          "actualTotalGoals": 2,
+          "actualGoalLine": "Under 2.5",
+          "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Cremonese",
+          "awayTeam": "Torino",
+          "matchDate": "2026-04-19 10:30 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "DRAW",
+          "winnerConfidence": 0.4005,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5991,
+          "actualWinner": "DRAW",
+          "actualScore": "0:0",
+          "actualTotalGoals": 0,
+          "actualGoalLine": "Under 2.5",
+          "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Hellas Verona",
+          "awayTeam": "AC Milan",
+          "matchDate": "2026-04-19 13:00 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.6368,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.4921,
+          "actualWinner": "AWAY",
+          "actualScore": "0:1",
+          "actualTotalGoals": 1,
+          "actualGoalLine": "Under 2.5",
+          "winnerHit": true,
+          "goalLineHit": false
+        },
+        {
+          "homeTeam": "Pisa",
+          "awayTeam": "Genoa",
+          "matchDate": "2026-04-19 16:00 UTC",
+          "round": "Regular Season - 33",
+          "status": "FT",
+          "predictedWinner": "AWAY",
+          "winnerConfidence": 0.5588,
+          "predictedGoalLine": "Over 2.5",
+          "goalLineConfidence": 0.5044,
+          "actualWinner": "AWAY",
+          "actualScore": "1:2",
+          "actualTotalGoals": 3,
+          "actualGoalLine": "Over 2.5",
+          "winnerHit": true,
+          "goalLineHit": true
+        },
+        {
+          "homeTeam": "Juventus",
+          "awayTeam": "Bologna",
+          "matchDate": "2026-04-19 18:45 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5565,
+          "winnerConfidence": 0.6225,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.562,
+          "goalLineConfidence": 0.5918,
           "actualWinner": "HOME",
           "actualScore": "2:0",
           "actualTotalGoals": 2,
@@ -2241,35 +2654,18 @@
           "goalLineHit": true
         },
         {
-          "homeTeam": "Como",
-          "awayTeam": "Inter",
-          "matchDate": "2026-04-12 18:45 UTC",
-          "round": "Regular Season - 32",
+          "homeTeam": "Lecce",
+          "awayTeam": "Fiorentina",
+          "matchDate": "2026-04-20 18:45 UTC",
+          "round": "Regular Season - 33",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5422,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5119,
-          "actualWinner": "AWAY",
-          "actualScore": "3:4",
-          "actualTotalGoals": 7,
-          "actualGoalLine": "Over 2.5",
-          "winnerHit": true,
-          "goalLineHit": true
-        },
-        {
-          "homeTeam": "Fiorentina",
-          "awayTeam": "Lazio",
-          "matchDate": "2026-04-13 18:45 UTC",
-          "round": "Regular Season - 32",
-          "status": "FT",
-          "predictedWinner": "AWAY",
-          "winnerConfidence": 0.382,
+          "winnerConfidence": 0.3998,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5561,
-          "actualWinner": "HOME",
-          "actualScore": "1:0",
-          "actualTotalGoals": 1,
+          "goalLineConfidence": 0.6076,
+          "actualWinner": "DRAW",
+          "actualScore": "1:1",
+          "actualTotalGoals": 2,
           "actualGoalLine": "Under 2.5",
           "winnerHit": false,
           "goalLineHit": true
@@ -2287,15 +2683,15 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.5944,
-          "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4821,
+          "winnerConfidence": 0.6076,
+          "predictedGoalLine": "Under 2.5",
+          "goalLineConfidence": 0.5336,
           "actualWinner": "DRAW",
           "actualScore": "1:1",
           "actualTotalGoals": 2,
           "actualGoalLine": "Under 2.5",
           "winnerHit": false,
-          "goalLineHit": false
+          "goalLineHit": true
         },
         {
           "homeTeam": "Real Sociedad",
@@ -2304,9 +2700,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4748,
+          "winnerConfidence": 0.4809,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5333,
+          "goalLineConfidence": 0.5126,
           "actualWinner": "DRAW",
           "actualScore": "3:3",
           "actualTotalGoals": 6,
@@ -2321,9 +2717,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3721,
+          "winnerConfidence": 0.3628,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.6212,
+          "goalLineConfidence": 0.6266,
           "actualWinner": "HOME",
           "actualScore": "1:0",
           "actualTotalGoals": 1,
@@ -2338,9 +2734,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.8077,
+          "winnerConfidence": 0.8039,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.68,
+          "goalLineConfidence": 0.7007,
           "actualWinner": "HOME",
           "actualScore": "4:1",
           "actualTotalGoals": 5,
@@ -2355,9 +2751,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.4508,
+          "winnerConfidence": 0.4519,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.4931,
+          "goalLineConfidence": 0.4801,
           "actualWinner": "HOME",
           "actualScore": "2:1",
           "actualTotalGoals": 3,
@@ -2372,9 +2768,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "DRAW",
-          "winnerConfidence": 0.344,
+          "winnerConfidence": 0.3652,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5653,
+          "goalLineConfidence": 0.5703,
           "actualWinner": "DRAW",
           "actualScore": "1:1",
           "actualTotalGoals": 2,
@@ -2389,9 +2785,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.3867,
+          "winnerConfidence": 0.3827,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.5982,
+          "goalLineConfidence": 0.6062,
           "actualWinner": "HOME",
           "actualScore": "3:0",
           "actualTotalGoals": 3,
@@ -2406,9 +2802,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.4344,
+          "winnerConfidence": 0.4473,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.5161,
+          "goalLineConfidence": 0.4901,
           "actualWinner": "AWAY",
           "actualScore": "0:3",
           "actualTotalGoals": 3,
@@ -2423,9 +2819,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "AWAY",
-          "winnerConfidence": 0.5017,
+          "winnerConfidence": 0.5087,
           "predictedGoalLine": "Over 2.5",
-          "goalLineConfidence": 0.498,
+          "goalLineConfidence": 0.4885,
           "actualWinner": "AWAY",
           "actualScore": "1:2",
           "actualTotalGoals": 3,
@@ -2440,9 +2836,9 @@
           "round": "Regular Season - 31",
           "status": "FT",
           "predictedWinner": "HOME",
-          "winnerConfidence": 0.363,
+          "winnerConfidence": 0.3696,
           "predictedGoalLine": "Under 2.5",
-          "goalLineConfidence": 0.6278,
+          "goalLineConfidence": 0.6137,
           "actualWinner": "HOME",
           "actualScore": "1:0",
           "actualTotalGoals": 1,

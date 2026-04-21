@@ -319,16 +319,16 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 135,Serie A,Italy,2025,1378175,2026-04-12T16:00:00+00:00,UTC,1776009600,Match Finished,FT,90.0,Regular Season - 32,500,Bologna,867,Lecce,2.0,0.0,HOME,881.0,Stadio Renato Dall'Ara,"Andrea Colombo, Italy"
 135,Serie A,Italy,2025,1378177,2026-04-12T18:45:00+00:00,UTC,1776019500,Match Finished,FT,90.0,Regular Season - 32,895,Como,505,Inter,3.0,4.0,AWAY,892.0,Stadio Giuseppe Sinigaglia,"Davide Massa, Italy"
 135,Serie A,Italy,2025,1378178,2026-04-13T18:45:00+00:00,UTC,1776105900,Match Finished,FT,90.0,Regular Season - 32,502,Fiorentina,487,Lazio,1.0,0.0,HOME,,Stadio Artemio Franchi,"Michael Fabbri, Italy"
-135,Serie A,Italy,2025,1378191,2026-04-17T16:30:00+00:00,UTC,1776443400,Not Started,NS,,Regular Season - 33,488,Sassuolo,895,Como,,,,0.0,MAPEI Stadium - Città del Tricolore,
-135,Serie A,Italy,2025,1378185,2026-04-17T18:45:00+00:00,UTC,1776451500,Not Started,NS,,Regular Season - 33,505,Inter,490,Cagliari,,,,907.0,Stadio Giuseppe Meazza,
-135,Serie A,Italy,2025,1378192,2026-04-18T13:00:00+00:00,UTC,1776517200,Not Started,NS,,Regular Season - 33,494,Udinese,523,Parma,,,,,Bluenergy Stadium - Stadio Friuli,
-135,Serie A,Italy,2025,1378188,2026-04-18T16:00:00+00:00,UTC,1776528000,Not Started,NS,,Regular Season - 33,492,Napoli,487,Lazio,,,,,Stadio Diego Armando Maradona,
-135,Serie A,Italy,2025,1378190,2026-04-18T18:45:00+00:00,UTC,1776537900,Not Started,NS,,Regular Season - 33,497,AS Roma,499,Atalanta,,,,,Stadio Olimpico,
-135,Serie A,Italy,2025,1378184,2026-04-19T10:30:00+00:00,UTC,1776594600,Not Started,NS,,Regular Season - 33,520,Cremonese,503,Torino,,,,894.0,Stadio Giovanni Zini,
-135,Serie A,Italy,2025,1378193,2026-04-19T13:00:00+00:00,UTC,1776603600,Not Started,NS,,Regular Season - 33,504,Hellas Verona,489,AC Milan,,,,0.0,Stadio Marcantonio Bentegodi,
-135,Serie A,Italy,2025,1378189,2026-04-19T16:00:00+00:00,UTC,1776614400,Not Started,NS,,Regular Season - 33,801,Pisa,495,Genoa,,,,925.0,Arena Garibaldi - Stadio Romeo Anconetani,
-135,Serie A,Italy,2025,1378186,2026-04-19T18:45:00+00:00,UTC,1776624300,Not Started,NS,,Regular Season - 33,496,Juventus,500,Bologna,,,,,Allianz Stadium,
-135,Serie A,Italy,2025,1378187,2026-04-20T18:45:00+00:00,UTC,1776710700,Not Started,NS,,Regular Season - 33,867,Lecce,502,Fiorentina,,,,,Stadio Via del Mare,
+135,Serie A,Italy,2025,1378191,2026-04-17T16:30:00+00:00,UTC,1776443400,Match Finished,FT,90.0,Regular Season - 33,488,Sassuolo,895,Como,2.0,1.0,HOME,0.0,MAPEI Stadium - Città del Tricolore,"Francesco Fourneau, Italy"
+135,Serie A,Italy,2025,1378185,2026-04-17T18:45:00+00:00,UTC,1776451500,Match Finished,FT,90.0,Regular Season - 33,505,Inter,490,Cagliari,3.0,0.0,HOME,907.0,Stadio Giuseppe Meazza,"Matteo Marchetti, Italy"
+135,Serie A,Italy,2025,1378192,2026-04-18T13:00:00+00:00,UTC,1776517200,Match Finished,FT,90.0,Regular Season - 33,494,Udinese,523,Parma,0.0,1.0,AWAY,20416.0,Bluenergy Stadium - Stadio Friuli,"Davide Di Marco, Italy"
+135,Serie A,Italy,2025,1378188,2026-04-18T16:00:00+00:00,UTC,1776528000,Match Finished,FT,90.0,Regular Season - 33,492,Napoli,487,Lazio,0.0,2.0,AWAY,,Stadio Diego Armando Maradona,"Luca Zufferli, Italy"
+135,Serie A,Italy,2025,1378190,2026-04-18T18:45:00+00:00,UTC,1776537900,Match Finished,FT,90.0,Regular Season - 33,497,AS Roma,499,Atalanta,1.0,1.0,DRAW,,Stadio Olimpico,"Matteo Marcenaro, Italy"
+135,Serie A,Italy,2025,1378184,2026-04-19T10:30:00+00:00,UTC,1776594600,Match Finished,FT,90.0,Regular Season - 33,520,Cremonese,503,Torino,0.0,0.0,DRAW,894.0,Stadio Giovanni Zini,"Michael Fabbri, Italy"
+135,Serie A,Italy,2025,1378193,2026-04-19T13:00:00+00:00,UTC,1776603600,Match Finished,FT,90.0,Regular Season - 33,504,Hellas Verona,489,AC Milan,0.0,1.0,AWAY,0.0,Stadio Marcantonio Bentegodi,"Daniele Chiffi, Italy"
+135,Serie A,Italy,2025,1378189,2026-04-19T16:00:00+00:00,UTC,1776614400,Match Finished,FT,90.0,Regular Season - 33,801,Pisa,495,Genoa,1.0,2.0,AWAY,925.0,Arena Garibaldi - Stadio Romeo Anconetani,"Valerio Crezzini, Italy"
+135,Serie A,Italy,2025,1378186,2026-04-19T18:45:00+00:00,UTC,1776624300,Match Finished,FT,90.0,Regular Season - 33,496,Juventus,500,Bologna,2.0,0.0,HOME,,Allianz Stadium,"Maurizio Mariani, Italy"
+135,Serie A,Italy,2025,1378187,2026-04-20T18:45:00+00:00,UTC,1776710700,Match Finished,FT,90.0,Regular Season - 33,867,Lecce,502,Fiorentina,1.0,1.0,DRAW,,Via del Mare,"Fabio Maresca, Italy"
 135,Serie A,Italy,2025,1378200,2026-04-24T18:45:00+00:00,UTC,1777056300,Not Started,NS,,Regular Season - 34,492,Napoli,520,Cremonese,,,,,Stadio Diego Armando Maradona,
 135,Serie A,Italy,2025,1378201,2026-04-25T13:00:00+00:00,UTC,1777122000,Not Started,NS,,Regular Season - 34,523,Parma,801,Pisa,,,,921.0,Stadio Ennio Tardini,
 135,Serie A,Italy,2025,1378194,2026-04-25T16:00:00+00:00,UTC,1777132800,Not Started,NS,,Regular Season - 34,500,Bologna,497,AS Roma,,,,881.0,Stadio Renato Dall'Ara,
@@ -339,16 +339,16 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 135,Serie A,Italy,2025,1378199,2026-04-26T18:45:00+00:00,UTC,1777229100,Not Started,NS,,Regular Season - 34,489,AC Milan,496,Juventus,,,,907.0,Stadio Giuseppe Meazza,
 135,Serie A,Italy,2025,1378195,2026-04-27T16:30:00+00:00,UTC,1777307400,Not Started,NS,,Regular Season - 34,490,Cagliari,499,Atalanta,,,,12275.0,Unipol Domus,
 135,Serie A,Italy,2025,1378198,2026-04-27T18:45:00+00:00,UTC,1777315500,Not Started,NS,,Regular Season - 34,487,Lazio,494,Udinese,,,,,Stadio Olimpico,
+135,Serie A,Italy,2025,1378210,2026-05-01T18:45:00+00:00,UTC,1777661100,Not Started,NS,,Regular Season - 35,801,Pisa,867,Lecce,,,,925.0,Arena Garibaldi - Stadio Romeo Anconetani,
+135,Serie A,Italy,2025,1378213,2026-05-02T13:00:00+00:00,UTC,1777726800,Not Started,NS,,Regular Season - 35,494,Udinese,503,Torino,,,,,Bluenergy Stadium - Stadio Friuli,
+135,Serie A,Italy,2025,1378206,2026-05-02T16:00:00+00:00,UTC,1777737600,Not Started,NS,,Regular Season - 35,895,Como,492,Napoli,,,,892.0,Stadio Giuseppe Sinigaglia,
+135,Serie A,Italy,2025,1378204,2026-05-02T18:45:00+00:00,UTC,1777747500,Not Started,NS,,Regular Season - 35,499,Atalanta,495,Genoa,,,,879.0,New Balance Arena,
+135,Serie A,Italy,2025,1378205,2026-05-03T10:30:00+00:00,UTC,1777804200,Not Started,NS,,Regular Season - 35,500,Bologna,490,Cagliari,,,,881.0,Stadio Renato Dall'Ara,
 135,Serie A,Italy,2025,1378212,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,488,Sassuolo,489,AC Milan,,,,0.0,MAPEI Stadium - Città del Tricolore,
-135,Serie A,Italy,2025,1378213,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,494,Udinese,503,Torino,,,,,Bluenergy Stadium - Stadio Friuli,
-135,Serie A,Italy,2025,1378209,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,496,Juventus,504,Hellas Verona,,,,,Allianz Stadium,
-135,Serie A,Italy,2025,1378211,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,497,AS Roma,502,Fiorentina,,,,,Stadio Olimpico,
-135,Serie A,Italy,2025,1378204,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,499,Atalanta,495,Genoa,,,,879.0,New Balance Arena,
-135,Serie A,Italy,2025,1378205,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,500,Bologna,490,Cagliari,,,,881.0,Stadio Renato Dall'Ara,
-135,Serie A,Italy,2025,1378208,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,505,Inter,523,Parma,,,,907.0,Stadio Giuseppe Meazza,
-135,Serie A,Italy,2025,1378207,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,520,Cremonese,487,Lazio,,,,894.0,Stadio Giovanni Zini,
-135,Serie A,Italy,2025,1378210,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,801,Pisa,867,Lecce,,,,925.0,Arena Garibaldi - Stadio Romeo Anconetani,
-135,Serie A,Italy,2025,1378206,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,895,Como,492,Napoli,,,,892.0,Stadio Giuseppe Sinigaglia,
+135,Serie A,Italy,2025,1378209,2026-05-03T16:00:00+00:00,UTC,1777824000,Not Started,NS,,Regular Season - 35,496,Juventus,504,Hellas Verona,,,,,Allianz Stadium,
+135,Serie A,Italy,2025,1378208,2026-05-03T18:45:00+00:00,UTC,1777833900,Not Started,NS,,Regular Season - 35,505,Inter,523,Parma,,,,907.0,Stadio Giuseppe Meazza,
+135,Serie A,Italy,2025,1378207,2026-05-04T16:30:00+00:00,UTC,1777912200,Not Started,NS,,Regular Season - 35,520,Cremonese,487,Lazio,,,,894.0,Stadio Giovanni Zini,
+135,Serie A,Italy,2025,1378211,2026-05-04T18:45:00+00:00,UTC,1777920300,Not Started,NS,,Regular Season - 35,497,AS Roma,502,Fiorentina,,,,,Stadio Olimpico,
 135,Serie A,Italy,2025,1378217,2026-05-10T13:00:00+00:00,UTC,1778418000,Not Started,NS,,Regular Season - 36,487,Lazio,505,Inter,,,,,Stadio Olimpico,
 135,Serie A,Italy,2025,1378219,2026-05-10T13:00:00+00:00,UTC,1778418000,Not Started,NS,,Regular Season - 36,489,AC Milan,499,Atalanta,,,,907.0,Stadio Giuseppe Meazza,
 135,Serie A,Italy,2025,1378214,2026-05-10T13:00:00+00:00,UTC,1778418000,Not Started,NS,,Regular Season - 36,490,Cagliari,494,Udinese,,,,12275.0,Unipol Domus,

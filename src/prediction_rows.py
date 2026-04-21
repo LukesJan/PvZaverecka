@@ -152,8 +152,13 @@ def collect_last_completed_round_rows(
         completed_rounds = []
 
         for round_name, round_frame in season_fixtures.groupby("round", dropna=True):
-            if round_name and round_frame["utc_date"].max() < current_utc and round_frame["status_short"].isin(FINISHED_STATUS_SHORTS).all():
-                completed_rounds.append((round_frame["utc_date"].max(), round_name))
+            finished_round_frame = round_frame[
+                round_frame["status_short"].isin(FINISHED_STATUS_SHORTS)
+                & round_frame["home_goals"].notna()
+                & round_frame["away_goals"].notna()
+            ]
+            if round_name and not finished_round_frame.empty and finished_round_frame["utc_date"].max() < current_utc:
+                completed_rounds.append((finished_round_frame["utc_date"].max(), round_name))
 
         if not completed_rounds:
             continue
@@ -162,6 +167,8 @@ def collect_last_completed_round_rows(
         last_round_fixtures = season_fixtures[
             (season_fixtures["round"] == last_round)
             & (season_fixtures["status_short"].isin(FINISHED_STATUS_SHORTS))
+            & (season_fixtures["home_goals"].notna())
+            & (season_fixtures["away_goals"].notna())
         ].copy()
         if last_round_fixtures.empty:
             continue

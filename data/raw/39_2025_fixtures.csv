@@ -318,44 +318,43 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 39,Premier League,England,2025,1379287,2026-04-12T13:00:00+00:00,UTC,1775998800,Match Finished,FT,90.0,Regular Season - 32,746,Sunderland,47,Tottenham,1.0,0.0,HOME,589,Stadium of Light,"Robert Jones, England"
 39,Premier League,England,2025,1379282,2026-04-12T15:30:00+00:00,UTC,1776007800,Match Finished,FT,90.0,Regular Season - 32,49,Chelsea,50,Manchester City,0.0,3.0,AWAY,519,Stamford Bridge,"Chris Kavanagh, England"
 39,Premier League,England,2025,1379285,2026-04-13T19:00:00+00:00,UTC,1776106800,Match Finished,FT,90.0,Regular Season - 32,33,Manchester United,63,Leeds,1.0,2.0,AWAY,556,Old Trafford,"Paul Tierney, England"
-39,Premier League,England,2025,1379275,2026-03-21T15:00:00+00:00,UTC,1774105200,Match Postponed,PST,,Regular Season - 31,50,Manchester City,52,Crystal Palace,,,,555,Etihad Stadium,
-39,Premier League,England,2025,1379290,2026-04-18T11:30:00+00:00,UTC,1776511800,Not Started,NS,,Regular Season - 33,55,Brentford,36,Fulham,,,,10503,Brentford Community Stadium,
-39,Premier League,England,2025,1379296,2026-04-18T14:00:00+00:00,UTC,1776520800,Not Started,NS,,Regular Season - 33,34,Newcastle,35,Bournemouth,,,,562,St. James' Park,
-39,Premier League,England,2025,1379294,2026-04-18T14:00:00+00:00,UTC,1776520800,Not Started,NS,,Regular Season - 33,63,Leeds,39,Wolves,,,,546,Elland Road,
-39,Premier League,England,2025,1379298,2026-04-18T16:30:00+00:00,UTC,1776529800,Not Started,NS,,Regular Season - 33,47,Tottenham,51,Brighton,,,,593,Tottenham Hotspur Stadium,
-39,Premier League,England,2025,1379291,2026-04-18T19:00:00+00:00,UTC,1776538800,Not Started,NS,,Regular Season - 33,49,Chelsea,33,Manchester United,,,,519,Stamford Bridge,
-39,Premier League,England,2025,1379293,2026-04-19T13:00:00+00:00,UTC,1776603600,Not Started,NS,,Regular Season - 33,45,Everton,40,Liverpool,,,,22033,Hill Dickinson Stadium,
-39,Premier League,England,2025,1379297,2026-04-19T13:00:00+00:00,UTC,1776603600,Not Started,NS,,Regular Season - 33,65,Nottingham Forest,44,Burnley,,,,566,City Ground,
-39,Premier League,England,2025,1379289,2026-04-19T13:00:00+00:00,UTC,1776603600,Not Started,NS,,Regular Season - 33,66,Aston Villa,746,Sunderland,,,,495,Villa Park,
-39,Premier League,England,2025,1379295,2026-04-19T15:30:00+00:00,UTC,1776612600,Not Started,NS,,Regular Season - 33,50,Manchester City,42,Arsenal,,,,555,Etihad Stadium,
-39,Premier League,England,2025,1379292,2026-04-20T19:00:00+00:00,UTC,1776711600,Not Started,NS,,Regular Season - 33,52,Crystal Palace,48,West Ham,,,,525,Selhurst Park,
-39,Premier League,England,2025,1379301,2026-04-21T19:00:00+00:00,UTC,1776798000,Not Started,NS,,Regular Season - 34,51,Brighton,49,Chelsea,,,,508,Amex Stadium,
-39,Premier League,England,2025,1379300,2026-04-22T19:00:00+00:00,UTC,1776884400,Not Started,NS,,Regular Season - 34,35,Bournemouth,63,Leeds,,,,504,Vitality Stadium,
-39,Premier League,England,2025,1379302,2026-04-22T19:00:00+00:00,UTC,1776884400,Not Started,NS,,Regular Season - 34,44,Burnley,50,Manchester City,,,,512,Turf Moor,
-39,Premier League,England,2025,1379306,2026-04-24T19:00:00+00:00,UTC,1777057200,Not Started,NS,,Regular Season - 34,746,Sunderland,65,Nottingham Forest,,,,589,Stadium of Light,
-39,Premier League,England,2025,1379303,2026-04-25T11:30:00+00:00,UTC,1777116600,Not Started,NS,,Regular Season - 34,36,Fulham,66,Aston Villa,,,,535,Craven Cottage,
-39,Premier League,England,2025,1379308,2026-04-25T14:00:00+00:00,UTC,1777125600,Not Started,NS,,Regular Season - 34,39,Wolves,47,Tottenham,,,,600,Molineux Stadium,
-39,Premier League,England,2025,1379304,2026-04-25T14:00:00+00:00,UTC,1777125600,Not Started,NS,,Regular Season - 34,40,Liverpool,52,Crystal Palace,,,,550,Anfield,
-39,Premier League,England,2025,1379307,2026-04-25T14:00:00+00:00,UTC,1777125600,Not Started,NS,,Regular Season - 34,48,West Ham,45,Everton,,,,598,London Stadium,
-39,Premier League,England,2025,1379299,2026-04-25T16:30:00+00:00,UTC,1777134600,Not Started,NS,,Regular Season - 34,42,Arsenal,34,Newcastle,,,,494,Emirates Stadium,
-39,Premier League,England,2025,1379305,2026-04-27T19:00:00+00:00,UTC,1777316400,Not Started,NS,,Regular Season - 34,33,Manchester United,55,Brentford,,,,556,Old Trafford,
+39,Premier League,England,2025,1379290,2026-04-18T11:30:00+00:00,UTC,1776511800,Match Finished,FT,90.0,Regular Season - 33,55,Brentford,36,Fulham,0.0,0.0,DRAW,10503,Brentford Community Stadium,"Paul Tierney, England"
+39,Premier League,England,2025,1379296,2026-04-18T14:00:00+00:00,UTC,1776520800,Match Finished,FT,90.0,Regular Season - 33,34,Newcastle,35,Bournemouth,1.0,2.0,AWAY,562,St. James' Park,"Thomas Bramall, England"
+39,Premier League,England,2025,1379294,2026-04-18T14:00:00+00:00,UTC,1776520800,Match Finished,FT,90.0,Regular Season - 33,63,Leeds,39,Wolves,3.0,0.0,HOME,546,Elland Road,"Tim Robinson, England"
+39,Premier League,England,2025,1379298,2026-04-18T16:30:00+00:00,UTC,1776529800,Match Finished,FT,90.0,Regular Season - 33,47,Tottenham,51,Brighton,2.0,2.0,DRAW,593,Tottenham Hotspur Stadium,"Stuart Attwell, England"
+39,Premier League,England,2025,1379291,2026-04-18T19:00:00+00:00,UTC,1776538800,Match Finished,FT,90.0,Regular Season - 33,49,Chelsea,33,Manchester United,0.0,1.0,AWAY,519,Stamford Bridge,"Michael Oliver, England"
+39,Premier League,England,2025,1379293,2026-04-19T13:00:00+00:00,UTC,1776603600,Match Finished,FT,90.0,Regular Season - 33,45,Everton,40,Liverpool,1.0,2.0,AWAY,22033,Hill Dickinson Stadium,"Chris Kavanagh, England"
+39,Premier League,England,2025,1379297,2026-04-19T13:00:00+00:00,UTC,1776603600,Match Finished,FT,90.0,Regular Season - 33,65,Nottingham Forest,44,Burnley,4.0,1.0,HOME,566,City Ground,"Thomas Kirk, England"
+39,Premier League,England,2025,1379289,2026-04-19T13:00:00+00:00,UTC,1776603600,Match Finished,FT,90.0,Regular Season - 33,66,Aston Villa,746,Sunderland,4.0,3.0,HOME,495,Villa Park,"Samuel Barrott, England"
+39,Premier League,England,2025,1379295,2026-04-19T15:30:00+00:00,UTC,1776612600,Match Finished,FT,90.0,Regular Season - 33,50,Manchester City,42,Arsenal,2.0,1.0,HOME,555,Etihad Stadium,"Anthony Taylor, England"
+39,Premier League,England,2025,1379292,2026-04-20T19:00:00+00:00,UTC,1776711600,Match Finished,FT,90.0,Regular Season - 33,52,Crystal Palace,48,West Ham,0.0,0.0,DRAW,525,Selhurst Park,"Darren England, England"
+39,Premier League,England,2025,1379301,2026-04-21T19:00:00+00:00,UTC,1776798000,Not Started,NS,,Regular Season - 34,51,Brighton,49,Chelsea,,,,508,Amex Stadium,C. Pawson
+39,Premier League,England,2025,1379300,2026-04-22T19:00:00+00:00,UTC,1776884400,Not Started,NS,,Regular Season - 34,35,Bournemouth,63,Leeds,,,,504,Vitality Stadium,M. Salisbury
+39,Premier League,England,2025,1379302,2026-04-22T19:00:00+00:00,UTC,1776884400,Not Started,NS,,Regular Season - 34,44,Burnley,50,Manchester City,,,,512,Turf Moor,A. Madley
+39,Premier League,England,2025,1379306,2026-04-24T19:00:00+00:00,UTC,1777057200,Not Started,NS,,Regular Season - 34,746,Sunderland,65,Nottingham Forest,,,,589,Stadium of Light,D. England
+39,Premier League,England,2025,1379303,2026-04-25T11:30:00+00:00,UTC,1777116600,Not Started,NS,,Regular Season - 34,36,Fulham,66,Aston Villa,,,,535,Craven Cottage,M. Oliver
+39,Premier League,England,2025,1379308,2026-04-25T14:00:00+00:00,UTC,1777125600,Not Started,NS,,Regular Season - 34,39,Wolves,47,Tottenham,,,,600,Molineux Stadium,A. Taylor
+39,Premier League,England,2025,1379304,2026-04-25T14:00:00+00:00,UTC,1777125600,Not Started,NS,,Regular Season - 34,40,Liverpool,52,Crystal Palace,,,,550,Anfield,A. Madley
+39,Premier League,England,2025,1379307,2026-04-25T14:00:00+00:00,UTC,1777125600,Not Started,NS,,Regular Season - 34,48,West Ham,45,Everton,,,,598,London Stadium,S. Attwell
+39,Premier League,England,2025,1379299,2026-04-25T16:30:00+00:00,UTC,1777134600,Not Started,NS,,Regular Season - 34,42,Arsenal,34,Newcastle,,,,494,Emirates Stadium,S. Barrott
+39,Premier League,England,2025,1379305,2026-04-27T19:00:00+00:00,UTC,1777316400,Not Started,NS,,Regular Season - 34,33,Manchester United,55,Brentford,,,,556,Old Trafford,C. Kavanagh
 39,Premier League,England,2025,1379315,2026-05-01T19:00:00+00:00,UTC,1777662000,Not Started,NS,,Regular Season - 35,63,Leeds,44,Burnley,,,,546,Elland Road,
-39,Premier League,England,2025,1379310,2026-05-02T11:30:00+00:00,UTC,1777721400,Not Started,NS,,Regular Season - 35,66,Aston Villa,47,Tottenham,,,,495,Villa Park,
 39,Premier League,England,2025,1379317,2026-05-02T14:00:00+00:00,UTC,1777730400,Not Started,NS,,Regular Season - 35,34,Newcastle,51,Brighton,,,,562,St. James' Park,
-39,Premier League,England,2025,1379311,2026-05-02T14:00:00+00:00,UTC,1777730400,Not Started,NS,,Regular Season - 35,35,Bournemouth,52,Crystal Palace,,,,504,Vitality Stadium,
 39,Premier League,England,2025,1379318,2026-05-02T14:00:00+00:00,UTC,1777730400,Not Started,NS,,Regular Season - 35,39,Wolves,746,Sunderland,,,,600,Molineux Stadium,
 39,Premier League,England,2025,1379312,2026-05-02T14:00:00+00:00,UTC,1777730400,Not Started,NS,,Regular Season - 35,55,Brentford,48,West Ham,,,,10503,Brentford Community Stadium,
 39,Premier League,England,2025,1379309,2026-05-02T16:30:00+00:00,UTC,1777739400,Not Started,NS,,Regular Season - 35,42,Arsenal,36,Fulham,,,,494,Emirates Stadium,
+39,Premier League,England,2025,1379311,2026-05-03T13:00:00+00:00,UTC,1777813200,Not Started,NS,,Regular Season - 35,35,Bournemouth,52,Crystal Palace,,,,504,Vitality Stadium,
 39,Premier League,England,2025,1379316,2026-05-03T14:30:00+00:00,UTC,1777818600,Not Started,NS,,Regular Season - 35,33,Manchester United,40,Liverpool,,,,556,Old Trafford,
+39,Premier League,England,2025,1379310,2026-05-03T18:00:00+00:00,UTC,1777831200,Not Started,NS,,Regular Season - 35,66,Aston Villa,47,Tottenham,,,,495,Villa Park,
 39,Premier League,England,2025,1379313,2026-05-04T14:00:00+00:00,UTC,1777903200,Not Started,NS,,Regular Season - 35,49,Chelsea,65,Nottingham Forest,,,,519,Stamford Bridge,
 39,Premier League,England,2025,1379314,2026-05-04T19:00:00+00:00,UTC,1777921200,Not Started,NS,,Regular Season - 35,45,Everton,50,Manchester City,,,,22033,Hill Dickinson Stadium,
 39,Premier League,England,2025,1379323,2026-05-09T11:30:00+00:00,UTC,1778326200,Not Started,NS,,Regular Season - 36,40,Liverpool,49,Chelsea,,,,550,Anfield,
 39,Premier League,England,2025,1379322,2026-05-09T14:00:00+00:00,UTC,1778335200,Not Started,NS,,Regular Season - 36,36,Fulham,35,Bournemouth,,,,535,Craven Cottage,
-39,Premier League,England,2025,1379320,2026-05-09T14:00:00+00:00,UTC,1778335200,Not Started,NS,,Regular Season - 36,44,Burnley,66,Aston Villa,,,,512,Turf Moor,
 39,Premier League,England,2025,1379319,2026-05-09T14:00:00+00:00,UTC,1778335200,Not Started,NS,,Regular Season - 36,51,Brighton,39,Wolves,,,,508,Amex Stadium,
-39,Premier League,England,2025,1379321,2026-05-09T14:00:00+00:00,UTC,1778335200,Not Started,NS,,Regular Season - 36,52,Crystal Palace,45,Everton,,,,525,Selhurst Park,
 39,Premier League,England,2025,1379326,2026-05-09T14:00:00+00:00,UTC,1778335200,Not Started,NS,,Regular Season - 36,746,Sunderland,33,Manchester United,,,,589,Stadium of Light,
 39,Premier League,England,2025,1379324,2026-05-09T16:30:00+00:00,UTC,1778344200,Not Started,NS,,Regular Season - 36,50,Manchester City,55,Brentford,,,,555,Etihad Stadium,
+39,Premier League,England,2025,1379320,2026-05-10T13:00:00+00:00,UTC,1778418000,Not Started,NS,,Regular Season - 36,44,Burnley,66,Aston Villa,,,,512,Turf Moor,
+39,Premier League,England,2025,1379321,2026-05-10T13:00:00+00:00,UTC,1778418000,Not Started,NS,,Regular Season - 36,52,Crystal Palace,45,Everton,,,,525,Selhurst Park,
 39,Premier League,England,2025,1379325,2026-05-10T13:00:00+00:00,UTC,1778418000,Not Started,NS,,Regular Season - 36,65,Nottingham Forest,34,Newcastle,,,,566,City Ground,
 39,Premier League,England,2025,1379328,2026-05-10T15:30:00+00:00,UTC,1778427000,Not Started,NS,,Regular Season - 36,48,West Ham,42,Arsenal,,,,598,London Stadium,
 39,Premier League,England,2025,1379327,2026-05-11T19:00:00+00:00,UTC,1778526000,Not Started,NS,,Regular Season - 36,47,Tottenham,63,Leeds,,,,593,Tottenham Hotspur Stadium,
@@ -369,6 +368,7 @@ league_id,league_name,country_name,season,fixture_id,utc_date,timezone,timestamp
 39,Premier League,England,2025,1379332,2026-05-17T14:00:00+00:00,UTC,1779026400,Not Started,NS,,Regular Season - 37,55,Brentford,52,Crystal Palace,,,,10503,Brentford Community Stadium,
 39,Premier League,England,2025,1379335,2026-05-17T14:00:00+00:00,UTC,1779026400,Not Started,NS,,Regular Season - 37,63,Leeds,51,Brighton,,,,546,Elland Road,
 39,Premier League,England,2025,1379330,2026-05-17T14:00:00+00:00,UTC,1779026400,Not Started,NS,,Regular Season - 37,66,Aston Villa,40,Liverpool,,,,495,Villa Park,
+39,Premier League,England,2025,1379275,2026-05-22T19:00:00+00:00,UTC,1779476400,Not Started,NS,,Regular Season - 31,50,Manchester City,52,Crystal Palace,,,,555,Etihad Stadium,
 39,Premier League,England,2025,1379342,2026-05-24T15:00:00+00:00,UTC,1779634800,Not Started,NS,,Regular Season - 38,36,Fulham,34,Newcastle,,,,535,Craven Cottage,
 39,Premier League,England,2025,1379343,2026-05-24T15:00:00+00:00,UTC,1779634800,Not Started,NS,,Regular Season - 38,40,Liverpool,55,Brentford,,,,550,Anfield,
 39,Premier League,England,2025,1379340,2026-05-24T15:00:00+00:00,UTC,1779634800,Not Started,NS,,Regular Season - 38,44,Burnley,39,Wolves,,,,512,Turf Moor,
